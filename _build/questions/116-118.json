@@ -1,0 +1,338 @@
+{
+ "116": [
+  {
+   "q": "Odamlar uchun eng muhim shaxsiy profilaktika chorasi qaysi?",
+   "c": "suv o'simliklari va yovvoyi ko'katlarni xom holda iste'mol qilmaslik",
+   "w": [
+    "botqoqlashgan yerlarni quritish va ariqlarni tozalash",
+    "chorvani antigelmint preparatlar bilan davolash",
+    "salyangozlarga qarshi niklozamid qo'llash",
+    "yaylovlardan almashlab foydalanish va drenaj"
+   ],
+   "x": "«Eng muhim chora ariq, buloq va ko'lmaklar bo'yida o'sgan suv o'simliklari hamda yovvoyi ko'katlarni xom holda iste'mol qilmaslikdir»"
+  },
+  {
+   "q": "Fassiolyoz profilaktikasida qanday suv ichish tavsiya etiladi?",
+   "c": "qaynatilgan yoki zararsizlantirilgan suv",
+   "w": [
+    "turg'un suvdan olingan suv",
+    "ochiq suv havzalaridagi suv",
+    "ariq va ko'lmaklardagi suv",
+    "ochiq suv havzalaridagi turg'un suv"
+   ],
+   "x": "«Faqat qaynatilgan yoki zararsizlantirilgan suv ichish tavsiya etiladi»"
+  },
+  {
+   "q": "Metaserkariyalar yomg'irli havoda yig'ilgan pichanda va silosda qancha saqlanishi mumkin?",
+   "c": "pichanda 8 oygacha, silosda saqlanmaydi",
+   "w": [
+    "silosda 8 oygacha, pichanda saqlanmaydi",
+    "pichanda 2 yilgacha, silosda 8 oygacha",
+    "pichanda ham silosda ham bir yildan ortiq",
+    "pichanda 24 soatgacha, silosda esa saqlanmaydi"
+   ],
+   "x": "«Metaserkariyalar pichanda, agar yomg'irli havoda yig'ilgan bo'lsa, 8 oygacha saqlanishi mumkin, silosda esa saqlanmaydi»"
+  },
+  {
+   "q": "Odamda fassiolyozni davolash uchun JSST qaysi preparatni tavsiya etadi?",
+   "c": "triklabendazol",
+   "w": [
+    "praziquantel",
+    "niklozamid",
+    "salitsilanidlar",
+    "nitrofenollar"
+   ],
+   "x": "«JSST odamda fassiolyozni davolash uchun triklabendazolni tavsiya etadi»"
+  },
+  {
+   "q": "Fassiolyozda davolash samarasi qancha vaqtdan keyin najas va o't suyuqligini tekshirib nazorat qilinadi?",
+   "c": "4–6 oydan keyin",
+   "w": [
+    "6 oydan keyin",
+    "10 oydan keyin",
+    "2,5–3 oydan keyin",
+    "3 soat ichida"
+   ],
+   "x": "«Davolash samarasi 4–6 oydan keyin najas va o't suyuqligini tekshirib nazorat qilinadi»"
+  },
+  {
+   "q": "Niklozamid moluskotsid sifatida qaysi hayvonlar uchun ham xavfli?",
+   "c": "baliq uchun ham xavfli",
+   "w": [
+    "qoramol uchun xavfli",
+    "qo'y uchun xavfli",
+    "chorva uchun xavfli",
+    "yaylov hayvonlari uchun xavfli"
+   ],
+   "x": "«niklozamid salyangozlar va tuxumlar uchun 0,1–0,2 ppm konsentratsiyada juda zaharli, ammo baliq uchun ham xavfli»"
+  },
+  {
+   "q": "Oraliq xo'jayin populyatsiyasini kamaytirish uchun nimalar qo'llaniladi?",
+   "c": "botqoqlashgan yerlarni quritish, ariq va kanallarni tozalash",
+   "w": [
+    "yaylovlarda chorvani muntazam davolash va tekshirish",
+    "zararlangan jigarni so'yish joylarida yo'q qilish",
+    "sabzavotlarni oqar suvda yuvish va issiq ishlov berish",
+    "bashorat usullari asosida ishlov berishni rejalash"
+   ],
+   "x": "«Oraliq xo'jayin populyatsiyasini kamaytirish uchun botqoqlashgan yerlarni quritish, ariq va kanallarni tozalash, suv oqimini tartibga solish hamda nam joylarni to'sib qo'yish qo'llaniladi»"
+  },
+  {
+   "q": "Nima sababli o'tkir davrda serologik tekshiruvlar qimmatli?",
+   "c": "tuxum 2,5–3 oy o'tgach topiladi",
+   "w": [
+    "tuxum 24 soat ichida topiladi",
+    "tuxum 4–6 oydan keyin topiladi",
+    "tuxum o'tkir davrda topiladi",
+    "tuxum faqat o't suyuqligida topiladi"
+   ],
+   "x": "«Tuxum kasallik yuqqanidan 2,5–3 oy o'tgach topilgani uchun o'tkir davrda serologik tekshiruvlar qimmatli»"
+  },
+  {
+   "q": "Fassiolyozning har bir holati bo'yicha mutaxassislar necha soat ichida birgalikda tekshiruv o'tkazadi?",
+   "c": "24 soat ichida",
+   "w": [
+    "bir oy ichida",
+    "6 oy ichida",
+    "3 soat ichida",
+    "10 oy ichida"
+   ],
+   "x": "«va 24 soat ichida tuman (shahar) markazi mutaxassislari birgalikda tekshiruv o'tkazadi»"
+  },
+  {
+   "q": "Fassiolyoz bo'yicha qaysi guruhlar uchun alohida ogohlantirish beriladi?",
+   "c": "tabiatda yig'ilgan o'simliklarni iste'mol qiluvchi turistlar va geologlar",
+   "w": [
+    "chorvadorlar, veterinariya xizmati va tibbiy xodimlar",
+    "tibbiy xodimlar, veterinariya xizmati va chorvadorlar o'rtasida",
+    "chorvachilik bilan shug'ullanadigan qishloq aholisi",
+    "sanitariya-gelmintologik nazorat xodimlari va parazitologlar"
+   ],
+   "x": "«Tabiatda yig'ilgan o'simliklarni iste'mol qiluvchi turistlar va geologlar kabi guruhlar uchun alohida ogohlantirish beriladi»"
+  }
+ ],
+ "117": [
+  {
+   "q": "Bilvosita laborator usullar nimani aniqlashga asoslangan?",
+   "c": "organizmning gelmintga immun javobini",
+   "w": [
+    "parazitning o'zini yoki bo'lagini",
+    "parazit tuxumini yoki lichinkasini",
+    "najasdagi voyaga yetgan gelmintlarni",
+    "namunaning to'g'ri olinishini"
+   ],
+   "x": "«organizmning gelmintga immun javobini aniqlaydigan bilvosita usullar»"
+  },
+  {
+   "q": "Najas defekatsiyadan keyin turli qismlaridan jami kamida qancha miqdorda olinadi?",
+   "c": "kamida 50 g miqdorda",
+   "w": [
+    "kamida 100 g miqdorda",
+    "kamida 30–50 mg miqdorda",
+    "kamida 1 g miqdorda",
+    "kamida 100 ml miqdorda"
+   ],
+   "x": "«najas defekatsiyadan keyin turli qismlaridan jami kamida 50 g miqdorda, toza, quruq, qopqoqli shisha yoki plastik idishga olinadi»"
+  },
+  {
+   "q": "Ankilostomid va trixostrongiloid tuxumlari uchun najas qancha vaqt ichida tekshirilishi shart?",
+   "c": "to'rt soat ichida",
+   "w": [
+    "bir soat ichida",
+    "20 daqiqa ichida",
+    "40 daqiqa ichida",
+    "24 soat ichida"
+   ],
+   "x": "«ankilostomid va trixostrongiloid tuxumlari hamda strongiloid lichinkalari uchun to'rt soat ichida tekshirilishi shart»"
+  },
+  {
+   "q": "Najas konservantga solinganda qaysi konservantlar qo'llanadi?",
+   "c": "Barbagallo suyuqligi, 4 foizli formalin yoki Turdiyev konservanti",
+   "w": [
+    "Lyugol eritmasi, fiziologik eritma va distillangan suv",
+    "10 foizli formalin, efir va sentrifugalash natijasi",
+    "ammoniy nitrat, natriy nitrat va to'yingan osh tuzi",
+    "5 foizli sirka kislotasi, efir va fiziologik eritma"
+   ],
+   "x": "«Barbagallo suyuqligi, 4 foizli formalin, uning glitserin bilan aralashmasi yoki Turdiyev konservanti qo'llanadi»"
+  },
+  {
+   "q": "Kato va Miura usulidagi ishchi eritma nimalardan tayyorlanadi?",
+   "c": "6 foizli fenol, glitserin va 3 foizli malaxit yashili",
+   "w": [
+    "10 foizli formalin, efir va fiziologik eritma",
+    "5 foizli sirka kislotasi, efir va glitserin",
+    "to'yingan osh tuzi, ammoniy nitrat va fenol",
+    "Lyugol eritmasi, glitserin va fiziologik eritma"
+   ],
+   "x": "«Ishchi eritma 100 ml 6 foizli fenol, 100 ml glitserin va 1,2 ml 3 foizli malaxit yashili aralashmasidan tayyorlanadi»"
+  },
+  {
+   "q": "Kato usuli nativ surtmaga nisbatan necha marta ko'p tuxum aniqlash imkonini beradi?",
+   "c": "20–30 marta ko'p tuxum",
+   "w": [
+    "2–3 marta ko'p tuxum",
+    "100 marta ko'p tuxum",
+    "40–50 marta ko'p tuxum",
+    "tuxum aniqlash imkoni kamayadi"
+   ],
+   "x": "«bu usul nativ surtmaga nisbatan 20–30 marta ko'p tuxum aniqlash imkonini beradi»"
+  },
+  {
+   "q": "Flotatsiya usuli nimaga asoslanadi?",
+   "c": "tuxumlarning solishtirma og'irligi flotatsiya eritmasidan kichik bo'lishiga",
+   "w": [
+    "tuxumlarning solishtirma og'irligi eritmadan katta bo'lishiga",
+    "tuxumlarning formalin-efir qatlamida cho'kishiga",
+    "tuxumlarning glitserin bilan to'yinishiga",
+    "onkosferalar tuzilishining bir xil bo'lishiga"
+   ],
+   "x": "«Flotatsiya tuxumlarning solishtirma og'irligi flotatsiya eritmasidan kichik bo'lishiga asoslanadi»"
+  },
+  {
+   "q": "Berman usuli nimaga asoslangan?",
+   "c": "lichinkalarning termo- va gidrotaksisiga",
+   "w": [
+    "tuxumlarning solishtirma og'irligiga",
+    "tuxumlarning cho'kmada to'planishiga",
+    "paxtali shpatelning yopishqoqligiga",
+    "onkosferalar tuzilishiga"
+   ],
+   "x": "«Berman usuli lichinkalarning termo- va gidrotaksisiga asoslangan»"
+  },
+  {
+   "q": "Greyem usulida perianal burmalardan namuna olish uchun nima ishlatiladi?",
+   "c": "yopishqoq tiniq tasma",
+   "w": [
+    "glitseringa botirilgan paxtali shpatel",
+    "suvli probirkada chayilgan paxtali shpatel",
+    "gigroskopik sellofan tasma",
+    "pinset yoki preparoval igna"
+   ],
+   "x": "«Greyem usulida yopishqoq tiniq tasma, Torgushin usulida glitseringa botirilgan paxtali shpatel»"
+  },
+  {
+   "q": "Ichak gelmintozlarida davolash samaradorligini nazorat qilish uchun najas davodan qancha keyin tekshiriladi?",
+   "c": "bir oy keyin",
+   "w": [
+    "bir soat keyin",
+    "olti oy keyin",
+    "3–5 oy keyin",
+    "bir yil keyin"
+   ],
+   "x": "«ichak gelmintozlarida najas davodan bir oy keyin»"
+  }
+ ],
+ "118": [
+  {
+   "q": "Parazitar kasalliklarning laborator usullari qaysi holatda qo'llanadi?",
+   "c": "davolash samaradorligini nazorat qilishda",
+   "w": [
+    "bolalar o'yin maydonchalarini qurishda",
+    "dekretiv guruhlarni tanlashda",
+    "sog'lomlashtirish oromgohiga joylashtirishda",
+    "maktab o'quvchilarini guruhlashda"
+   ],
+   "x": "«tashxis qo'yish maqsadida, davolash samaradorligini nazorat qilishda, parazitar kasalliklarga qarshi chora-tadbirlar sifatini baholashda»"
+  },
+  {
+   "q": "Ichak gelmintlariga tekshiruv ko'rsatmalari qaysi guruhlarga bo'linadi?",
+   "c": "klinik, epidemiologik, rejali va nazorat",
+   "w": [
+    "klinik, epidemik, dekretiv va nazorat",
+    "klinik, laborator, rejali va dispanser",
+    "epidemiologik, immunologik, rejali va nazorat",
+    "klinik, rejali, molekulyar va dekretiv"
+   ],
+   "x": "«Ko'rsatmalar klinik, epidemiologik, rejali (profilaktik) va nazorat guruhlariga bo'linadi»"
+  },
+  {
+   "q": "JSST ma'lumotlariga ko'ra og'ir zararlanishda bolalarda nimalar kuzatiladi?",
+   "c": "o'sish va rivojlanishning orqada qolishi, anemiya, qon va oqsil yo'qotilishi",
+   "w": [
+    "eshakemi, bronxial astma xurujlari va sababi noma'lum eozinofiliya",
+    "perianal qichishish, bo'g'imlarning chiqishi va qorin og'rig'i",
+    "giperinvaziya va immunosupressiya",
+    "tuxum ajratish va atrof-muhitning ifloslanishi"
+   ],
+   "x": "«og'ir zararlanishda bolalarda o'sish va rivojlanishning orqada qolishi, anemiya, qon va oqsil yo'qotilishi kuzatiladi»"
+  },
+  {
+   "q": "Bolalar jamoasida bir marta enterobiozga tekshirilganda zararlanish qancha topilsa, jamoaning to'liq tarkibi davolanadi?",
+   "c": "15 foiz va undan yuqori",
+   "w": [
+    "5 foiz va undan yuqori",
+    "30 foiz va undan yuqori",
+    "50 foiz va undan yuqori",
+    "100 foiz va undan yuqori"
+   ],
+   "x": "«bolalar jamoasida bir marta enterobiozga tekshirilganda zararlanish 15 foiz va undan yuqori topilsa, jamoaning to'liq tarkibi davolanadi»"
+  },
+  {
+   "q": "JSST ko'rsatmasiga ko'ra tanlama tekshiruv bolalar jamoalarining kamida necha foizini qamrab olishi lozim?",
+   "c": "kamida 5 foizini",
+   "w": [
+    "kamida 15 foizini",
+    "kamida 30 foizini",
+    "kamida 50 foizini",
+    "kamida 7 foizini"
+   ],
+   "x": "«tanlama tekshiruv bolalar jamoalarining kamida 5 foizini qamrab olishi lozim»"
+  },
+  {
+   "q": "Geogelmintozlarda zararlanish qancha bo'lgan o'choqlar jadal hisoblanadi?",
+   "c": "30 foiz va undan yuqori",
+   "w": [
+    "15 foiz va undan yuqori",
+    "5 foiz va undan yuqori",
+    "50 foiz va undan yuqori",
+    "7 foiz va undan yuqori"
+   ],
+   "x": "«zararlanish 30 foiz va undan yuqori bo'lgan o'choqlar jadal hisoblanadi»"
+  },
+  {
+   "q": "Jadal o'choqlarda aholiga ommaviy degelmintizatsiya qanday o'tkaziladi?",
+   "c": "yilda ikki marta",
+   "w": [
+    "yilda bir marta",
+    "faqat invaziya aniqlangan mikroo'choqlarda",
+    "olti oyda bir marta",
+    "davodan bir oy keyin"
+   ],
+   "x": "«jadal o'choqlarda aholiga yilda ikki marta ommaviy degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Davolangan bola dori qabul qilgandan keyin qancha vaqt davomida tuxum ajratadi?",
+   "c": "to'rt kun davomida",
+   "w": [
+    "bir kun davomida",
+    "olti oy davomida",
+    "bir oy davomida",
+    "2–3 kun davomida"
+   ],
+   "x": "«Davolangan bola dori qabul qilgandan keyin ham to'rt kun davomida tuxum ajratgani sababli»"
+  },
+  {
+   "q": "Ichak protozoylarining harakatchan shakllarini topish uchun najas defekatsiyadan keyin qancha vaqt ichida ko'rilishi kerak?",
+   "c": "15–20 daqiqa ichida",
+   "w": [
+    "bir daqiqa ichida",
+    "2–3 kun ichida",
+    "to'rt oy ichida",
+    "bir oy ichida"
+   ],
+   "x": "«harakatchan shakllarni topish uchun najas defekatsiyadan keyin 15–20 daqiqa ichida ko'rilishi kerak»"
+  },
+  {
+   "q": "Glyukokortikoidlar, transplantatsiya yoki kimyoterapiyadan oldin qaysi gelmintozni istisno qilish zarur?",
+   "c": "strongiloidozni istisno qilish",
+   "w": [
+    "enterobiozni istisno qilish",
+    "teniarinxozni istisno qilish",
+    "trixosefalyozni istisno qilish",
+    "askaridozni istisno qilish"
+   ],
+   "x": "«Glyukokortikoidlar, transplantatsiya yoki kimyoterapiyadan oldin strongiloidozni istisno qilish zarur»"
+  }
+ ]
+}

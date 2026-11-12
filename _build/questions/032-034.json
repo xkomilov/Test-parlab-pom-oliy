@@ -1,0 +1,338 @@
+{
+ "032": [
+  {
+   "q": "Asoratsiz tropik bezgakda qaysi davo tavsiya etiladi?",
+   "c": "artemizinin-kombinatsiyali terapiya",
+   "w": [
+    "primaxin bilan radikal davolash",
+    "xlorokin bilan uch kunlik kurs",
+    "parenteral artesunat yuborish",
+    "xinin bilan klindamitsin kombinatsiyasi"
+   ],
+   "x": "«Hozirgi kunda asoratsiz tropik bezgakda artemizinin-kombinatsiyali terapiya (AKT) tavsiya etiladi»"
+  },
+  {
+   "q": "Preparat qabul qilingach 30 daqiqa ichida qusilsa, nima qilinadi?",
+   "c": "ikkinchi to'liq doza beriladi",
+   "w": [
+    "qo'shimcha yarim doza beriladi",
+    "davo to'xtatiladi",
+    "bemor kuzatiladi",
+    "dori faqat parenteral yuboriladi"
+   ],
+   "x": "«Preparat qabul qilingach 30 daqiqa ichida qusilsa, ikkinchi to'liq doza, 30–60 daqiqa ichida qusilsa qo'shimcha yarim doza beriladi»"
+  },
+  {
+   "q": "Artemeter–lumefantrin kombinatsiyasi nima bilan qabul qilinadi?",
+   "c": "yog'li yoki sutli oziq-ovqat bilan birga",
+   "w": [
+    "ovqatdan voz kechgan bemorlarda, retsidiv ehtimoli bilan birga",
+    "faqat izotonik eritma bilan birga",
+    "tetratsiklin bilan birga",
+    "meflokin bilan birga"
+   ],
+   "x": "«Kombinatsiyalangan preparat yog'li yoki sutli oziq-ovqat bilan qabul qilinadi, chunki ovqat artemeter va lumefantrinning so'rilishini kuchaytiradi»"
+  },
+  {
+   "q": "Meflokin qanday nojo'ya ta'sirlar berishi mumkin?",
+   "c": "ko'ngil aynishi, qusish, bosh aylanishi va uyqu buzilishi",
+   "w": [
+    "bosh og'rig'i, quloqda shovqin va ko'rish buzilishi",
+    "tomir ichiga yuborilganda qon bosimi keskin tushishi",
+    "kotrimoksazol bilan birga sulfanilamid nojo'ya ta'siri",
+    "bolalar hamda homiladorlarda gipoglikemiya chaqirishi"
+   ],
+   "x": "«meflokin esa ko'ngil aynishi, qusish, bosh aylanishi va uyqu buzilishi kabi nojo'ya ta'sir berishi mumkin»"
+  },
+  {
+   "q": "Sulfadoksin–pirimetamin kombinatsiyasi kimlarga tavsiya etilmaydi?",
+   "c": "OIV bilan zararlangan va kotrimoksazol bilan davolanayotgan bemorlarga",
+   "w": [
+    "8 yoshgacha bolalar, homilador ayollar va keksa bemorlarga",
+    "dastlab hushsizlik bo'lgan serebral bezgak bemorlarga",
+    "xinin bilan klindamitsin qabul qilayotgan keksa bemorlarga",
+    "tropik bezgakning birinchi uch oyligidagi homiladorlarga"
+   ],
+   "x": "«bu preparat OIV bilan zararlangan va kotrimoksazol bilan profilaktik davolanayotgan bemorlarga tavsiya etilmaydi»"
+  },
+  {
+   "q": "Tetratsiklin va doksitsiklin kimlarga tavsiya etilmaydi?",
+   "c": "8 yoshgacha bolalar va homilador ayollarga",
+   "w": [
+    "OIV bilan zararlangan bemorlarga",
+    "keksa bemorlarga",
+    "hushsizlik bo'lgan bemorlarga",
+    "qusish tufayli chala so'rilgan bemorlarga"
+   ],
+   "x": "«Tetratsiklin va doksitsiklin 8 yoshgacha bolalar va homilador ayollarga tavsiya etilmaydi»"
+  },
+  {
+   "q": "Gematoshizotrop dorilar qo'llangandan keyin ham gametotsitlar qonda qancha vaqtgacha aylanishi mumkin?",
+   "c": "6 haftagacha",
+   "w": [
+    "8 haftagacha",
+    "3 haftagacha",
+    "12 haftagacha",
+    "2 haftagacha"
+   ],
+   "x": "«gematoshizotrop dorilar muvaffaqiyatli qo'llangandan keyin ham gametotsitlar qonda 6 haftagacha aylanishi mumkin»"
+  },
+  {
+   "q": "P. falciparum gametotsitlarini yo'qotish uchun primaxin katta yoshlilarga qanday dozada keltirilgan?",
+   "c": "bir martalik 30–45 mg dozada",
+   "w": [
+    "kuniga 0,25 mg/kg dozada 14 kun",
+    "haftada bir marta 0,45 mg/kg dozada 8 hafta",
+    "bir martalik 2,4 mg/kg dozada tomir ichiga",
+    "bir martalik 25/1,25 mg/kg dozada"
+   ],
+   "x": "«P. falciparum gametotsitlarini yo'qotish uchun primaxinning katta yoshlilar uchun bir martalik 30–45 mg dozasi»"
+  },
+  {
+   "q": "Og'ir tropik bezgakda artesunat shifoxonaga kelgan kuni qanday beriladi?",
+   "c": "2,4 mg/kg dozada tomir ichiga va mushak orasiga, 12 va 24 soatdan keyin",
+   "w": [
+    "4 mg/kg dozada og'iz orqali, 3 kun davomida kuniga bir marta",
+    "3,2 mg/kg dozada mushak orasiga, keyin kuniga 1,6 mg/kg",
+    "20 mg/kg dozada izotonik eritmada 4 soat tomchilab",
+    "2 mg/kg dozada kuniga bir marta 7 kun davomida"
+   ],
+   "x": "«Artesunat shifoxonaga kelgan kuni 2,4 mg/kg dozada tomir ichiga va mushak orasiga, 12 va 24 soatdan keyin»"
+  },
+  {
+   "q": "Serebral bezgakda tutqanoqning oldini olish uchun nima qo'llanadi?",
+   "c": "fenobarbital 10–15 mg/kg bir marta mushak orasiga",
+   "w": [
+    "diazepam, tutqanoq paydo bo'lganda tomir ichiga",
+    "kortikosteroidlar va geparin tomir ichiga",
+    "mochevina va past molekulyar dekstran",
+    "glyukoza eritmasi tomir ichiga"
+   ],
+   "x": "«Serebral bezgakda tutqanoqning oldini olish uchun fenobarbital 10–15 mg/kg bir marta mushak orasiga yuboriladi»"
+  }
+ ],
+ "033": [
+  {
+   "q": "Imagolarga qarshi kurash qaysi usullardan iborat?",
+   "c": "xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish va aerozol generatorlaridan foydalanish",
+   "w": [
+    "gidrotexnik tadbirlar, lichinkaxo'r baliqlar, bakterial preparatlar va fizikaviy usullar",
+    "faqat suv havzalarida ko'payish joylarini yo'qotish",
+    "bonifikatsiya va gambuziya baliqlarini qo'yish",
+    "Bti va Bacillus sphaericus preparatlarini qo'llash"
+   ],
+   "x": "«Imagolarga qarshi kurash esa xonalarga barqaror qoldiq ta'sirli insektitsidlar bilan ishlov berish hamda tabiatdagi chivinlar sonini kamaytirish uchun aerozol generatorlaridan foydalanishdan iborat»"
+  },
+  {
+   "q": "Bonifikatsiya nima?",
+   "c": "bezgak chivinlarining ko'payish joylarini yo'qotish",
+   "w": [
+    "xonalarga qoldiq ta'sirli insektitsid bilan ishlov berish",
+    "lichinkaxo'r baliqlarni suv havzalariga qo'yish",
+    "bakterial toksin bilan lichinkalarni qirish",
+    "derazalarga dokali to'r tutish"
+   ],
+   "x": "«Bezgak chivinlarining ko'payish joylarini yo'qotish, ya'ni bonifikatsiya, eng qadimgi va eng samarali kurash usuli hisoblanadi»"
+  },
+  {
+   "q": "Lichinkaxo'r baliq gambuziya bir sutkada o'rtacha nechta lichinka yoki g'umbak bilan oziqlanadi?",
+   "c": "60–100 ta lichinka yoki g'umbak",
+   "w": [
+    "5 ta lichinka yoki g'umbak",
+    "60–100 ta bo'g'oz baliq",
+    "1–1,5 ta lichinka yoki g'umbak",
+    "6 500 ta lichinka yoki g'umbak"
+   ],
+   "x": "«Lichinkaxo'r baliq gambuziya (Gambusia affinis) bir sutkada o'rtacha 60–100 ta lichinka yoki g'umbak bilan oziqlanadi»"
+  },
+  {
+   "q": "Bti preparati qaysi bosqichlarga samarali, qaysilarga ta'sir qilmaydi?",
+   "c": "lichinkalarga samarali, g'umbaklarga va katta yoshdagi lichinkalarga ta'sir qilmaydi",
+   "w": [
+    "g'umbaklarga samarali, lichinkalarga ta'sir qilmaydi",
+    "imagolarga samarali, lichinkalarga ta'sir qilmaydi",
+    "faqat Culex lichinkalariga samarali, Anopheles lichinkalariga ta'sir qilmaydi",
+    "katta yoshdagi lichinkalarga samarali, yosh lichinkalarga ta'sir qilmaydi"
+   ],
+   "x": "«Bti Culex, Aedes va Anopheles lichinkalariga juda samarali, lekin g'umbaklarga va katta yoshdagi lichinkalarga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Bakterial toksin lichinkalarga qanday ta'sir qiladi?",
+   "c": "ichak epiteliyasini emiradi va lichinkalar taxminan 6 soat ichida nobud bo'ladi",
+   "w": [
+    "g'umbaklarga va katta yoshdagi lichinkalarga ta'sir qilib nobud qiladi",
+    "Culex, Aedes va Anopheles lichinkalarini bir sutkada yo'qotadi",
+    "ichak epiteliyasiga ta'sir qilmaydi va lichinkalar harakatdan to'xtamaydi",
+    "lichinkalar taxminan 6 soat ichida nobud bo'lmaydi"
+   ],
+   "x": "«Bakterial toksin ichak epiteliyasini emiradi va lichinkalar taxminan 6 soat ichida harakatdan to'xtab nobud bo'ladi»"
+  },
+  {
+   "q": "Suv ichish, cho'milish va chorva sug'orish uchun ishlatiladigan havzalarda kimyoviy vositalar qo'llanadimi?",
+   "c": "kimyoviy vositalar ishlatilmaydi",
+   "w": [
+    "temefos (abat) ishlatiladi",
+    "neft mahsulotlari ishlatiladi",
+    "bakterial preparatlar ishlatilmaydi",
+    "gambuziya baliqlari ishlatilmaydi"
+   ],
+   "x": "«Suv ichish, cho'milish va chorva sug'orish uchun ishlatiladigan havzalarda kimyoviy vositalar qo'llanmaydi»"
+  },
+  {
+   "q": "Endofil turlar (An. superpictus, An. maculipennis va An. martinius) ko'p hududlarda qanday nazorat qilinadi?",
+   "c": "uylarga ishlov berish orqali",
+   "w": [
+    "suv havzalariga gambuziya qo'yish orqali",
+    "aerozol generatorlaridan foydalanish orqali",
+    "Bti preparatlarini qo'llash orqali",
+    "ochiq tunaydigan joylarni ishlash orqali"
+   ],
+   "x": "«endofil turlar (An. superpictus, An. maculipennis va An. martinius) ko'p hududlarda uylarga ishlov berish orqali nazorat qilinadi»"
+  },
+  {
+   "q": "To'siq usulida qaysi uylar dorilanadi?",
+   "c": "suv havzasi tomonidagi 50–300 m masofadagi uylar",
+   "w": [
+    "bemorning uyi",
+    "aholi punktining 90 % dan ortig'idagi uylar",
+    "ekzofillar tunaydigan ochiq joylardagi uylar",
+    "yashalmaydigan xonalardagi uylar"
+   ],
+   "x": "«To'siq usulida suv havzasi tomonidagi 50–300 m masofadagi uylar dorilanadi, tanlab (mikro-o'choq) ishlovda esa bemorning uyi dorilanadi»"
+  },
+  {
+   "q": "Kimyoviy ishlov tadbiri qachon samarali hisoblanadi?",
+   "c": "kamayish 95 % dan yuqori bo'lsa",
+   "w": [
+    "kamayish 50 % dan yuqori bo'lsa",
+    "kamayish 90 % dan past bo'lsa",
+    "xonadonlarni qamrab olish 90 % dan oshmasa",
+    "qamrov 90 % dan yuqori bo'lsa"
+   ],
+   "x": "«ishlovdan oldingi va keyingi Anopheles lichinka va imago soni solishtiriladi, kamayish 95 % dan yuqori bo'lsa tadbir samarali hisoblanadi»"
+  },
+  {
+   "q": "O'zbekistonda qaysi turlar populyatsiyalarida DDTga chidamlilik aniqlangan?",
+   "c": "An. maculipennis, An. hyrcanus va An. bifurcatus",
+   "w": [
+    "An. superpictus va An. pulcherrimus turlari",
+    "An. claviger va An. martinius turlari",
+    "An. superpictus va An. claviger turlari",
+    "An. pulcherrimus va An. martinius turlari"
+   ],
+   "x": "«O'zbekistonda An. maculipennis, An. hyrcanus va An. bifurcatus populyatsiyalarida DDTga chidamlilik»"
+  }
+ ],
+ "034": [
+  {
+   "q": "Epidemiologik tekshiruvning asosiy maqsadi nima?",
+   "c": "infeksiya manbaini aniqlash va o'choqni sog'lomlashtirish",
+   "w": [
+    "natijalarni yagona hujjatda jamlash va yuqori markazga yuborish",
+    "bemor bilan muloqotda bo'lganlarni aniqlash va ro'yxatga olish",
+    "bezgakka shubha qilingan shaxslardan qon preparati olish",
+    "anamnezni yig'ish va laboratoriya natijalarini baholash"
+   ],
+   "x": "«Tekshiruvning asosiy maqsadi infeksiya manbaini, kasallikning paydo bo'lishi va tarqalish sharoitlarini aniqlash hamda o'choqni sog'lomlashtirish bo'yicha tadbirlarni maqsadli o'tkazishdir»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv natijalari qaysi hujjatda jamlanadi?",
+   "c": "o'choqni epidemiologik tekshirish kartasida",
+   "w": [
+    "o'choq pasportida va tashxis standartida",
+    "qon preparatlari registrida",
+    "ambulator kartada",
+    "yakuniy ma'lumotda"
+   ],
+   "x": "«Natijalar yagona hujjat, ya'ni o'choqni epidemiologik tekshirish kartasida jamlanadi»"
+  },
+  {
+   "q": "Kartada bemorning qon bilan bog'liq qaysi sanalari yoziladi?",
+   "c": "qon olingan va tasdiqlangan sanalar",
+   "w": [
+    "chivinlar turi, soni va zichligi",
+    "uyma-uy yurish brigadasi tarkibi",
+    "kontaktlar soni va tekshirilgan xonadonlar",
+    "dezinsektsiya turi, konsentratsiyasi va maydoni"
+   ],
+   "x": "«qon olingan, laboratoriyaga yetkazilgan va tasdiqlangan sanalar yoziladi»"
+  },
+  {
+   "q": "Yuqish mavsumining boshlanishi qanday hisoblanadi?",
+   "c": "kunlik haroratdan 14,5 °C ayirib, ayirmalar yig'indisi 105 ga yetgan kun",
+   "w": [
+    "kunlik haroratdan 16 °C ayirib, ayirmalar yig'indisi 14,5 ga yetgan kun",
+    "kunlik haroratdan 7–10 °C ayirib, ayirmalar yig'indisi 105 ga yetgan kun",
+    "kunlik haroratga 14,5 °C qo'shib, yig'indi 105 ga yetgan kun",
+    "kunlik haroratdan 14,5 °C ayirib, ayirmalar yig'indisi 111 ga yetgan kun"
+   ],
+   "x": "«kunlik haroratdan 14,5 °C ayirib, ayirmalar yig'indisi 105 ga yetgan kun sporogoniya tugaydigan, ya'ni yuqish mavsumi boshlanadigan kun hisoblanadi»"
+  },
+  {
+   "q": "Sporogoniya tugash sanasiga qisqa yashirin davr qo'shilsa, nima aniqlanadi?",
+   "c": "yangi holatlar paydo bo'lishi mumkin bo'lgan eng erta muddat",
+   "w": [
+    "bemorning kasallanish sanasi",
+    "uyma-uy yurish davriyligi",
+    "yakuniy ma'lumot berish muddati",
+    "chivinlarning samarali zararlanish mavsumi tugashi"
+   ],
+   "x": "«Unga qisqa yashirin davr (uch kunlik bezgakda 10–14 kun) qo'shilsa, yangi holatlar paydo bo'lishi mumkin bo'lgan eng erta muddat chiqadi»"
+  },
+  {
+   "q": "Maxsus punktda o'choq atrofidagi 3 km radiusda nima ko'rsatiladi?",
+   "c": "joylashgan anofelogen suv havzalari",
+   "w": [
+    "hovli va binolarning qurilishi hamda sanitariya-texnik holati",
+    "boshqa hasharotlarning mavjudligi",
+    "asosiy parazit tashuvchilarning turi, soni va zichligi",
+    "aholi soni (zichligi)"
+   ],
+   "x": "«Maxsus punktda bezgak taxmin qilingan o'choq atrofidagi 3 km radiusda joylashgan anofelogen suv havzalari ko'rsatiladi»"
+  },
+  {
+   "q": "Entomolog gidrotexnik injener bilan hamkorlikda nima qiladi?",
+   "c": "anofelogen suv havzalarini pasportlashtirib, nazorat qiladi",
+   "w": [
+    "bezgak chivinlarining mavjudligi va turini ko'rsatadi",
+    "bemor bilan muloqotda bo'lganlarni kuzatadi",
+    "uyma-uy yurishni tashkil etadi",
+    "yakuniy ma'lumotni olib, markazga yuboradi"
+   ],
+   "x": "«Entomolog gidrotexnik injener bilan hamkorlikda anofelogen suv havzalarini pasportlashtiradi va yil davomida paydo bo'ladigan havzalarni nazorat qiladi»"
+  },
+  {
+   "q": "Qishlash joyidan uchib chiqish qachon boshlanadi?",
+   "c": "o'rtacha kunlik harorat 7–10 °C dan oshganda",
+   "w": [
+    "o'rtacha sutkalik harorat 16 °C ga yetganda",
+    "kunlik haroratdan 14,5 °C ayirma 105 ga yetganda",
+    "birinchi g'umbak va lichinkalar paydo bo'lganda",
+    "qon so'rgan urg'ochilar paydo bo'lganda"
+   ],
+   "x": "«qishlash joyidan uchib chiqishning boshlanishi (o'rtacha kunlik harorat 7–10 °C dan oshganda)»"
+  },
+  {
+   "q": "Isitmali shaxslarni faol aniqlash odatda qanday amalga oshiriladi?",
+   "c": "uyma-uy yurish yo'li bilan ikki haftada bir marta",
+   "w": [
+    "uyma-uy yurish yo'li bilan haftada bir marta",
+    "uyma-uy yurish yo'li bilan har kuni",
+    "ommaviy tekshiruv yo'li bilan ikki haftada bir marta",
+    "uyma-uy yurish yo'li bilan yilda ikki marta"
+   ],
+   "x": "«Isitmali shaxslarni faol aniqlash odatda uyma-uy yurish yo'li bilan ikki haftada bir marta amalga oshiriladi»"
+  },
+  {
+   "q": "Yakuniy xulosada o'choq kategoriyasi qanday ko'rsatiladi?",
+   "c": "yolg'on o'choq, yangi faol, yangi potensial, faol turg'un, faol bo'lmagan",
+   "w": [
+    "olib kirilgan, olib kirilgandan keyingi ikkilamchi, qaytalangan, shizont-sun'iy",
+    "uch kunlik, tropik, to'rt kunlik, ovale holat turlari",
+    "erta, kech, qaytalangan, parazit tashuvchi namoyon shakllari",
+    "mahalliy, olib kirilgan, emlangan, qaytalangan kelib chiqish turlari"
+   ],
+   "x": "«o'choq kategoriyasi (yolg'on o'choq, yangi faol, yangi potensial, faol turg'un, faol bo'lmagan) ko'rsatiladi»"
+  }
+ ]
+}

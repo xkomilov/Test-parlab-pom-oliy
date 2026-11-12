@@ -1,0 +1,338 @@
+{
+ "098": [
+  {
+   "q": "Buxoro viloyatida o'tkazilgan tadqiqotda qaysi kasb egalarining teniarinxoz epidemiologiyasidagi o'rni alohida o'rganilgan?",
+   "c": "professional qassoblar",
+   "w": [
+    "go'sht kombinatlari xodimlari",
+    "chorvachilik xo'jaligi oshpazlari",
+    "sut sog'uvchilar va cho'ponlar",
+    "so'yish joylari xodimlari"
+   ],
+   "x": "«Buxoro viloyatida o'tkazilgan tadqiqotda professional qassoblarning teniarinxoz epidemiologiyasidagi o'rni alohida o'rganilgan»"
+  },
+  {
+   "q": "Aholining umumiy qismida teniarinxoz xavfi asosan nima bilan belgilanadi?",
+   "c": "ovqatlanish odatlari",
+   "w": [
+    "kasbiy faoliyat",
+    "chorvachilik va so'yish sharoitlari",
+    "hududiy joylashuv",
+    "veterinariya-sanitariya nazorati sifati"
+   ],
+   "x": "«Aholining umumiy qismida xavf asosan ovqatlanish odatlari bilan belgilanadi»"
+  },
+  {
+   "q": "Sistitserklar nima sababdan tashqaridan ko'rinmaydi?",
+   "c": "mushaklar ichida joylashgan",
+   "w": [
+    "bo'g'imlar ichida joylashgan",
+    "go'ng qo'ng'izlarida joylashgan",
+    "kiyimda joylashgan",
+    "perianal terida joylashgan"
+   ],
+   "x": "«sistitserklar mushaklar ichida joylashgani sababli tashqaridan ko'rinmaydi»"
+  },
+  {
+   "q": "1993-yilda kasallanish bo'yicha Buxoro viloyati nechanchi o'rinda bo'lgan?",
+   "c": "uchinchi o'rinda",
+   "w": [
+    "birinchi o'rinda",
+    "to'rtinchi o'rinda",
+    "to'rtinchi va birinchi o'rinda",
+    "birinchi va uchinchi o'rinda"
+   ],
+   "x": "«Buxoro viloyati uchinchi o'rinda bo'lgan»"
+  },
+  {
+   "q": "Har bir bo'g'imda qancha tuxum bo'lishi mumkin?",
+   "c": "145 mingga yaqin tuxum",
+   "w": [
+    "39 mingga yaqin tuxum",
+    "77 mingga yaqin tuxum",
+    "1993 mingga yaqin tuxum",
+    "8 mingga yaqin tuxum"
+   ],
+   "x": "«har bir bo'g'imda esa 145 mingga yaqin tuxum bo'lishi mumkin»"
+  },
+  {
+   "q": "Bemor sog'ayganidan keyin ham nima sababdan yana zararlanishi mumkin?",
+   "c": "immunitet beqaror bo'lgani sababli",
+   "w": [
+    "immunitet doimiy bo'lgani sababli",
+    "bo'g'imlar mushaklarda joylashgani sababli",
+    "qoramol solityori faqat ichakda kechgani sababli",
+    "go'sht ekspertizasi o'tkazilgani sababli"
+   ],
+   "x": "«Teniarinxozda immunitet beqaror bo'lgani uchun bemor sog'ayganidan keyin ham yana zararlanishi mumkin»"
+  },
+  {
+   "q": "Bemorni hisobdan chiqarish uchun nechta salbiy natija talab qilinadi?",
+   "c": "uch marta salbiy natija",
+   "w": [
+    "ikki marta salbiy natija",
+    "bir marta salbiy natija",
+    "besh marta salbiy natija",
+    "to'rt marta salbiy natija"
+   ],
+   "x": "«uch marta salbiy natijadan so'nggina hisobdan chiqarishni talab qiladi»"
+  },
+  {
+   "q": "Qolgan strobila qismlari qancha vaqtdan keyin qayta rivojlanishi mumkin?",
+   "c": "bir–uch oy, hatto to'rt oydan keyin",
+   "w": [
+    "ikki hafta, hatto bir oydan keyin",
+    "bir–uch hafta, hatto sakkiz oydan keyin",
+    "to'rt–sakkiz oy, hatto ikki yildan keyin",
+    "bir kun, hatto uch haftadan keyin"
+   ],
+   "x": "«qolgan strobila bir–uch oy, hatto to'rt oydan keyin qayta rivojlanishi mumkin»"
+  },
+  {
+   "q": "Qoramolda sistitserkoz aniqlanganda go'sht nima qilinadi?",
+   "c": "yaroqsiz deb topiladi yoki maxsus zararsizlantirish talab etiladi",
+   "w": [
+    "ekspertizasiz bozorda sotilishi mumkin deb topiladi",
+    "faqat uyda so'yilgani sababli qaynatib iste'mol qilinadi",
+    "ekspertiza xulosasi asosida bozorlarda sotiladi",
+    "ekspertiza go'shtni zararsizlantiradi"
+   ],
+   "x": "«Qoramolda sistitserkoz aniqlanganda go'sht yaroqsiz deb topiladi yoki maxsus zararsizlantirish talab etiladi»"
+  },
+  {
+   "q": "Dorny va Praet go'sht ekspertizasi sezgirligi haqida nimani ta'kidlagan?",
+   "c": "sezgirlik cheklangan, bir qism zararlangan hayvonlar aniqlanmay qolishi mumkin",
+   "w": [
+    "sezgirlik yuqori, barcha zararlangan hayvonlar aniqlanadi",
+    "ekspertiza go'shtni zararsizlantirib, sezgirlikni oshiradi",
+    "sezgirlik past bo'lgani sababli xavf guruhlari tekshirilmaydi",
+    "ekspertiza faqat qassoblar va oshpazlarni tekshirishga yetarli"
+   ],
+   "x": "«go'sht ekspertizasi sezgirligining cheklanganligini ham ta'kidlagan, ya'ni bir qism zararlangan hayvonlar aniqlanmay qolishi mumkin»"
+  }
+ ],
+ "099": [
+  {
+   "q": "Teniarinxozga qarshi kurash epidemik zanjirning qaysi ikki bo'g'iniga bir vaqtda ta'sir qilishi kerak?",
+   "c": "invaziya manbai bo'lgan odam va oraliq xo'jayin qoramol",
+   "w": [
+    "faqat odam va uning oila a'zolari",
+    "oraliq xo'jayin qoramol va yaylov hamda suv manbalari",
+    "kasal odam va definitiv xo'jayin qoramol",
+    "tibbiyot xodimlari va veterinariya mutaxassislari"
+   ],
+   "x": "«invaziya manbai bo'lgan odamga va oraliq xo'jayin bo'lgan qoramolga bir vaqtda ta'sir ko'rsatishni»"
+  },
+  {
+   "q": "Davolash bayonnomasiga ko'ra chorvadorlarda niklozamid bilan kimyoviy profilaktika qanday chastotada o'tkaziladi?",
+   "c": "2–2,5 oyda yoki 4 oyda bir marta",
+   "w": [
+    "yilda 1–2 marta va har chorakda",
+    "har chorakda bir marta, xavf guruhida",
+    "yilda bir marta, xavf guruhlarida",
+    "ikki yilda bir marta, xavf guruhida"
+   ],
+   "x": "«davolash bayonnomasi 2–2,5 oyda yoki 4 oyda bir marta»"
+  },
+  {
+   "q": "Finnali go'shtni sanoat ishlovi uchun qanday usullar bilan zararsizlantirish mumkin?",
+   "c": "muzlatish, issiq ishlov berish yoki tuzlash",
+   "w": [
+    "faqat muzlatish yoki ekspertiza qilish",
+    "issiq ishlov yoki daydi itlarga berish",
+    "muzlatish, tuzlash yoki daydi itlarga berish",
+    "tuzlash yoki oqova suv bilan sug'orish"
+   ],
+   "x": "«Finnali go'sht sanoat ishlovi uchun zararsizlantirilishi mumkin: muzlatish, issiq ishlov berish yoki tuzlash orqali»"
+  },
+  {
+   "q": "Issiq ishlovda go'sht bo'laklari ichida harorat kamida qancha bo'lishi shart?",
+   "c": "kamida 80 darajaga yetishi",
+   "w": [
+    "kamida 12 darajaga yetishi",
+    "kamida 60 darajaga yetishi",
+    "kamida 20 darajaga yetishi",
+    "kamida 90 darajaga yetishi"
+   ],
+   "x": "«issiq ishlovda go'sht bo'laklari ichida harorat kamida 80 darajaga yetishi shart»"
+  },
+  {
+   "q": "Yilda 1–2 marta ogohlantirmasdan surtmalar nimalardan olinadi?",
+   "c": "hayvonlar uchun ishlatiladigan buyumlardan va xodimlar qo'llaridan",
+   "w": [
+    "yaylov o'tlaridan va oqova suv cho'kmalaridan",
+    "go'sht do'konlaridagi go'shtdan va xodimlar kiyimidan",
+    "oqova suvlardan va yirik shoxli mollar o'tlaridan",
+    "go'sht do'konlari xodimlari kiyimidan va sanitariya daftarchasidan"
+   ],
+   "x": "«Ogohlantirmasdan yilda 1–2 marta hayvonlar uchun ishlatiladigan buyumlardan va xodimlar qo'llaridan surtmalar olinadi»"
+  },
+  {
+   "q": "Teniarinxoz yoki teniozning har bir holati bo'yicha qaysi shakldagi xabarnoma to'ldiriladi?",
+   "c": "058/u shaklidagi shoshilinch xabarnoma",
+   "w": [
+    "357/u shaklidagi shoshilinch xabarnoma",
+    "058/u shaklidagi epidemiologik karta",
+    "357/u shaklidagi epidemiologik karta",
+    "2-shakldagi epidemiologik karta"
+   ],
+   "x": "«teniarinxoz yoki teniozning har bir holati bo'yicha 058/u shaklidagi shoshilinch xabarnoma to'ldirilib»"
+  },
+  {
+   "q": "Buxoro viloyatida sog'lomlashtirish natijasida kasallanish viloyat bo'yicha necha marta kamaygan?",
+   "c": "viloyat bo'yicha 4,8 marta",
+   "w": [
+    "viloyat bo'yicha 50 marta",
+    "viloyat bo'yicha 0,05 marta",
+    "viloyat bo'yicha 32 marta",
+    "viloyat bo'yicha 82 marta"
+   ],
+   "x": "«kasallanish viloyat bo'yicha 4,8 marta, Romitan tumanida esa 50 martadan ko'proq»"
+  },
+  {
+   "q": "Romitan tumanida kasallanish qancha kamaygan?",
+   "c": "50 martadan ko'proq",
+   "w": [
+    "viloyat bo'yicha 4,8 marta",
+    "aholining 0,05 foizigacha",
+    "4,8 martadan ko'proq",
+    "ikki martadan ko'proq"
+   ],
+   "x": "«Romitan tumanida esa 50 martadan ko'proq (aholining 0,05 foizigacha) kamaygan»"
+  },
+  {
+   "q": "Qonunning 35-moddasiga ko'ra ayrim kasb egalari nimadan o'tadi?",
+   "c": "ishga kirishda va keyin davriy tibbiy ko'rikdan",
+   "w": [
+    "yilda ikki marta ommaviy degelmintizatsiyadan",
+    "har chorakda 2 g fenasal qabul qilishdan",
+    "faqat ishga kirishda bir martalik tekshiruvdan",
+    "yilda bir marta qishloq vrachlik punktidagi ko'rikdan"
+   ],
+   "x": "«ayrim kasb egalari ishga kirishda va keyin davriy tibbiy ko'rikdan o'tadi»"
+  },
+  {
+   "q": "Sanitariya-epidemiologiya markazi va veterinariya mutaxassislari so'yish joylarida nimani monitoring qiladi?",
+   "c": "go'shtni finnozga ekspertiza qilish sifatini",
+   "w": [
+    "oqova suvlarni tuxumdan tozalash inshootlarini",
+    "chorvadorlarni niklozamid bilan davolash sifatini",
+    "sanitariya daftarchasiga yozilishini",
+    "bemorlarning dispanser kuzatuvini"
+   ],
+   "x": "«so'yish joylarida go'shtni finnozga ekspertiza qilish sifatini monitoring qilishini»"
+  }
+ ],
+ "100": [
+  {
+   "q": "Prazikvantel teniarinxozda qanday dozada ichiladi?",
+   "c": "prazikvantel kuniga 20–25 mg/kg bir marta",
+   "w": [
+    "prazikvantel kuniga 10–12 mg/kg bir marta",
+    "niklozamid kuniga 20–25 mg/kg bir marta",
+    "albendazol kuniga 20–25 mg/kg uch kun",
+    "prazikvantel kuniga 400 mg uch kun"
+   ],
+   "x": "«Prazikvantel kuniga 20–25 mg/kg dozada bir marta ichiladi»"
+  },
+  {
+   "q": "Niklozamid kattalarga qanday dozada beriladi?",
+   "c": "2–3 g bir martalik doza",
+   "w": [
+    "0,5 g dan 1,5 g gacha",
+    "400 mg dan kuniga bir marta uch kun",
+    "20–25 mg/kg bir marta",
+    "kuniga 400 mg ikki marta"
+   ],
+   "x": "«Niklozamid kattalarga 2–3 g bir martalik doza sifatida ovqatdan keyin yoki ertalab ovqatdan oldin beriladi»"
+  },
+  {
+   "q": "Albendazol ikki yoshdan oshgan bolalar va kattalarga qanday beriladi?",
+   "c": "400 mg dan kuniga bir marta uch kun",
+   "w": [
+    "2–3 g bir martalik doza",
+    "20–25 mg/kg bir marta",
+    "400 mg dan kuniga ikki marta besh kun",
+    "kuniga 20–25 mg/kg uch kun"
+   ],
+   "x": "«Albendazol ikki yoshdan oshgan bolalar va kattalarga 400 mg dan kuniga bir marta uch kun beriladi»"
+  },
+  {
+   "q": "Homilador ayollarga dori o'rniga nima tavsiya etilishi mumkin?",
+   "c": "oshqovoq urug'ini ezib, asal yoki murabbo bilan aralashtirib ichish",
+   "w": [
+    "prazikvantelni kuniga 20–25 mg/kg dozada bir marta ichish",
+    "niklozamidni ovqatdan keyin 2–3 g dozada ichish",
+    "albendazolni 400 mg dan uch kun ichish",
+    "so'ndirilmagan ohak bilan aralashtirib ichish"
+   ],
+   "x": "«homilador ayollarga oshqovoq urug'ini tavsiya etish mumkin, uni tozalab, ezib, asal yoki murabbo bilan aralashtirib ochqoringa ichiladi»"
+  },
+  {
+   "q": "Davolash paytida ajralgan gelmint va najas qanday zararsizlantiriladi?",
+   "c": "ikki hajm qaynoq suv bilan yopiq idishda bir soat",
+   "w": [
+    "bir hajm qaynoq suv bilan yopiq idishda uch soat",
+    "ikki hajm qaynoq suv bilan ochiq idishda bir sutka",
+    "20 foizli xlorli ohak eritmasi bilan yopiq idishda bir soat",
+    "so'ndirilmagan ohak bilan ochiq idishda ikki soat"
+   ],
+   "x": "«najasi degelmintizatsiya paytida chiqqan gelmintlar bilan birga ikki hajm qaynoq suv bilan yopiq idishda bir soat ushlab zararsizlantirilishi»"
+  },
+  {
+   "q": "Tuxumlar 3–10 foizli xloraminda qancha vaqtda halok bo'ladi?",
+   "c": "to'rt kunda halok bo'ladi",
+   "w": [
+    "ikki sutkada halok bo'ladi",
+    "5–6 soatda halok bo'ladi",
+    "bir soatda halok bo'ladi",
+    "bir oyda halok bo'ladi"
+   ],
+   "x": "«3–10 foizli xloraminda esa to'rt kunda halok bo'ladi»"
+  },
+  {
+   "q": "Davolash bayonnomasi va 166-son standartiga ko'ra kuzatuv qanday o'tkaziladi?",
+   "c": "besh oy davomida har oy so'rov va perianal qirma o'tkaziladi",
+   "w": [
+    "2, 4 va 6 oyda nazorat tekshiruvi o'tkaziladi",
+    "3–4–5 oydan keyin kamida uch marta najas tekshiriladi",
+    "uch oy davomida har oy najas tekshiriladi",
+    "bir yil davomida har chorakda perianal qirma o'tkaziladi"
+   ],
+   "x": "«kuzatuvni besh oy davomida, har oy so'rov va perianal qirma bilan o'tkazishni nazarda tutadi»"
+  },
+  {
+   "q": "121-son hujjatga ko'ra bemor dispanser kuzatuvidan qachon chiqariladi?",
+   "c": "uch marta salbiy natijadan keyin",
+   "w": [
+    "bir marta salbiy natijadan keyin",
+    "ikki marta salbiy natijadan keyin",
+    "to'rt marta salbiy natijadan keyin",
+    "besh marta salbiy natijadan keyin"
+   ],
+   "x": "«2, 4 va 6 oyda nazorat tekshiruviga chaqiriladi va uch marta salbiy natijadan keyin hisobdan chiqariladi»"
+  },
+  {
+   "q": "Yuqori endemik o'choqlarda xavf guruhlariga fenasal qanday beriladi?",
+   "c": "har chorakda 2 g fenasal",
+   "w": [
+    "yilda bir marta 2 g fenasal",
+    "yilda ikki marta 2 g fenasal",
+    "2–2,5 oyda 2 g fenasal",
+    "har chorakda 20 mg/kg fenasal"
+   ],
+   "x": "«xavf guruhlariga har chorakda 2 g fenasal berish tavsiya etiladi»"
+  },
+  {
+   "q": "Hududdagi hayvonlarda sistitserkoz topilsa, aholini necha marta tekshirishni kim belgilaydi?",
+   "c": "hududiy markaz parazitologi",
+   "w": [
+    "hududiy markaz veterinari",
+    "oilaviy shifokor",
+    "KIZ xonasi shifokori",
+    "poliklinika shifokori"
+   ],
+   "x": "«necha marta tekshirilishini esa hududiy markaz parazitologi belgilaydi»"
+  }
+ ]
+}

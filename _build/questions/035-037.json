@@ -1,0 +1,338 @@
+{
+ "035": [
+  {
+   "q": "O'zbekistonda tarqalgan bezgak chivinlari qaysi oila va kenja oilaga mansub?",
+   "c": "Culicidae oilasining Anophelinae kenja oilasiga",
+   "w": [
+    "Culicidae oilasining Culicinae kenja oilasiga",
+    "Culicidae oilasining Toxorhynchitinae kenja oilasiga",
+    "Cellia oilasining Anophelinae kenja oilasiga",
+    "Anopheles oilasining Culicinae kenja oilasiga"
+   ],
+   "x": "«O'zbekistonda tarqalgan bezgak chivinlari Culicidae oilasining Anophelinae kenja oilasiga mansub bo'lib»"
+  },
+  {
+   "q": "Qaysi turlarning qanotlarida dog' bo'lmaydi?",
+   "c": "An. algeriensis va An. claviger",
+   "w": [
+    "An. artemievi va An. martinius",
+    "An. pulcherrimus va An. superpictus",
+    "An. hyrcanus va An. claviger",
+    "An. hyrcanus va An. algeriensis"
+   ],
+   "x": "«An. algeriensis va An. claviger qanotlarida dog' bo'lmaydi»"
+  },
+  {
+   "q": "An. hyrcanus qanotining chetida qanday belgi bo'ladi?",
+   "c": "qanotining chetidagi ikkita oq dog'",
+   "w": [
+    "qanotining oldingi qismidagi to'rtta oq dog'",
+    "qanotidagi qora dog'lar",
+    "qanotida dog' bo'lmaydi",
+    "qanotining chetidagi to'rtta qora dog'"
+   ],
+   "x": "«An. hyrcanus qanotining chetida ikkita oq dog' joylashgan»"
+  },
+  {
+   "q": "An. superpictus lichinkalarining rivojlanishi uchun eng qulay harorat qancha?",
+   "c": "taxminan 30–35 °C",
+   "w": [
+    "14–16 °C, salqin suvlarda",
+    "25–30 °C, qamishzorlarda",
+    "30 °C va undan yuqori, An. pulcherrimus lichinkalarida",
+    "taxminan 10–12 °C"
+   ],
+   "x": "«rivojlanish uchun eng qulay harorat taxminan 30–35 °C»"
+  },
+  {
+   "q": "An. superpictus qachon diapauzaga ketadi va qachon qishdan chiqadi?",
+   "c": "oktyabrdan diapauzaga ketadi, aprel o'rtalarida qishdan chiqadi",
+   "w": [
+    "iyuldan diapauzaga ketadi, aprel o'rtalarida qishdan chiqadi",
+    "oktyabrdan diapauzaga ketadi, sentyabr o'rtalarida qishdan chiqadi",
+    "sentyabrdan diapauzaga ketadi, iyul o'rtalarida qishdan chiqadi",
+    "avgustdan diapauzaga ketadi, oktyabr o'rtalarida qishdan chiqadi"
+   ],
+   "x": "«oktyabrdan diapauzaga ketish kuzatiladi, qishdan chiqish aprelning o'rtalarida boshlanadi»"
+  },
+  {
+   "q": "An. pulcherrimus uchinchi bosqich lichinkasi qayerda qishlaydi?",
+   "c": "suvda qishlaydi",
+   "w": [
+    "molxonalarda qishlaydi",
+    "g'orlarda qishlaydi",
+    "qush inlarida qishlaydi",
+    "daraxt kavaklarida qishlaydi"
+   ],
+   "x": "«uchinchi bosqich lichinkasi suvda qishlaydi»"
+  },
+  {
+   "q": "Markaziy Osiyoning past tekisliklarida qaysi tur muhim epidemiologik ahamiyatga ega?",
+   "c": "An. pulcherrimus",
+   "w": [
+    "An. superpictus",
+    "An. artemievi",
+    "An. martinius",
+    "An. claviger"
+   ],
+   "x": "«An. pulcherrimus Markaziy Osiyoning past tekisliklarida muhim epidemiologik ahamiyatga ega deb baholangan»"
+  },
+  {
+   "q": "An. artemievi lichinkalari qanday suvlarda uchramaydi?",
+   "c": "sho'r va organik moddalar bilan ifloslangan suvlarda",
+   "w": [
+    "ochiq, tiniq, kislorodga boy, sekin oqadigan suvlarda",
+    "sholipoyalar va o'simlikli ariqlardagi suvlarda",
+    "sekin oqadigan yoki turg'un tiniq suvlarda",
+    "toza va kalsiy tuzlariga boy sekin oqadigan suvlarda"
+   ],
+   "x": "«sho'r va organik moddalar bilan ifloslangan suvlarda uchramaydi»"
+  },
+  {
+   "q": "An. martinius lichinkalari qanday suvlarda ham rivojlanadi?",
+   "c": "sho'rligi 20 g/l gacha suvlarda",
+   "w": [
+    "ochiq, tiniq, kislorodga boy suvlarda",
+    "buloqlarda va salqin suv havzalarida",
+    "katta va kichik botqoqliklarda",
+    "toza, kalsiy tuzlariga boy suvlarda"
+   ],
+   "x": "«lichinkalari issiqsevar, sho'rligi 20 g/l gacha suvlarda ham rivojlanadi»"
+  },
+  {
+   "q": "An. claviger qaysi holatda qishlaydi?",
+   "c": "to'rtinchi bosqich lichinkasi holatida",
+   "w": [
+    "urg'ochi imago holatida",
+    "uchinchi bosqich lichinkasi holatida",
+    "tuxum holatida",
+    "g'umbak holatida"
+   ],
+   "x": "«to'rtinchi bosqich lichinkasi holatida qishlaydi»"
+  }
+ ],
+ "036": [
+  {
+   "q": "Bezgak chivinining hayot davri bosqichlari qayerda o'tadi?",
+   "c": "tuxum, lichinka va g'umbak suvda, imago ochiq havoda",
+   "w": [
+    "tuxum suvda, lichinka va g'umbak havoda, imago suvda",
+    "tuxum, lichinka va imago suvda, g'umbak havoda",
+    "tuxum va g'umbak suvda, lichinka va imago havoda",
+    "tuxum, lichinka, g'umbak va imago suvda"
+   ],
+   "x": "«voyaga yetish oldi bosqichlari, ya'ni tuxum, lichinka va g'umbak, suvda rivojlanadi, voyaga yetgan chivin (imago) esa ochiq havoda yashaydi»"
+  },
+  {
+   "q": "Anopheles tuxumidagi suzgichlar qanday vazifa bajaradi?",
+   "c": "tuxumni suv yuzasida ushlab turadi",
+   "w": [
+    "tuxumni bir-biriga yopishtirib turadi",
+    "tuxum sirtidagi mozaika naqshini hosil qiladi",
+    "tuxum qobig'idagi mikropil teshikchalarini hosil qiladi",
+    "tuxumning rivojlanishini 2 kunda yakunlaydi"
+   ],
+   "x": "«Bu suzgichlar tuxumni suv yuzasida ushlab turadi»"
+  },
+  {
+   "q": "Lichinkalar qanday suv havzalarida yaxshi rivojlanadi?",
+   "c": "turg'un yoki sekin oqadigan suv havzalarida",
+   "w": [
+    "oqim tezligi 0,4 m/s ga yetgan o'simlikli kanallarda",
+    "organik moddalar chirishidan hosil bo'lgan moddalar ko'p suvlarda",
+    "temir tuzlari ko'p va oqim kuchayadigan suv havzalarida",
+    "suv sathi keskin pasayadigan havzalarda"
+   ],
+   "x": "«Lichinkalar asosan turg'un yoki sekin oqadigan suv havzalarida yaxshi rivojlanadi, chunki suv oqimi ularga salbiy ta'sir qiladi»"
+  },
+  {
+   "q": "G'umbak paydo bo'lishi 2–4 kun ichida nimadan darak beradi?",
+   "c": "birinchi generatsiya uchib chiqishidan",
+   "w": [
+    "diapauzaga ommaviy ketish sanasidan",
+    "qishlash joyidan uchib chiqish sanasidan",
+    "oxirgi lichinkalar paydo bo'lishidan",
+    "imago va lichinka sonining cho'qqisidan"
+   ],
+   "x": "«G'umbak paydo bo'lishi 2–4 kun ichida chivinlarning birinchi generatsiyasi uchib chiqishidan darak beradi»"
+  },
+  {
+   "q": "Bodenxeymer formulasi bo'yicha rivojlanish davri qanday hisoblanadi?",
+   "c": "222,7 ni o'rtacha harorat va quyi harorat ayirmasiga bo'lish",
+   "w": [
+    "222,7 ni o'rtacha harorat va quyi harorat ayirmasiga ko'paytirish",
+    "10,2 ni o'rtacha harorat va 222,7 ayirmasiga bo'lish",
+    "o'rtacha haroratni quyi harorat ayirmasiga bo'lish orqali",
+    "222,7 ni o'rtacha haroratga ko'paytirish orqali"
+   ],
+   "x": "«tuxumdan imagogacha jami davr 222,7 ni o'rtacha harorat va quyi rivojlanish harorati 10,2 °C ayirmasiga bo'lish orqali topiladi»"
+  },
+  {
+   "q": "Qanday haroratda lichinkalar rivojlanishdan to'xtaydi va nobud bo'ladi?",
+   "c": "+10 °C dan pastga tushganda rivojlanishdan to'xtaydi, +5 °C da nobud bo'ladi",
+   "w": [
+    "+10 °C dan pastga tushganda nobud bo'ladi, +5 °C da rivojlanishdan to'xtaydi",
+    "+35 °C dan yuqori bo'lganda rivojlanishdan to'xtaydi, 38 °C da nobud bo'ladi",
+    "+30 °C dan oshganda rivojlanishdan to'xtaydi, +5 °C da nobud bo'ladi",
+    "+10 °C dan pastga tushganda ko'payadi, +5 °C da nobud bo'ladi"
+   ],
+   "x": "«Harorat +10 °C dan pastga tushganda lichinkalar rivojlanishdan to'xtaydi, +5 °C da nobud bo'ladi»"
+  },
+  {
+   "q": "An. pulcherrimus va An. superpictus kabi issiqsevar turlar uchun optimal harorat qancha?",
+   "c": "taxminan +30 °C",
+   "w": [
+    "taxminan 14–16 °C",
+    "taxminan +10 °C",
+    "taxminan +5 °C",
+    "taxminan 18–20 °C"
+   ],
+   "x": "«An. pulcherrimus va An. superpictus kabi issiqsevar turlar uchun optimal harorat taxminan +30 °C»"
+  },
+  {
+   "q": "An. maculipennis lichinkalari uchun kalsiy ionlari va temir tuzlari qanday ta'sir qiladi?",
+   "c": "kalsiy ionlari ijobiy ta'sir qiladi, temir tuzlari ko'pligi zaharli",
+   "w": [
+    "kalsiy ionlari zaharli, temir tuzlari ijobiy ta'sir qiladi",
+    "kalsiy ionlari ham, temir tuzlari ham ijobiy ta'sir qiladi",
+    "kalsiy ionlari ham, temir tuzlari ham zaharli hisoblanadi",
+    "kalsiy ionlari ham, temir tuzlari ham ta'sir qilmaydi"
+   ],
+   "x": "«kalsiy ionlari An. maculipennis lichinkalari rivojlanishiga ijobiy ta'sir qiladi, temir tuzlari ko'pligi zaharli»"
+  },
+  {
+   "q": "Sporogoniya 10–12 kundan kam bo'lmagani sababli zararlangan chivin nima qilishi mumkin?",
+   "c": "to'rt martagacha gonotrofik tsikl o'tkazishi va bir necha kilometr uzoqqa uchib ketishi mumkin",
+   "w": [
+    "bir martagina gonotrofik tsikl o'tkazishi va zararlangan joyida qolishi mumkin",
+    "gonotrofik tsikl o'tkazmasdan diapauzaga ketishi mumkin",
+    "erkak chivinga aylanib, qon so'rmasligi mumkin",
+    "gonotrofik tsiklsiz sporozoitlarni yo'qotishi mumkin"
+   ],
+   "x": "«zararlangan chivin shu davrda to'rt martagacha gonotrofik tsikl o'tkazishi va tuxum qo'yish uchun zararlangan joyidan bir necha kilometr uzoqqa uchib ketishi mumkin»"
+  },
+  {
+   "q": "Diapauzaga ommaviy ketish sanasi nimani bildiradi?",
+   "c": "bezgak yuqish mavsumi tugaganini",
+   "w": [
+    "yuqish mavsumi boshlanganini",
+    "birinchi generatsiya uchib chiqqanini",
+    "lichinka sonining cho'qqisini",
+    "qishlash joyidan uchib chiqishni"
+   ],
+   "x": "«Diapauzaga ommaviy ketish sanasi bezgak yuqish mavsumi tugaganini bildiradi»"
+  }
+ ],
+ "037": [
+  {
+   "q": "Bezgak profilaktikasi epidemik jarayonning qaysi bo'g'inlariga bir vaqtda ta'sir ko'rsatadi?",
+   "c": "infeksiya manbaiga, yuqish mexanizmiga va moyil aholiga",
+   "w": [
+    "bemorni aniqlash, davolash va dispanser kuzatuviga",
+    "qo'zg'atuvchiga, kimyoprofilaktikaga va tashuvchilarga qarshi kurashga",
+    "qo'zg'atuvchiga, yuqish mexanizmiga va chivinlarga",
+    "tashxisga, davolashga va dispanser kuzatuviga"
+   ],
+   "x": "«epidemik jarayonning uchala bo'g'iniga, ya'ni infeksiya manbaiga, yuqish mexanizmiga va moyil aholiga bir vaqtda ta'sir ko'rsatadigan chora-tadbirlar tizimidir»"
+  },
+  {
+   "q": "Bezgakdan xoli O'zbekistonda profilaktikaning bosh maqsadi nima?",
+   "c": "mahalliy yuqish qayta tiklanishiga yo'l qo'ymaslik",
+   "w": [
+    "O'zbekistondagi Anopheles turlarini butunlay yo'qotish va suv havzalarini yopish",
+    "bezgak bemorlarini davolashni faqat shifoxonada o'tkazish",
+    "aholiga ommaviy kimyoprofilaktika o'tkazib, chivinlarni yo'qotish",
+    "aholini ommaviy tekshirish va donorlarni qon topshirishdan chetlatish"
+   ],
+   "x": "«profilaktikaning bosh maqsadi mahalliy yuqishning qayta tiklanishiga va olib kirilgan holatlardan ikkilamchi tarqalishga yo'l qo'ymaslikdir»"
+  },
+  {
+   "q": "Epidemik jarayonni uzish manba bo'g'inida nima qilinadi?",
+   "c": "bemor va parazit tashuvchini aniqlash hamda radikal davolash",
+   "w": [
+    "Anopheles chivinlari sonini kamaytirish va odam bilan aloqasini cheklash",
+    "shaxsiy hamda jamoaviy himoya va kimyoprofilaktika",
+    "chivinlarning ko'payish joylarini yo'qotish",
+    "aholini ommaviy tekshirish"
+   ],
+   "x": "«Epidemik jarayonni uzish manba bo'g'inida bemor va parazit tashuvchini aniqlash hamda radikal davolash»"
+  },
+  {
+   "q": "Moyil aholida epidemik jarayon qanday uziladi?",
+   "c": "shaxsiy hamda jamoaviy himoya va kimyoprofilaktika orqali",
+   "w": [
+    "bemor va parazit tashuvchini aniqlash hamda radikal davolash orqali",
+    "chivinlar sonini kamaytirish va ularning odam bilan aloqasini cheklash orqali",
+    "hududning yuqumlilik darajasi va moyilligini baholash orqali",
+    "ommaviy tekshirish va sanitariya-ma'rifat ishi orqali"
+   ],
+   "x": "«moyil aholida esa shaxsiy hamda jamoaviy himoya va kimyoprofilaktika orqali amalga oshiriladi»"
+  },
+  {
+   "q": "Geografik anamnezi ijobiy bo'lgan bemordan qancha qon preparati olinadi?",
+   "c": "kamida ikkita qon preparati olinadi",
+   "w": [
+    "kamida ikkita qon preparati tashxis tasdiqlangach olinadi",
+    "kamida ikkita qon preparati faqat isitmada olinadi",
+    "qon preparati sariqlik bo'lsa olinadi",
+    "qon preparati donorlardan olinadi"
+   ],
+   "x": "«Geografik anamnezi ijobiy bo'lgan har bir bemordan boshqa belgilardan qat'i nazar kamida ikkita qon preparati olinadi»"
+  },
+  {
+   "q": "Faol aniqlash qanday amalga oshiriladi?",
+   "c": "xonadonma-xonadon yurish yo'li bilan ikki haftada bir",
+   "w": [
+    "xonadonma-xonadon yurish yo'li bilan haftada bir",
+    "ommaviy tekshirish yo'li bilan ikki haftada bir",
+    "xonadonma-xonadon yurish yo'li bilan yilda bir",
+    "passiv aniqlash yo'li bilan ikki haftada bir"
+   ],
+   "x": "«Faol aniqlash xonadonma-xonadon yurish yo'li bilan ikki haftada bir o'tkaziladi»"
+  },
+  {
+   "q": "Kimyoprofilaktika preparatlari qanday himoya beradi?",
+   "c": "zararlanishning o'zidan emas, og'ir asoratlar va o'limdan saqlaydi",
+   "w": [
+    "zararlanishning o'zidan to'liq himoya qiladi",
+    "gipnozoitlarga ta'sir qilib, kechki ko'rinishlarni to'xtatadi",
+    "artemizinin birikmalari bilan birga qo'llanadi",
+    "homilador ayollarga va kichik bolalarga tavsiya etiladi"
+   ],
+   "x": "«ular zararlanishning o'zidan emas, og'ir asoratlar va o'limdan saqlaydi»"
+  },
+  {
+   "q": "Gambuziya baliqlari havzalarga qachon qo'yiladi?",
+   "c": "suv harorati 7–9 °C dan oshganda bahorda",
+   "w": [
+    "suv harorati 7–9 °C dan oshganda kuzda",
+    "suv harorati 30–35 °C dan oshganda yozda",
+    "suv harorati 7–9 °C dan oshganda yozda",
+    "suv harorati 30–35 °C dan oshganda bahorda"
+   ],
+   "x": "«suv harorati gambuziya uchun 7–9 °C dan oshganda bahorda havzalarga qo'yiladi»"
+  },
+  {
+   "q": "Pashshaxona nima uchun mutlaq kafolat bermaydi?",
+   "c": "teshik bo'lsa yoki tana to'rga tegib tursa, chivin chaqishi mumkin",
+   "w": [
+    "insektitsid shimdirilgan bo'lsa ham, chivinlar nobud bo'lmaydi",
+    "repellentlar samarasiz bo'lgani sababli chivin chaqadi",
+    "doka to'r derazalarga tutilmagani sababli chivin kiradi",
+    "zooprofilaktika chivinlar sonini kamaytirmagani sababli"
+   ],
+   "x": "«Pashshaxona mutlaq kafolat bermaydi, chunki teshik bo'lsa yoki tana to'rga tegib tursa, chivin chaqishi mumkin»"
+  },
+  {
+   "q": "Passiv olib kirishni cheklash uchun aeroport, temir yo'l bekatlari va avtotransport to'xtash joylarida nima qilinadi?",
+   "c": "transport vositalariga insektitsid ishlovi beriladi",
+   "w": [
+    "chegaradosh hududlarda 3 km masofada chivinlarga qarshi kurash o'tkaziladi",
+    "pashshaxona, deraza to'ri va kimyoprofilaktika qo'llanadi",
+    "qaytganlar uch yil dispanser nazoratida kuzatiladi",
+    "ketuvchilar o'rtasida instruktaj o'tkaziladi"
+   ],
+   "x": "«Passiv olib kirishni cheklash uchun aeroport, temir yo'l bekatlari va avtotransport to'xtash joylarida xalqaro tibbiy-sanitariya qoidalariga muvofiq transport vositalariga insektitsid ishlovi beriladi»"
+  }
+ ]
+}

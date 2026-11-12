@@ -1,0 +1,338 @@
+{
+ "041": [
+  {
+   "q": "Zoonoz teri leyshmaniozining etiologik omili qaysi qo'zg'atuvchi hisoblanadi?",
+   "c": "Leishmania major",
+   "w": [
+    "Leishmania tropica",
+    "Leishmania Ross",
+    "Rhombomys opimus",
+    "Meriones libycus"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi tabiiy o'choqli transmissiv zoonoz kasallik bo'lib, uning etiologik omili Leishmania major hisoblanadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi qo'zg'atuvchisi qaysi sistematik guruhga kiradi?",
+   "c": "Protozoa bo'limi, Flagellata sinfi, Trypanosomatidae oilasi",
+   "w": [
+    "Protozoa bo'limi, Flagellata sinfi, Protomonadina oilasi",
+    "Protozoa bo'limi, Trypanosomatidae sinfi, Flagellata oilasi",
+    "Flagellata bo'limi, Protozoa sinfi, Trypanosomatidae oilasi",
+    "Protomonadina bo'limi, Flagellata sinfi, Leishmania oilasi"
+   ],
+   "x": "«U Protozoa bo'limi, Flagellata sinfi, Protomonadina guruhi, Trypanosomatidae oilasi, Leishmania Ross avlodiga kiradi»"
+  },
+  {
+   "q": "Rus jarrohi P.F. Borovskiy 1898-yilda nimani bergan?",
+   "c": "teri yarasi qo'zg'atuvchisining birinchi aniq tavsifini",
+   "w": [
+    "leyshmanizatsiya usulini",
+    "Romanovskiy–Gimza usulida bo'yash tartibini",
+    "iskaptoparning sistematik tavsifini",
+    "deratizatsiya rejasini"
+   ],
+   "x": "«teri yarasi qo'zg'atuvchisining birinchi aniq tavsifini bergan va uni sodda jonivorlarga (Protozoa) kiritgan»"
+  },
+  {
+   "q": "L. major amastigotalari odam va hayvon organizmida qanday ko'rinishda uchraydi?",
+   "c": "harakatsiz, yumaloq yoki oval",
+   "w": [
+    "faol harakatchan, xivchinli promastigota shaklida",
+    "iskaptopar ichagida aniqlanadigan, xivchinli",
+    "xivchinining uzunligi 10–20 mikrometr bo'lgan, harakatchan",
+    "eksentrik joylashgan yadrosiz, harakatchan"
+   ],
+   "x": "«Amastigota shakllari odam va hayvonlarda harakatsiz, yumaloq yoki oval ko'rinishda uchraydi»"
+  },
+  {
+   "q": "Teri leyshmaniozi amastigotalarini tur darajasida qanday aniqlash mumkin?",
+   "c": "molekulyar usullar yoki izofermentlar tahlili orqali",
+   "w": [
+    "mikroskopik farqlash orqali",
+    "bo'yalgan surtmada biologik belgilar orqali",
+    "terida sinama qo'yish orqali",
+    "iskaptopar ichagidagi suyuqlikni ko'rish orqali"
+   ],
+   "x": "«teri leyshmaniozi amastigotalarini tur darajasida mikroskopik farqlash mumkin emas; tur molekulyar usullar yoki izofermentlar tahlili bilan aniqlanadi»"
+  },
+  {
+   "q": "Iskaptopar tanasida leyshmaniyalar qaysi shaklga o'tadi?",
+   "c": "faol harakatchan promastigotalarga",
+   "w": [
+    "harakatsiz amastigotalarga",
+    "makrofaglar ichidagi amastigotalarga",
+    "tirik, to'liq yetilgan xivchinli hujayralarga",
+    "uch qavatli qobiqli yumaloq hujayralarga"
+   ],
+   "x": "«Iskaptopar tanasida esa ular faol harakatchan, xivchinining uzunligi 10–20, eni 5–6 mikrometr bo'lgan promastigotalar, ya'ni leptomonad davriga o'tadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi qo'zg'atuvchisining asosiy rezervuarlari qaysilar?",
+   "c": "katta qum sichqoni va qizil dumli qum sichqoni",
+   "w": [
+    "yarim kunlik qum sichqoni va uy sichqonlari",
+    "Severtsov tushkanchigi va yumronqoziq",
+    "quloqli tipratikan va nutriya",
+    "yarim kunlik qum sichqoni va nutriya"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi qo'zg'atuvchisining asosiy rezervuarlari — katta qum sichqoni (Rhombomys opimus) va qizil dumli qum sichqoni (Meriones libycus)»"
+  },
+  {
+   "q": "Zoonoz shaklda (L. major) inkubatsion davr qancha?",
+   "c": "qisqa, asosan 1–2 hafta",
+   "w": [
+    "2–6 oy davom etadi",
+    "3–6 oy va undan keyin paydo bo'ladi",
+    "bir yil va undan ortiq cho'ziladi",
+    "epitelizatsiya 2–5 oy davom etadi"
+   ],
+   "x": "«Zoonoz shaklda (L. major) inkubatsion davr qisqa, asosan 1–2 hafta»"
+  },
+  {
+   "q": "L. major bilan zararlangan bemorda parazitlar soni va virulentlik qanday?",
+   "c": "parazitlar soni kam, oq sichqonlarda virulentligi yuqori",
+   "w": [
+    "antroponoz shaklda parazitlar soni ko'p, virulentlik kam",
+    "parazitlar soni kam, oq sichqonlarda virulentligi ham kam",
+    "parazitlar soni kam, virulentlik oq sichqonlarda yo'q",
+    "parazitlar soni yuqori, oq sichqonlarda virulentligi yuqori"
+   ],
+   "x": "«L. major bilan zararlangan bemorda parazitlar soni kam, oq sichqonlarda virulentligi esa yuqori bo'ladi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi tabiatda kemiruvchilar va iskaptoparlar orasida aylanib yurgani uchun qaysi choralar asosiy hisoblanadi?",
+   "c": "katta qum sichqonlariga qarshi deratizatsiya va iskaptoparlarga dezinseksiya",
+   "w": [
+    "bemorni davolash va izolyatsiya qilish orqali o'choqni yo'qotish",
+    "terida sinama qo'yish va leyshmanizatsiya o'tkazish orqali",
+    "qotirilgan va bo'yalgan preparatlarni mikroskopda ko'rish",
+    "yara atrofidagi do'mboqcha to'qimasidan qirindi olish"
+   ],
+   "x": "«asosiy choralar katta qum sichqonlariga qarshi dala deratizatsiyasi va iskaptoparlarga qarshi dezinseksiyadir»"
+  }
+ ],
+ "042": [
+  {
+   "q": "Iskaptoparlarning uzunligi taxminan qancha?",
+   "c": "taxminan 1,2–3,7 millimetr",
+   "w": [
+    "taxminan 1,8 kilometr",
+    "taxminan 10 metrgacha",
+    "taxminan 1,8 kilometrgacha",
+    "taxminan 16 millimetr"
+   ],
+   "x": "«iskaptoparlar oq-sariq, oqish-kulrang yoki jigarrang tusli, uzunligi taxminan 1,2–3,7 millimetr bo'lgan ikki qanotli qon so'ruvchi hasharotlardir»"
+  },
+  {
+   "q": "Iskaptoparlarning tashqi tuzilishida qaysi belgi to'g'ri?",
+   "c": "boshi kichik, bir juft qora ko'zi bor, mo'ylovi 16 bo'g'imli",
+   "w": [
+    "boshi kichik, uch juft qora ko'zi bor, mo'ylovi 10 bo'g'imli",
+    "boshi katta, bir juft qora ko'zi bor, xortumi qisqa",
+    "qorni 16 bo'g'imdan iborat, mo'ylovi 10 bo'g'imli",
+    "tanasi bosh, ko'krak va qanotlardan iborat, oyoqlari yo'q"
+   ],
+   "x": "«Boshi kichik, bir juft qora ko'zi bor, mo'ylovi 16 bo'g'imli, xortumi uzun va teshuvchi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining epidemiologik ahamiyatga ega tashuvchilari qaysilar?",
+   "c": "Ph. papatasi va Ph. caucasicus",
+   "w": [
+    "Ph. sergenti va Ph. longiductus",
+    "Ph. longiductus va Ph. angustus",
+    "Ph. smirnovi va Ph. sergenti",
+    "Ph. angustus va Ph. caucasicus"
+   ],
+   "x": "«Ulardan epidemiologik ahamiyatga egalari Ph. papatasi va Ph. caucasicus hisoblanadi»"
+  },
+  {
+   "q": "Ph. papatasi aholi punktlarida qayerlarda yashaydi?",
+   "c": "chiqindi qutilari, molxonalar, paxsa devorlar va go'ng uyumlari",
+   "w": [
+    "qum sichqonlari inlari, daraxt kovaklari va g'orlar",
+    "tulki va chiyabo'ri inlari, yumronqoziq inlari",
+    "qamish bilan qurilgan imoratlar va xona devorlarining tashqi qismi",
+    "qorong'i, organik moddalarga boy, nam joylar"
+   ],
+   "x": "«Aholi punktlarida esa chiqindi qutilari, molxonalar, paxsa devorlar, go'ng uyumlari va sichqon inlari uning makoni bo'ladi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozining tashuvchisi qaysi tur?",
+   "c": "Phlebotomus sergenti urg'ochilari",
+   "w": [
+    "Phlebotomus papatasi urg'ochilari",
+    "Phlebotomus longiductus urg'ochilari",
+    "Phlebotomus angustus urg'ochilari",
+    "Phlebotomus smirnovi urg'ochilari"
+   ],
+   "x": "«Antroponoz teri leyshmaniozining tashuvchisi Phlebotomus sergenti urg'ochilaridir»"
+  },
+  {
+   "q": "Surxondaryo viloyati teri leyshmaniozi o'choqlarida 50 yillik taqqoslov nimani ko'rsatdi?",
+   "c": "Ph. sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha oshgan",
+   "w": [
+    "Ph. papatasi ulushi 41,4 foizdan 5,4 foizgacha kamaygan",
+    "Ph. longiductus ulushi o'zgarmagan",
+    "Ph. sergenti ulushi 5,4 foizdan 1,8 foizgacha kamaygan",
+    "Ph. caucasicus ulushi 41,4 foizga yetgan"
+   ],
+   "x": "«Ph. sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha oshgan»"
+  },
+  {
+   "q": "Visseral leyshmaniozning tashuvchisi asosan qaysi ikki tur?",
+   "c": "Ph. longiductus va Ph. angustus",
+   "w": [
+    "Ph. papatasi va Ph. caucasicus",
+    "Ph. sergenti va Ph. papatasi",
+    "Ph. smirnovi va Ph. sergenti",
+    "Ph. caucasicus va Ph. longiductus"
+   ],
+   "x": "«visseral leyshmaniozning tashuvchisi asosan ikki turdir: Ph. longiductus va Ph. angustus»"
+  },
+  {
+   "q": "Iskaptopar zararlangandan keyin necha kun o'tgach yuqumli bo'ladi?",
+   "c": "6–8 kun o'tgach",
+   "w": [
+    "1–2 kun o'tgach",
+    "10–12 kun o'tgach",
+    "20–30 kun o'tgach",
+    "2–8 oy o'tgach"
+   ],
+   "x": "«Iskaptopar zararlangandan keyin 6–8 kun o'tgach yuqumli bo'ladi»"
+  },
+  {
+   "q": "Iskaptoparlar qaysi holatda qishlaydi?",
+   "c": "to'rtinchi yoshdagi lichinka holatida",
+   "w": [
+    "uchinchi yoshdagi lichinka holatida",
+    "tuxum holatida",
+    "g'umbak holatida",
+    "ikkinchi yoshdagi lichinka holatida"
+   ],
+   "x": "«Iskaptoparlar to'rtinchi yoshdagi lichinka holatida qishlaydi»"
+  },
+  {
+   "q": "Iskaptoparlar aholi punktlarida va tabiatda qanchagacha uchadi?",
+   "c": "aholi punktlarida 10 metrgacha, tabiatda 1,8 kilometrgacha",
+   "w": [
+    "aholi punktlarida 1,8 kilometrgacha, tabiatda 10 metrgacha",
+    "aholi punktlarida 3 kilometrgacha, tabiatda 5 kilometrgacha",
+    "aholi punktlarida 100 metrgacha, tabiatda 10 kilometrgacha",
+    "aholi punktlarida 50 metrgacha, tabiatda 300 metrgacha"
+   ],
+   "x": "«Aholi punktlarida 10 metrgacha, tabiatda 1,8 kilometrgacha uchadi»"
+  }
+ ],
+ "043": [
+  {
+   "q": "Zoonoz teri leyshmaniozining zararlanish manbai kimlar?",
+   "c": "yovvoyi kemiruvchilar",
+   "w": [
+    "bemor odamlar",
+    "tashuvchi iskaptoparlar",
+    "it, mushuk va kemiruvchilar",
+    "ikkinchi darajali rezervuarlar"
+   ],
+   "x": "«Zoonoz teri leyshmaniozining zararlanish manbai yovvoyi kemiruvchilar bo'lib, qo'zg'atuvchi L. major ular organizmida yillar davomida saqlanadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida odam zanjirda qanday o'rinni egallaydi?",
+   "c": "tasodifiy xo'jayin hisoblanadi",
+   "w": [
+    "asosiy manba hisoblanadi",
+    "asosiy rezervuar hisoblanadi",
+    "tashuvchi hisoblanadi",
+    "doimiy xo'jayin hisoblanadi"
+   ],
+   "x": "«Odam bu zanjirda tasodifiy xo'jayin hisoblanadi, shu bois kasallikni nazorat qilish bemorlarni izolyatsiya qilishga emas, balki rezervuar hayvonlar va ularning inlariga qaratiladi»"
+  },
+  {
+   "q": "Intensiv tabiiy o'choqlarda mahalliy aholida nima kuzatiladi?",
+   "c": "bolalik chog'ida kasallikni o'tkazib, barqaror immunitet shakllanadi",
+   "w": [
+    "immunitet shakllanmaydi, kasallik har yili qaytalanadi",
+    "kasallik faqat kattalarda uchraydi",
+    "bemorlar izolyatsiya qilinadi, immunitet kuchsiz bo'ladi",
+    "faqat kemiruvchilar kasallanadi, odam kasallanmaydi"
+   ],
+   "x": "«intensiv tabiiy o'choqlarda mahalliy aholi ko'pincha bolalik chog'ida kasallikni o'tkazadi, ular orasida barqaror immunitet shakllanadi»"
+  },
+  {
+   "q": "Katta qum sichqonining tana uzunligi qancha?",
+   "c": "140–225 millimetr",
+   "w": [
+    "135–170 millimetr",
+    "4–5 metr",
+    "1,8 kilometr",
+    "3,5–4,5 yil"
+   ],
+   "x": "«Uning tana uzunligi 140–225 millimetr, orqasi va biqini sariq-qum rangda, qorni oq»"
+  },
+  {
+   "q": "Katta qum sichqonlari inlarining to'dalari yo'llari qanchalik chuqurlikka boradi?",
+   "c": "4–5 metr chuqurlikka",
+   "w": [
+    "1,8 kilometr chuqurlikka",
+    "100–150 metr chuqurlikka",
+    "2–2,5 kilometr chuqurlikka",
+    "3–4 teshik chuqurlikka"
+   ],
+   "x": "«to'dalar diametri bir necha o'n metr, ba'zan bir necha yuz teshikka ega, yo'llari 4–5 metr chuqurlikka boradi»"
+  },
+  {
+   "q": "Qizil dumli qum sichqoni uyalari katta qum sichqoninikiga nisbatan qanday?",
+   "c": "sodda va yuzaroq",
+   "w": [
+    "murakkab va chuqurroq",
+    "oilaviy to'dali, 4–5 metr chuqurlikda",
+    "tashlandiq imoratlarda joylashgan",
+    "zovurlar bo'yida joylashgan"
+   ],
+   "x": "«Uyalari katta qum sichqonlarinikiga qaraganda sodda va yuzaroq, 3–4 ta, ba'zan 10–15 ta chiqish teshigi bo'ladi»"
+  },
+  {
+   "q": "Hayvonlarning 85 foizi boshpana va oziq izlab uyasidan qancha masofaga ko'chadi?",
+   "c": "100–150 metrgacha",
+   "w": [
+    "5 kilometrgacha",
+    "10–12 kilometrgacha",
+    "2–2,5 kilometrgacha",
+    "1,8 kilometrgacha"
+   ],
+   "x": "«Hayvonlarning 85 foizi boshpana va oziq izlab uyasidan 100–150 metrgacha ko'chadi»"
+  },
+  {
+   "q": "Deratizatsiya aholi punktlari va dala shiyponlaridan qancha radiusda o'tkazilishi talab etiladi?",
+   "c": "3–5 kilometr radiusda",
+   "w": [
+    "2–2,5 kilometr radiusda",
+    "1,8 kilometr radiusda",
+    "100–150 metr radiusda",
+    "10–12 kilometr radiusda"
+   ],
+   "x": "«aholi punktlari va dala shiyponlaridan 3–5 kilometr radiusda deratizatsiya o'tkazish talab etiladi»"
+  },
+  {
+   "q": "Markaziy Osiyo cho'llarida iskaptoparlarning ko'payishi asosan qayerda kechadi?",
+   "c": "katta qum sichqonlari inlarida",
+   "w": [
+    "yirik parrandachilik fermalarida",
+    "bemorning uyida yoki ish joyida",
+    "uy hayvonlari boqiladigan maydonlarda",
+    "dala shiyponlari atrofida"
+   ],
+   "x": "«Markaziy Osiyo cho'llarida iskaptoparlarning ko'payishi asosan katta qum sichqonlari inlarida kechishi»"
+  },
+  {
+   "q": "Deratizatsiya rejalashtirilgan maydonda asosiy hujjat qaysi?",
+   "c": "1:10000 yoki 1:25000 masshtabdagi kontur xaritasi",
+   "w": [
+    "hisobotdagi chora-tadbirlardan oldin va keyingi jadval",
+    "kemiruvchilarni hisoblash jadvali",
+    "bemorning uyida it, mushuk va kemiruvchilar mavjudligi",
+    "dezinfektorlarning qo'l ko'tarib bergan signali"
+   ],
+   "x": "«Asosiy hujjat — 1:10000 yoki 1:25000 masshtabdagi kontur xaritasi bo'lib, unda to'dalar soni va holati shartli belgilar (masalan, + va 0) bilan ko'rsatiladi»"
+  }
+ ]
+}

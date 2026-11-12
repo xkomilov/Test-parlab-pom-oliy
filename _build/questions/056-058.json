@@ -1,0 +1,338 @@
+{
+ "056": [
+  {
+   "q": "Antroponoz va zoonoz teri leyshmaniozida rezervuar kim hisoblanadi?",
+   "c": "antroponozda odamning o'zi, zoonozda yovvoyi kemiruvchilar",
+   "w": [
+    "antroponozda yovvoyi kemiruvchilar, zoonozda odamning o'zi",
+    "antroponozda ham, zoonozda ham odam",
+    "ikkala shaklda ham yovvoyi kemiruvchilar",
+    "antroponozda itlar, zoonozda iskaptoparlar"
+   ],
+   "x": "«Antroponoz teri leyshmaniozida bunday rezervuar odamning o'zidir, zoonoz teri leyshmaniozida esa cho'l va yarim cho'ldagi yovvoyi kemiruvchilar»"
+  },
+  {
+   "q": "Antroponoz shaklning iskaptopari qaysi tur?",
+   "c": "Phlebotomus sergenti",
+   "w": [
+    "Phlebotomus papatasi",
+    "Phlebotomus caucasicus",
+    "Phlebotomus andrejevi",
+    "Phlebotomus mongolensis"
+   ],
+   "x": "«Bu shaklning iskaptopari Phlebotomus sergenti odamdan odamga infeksiya yuqtiradi»"
+  },
+  {
+   "q": "L. tropica va L. donovani o'choqlari nima uchun antroponozlar hisoblanadi?",
+   "c": "odam asosiy tashuvchi (rezervuar) bo'lgani sababli",
+   "w": [
+    "kemiruvchilar asosiy rezervuar bo'lgani sababli",
+    "itlar asosiy rezervuar bo'lgani sababli",
+    "iskaptoparlar asosiy rezervuar bo'lgani sababli",
+    "qum sichqonlar asosiy rezervuar bo'lgani sababli"
+   ],
+   "x": "«L. tropica va L. donovani o'choqlarida odam asosiy tashuvchi (rezervuar) bo'lgani uchun ular antroponozlar hisoblanadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining asosiy rezervuarlari qaysilar?",
+   "c": "katta qum sichqon va qizil dumli qum sichqon",
+   "w": [
+    "yarim kunlik qum sichqon va quloqli tipratikan",
+    "Severtsov tushkanchigi va yumronqoziq",
+    "uy sichqonlari va nutriya",
+    "itlar va bemor odam"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi (Leishmania major) uchun asosiy rezervuar katta qum sichqon (Rhombomys opimus) va qizil dumli qum sichqon (Meriones libycus) hisoblanadi»"
+  },
+  {
+   "q": "Nima uchun zoonoz o'choq yillar davomida saqlanadi?",
+   "c": "qum sichqonlar eski inlardan foydalanadi",
+   "w": [
+    "qum sichqonlar eski inlardan foydalanmaydi",
+    "iskaptoparlar qishda inlardan chiqib ketadi",
+    "qum sichqonlar bir mavsumda faqat bir marta ko'payadi",
+    "inlarning yo'llari yuzaki joylashgan"
+   ],
+   "x": "«Ular yangi in qazishni yoqtirmay, eski inlardan foydalanadi, shuning uchun o'choq yillar davomida saqlanadi»"
+  },
+  {
+   "q": "Ko'pchilik katta qum sichqonlar (85 foiz) o'z inidan qancha masofaga ko'chadi?",
+   "c": "100–150 metrgacha",
+   "w": [
+    "5 km gacha",
+    "10–12 km gacha",
+    "3–5 km gacha",
+    "1,5 km gacha"
+   ],
+   "x": "«Ko'pchilik hayvonlar (85 foiz) pana joy va ovqat izlab o'z inidan 100–150 metrgacha ko'chadi»"
+  },
+  {
+   "q": "Nima uchun qum sichqonlarga qarshi zaharli xo'rak don mahsulotlaridan tayyorlanadi?",
+   "c": "ular ayniqsa don mahsulotlarini yaxshi ko'radi",
+   "w": [
+    "ular faqat yashil kurtaklar bilan oziqlanadi",
+    "ular hayvon go'shtini yaxshi ko'radi",
+    "ular don mahsulotlarini yoqtirmaydi",
+    "ular faqat ildizlar bilan oziqlanadi"
+   ],
+   "x": "«Qum sichqonlar o'simliklarning yashil kurtaklari, poyalari va urug'lari bilan oziqlanadi, ayniqsa don mahsulotlarini yaxshi ko'radi»"
+  },
+  {
+   "q": "Qizil dumli qum sichqonning umri qancha?",
+   "c": "3,5–4,5 yil",
+   "w": [
+    "2,5–3 yil",
+    "1–2 yil",
+    "5–6 yil",
+    "10–15 yil"
+   ],
+   "x": "«Yilda 5–6 tadan 2–3 marta bola tug'adi, umri 3,5–4,5 yil»"
+  },
+  {
+   "q": "L. tropica qaysi iskaptopar bilan bog'liq?",
+   "c": "faqat Ph. sergenti",
+   "w": [
+    "Ph. papatasi va Ph. caucasicus",
+    "Ph. andrejevi va Ph. mongolensis",
+    "qisman Sergentomyia turkumi",
+    "Sergentomyia va Ph. papatasi"
+   ],
+   "x": "«L. tropica esa faqat Ph. sergenti bilan bog'liq ekanligi ko'rsatilgan»"
+  },
+  {
+   "q": "Deratizatsiya qanday radiusda olib boriladi?",
+   "c": "aholi punktlari va dala shiypondan 3–5 km radiusda",
+   "w": [
+    "aholi punktlari va dala shiypondan 100–150 metr radiusda",
+    "aholi punktlari va dala shiypondan 10–12 km radiusda",
+    "aholi punkti ichidagi xonadonlarda",
+    "zovur va kanal bo'ylarida"
+   ],
+   "x": "«Deratizatsiya aholi punktlari va dala shiypondan 3–5 km radiusda olib boriladi»"
+  }
+ ],
+ "057": [
+  {
+   "q": "O'zbekistonda visseral leyshmaniozning qo'zg'atuvchisi qaysi?",
+   "c": "Leishmania infantum",
+   "w": [
+    "Leishmania donovani",
+    "Leishmania chagasi",
+    "Leishmania argentipes",
+    "Leishmania perniciosus"
+   ],
+   "x": "«O'zbekistonda uning qo'zg'atuvchisi Leishmania infantum bo'lib, bolalar orasida ko'proq uchraydi»"
+  },
+  {
+   "q": "Visseral leyshmanioz qo'zg'atuvchilari qaysi guruhga kiradi?",
+   "c": "L. donovani guruhiga",
+   "w": [
+    "L. infantum guruhiga",
+    "L. chagasi guruhiga",
+    "Trypanosomatidae guruhiga",
+    "Phlebotomus guruhiga"
+   ],
+   "x": "«Visseral leyshmanioz qo'zg'atuvchilari L. donovani guruhiga kiradi»"
+  },
+  {
+   "q": "Hind visseral leyshmaniozi (kala-azar) qanday kasallik?",
+   "c": "antroponoz bo'lib, manba odam",
+   "w": [
+    "zoonoz bo'lib, manba itlar",
+    "manba tulkilar bo'lgan zoonoz",
+    "antroponoz bo'lib, manba chiyabo'rilar",
+    "manba bo'rilar bo'lgan zoonoz"
+   ],
+   "x": "«hind visseral leyshmanioz (kala-azar), u antroponoz bo'lib, manba odam»"
+  },
+  {
+   "q": "O'rta yer dengizi-Markaziy Osiyo (bolalar) visseral leyshmaniozining asosiy tabiiy rezervuari kim?",
+   "c": "itlar",
+   "w": [
+    "odam",
+    "bo'rilar",
+    "chiyabo'ri",
+    "iskaptoparlar"
+   ],
+   "x": "«Ikkinchi shaklning qo'zg'atuvchisi L. infantum, asosiy tabiiy rezervuari esa itlar hisoblanadi»"
+  },
+  {
+   "q": "Hind visseral leyshmaniozi qaysi qo'zg'atuvchi va tarqatuvchi orqali yuqadi?",
+   "c": "L. donovani va P. argentipes orqali",
+   "w": [
+    "L. infantum va P. longiductus orqali",
+    "L. infantum va P. perniciosus orqali",
+    "L. chagasi va P. perfiliewi orqali",
+    "L. infantum va P. angustus orqali"
+   ],
+   "x": "«Hind visseral leyshmaniozi esa L. donovani va P. argentipes orqali odamdan odamga yuqadi»"
+  },
+  {
+   "q": "Promastigota qanday shaklga ega va uzunligi qancha?",
+   "c": "yoysimon shaklda, uzunligi taxminan 20 mikron",
+   "w": [
+    "yumaloq shaklda, uzunligi 2–6 mikron",
+    "oval shaklda, uzunligi 1–3 mikron",
+    "sharsimon shaklda, uzunligi 40 mikron",
+    "yoysimon shaklda, uzunligi 40 mikron"
+   ],
+   "x": "«Promastigota yoysimon shaklga ega bo'lib, uzunligi taxminan 20 mikron»"
+  },
+  {
+   "q": "Teriga tushgan qo'zg'atuvchi chaqilgan joyda nima hosil qiladi?",
+   "c": "bir necha kundan keyin gistiotsitoma",
+   "w": [
+    "bir necha kundan keyin limfa tugunlari",
+    "bir necha soatdan keyin taloq kattalashishi",
+    "bir necha kundan keyin sista",
+    "bir yildan keyin nekroz"
+   ],
+   "x": "«Teriga tushgan qo'zg'atuvchi chaqilgan joyda bir necha kundan keyin gistiotsitoma hosil qiladi, so'ng jarayon umumlashadi»"
+  },
+  {
+   "q": "Davolanmagan visseral leyshmaniozli bemorlarning qancha qismi ikkilamchi asoratlardan o'ladi?",
+   "c": "98–99 foizi",
+   "w": [
+    "5–7 foizi",
+    "25–40 foizi",
+    "50 foizi",
+    "10 foizi"
+   ],
+   "x": "«Yo'riqnomada davolanmagan bemorlarning 98–99 foizi ikkilamchi asoratlardan o'lishi qayd etilgan»"
+  },
+  {
+   "q": "Visseral leyshmanioz qaysi uch davrga bo'linadi?",
+   "c": "boshlang'ich, avj olish va kaxeksiya davri",
+   "w": [
+    "boshlang'ich, inkubatsion va kaxeksiya davri",
+    "avj olish, kaxeksiya va tuzalish davri",
+    "inkubatsion, avj olish va tuzalish davri",
+    "boshlang'ich, avj olish va tuzalish davri"
+   ],
+   "x": "«Kasallik uch davrga bo'linadi: boshlang'ich, avj olish va kaxeksiya davri»"
+  },
+  {
+   "q": "2007–2009-yillarda Pop tumanida tekshirilgan 162 ta itning necha foizi zararlangan?",
+   "c": "38,8 foizi",
+   "w": [
+    "27,2 foizi",
+    "40,8 foizi",
+    "25,2 foizi",
+    "98 foizi"
+   ],
+   "x": "«2007–2009-yillarda Namangan viloyatining Pop tumani aholi punktlarida 162 ta it tekshirilib, 38,8 foizi zararlangani aniqlangan»"
+  }
+ ],
+ "058": [
+  {
+   "q": "Visseral leyshmaniozda qo'shimcha manba sifatida qaysi hayvonlar keltirilgan?",
+   "c": "chiyabo'ri, tulki va bo'rilar",
+   "w": [
+    "itlar va bemor odam",
+    "uy hayvonlari va daydi itlar",
+    "kemiruvchilar va qushlar",
+    "podadagi va yovvoyilashgan itlar"
+   ],
+   "x": "«qo'shimcha manba sifatida chiyabo'ri, tulki va bo'rilar ko'rsatilgan»"
+  },
+  {
+   "q": "Visseral leyshmaniozda qanday itlar xavfli guruhni tashkil etadi?",
+   "c": "uy, daydi, podadagi yoki yovvoyilashgan itlar",
+   "w": [
+    "xonadondagi itlar, iskaptoparlarni zararlamaydi",
+    "emlangan uy hayvonlari, xavf tug'dirmaydi",
+    "aholi punktlarida yurgan tulkilar va bo'rilar",
+    "tabiiy o'choqdagi chiyabo'ri va tulkilar"
+   ],
+   "x": "«uy hayvonlari, daydi, podadagi yoki yovvoyilashgan itlarning parazit manbai bo'lishiga asoslanib, xavfli guruhlar farqlanadi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi manbai tulki va chiyabo'ri bo'lgan o'choq qaysi tipga kiradi?",
+   "c": "tabiiy o'choq",
+   "w": [
+    "yarim sinantrop o'choq",
+    "qishloq tipidagi o'choq",
+    "shahar tipidagi o'choq",
+    "antroponoz o'choq"
+   ],
+   "x": "«qo'zg'atuvchi manbai tulki va chiyabo'ri bo'lgan tabiiy o'choq»"
+  },
+  {
+   "q": "Hozirgi sharoitda O'zbekistonda ko'pchilik visseral leyshmanioz o'choqlari qanday?",
+   "c": "yarim sinantrop, qishloqlarda joylashgan",
+   "w": [
+    "faol sinantrop, shahar aholi punktlarida",
+    "tabiiy, chiyabo'ri inlarida joylashgan",
+    "shahar tipida, manba bemor odam",
+    "sinantrop, xonadonlarda joylashgan"
+   ],
+   "x": "«Hozirgi sharoitda mamlakatimizda faol sinantrop o'choqlar qolmagan, ko'pchilik o'choqlar yarim sinantrop hisoblanadi, qishloq aholi punktlarida joylashgan»"
+  },
+  {
+   "q": "Zararlangan itlarning qancha foizida kasallik klinik belgilarsiz yoki terining ozgina zararlanishi bilan kechadi?",
+   "c": "5–7 foizida",
+   "w": [
+    "38,8 foizida",
+    "98–99 foizida",
+    "25–40 foizida",
+    "1–2 foizida"
+   ],
+   "x": "«zararlangan itlarning 5–7 foizida kasallik klinik belgilarsiz yoki terining ozgina zararlanishi bilan kechishi qayd etilgan»"
+  },
+  {
+   "q": "Barqaror o'choqlarda itlar qanchada bir parazitologik va serologik tekshiriladi?",
+   "c": "yiliga 1–2 marta",
+   "w": [
+    "har oyda bir marta",
+    "har haftada bir marta",
+    "uch yilda bir marta",
+    "klinik belgilar paydo bo'lgandagina"
+   ],
+   "x": "«barcha itlarni hisobga olib, yiliga 1–2 marta parazitologik va serologik tekshirish zarurligi ta'kidlangan»"
+  },
+  {
+   "q": "Itlar orasida manbani aniqlash uchun tirik hayvonda qaysi material tekshiriladi?",
+   "c": "zararlangan teri va limfa tugunlaridan olingan surtmalar",
+   "w": [
+    "jigar, taloq va suyak ko'migidan olingan iz surtmalar",
+    "bemor odamning teridan olingan surtmalar",
+    "iskaptoparlar ichidan olingan surtmalar",
+    "tulki va chiyabo'ri inlaridan olingan surtmalar"
+   ],
+   "x": "«zararlangan teridan va limfa tugunlaridan olingan surtmalarni mikroskopda ko'rish, hayvon o'lgan taqdirda esa jigar, taloq va suyak ko'migidan olingan iz surtmalarni tekshirish ko'rsatilgan»"
+  },
+  {
+   "q": "Aholi punktlarida visseral leyshmanioz tashuvchilari qayerda ko'payadi?",
+   "c": "pol ostida va axlatxonalarda",
+   "w": [
+    "kemiruvchilar va qushlar inlarida",
+    "daraxt kovaklarida",
+    "tabiiy o'choqlarda",
+    "qishloq aholi punktlari tashqarisida"
+   ],
+   "x": "«Aholi punktlarida ular asosan pol ostida, axlatxonalarda va shunga o'xshash joylarda, tabiatda esa kemiruvchilar va qushlar inida, daraxt kovaklarida ko'payadi»"
+  },
+  {
+   "q": "Zoonoz visseral shaklda zararlanish va kasallanish mavsumlari qachon?",
+   "c": "zararlanish mavsumi yoz, kasallanish mavsumi kuz",
+   "w": [
+    "zararlanish mavsumi kuz, kasallanish mavsumi yoz",
+    "zararlanish mavsumi bahor, kasallanish mavsumi yoz",
+    "zararlanish va kasallanish mavsumi yoz",
+    "zararlanish mavsumi kuz, kasallanish mavsumi bahor"
+   ],
+   "x": "«zararlanish mavsumi yoz, kasallanish mavsumi esa kuz yoki keyingi yilning bahoriga to'g'ri keladi»"
+  },
+  {
+   "q": "Itlarni iskaptoparlar chaqishidan himoyalash uchun qaysi vositalar qo'llanadi?",
+   "c": "permetrin, deltametrin yoki flumetrin purkash",
+   "w": [
+    "itlarga insektitsidsiz bo'yinbog' taqish",
+    "daydi itlarni ushlash va hisobga olish",
+    "kasal itlarni davolash va yo'qotish",
+    "xonadonma-xonadon yurib faol aniqlash"
+   ],
+   "x": "«Itlarni iskaptoparlar chaqishidan himoyalash uchun permetrin, deltametrin, flumetrin yoki ularning imidakloprid bilan birikmasi purkash, tomizish yoki bo'yinbog' ko'rinishida qo'llanishi ko'rsatilgan»"
+  }
+ ]
+}

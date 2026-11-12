@@ -1,0 +1,338 @@
+{
+ "092": [
+  {
+   "q": "Geogelmintoz o'chog'ini epidemiologik tekshirish nima maqsadda o'tkaziladi?",
+   "c": "zararlanish manbai hamda omillarini aniqlash, o'choq chegarasi va faolligini baholash",
+   "w": [
+    "faqat bemorlarni aniqlash va davolash choralarini rejalashtirish",
+    "tuproq namunalarini olish va suv ta'minoti holatini rejalashtirish",
+    "kasalxona bemorlarini hisobga olish va dalolatnoma rasmiylashtirish",
+    "degelmintizatsiya samarasini baholash va aholi qamrovini belgilash"
+   ],
+   "x": "«zararlanish manbai hamda omillarini aniqlash, o'choq chegarasi va faolligini baholash, sog'lomlashtirish choralarini rejalashtirish uchun o'tkaziladi»"
+  },
+  {
+   "q": "Askaridoz va trixotsefalyozning har bir holati bo'yicha qanday xabarnoma yuboriladi?",
+   "c": "shoshilinch xabarnoma 058/u shakli",
+   "w": [
+    "epidemiologik karta 357/u shakli",
+    "o'choq pasporti va dalolatnoma shakli",
+    "hududiy markazning hisob shakli",
+    "tekshiruv kartasi 121-son shakli"
+   ],
+   "x": "«askaridoz va trixotsefalyozning har bir holati bo'yicha shoshilinch xabarnoma 058/u shakli yuboriladi»"
+  },
+  {
+   "q": "O'choqni epidemiologik tekshirgan parazitolog qaysi shakldagi kartani to'ldiradi?",
+   "c": "357/u shaklidagi epidemiologik karta",
+   "w": [
+    "058/u shaklidagi epidemiologik karta",
+    "121-son shaklidagi epidemiologik karta",
+    "357/u shaklidagi shoshilinch xabarnoma",
+    "058/u shaklidagi o'choq pasporti"
+   ],
+   "x": "«357/u shaklidagi epidemiologik karta to'ldiradi»"
+  },
+  {
+   "q": "Zararlanish qancha bo'lgan jamoalar yuqori xavfli guruhga kiritiladi?",
+   "c": "50 foiz va undan yuqori",
+   "w": [
+    "20–50 foiz",
+    "30 foiz va undan yuqori",
+    "15 foizgacha",
+    "15–29 foiz"
+   ],
+   "x": "«zararlanish 50 foiz va undan yuqori bo'lgan jamoalar yuqori xavfli, 20–50 foiz bo'lganlar esa past xavfli guruhga kiritiladi»"
+  },
+  {
+   "q": "Kato-Kats usulida invaziya intensivligi qanday hisoblanadi?",
+   "c": "standart surtmadagi tuxumlar sonini 24 ga ko'paytirib",
+   "w": [
+    "standart surtmadagi tuxumlar sonini 14 ga ko'paytirib",
+    "standart surtmadagi tuxumlar sonini 10 ga bo'lib",
+    "zararlanganlar ulushini 50 ga ko'paytirib",
+    "1 kg tuproqdagi tuxumlar sonini 24 ga bo'lib"
+   ],
+   "x": "«standart surtmadagi tuxumlar sonini 24 ga ko'paytirib hisoblanadi»"
+  },
+  {
+   "q": "Asl o'choq qanday o'choq hisoblanadi?",
+   "c": "qo'zg'atuvchi tashqi muhitda aylanadigan, zararlash sharoiti mavjud o'choq",
+   "w": [
+    "manba bor, lekin omillar va aylanish sharoiti yo'q o'choq",
+    "manba va omillar yo'q, aholi immuniteti mavjud o'choq",
+    "tashqi muhitda aylanmaydigan, omillar mavjud o'choq",
+    "ikki yil davomida sog'lomlashtirilgan o'choq"
+   ],
+   "x": "«Qo'zg'atuvchi tashqi muhitda aylanadigan va aholini zararlash sharoiti (manba, omillar, aholi immuniteti) mavjud o'choq asl o'choq»"
+  },
+  {
+   "q": "Askaridozda o'rta intensivlikdagi o'choqda aholi zararlanishi qancha bo'ladi?",
+   "c": "zararlanish 15–29 foiz",
+   "w": [
+    "zararlanish 15 foizgacha",
+    "zararlanish 30 foiz va undan yuqori",
+    "zararlanish 20–50 foiz",
+    "zararlanish 50 foiz va undan yuqori"
+   ],
+   "x": "«o'rta intensivda zararlanish 15–29 foiz; susda 15 foizgacha»"
+  },
+  {
+   "q": "Ikkala turdagi mikroo'choqlar orasida doimiy bog'liqlik bo'lsa, sog'lomlashtirish qancha davom etadi?",
+   "c": "2 yil davomida sog'lomlashtirish",
+   "w": [
+    "5 yil davomida sog'lomlashtirish",
+    "1 yil davomida sog'lomlashtirish",
+    "3 oy davomida sog'lomlashtirish",
+    "7 yil davomida sog'lomlashtirish"
+   ],
+   "x": "«bo'lsa, 2 yil davomida sog'lomlashtirish olib boriladi»"
+  },
+  {
+   "q": "Intensiv o'choqlarda aholiga degelmintizatsiya qanday chastotada o'tkaziladi?",
+   "c": "yiliga ikki marta",
+   "w": [
+    "yiliga bir marta",
+    "faqat mikroo'choqlarda yiliga bir marta",
+    "ikki yilda bir marta",
+    "har yili uch marta"
+   ],
+   "x": "«intensiv o'choqlarda aholiga yiliga ikki marta, o'rta intensivlikda faqat mikroo'choqlarda degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Geogelmintoz o'chog'i qachon hisobdan chiqariladi?",
+   "c": "ikki yil davomida yangi zararlanganlar aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa",
+   "w": [
+    "ikki yil davomida yangi zararlanganlar aniqlansa, tashqi muhit tahlillari manfiy bo'lsa",
+    "o'choq xaritaga tushirilib, nazorat muddatlari belgilangan bo'lsa",
+    "oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tekshirilgan bo'lsa",
+    "dalolatnomada aniqlangan kamchiliklar bartaraf etilgan bo'lsa"
+   ],
+   "x": "«Ikki yil davomida yangi zararlanganlar aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi»"
+  }
+ ],
+ "093": [
+  {
+   "q": "Geogelmintozlarga qarshi kurash faqat dori bilan davolash orqali nima sababdan barqaror natija bermaydi?",
+   "c": "tuproqdagi tuxumlar qayta zararlanishni ta'minlaydi",
+   "w": [
+    "davolash standartida preparatlar belgilanmagani sababli",
+    "nazorat tahlillari o'tkazilmagani sababli",
+    "kuzatuv muddati belgilanmagani sababli",
+    "gigiyena ta'limi o'tkazilmagani sababli"
+   ],
+   "x": "«chunki tuproqdagi tuxumlar qayta zararlanishni ta'minlaydi»"
+  },
+  {
+   "q": "Dasturni rejalashtirishda kamida qancha muddatlik retrospektiv tahlil talab qilinadi?",
+   "c": "oxirgi besh yillik retrospektiv tahlil",
+   "w": [
+    "oxirgi ikki yillik retrospektiv tahlil",
+    "oxirgi uch yillik retrospektiv tahlil",
+    "oxirgi bir yillik retrospektiv tahlil",
+    "oxirgi to'rt yillik retrospektiv tahlil"
+   ],
+   "x": "«kamida oxirgi besh yillik retrospektiv tahlilni talab qiladi»"
+  },
+  {
+   "q": "Birinchi degelmintizatsiya qachon o'tkaziladi?",
+   "c": "bahor oxiri yoki yoz boshida",
+   "w": [
+    "kech kuzda yoki qish boshida",
+    "yoz oxiri yoki kuz boshida",
+    "bahor boshida yoki qish oxirida",
+    "qish oxiri yoki bahor boshida"
+   ],
+   "x": "«Birinchi degelmintizatsiya bahor oxiri yoki yoz boshida»"
+  },
+  {
+   "q": "Ikkinchi degelmintizatsiya qanday maqsadda bajariladi?",
+   "c": "joriy mavsumda zararlanganlarning hammasini gelmintdan xolis qilish",
+   "w": [
+    "o'tgan yili va joriy yil bahorida zararlanganlarni tuxumlardan tozalash",
+    "tuproqdagi tuxumlarni nobud qilish va qayta zararlanishni to'xtatish",
+    "faqat o'tgan yili zararlanganlarni tuxumlardan tozalash",
+    "o'choq aholisini ikki yil davomida har yili tekshirish"
+   ],
+   "x": "«joriy mavsumda zararlanganlarning hammasini gelmintdan xolis qilish maqsadida bajariladi»"
+  },
+  {
+   "q": "Bayonnomaga ko'ra davolash qanday o'tkaziladi?",
+   "c": "3 kun mebendazol yoki bir martalik albendazol",
+   "w": [
+    "bir martalik mebendazol yoki 3 kun albendazol",
+    "3 kun levamizol yoki bir martalik piperazin",
+    "3 kun pirantel yoki bir martalik kardobendatsim",
+    "bir martalik albendazol yoki 3 kun pirantel"
+   ],
+   "x": "«davolash 3 kun mebendazol yoki bir martalik albendazol bilan o'tkazilishi»"
+  },
+  {
+   "q": "Nazorat tahlillari davolashdan keyin qaysi muddatlarda bajariladi?",
+   "c": "3, 4 va 6 oydan keyin",
+   "w": [
+    "2, 4 va 6 oydan keyin",
+    "1, 3 va 6 oydan keyin",
+    "3, 6 va 12 oydan keyin",
+    "3, 4 va 12 oydan keyin"
+   ],
+   "x": "«nazorat tahlillari 3, 4 va 6 oydan keyin bajarilishi»"
+  },
+  {
+   "q": "Maktab yoshidagi bolalar orasida zararlanish 50 foizdan oshsa, JSST profilaktik kimyoterapiyani qanday tavsiya etadi?",
+   "c": "albendazol yoki mebendazol yiliga ikki marta",
+   "w": [
+    "albendazol yoki mebendazol yiliga bir marta",
+    "levamizol yoki pirantel yiliga ikki marta",
+    "piperazin yoki kardobendatsim yiliga bir marta",
+    "albendazol yoki mebendazol 3 kun davomida"
+   ],
+   "x": "«zararlanish 50 foizdan oshsa, albendazol yoki mebendazol yiliga ikki marta, 20–50 foiz bo'lsa yiliga bir marta beriladi»"
+  },
+  {
+   "q": "Trixotsefalyoz yalpi degelmintizatsiyadan keyin ham nima sababdan saqlanib qolishi mumkin?",
+   "c": "qilbosh bir martalik dori dozasiga askaridaga qaraganda kamroq javob beradi",
+   "w": [
+    "askarida bir martalik dori dozasiga qilboshga qaraganda kamroq javob beradi",
+    "qilbosh albendazol va mebendazolga umuman javob bermaydi",
+    "nazorat tekshiruvlari va qayta davolash rejalashtirilmagani sababli",
+    "o'choqlar xaritaga tushirilmagani va nazorat muddatlari belgilanmagani sababli"
+   ],
+   "x": "«Qilbosh bir martalik dori dozasiga askaridaga qaraganda kamroq javob berishi sababli trixotsefalyoz yalpi degelmintizatsiyadan keyin ham saqlanib qolishi mumkin»"
+  },
+  {
+   "q": "Toshkent sharoitida yoz kompostlarida degelmintizatsiya qancha vaqtda yakunlangan?",
+   "c": "yoz kompostlarida 10 sutkada",
+   "w": [
+    "kuz kompostlarida 30 sutkada",
+    "qish kompostlarida taxminan 5 oyda",
+    "yoz kompostlarida 30 sutkada",
+    "kuz kompostlarida 10 sutkada"
+   ],
+   "x": "«yoz kompostlarida degelmintizatsiya 10 sutkada»"
+  },
+  {
+   "q": "Oqova suvni sug'orishda ishlatganda JSST me'yori qanday?",
+   "c": "1 litrda 1 tadan ko'p bo'lmagan gelmint tuxumi",
+   "w": [
+    "1 litrda 10 tadan ko'p bo'lmagan gelmint tuxumi",
+    "1 kg tuproqda 1 tadan ko'p bo'lmagan gelmint tuxumi",
+    "1 litrda 2 tadan ko'p bo'lmagan gelmint tuxumi",
+    "1 kg tuproqda 10 tadan ko'p bo'lmagan gelmint tuxumi"
+   ],
+   "x": "«1 litrda 1 tadan ko'p bo'lmagan gelmint tuxumiga rioya qilish zarur»"
+  }
+ ],
+ "094": [
+  {
+   "q": "Askaridoz va trixotsefalyozda tuxumlar tashqi muhitda qancha saqlanishi mumkin?",
+   "c": "yillar davomida saqlanishi mumkin",
+   "w": [
+    "ikki hafta davomida saqlanishi mumkin",
+    "10 sutka davomida saqlanishi mumkin",
+    "30 sutka davomida saqlanishi mumkin",
+    "5 oy davomida saqlanishi mumkin"
+   ],
+   "x": "«tuxumlar tashqi muhitda yillar davomida saqlanishi mumkin»"
+  },
+  {
+   "q": "Najasni zararsizlantirish uchun qaysi usul qo'llaniladi?",
+   "c": "najasni kompostlash",
+   "w": [
+    "najasni qaynatish",
+    "najasni qaynoq suv bilan zararsizlantirish",
+    "najasni oqova suv bilan sug'orish",
+    "najasni o'g'it sifatida ishlatish"
+   ],
+   "x": "«najasni zararsizlantirish uchun kompostlash qo'llaniladi»"
+  },
+  {
+   "q": "Quduq yoki ochiq suv havzalaridan olingan suv ichishdan oldin kamida qancha qaynatiladi?",
+   "c": "kamida 10 daqiqa qaynatiladi",
+   "w": [
+    "kamida 30 daqiqa qaynatiladi",
+    "kamida 2 sutka qaynatiladi",
+    "kamida 5 daqiqa qaynatiladi",
+    "kamida 20 daqiqa qaynatiladi"
+   ],
+   "x": "«suv ichishdan oldin kamida 10 daqiqa qaynatilishi tavsiya etiladi»"
+  },
+  {
+   "q": "Bolalarni tuproq yeyish (geofagiya) va iflos qo'llarni og'izga solishdan saqlash nima sababdan zarur?",
+   "c": "geofagiya geogelmint bilan zararlanish xavfini oshiradi",
+   "w": [
+    "geofagiya tuproqdagi tuxumlarni nobud qiladi",
+    "geofagiya qo'llarni sovun bilan yuvish xavfini oshiradi",
+    "geofagiya profilaktik kimyoterapiya samarasini oshiradi",
+    "geofagiya sanitariya-ma'rifiy ishlar xavfini oshiradi"
+   ],
+   "x": "«chunki geofagiya geogelmint bilan zararlanish xavfini oshiradi»"
+  },
+  {
+   "q": "Qo'shtepa tumanidagi bir maktabda hojatxonadan chiqqan o'quvchilarning qancha qismi qo'lini yuvmagan?",
+   "c": "o'quvchilarning 70 foizi",
+   "w": [
+    "o'quvchilarning 30 foizi",
+    "o'quvchilarning 50 foizi",
+    "o'quvchilarning 20–50 foizi",
+    "o'quvchilarning 10 foizi"
+   ],
+   "x": "«hojatxonadan chiqqan o'quvchilarning 70 foizi qo'lini yuvmagan»"
+  },
+  {
+   "q": "Asl o'choqlarda profilaktikada nima birinchi o'ringa chiqadi?",
+   "c": "tuproq, sabzavot va suv nazorati",
+   "w": [
+    "zararlanganlarni aniqlash va davolash",
+    "dispanser kuzatuvi va profilaktik kimyoterapiya",
+    "gigiyena ta'limi va sanitariya-ma'rifiy ishlar",
+    "tashqi muhit tahlillari va qum nazorati"
+   ],
+   "x": "«asl o'choqlarda tuproq, sabzavot va suv nazorati birinchi o'ringa chiqadi»"
+  },
+  {
+   "q": "Soxta o'choqlarda asosiy chora nima?",
+   "c": "zararlanganlarni aniqlash va davolash",
+   "w": [
+    "tuproq, sabzavot va suv nazorati",
+    "hojatxonalar va kanalizatsiya qurish",
+    "oqova suvni tozalash va kompostlash",
+    "tashqi muhit tahlillari va qum nazorati"
+   ],
+   "x": "«faqat manba mavjud, omillar yo'q soxta o'choqlarda esa zararlanganlarni aniqlash va davolash asosiy chora bo'lib qoladi»"
+  },
+  {
+   "q": "Zararlanish 50 foizdan oshgan hududlarda JSST profilaktik kimyoterapiyani qanday beradi?",
+   "c": "albendazol yoki mebendazol yilda ikki marta",
+   "w": [
+    "albendazol yoki mebendazol yilda bir marta",
+    "albendazol yoki mebendazol yilda uch marta",
+    "albendazol yoki mebendazol yilda to'rt marta",
+    "albendazol yoki mebendazol ikki yilda bir marta"
+   ],
+   "x": "«zararlanish 50 foizdan oshgan hududlarda yilda ikki marta, 20–50 foiz bo'lganda yilda bir marta»"
+  },
+  {
+   "q": "Askaridozda davolangan bemorlar dispanser kuzatuvi qancha davom etadi?",
+   "c": "olti oygacha davom etadi",
+   "w": [
+    "uch oygacha davom etadi",
+    "bir oygacha davom etadi",
+    "ikki yilgacha davom etadi",
+    "ikki yil davom etadi"
+   ],
+   "x": "«Askaridozda kuzatuv olti oygacha davom etadi»"
+  },
+  {
+   "q": "O'zbekiston qishloq hududidagi tadqiqotda gigiyena targ'iboti bolalarda qayta zararlanishni necha foizga kamaytirgan?",
+   "c": "30 foizga kamaytirgan",
+   "w": [
+    "50 foizga kamaytirgan",
+    "70 foizga kamaytirgan",
+    "20 foizga kamaytirgan",
+    "5 foizga kamaytirgan"
+   ],
+   "x": "«gigiyena targ'iboti bolalar orasida ichak parazitlari bilan qayta zararlanishni 30 foizga kamaytirgan»"
+  }
+ ]
+}

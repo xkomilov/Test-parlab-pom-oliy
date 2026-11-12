@@ -1,0 +1,338 @@
+{
+ "047": [
+  {
+   "q": "Teri leyshmaniozi bo'yicha majmuaviy choralar nechta yo'nalishdan iborat?",
+   "c": "yetti yo'nalishdan iborat",
+   "w": [
+    "besh yo'nalishdan iborat",
+    "uch yo'nalishdan iborat",
+    "ikki yo'nalishdan iborat",
+    "bir yo'nalishdan iborat"
+   ],
+   "x": "«teri leyshmaniozi bo'yicha majmuaviy choralar yetti yo'nalishdan iborat»"
+  },
+  {
+   "q": "Zoonoz shakl profilaktikasida eng samarali yo'nalish qaysi?",
+   "c": "rezervuarga qarshi kurash",
+   "w": [
+    "iskaptoparlarga qarshi kurash",
+    "individual himoya",
+    "maxsus profilaktika",
+    "sanitariya-tarbiyaviy ishlar"
+   ],
+   "x": "«Rezervuarga qarshi kurash zoonoz shakl profilaktikasida eng samarali yo'nalish hisoblanadi»"
+  },
+  {
+   "q": "Dala deratizatsiyasida zahar sifatida nima qo'llanadi?",
+   "c": "rux fosfidi, zookumarin va brodifakum qo'shilgan bug'doy xo'raklari",
+   "w": [
+    "xlorofosning 2 foizli suvli eritmasi, ichki devorlarga purkash",
+    "dilorning 2 foizli suspenziyasi, ichki devorlarga purkash",
+    "xlorofos va dilor qo'shilgan bug'doy xo'raklari",
+    "rux fosfidi va xlorofos suspenziyasi, ichki devorlarga"
+   ],
+   "x": "«Zahar sifatida rux fosfidi, zookumarin va brodifakum qo'shilgan bug'doy xo'raklari qo'llanadi»"
+  },
+  {
+   "q": "Qaysi mexanik usul katta qum sichqonlari to'dalariga qarshi qo'llanadi?",
+   "c": "katta qum sichqonlari to'dalarini mexanik buzish",
+   "w": [
+    "xlorofos eritmasi bilan inlarni sepish",
+    "zaharli xo'rak bilan dala deratizatsiyasi",
+    "repellent bilan ishlangan pardalar tutish",
+    "L. major kulturasi bilan emlash"
+   ],
+   "x": "«Mexanik usulda traktor yordamida katta qum sichqonlari to'dalari buziladi»"
+  },
+  {
+   "q": "Ariq va kanal yoqalarida, temir yo'l atrofida va qabristonlarda nima ishlatiladi?",
+   "c": "zaharli xo'rak ishlatiladi",
+   "w": [
+    "traktor yordamida to'dalar buziladi",
+    "ikki turda dezinseksiya o'tkaziladi",
+    "xlorofosning 2 foizli eritmasi purkaladi",
+    "repellent bilan ishlangan pardalar tutiladi"
+   ],
+   "x": "«ammo ariq va kanal yoqalarida, temir yo'l atrofida va qabristonlarda faqat zaharli xo'rak ishlatiladi»"
+  },
+  {
+   "q": "Ichki devorlar uchun qaysi insektitsidlar tavsiya etilgan?",
+   "c": "xlorofosning 2 foizli suvli eritmasi yoki dilorning 2 foizli suspenziyasi",
+   "w": [
+    "rux fosfidi yoki zookumarin qo'shilgan bug'doy xo'raklari",
+    "brodifakum qo'shilgan bug'doy xo'raklari yoki repellent",
+    "repellent bilan ishlangan pardalar yoki pashshaxonalar",
+    "L. major suyuq kulturasi yoki virulent shtamm"
+   ],
+   "x": "«Ichki devorlar uchun xlorofosning 2 foizli suvli eritmasi (100 ml/m²) yoki dilorning 2 foizli suspenziyasi tavsiya etilgan»"
+  },
+  {
+   "q": "Ipak qurti boqiladigan tut maydonlarida dezinseksiyaning birinchi turi qachon bajariladi?",
+   "c": "may oxiri – iyun boshida",
+   "w": [
+    "aprel o'rtalarida",
+    "iyun o'rtasi – iyul o'rtasida",
+    "may oyida",
+    "aprel oyida"
+   ],
+   "x": "«Ipak qurti boqiladigan tut maydonlarida insektitsidlarga sezgirlik sababli birinchi tur may oxiri – iyun boshida bajariladi»"
+  },
+  {
+   "q": "Zoonoz shaklda maxsus profilaktika nimadan iborat?",
+   "c": "virulent L. major shtammi bilan sun'iy zararlash (leyshmanizatsiya)",
+   "w": [
+    "repellent bilan ishlangan pardalar orqali himoya hosil qilish",
+    "sanitariya-targ'ibot orqali aholi bilimini oshirish",
+    "kemiruvchilarni zaharli xo'rak bilan qirish orqali himoya",
+    "iskaptopar inlarini dezinseksiya qilish orqali immunitet"
+   ],
+   "x": "«Maxsus profilaktika zoonoz shaklda leyshmanizatsiya, ya'ni virulent L. major shtammi bilan sun'iy zararlash orqali barqaror immunitet hosil qilishdan iborat»"
+  },
+  {
+   "q": "Sanitariya obodonlashtirish ishlari qaysi radiusda va kim tomonidan o'tkaziladi?",
+   "c": "3–5 kilometr radiusda xo'jalik tashkilotlari tomonidan",
+   "w": [
+    "1,8 kilometr radiusda sanitariya faollari tomonidan",
+    "3–5 kilometr radiusda oilaviy poliklinikalar tomonidan",
+    "100–150 metr radiusda xo'jalik tashkilotlari tomonidan",
+    "2–2,5 kilometr radiusda dezinfektorlar tomonidan"
+   ],
+   "x": "«ishlari 3–5 kilometr radiusda xo'jalik tashkilotlari tomonidan o'tkaziladi»"
+  },
+  {
+   "q": "Sanitariya-tarbiyaviy ishlarning tashkilotchilari va ijrochilari kimlar?",
+   "c": "tashkilotchilari sanitariya-epidemiologiya markazi xodimlari, ijrochilari oilaviy poliklinikalar xodimlari",
+   "w": [
+    "tashkilotchilari oilaviy poliklinikalar xodimlari, ijrochilari sanitariya-epidemiologiya markazi xodimlari",
+    "tashkilotchilari mahalliy hokimiyat, ijrochilari xo'jalik tashkilotlari",
+    "tashkilotchilari zoolog va entomolog, ijrochilari dezinfektorlar",
+    "tashkilotchilari sanitariya faollari, ijrochilari fermer xo'jaliklari"
+   ],
+   "x": "«Sanitariya-tarbiyaviy ishlarning asosiy tashkilotchilari sanitariya-epidemiologiya markazi xodimlari, ijrochilari oilaviy poliklinikalar xodimlari bo'lib»"
+  }
+ ],
+ "048": [
+  {
+   "q": "Zoonoz teri leyshmaniozining manbai va tashuvchisi kimlar?",
+   "c": "manbai katta va qizil dumli qum sichqonlari, tashuvchisi iskaptoparlar",
+   "w": [
+    "manbai bemor odam, tashuvchisi iskaptoparlar",
+    "manbai katta va qizil dumli qum sichqonlari, tashuvchisi kemiruvchilar",
+    "manbai itlar, tashuvchisi qum sichqonlari",
+    "manbai iskaptoparlar, tashuvchisi katta qum sichqonlari"
+   ],
+   "x": "«Zoonoz teri leyshmaniozining manbai katta va qizil dumli qum sichqonlari, tashuvchisi esa iskaptoparlardir»"
+  },
+  {
+   "q": "Deratizatsiya qilinadigan maydonda nima taqiqlanadi?",
+   "c": "hayvon va parranda boqish",
+   "w": [
+    "zaharli xo'rak tayyorlash",
+    "traktor haydash",
+    "dezinfektorlar ishlashi",
+    "kontur xaritasi bo'yicha ishlash"
+   ],
+   "x": "«Deratizatsiya qilinadigan maydonda hayvon va parranda boqish taqiqlanadi»"
+  },
+  {
+   "q": "Kemiruvchilarni qirish qaysi tartibda olib boriladi?",
+   "c": "aholi yashaydigan punktlardan boshlab ekin maydonlari tomon",
+   "w": [
+    "ekin maydonlaridan boshlab aholi yashaydigan punktlar tomon",
+    "dala shiyponlaridan boshlab zovurlar tomon",
+    "qabristonlardan boshlab temir yo'llar tomon",
+    "kanal yoqalaridan boshlab aholi punktlari tomon"
+   ],
+   "x": "«Kemiruvchilarni qirish aholi yashaydigan punktlardan boshlab ekin maydonlari tomon olib boriladi»"
+  },
+  {
+   "q": "Zaharli xo'rak qanday tayyorlanadi?",
+   "c": "1 kg bug'doyga 40 g paxta yog'i va rux fosfidi qo'shib",
+   "w": [
+    "1 kg bug'doyga 40 g rux fosfidi va xlorofos qo'shib",
+    "1 kg bug'doyga 100 g paxta yog'i va dilor qo'shib",
+    "40 kg bug'doyga 1 g paxta yog'i va zookumarin qo'shib",
+    "1 kg bug'doyga 40 g geksaxloran va DDT qo'shib"
+   ],
+   "x": "«xo'rak 1 kg bug'doyga 40 g paxta yog'i va rux fosfidi qo'shib tayyorlanishi»"
+  },
+  {
+   "q": "Tayyor xo'rak necha kun ichida ishlatilishi kerak?",
+   "c": "2–3 kun ichida",
+   "w": [
+    "3–5 kun ichida",
+    "bir yil ichida",
+    "3–5 daqiqa ichida",
+    "7–8 kun ichida"
+   ],
+   "x": "«Tayyor xo'rak 2–3 kun ichida ishlatilishi kerak»"
+  },
+  {
+   "q": "Katta qum sichqoni to'dalarini mexanik buzish usuli qayerda asosiy hisoblanadi?",
+   "c": "qo'riq yerlarni o'zlashtirishda",
+   "w": [
+    "ariq va kanallar yoqasida",
+    "temir yo'l atrofida",
+    "qabristonlarda",
+    "ayvonlar va hojatxonalarda"
+   ],
+   "x": "«u qo'riq yerlarni o'zlashtirishda asosiy hisoblanadi»"
+  },
+  {
+   "q": "Mexanik usulda maydon 100–300 gektarlik uchastkalarga bo'linib, nima bilan chegaralanadi?",
+   "c": "7–8 metr kenglikdagi ag'darilgan yer chiziqlari",
+   "w": [
+    "30 metr kenglikdagi ag'darilgan yer chiziqlari",
+    "1,5–2 metr kenglikdagi ag'darilgan yer chiziqlari",
+    "50–60 metr kenglikdagi ag'darilgan yer chiziqlari",
+    "40–45 metr kenglikdagi ag'darilgan yer chiziqlari"
+   ],
+   "x": "«maydon 100–300 gektarlik uchastkalarga bo'linib, ular 7–8 metr kenglikdagi ag'darilgan yer chiziqlari bilan chegaralanadi»"
+  },
+  {
+   "q": "Haydash chuqurligi qancha bo'lishi lozim?",
+   "c": "erta bahorda 50–60, yozda 40–45 santimetr",
+   "w": [
+    "erta bahorda 40–45, yozda 50–60 santimetr",
+    "erta bahorda 30, yozda 100 santimetr",
+    "erta bahorda 5–6, yozda 40–60 santimetr",
+    "erta bahorda 7–8, yozda 100–300 santimetr"
+   ],
+   "x": "«Erta bahorda haydash chuqurligi 50–60, yozda 40–45 santimetr bo'lishi lozim»"
+  },
+  {
+   "q": "Qum sichqonlari inlarini zararsizlantirish qachon o'tkaziladi?",
+   "c": "aprelda va iyun o'rtasidan iyul o'rtasigacha",
+   "w": [
+    "aprel o'rtalaridan may oyining birinchi kunigacha",
+    "aprel o'rtalaridan iyun o'rtasigacha",
+    "iyul oyining ikkinchi yarmida",
+    "yanvar–mart va sentabr–dekabrda"
+   ],
+   "x": "«Qum sichqonlari inlarini zararsizlantirish ham ikki turda, aprelda va iyun o'rtasidan iyul o'rtasigacha o'tkaziladi»"
+  },
+  {
+   "q": "Nazorat guruhlari nimani bajaradi?",
+   "c": "dorilashdan oldin va keyin sichqonlar sonini aniqlaydi",
+   "w": [
+    "dorilashdan oldin zahar tayyorlaydi va xo'rak tarqatadi",
+    "traktor haydab, to'dalarni mexanik buzadi",
+    "hisobot tuzadi va mas'ul rahbarga ilova qiladi",
+    "iskaptoparlarni yopishqoq qog'ozga ushlaydi"
+   ],
+   "x": "«ular dorilashdan oldin va keyin katta qum sichqonlari sonini aniqlaydi hamda brigada ishini joriy nazorat qiladi»"
+  }
+ ],
+ "049": [
+  {
+   "q": "Deratizatsiya natijasi nimaga qarab baholanadi?",
+   "c": "qum sichqonlari sonining haqiqiy kamayishiga qarab",
+   "w": [
+    "o'tkazilgan ishning hajmi va sarflangan zahar miqdoriga qarab",
+    "ishlov berilgan maydon kattaligi va dezinfektorlar soniga qarab",
+    "hisobot jadvallari va xaritalarning to'ldirilishiga qarab",
+    "nazorat guruhi tuzilishi va brigada ishiga qarab"
+   ],
+   "x": "«Deratizatsiya natijasi o'tkazilgan ishning hajmi bilan emas, balki qum sichqonlari sonining haqiqiy kamayishi va kasallanish xavfining pasayishi bilan baholanadi»"
+  },
+  {
+   "q": "Nazoratning asosiy shakli qaysi?",
+   "c": "joriy nazorat",
+   "w": [
+    "xarita nazorati",
+    "jadval nazorati",
+    "hisobot nazorati",
+    "fenologik nazorat"
+   ],
+   "x": "«Yo'riqnomaga ko'ra nazoratning asosiy shakli joriy nazoratdir»"
+  },
+  {
+   "q": "Joriy nazoratda natija qachon baholanadi?",
+   "c": "ish yakunida emas, bevosita bajarilish paytida",
+   "w": [
+    "faqat ish yakunida, hisobot tuzilgach",
+    "mavsum tugagach, kasallanish tahlilidan keyin",
+    "ish boshlanishidan oldin, xarita tuzilganda",
+    "bir yildan keyin, qayta tekshiruvda"
+   ],
+   "x": "«ya'ni natija ish yakunida emas, bevosita bajarilish paytida baholanadi»"
+  },
+  {
+   "q": "Nazorat guruhiga kim rahbarlik qiladi?",
+   "c": "entomolog, zoolog yoki dezinstruktor",
+   "w": [
+    "zoolog yordamchisi yoki dezinfektor",
+    "mas'ul rahbar yoki dezinfektor",
+    "traktorchi yoki dezinfektor",
+    "zoolog yoki mas'ul rahbar"
+   ],
+   "x": "«Guruhga tajribali entomolog, zoolog yoki dezinstruktor rahbarlik qiladi»"
+  },
+  {
+   "q": "Samarani baholash uchun bosh holat qanday aniqlanadi?",
+   "c": "deratizatsiya qilinadigan maydon zoologik tekshiriladi",
+   "w": [
+    "kemiruvchilar sonining kamayishi hisoblanadi",
+    "iskaptoparlar fenologik jadvali to'ldiriladi",
+    "kasallanish ko'rsatkichi tahlil qilinadi",
+    "sarflangan zahar miqdori hisoblanadi"
+   ],
+   "x": "«Deratizatsiya qilinadigan maydon zoologik tekshiriladi»"
+  },
+  {
+   "q": "Xaritada yashovchi va yashamaydigan to'dalar qanday belgilanadi?",
+   "c": "turli shartli belgilar orqali, masalan, + va 0",
+   "w": [
+    "bir xil belgi orqali belgilanadi, masalan, +",
+    "jadvalda raqam orqali belgilanadi",
+    "yashovchi to'dalar xaritada belgilanmaydi",
+    "yashamaydigan to'dalar xaritaga + bilan belgilanadi"
+   ],
+   "x": "«unda yashovchi va yashamaydigan to'dalar turli shartli belgilar, masalan, + va 0 bilan belgilanadi»"
+  },
+  {
+   "q": "Dezinfektor deratizatsiyadan keyin o'z maydonini qanchada bir tekshiradi?",
+   "c": "har oyda ikki marta",
+   "w": [
+    "har oyda bir marta",
+    "har yili uch marta",
+    "har kuni ikki marta",
+    "har soatda ikki marta"
+   ],
+   "x": "«u har oyda ikki marta samarani tekshiradi»"
+  },
+  {
+   "q": "Mexanik usulda ishlangan maydonlar qachon qaytadan tekshiriladi?",
+   "c": "1,5–2 oydan keyin",
+   "w": [
+    "24 soatdan keyin",
+    "3–5 sutkadan keyin",
+    "bir yildan keyin",
+    "10–12 oydan keyin"
+   ],
+   "x": "«1,5–2 oydan keyin ishlangan maydonlar qaytadan tekshiriladi»"
+  },
+  {
+   "q": "Deratizatsiyaning uchinchi turi (sentabr–dekabr) nimaga qaratilgan?",
+   "c": "qishdan chiquvchi kemiruvchilar sonini kamaytirishga",
+   "w": [
+    "homilador va qishdan chiqqan zararlangan sichqonlarni qirishga",
+    "birinchi tur natijalarini mustahkamlashga",
+    "iskaptoparlar fenologik jadvalini to'ldirishga",
+    "yashamaydigan to'dalarni xaritaga belgilashga"
+   ],
+   "x": "«uchinchi tur (sentabr–dekabr) kelasi yilda epidemiologik samara berishi mumkin bo'lgan qishdan chiquvchi kemiruvchilar sonini kamaytirishga qaratilgan»"
+  },
+  {
+   "q": "Muntazam kurash natijasida sichqonlar to'dalari tozalangan maydon ichiga bir yozda qancha masofaga kirishi mumkin?",
+   "c": "2–2,5 kilometrgacha",
+   "w": [
+    "1,8 kilometrgacha",
+    "10–12 kilometrgacha",
+    "3–5 kilometrgacha",
+    "5 kilometrgacha"
+   ],
+   "x": "«sichqonlar to'dalari tozalangan maydon ichiga bir yozda 2–2,5 kilometrgacha kirishi mumkin»"
+  }
+ ]
+}

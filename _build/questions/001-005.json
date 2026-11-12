@@ -1,0 +1,562 @@
+{
+ "001": [
+  {
+   "q": "Parazitologiya fani nimani o'rganadi?",
+   "c": "parazitizm va parazitning xo'jayin bilan o'zaro munosabatlarini",
+   "w": [
+    "immun va boshqa himoya mexanizmlarining tuzilishini",
+    "dori vositalarining ta'sir mexanizmini va tarkibini",
+    "gelmintozlarning faqat klinik kechishini va asoratlarini",
+    "bo'g'imoyoqlilarning faqat tashuvchilik xususiyatini"
+   ],
+   "x": "«Parazitologiya parazitizm hodisasini, parazit organizmlarning tuzilishi, rivojlanishi va ekologiyasini hamda ularning xo'jayin organizmi bilan o'zaro munosabatlarini o'rganuvchi biologik fandir»"
+  },
+  {
+   "q": "Tibbiy parazitologiyaning o'rganish ob'ekti bo'lgan uch guruh organizm qaysilar?",
+   "c": "sodda jonivorlar, gelmintlar va bo'g'imoyoqlilar",
+   "w": [
+    "zoologiya, ekologiya va mikrobiologiya",
+    "askaridalar, tasmasimon chuvalchanglar va leyshmaniozlar",
+    "mikroorganizmlar, immunologiya va epidemiologiya",
+    "tashuvchilar, rezervuarlar va tabiiy o'choqlar"
+   ],
+   "x": "«Tibbiy parazitologiyaning ob'ekti odam organizmida yoki tanasi yuzasida parazitlik qiluvchi uch guruh organizmdir: sodda jonivorlar (protozoalar), gelmintlar (parazit chuvalchanglar) va bo'g'imoyoqlilar»"
+  },
+  {
+   "q": "Tibbiy parazitologiyaning asosiy maqsadi nima?",
+   "c": "parazitar kasalliklarning oldini olish, erta aniqlash, davolash va kasallanishni kamaytirish",
+   "w": [
+    "parazitlarni zoologik jihatdan tasniflashni yakunlash",
+    "aholi migratsiyasini to'liq to'xtatish va chegara nazoratini kuchaytirish",
+    "tashuvchilarni hisoblab, davolashsiz kuzatib borish",
+    "mikroskop yordamida sodda jonivorlarni kashf etish"
+   ],
+   "x": "«Tibbiy parazitologiyaning asosiy maqsadi parazitar kasalliklarning oldini olish, ularni erta aniqlash, samarali davolash va kasallanishni kamaytirishdir»"
+  },
+  {
+   "q": "Qaysi parazitozlar zoonoz bo'lib, tibbiyot va veterinariya xizmatlarining hamkorligini talab qiladi?",
+   "c": "exinokokkoz, teniarinxoz va zoonoz teri leyshmaniozi",
+   "w": [
+    "bezgak, leyshmanioz va qo'tir",
+    "askaridalar, bit va qo'tir kanasi",
+    "geogelmintozlar va boshqa tropik kasalliklar",
+    "zoologiya, ekologiya va veterinariya"
+   ],
+   "x": "«Ayniqsa zoonoz parazitozlar, ya'ni exinokokkoz, teniarinxoz va zoonoz teri leyshmaniozi tibbiyot va veterinariya xizmatlarining hamkorlikdagi ishini talab qiladi»"
+  },
+  {
+   "q": "Immunologik va molekulyar usullar mikroskopik tekshiruvga nisbatan qanday o'rin tutadi?",
+   "c": "mikroskopik tekshiruvni to'liq almashtirmaydi, balki to'ldiradi",
+   "w": [
+    "mikroskopik tekshiruvni butunlay almashtiradi va uning o'rnini egallaydi",
+    "klassik morfologik tavsifni to'liq o'rniga o'tadi va rad etadi",
+    "tashxisning ishonchliligiga ta'sir ko'rsatmay, faqat tavsif beradi",
+    "tashuvchilarga qarshi kurash choralari o'rnini to'liq egallaydi"
+   ],
+   "x": "«ammo ular mikroskopik tekshiruvni to'liq almashtirmaydi, balki uni to'ldiradi»"
+  },
+  {
+   "q": "Parazit hayot siklini bilish nima uchun muhim?",
+   "c": "eng zaif bo'g'in epidemiyaga qarshi choralar nuqtasini ko'rsatadi",
+   "w": [
+    "tuxum, lichinka va sista shakllarini farqlashga yordam beradi",
+    "xo'jayinning immun javobini kuchaytiruvchi vositalarni belgilaydi",
+    "xo'jayinlarning tabiatdagi o'rnini zoologiya orqali tushuntiradi",
+    "aholi migratsiyasini to'liq to'xtatishga imkon beradi"
+   ],
+   "x": "«chunki sikldagi eng zaif bo'g'in epidemiyaga qarshi choralarni yo'naltirish nuqtasini ko'rsatadi»"
+  },
+  {
+   "q": "XIX asrning ikkinchi yarmi va XX asr boshlarida nimalar isbotlandi?",
+   "c": "bezgak, leyshmanioz va boshqa transmissiv kasalliklarning qo'zg'atuvchilari",
+   "w": [
+    "askaridalar va tasmasimon chuvalchanglarning odam tanasidagi o'rni",
+    "qadimgi Misr va Yunon tabobati manbalaridagi chuvalchanglar tavsifi",
+    "geogelmintozlar va leyshmaniozlarni yo'qotish bo'yicha yo'l xaritasi",
+    "mikroskop yordamida sodda jonivorlarning tuzilishi"
+   ],
+   "x": "«XIX asrning ikkinchi yarmi va XX asr boshlarida bezgak, leyshmanioz va boshqa transmissiv kasalliklarning qo'zg'atuvchilari hamda ularni tashuvchi bo'g'imoyoqlilar isbotlandi»"
+  },
+  {
+   "q": "Parazitar kasalliklarda aniq tashxis nimaga tayanadi?",
+   "c": "qo'zg'atuvchini laboratoriyada ko'rsatishga",
+   "w": [
+    "klinik belgilarning boshqa kasalliklarga o'xshashligiga",
+    "xo'jayinning immun javobini baholashga",
+    "kasallik tarqalgan hududni aniqlashga",
+    "tashuvchilar va rezervuarlarni nazorat qilishga"
+   ],
+   "x": "«shuning uchun aniq tashxis qo'zg'atuvchini laboratoriyada ko'rsatishga tayanadi»"
+  },
+  {
+   "q": "JSSTning 2021–2030-yillarga mo'ljallangan yo'l xaritasida qaysi kasalliklarni nazorat qilish vazifasi belgilangan?",
+   "c": "geogelmintozlar, leyshmaniozlar va boshqa tropik kasalliklar",
+   "w": [
+    "bezgak va boshqa transmissiv protozoozlar hamda tashuvchilar",
+    "exinokokkoz, teniarinxoz va zoonoz parazitozlar",
+    "askaridalar, bit, qo'tir kanasi va tasmasimon chuvalchanglar",
+    "tasmasimon chuvalchanglar va bo'g'imoyoqlilar tashuvchilari"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining 2021–2030-yillarga mo'ljallangan yo'l xaritasida geogelmintozlar, leyshmaniozlar va boshqa e'tibordan chetda qolgan tropik kasalliklarni nazorat qilish, yo'qotish va bartaraf etish vazifalari belgilangan»"
+  },
+  {
+   "q": "Parazitologiya vazifalarining to'rtinchi yo'nalishi nimaga qaratilgan?",
+   "c": "laboratoriya tashxisi usullarini ishlab chiqish va takomillashtirishga",
+   "w": [
+    "parazit turlarini, ularning biologiyasi va hayot siklini aniqlashga",
+    "invaziya manbalari, yuqish mexanizmi va omillarini o'rganishga",
+    "davolash va kimyoprofilaktika vositalarini ilmiy asoslashga",
+    "aholining tibbiy savodxonligini oshirish va xodimlarni tayyorlashga"
+   ],
+   "x": "«To'rtinchi yo'nalish laboratoriya tashxisi usullarini, ya'ni mikroskopik, immunologik va molekulyar usullarni ishlab chiqish va takomillashtirishni o'z ichiga oladi»"
+  }
+ ],
+ "002": [
+  {
+   "q": "Tibbiy parazitologiya qaysi uchta asosiy bo'limga bo'linadi?",
+   "c": "tibbiy protozoologiya, tibbiy gelmintologiya va tibbiy araxnoentomologiya",
+   "w": [
+    "sanitariya parazitologiyasi, klinik parazitologiya va immunoparazitologiya",
+    "tibbiy protozoologiya, entomologiya va epidemiologiya",
+    "gelmintologiya, veterinariya va ekologiya",
+    "tibbiy araxnologiya, sistematika va gigiyena"
+   ],
+   "x": "«fanning uchta asosiy bo'limga bo'linishiga asos bo'lgan: tibbiy protozoologiya, tibbiy gelmintologiya va tibbiy araxnoentomologiya»"
+  },
+  {
+   "q": "Kipriklilarning yagona tibbiy ahamiyatli vakili qaysi?",
+   "c": "Balantidium coli",
+   "w": [
+    "Giardia duodenalis",
+    "Trichomonas vaginalis",
+    "Entamoeba histolytica",
+    "Toxoplasma gondii"
+   ],
+   "x": "«Kipriklilarning yagona tibbiy ahamiyatli vakili Balantidium coli balantidiazning qo'zg'atuvchisidir»"
+  },
+  {
+   "q": "Sporalilar (apikompleksalar) guruhiga qaysi qo'zg'atuvchilar kiradi?",
+   "c": "Plasmodium, Toxoplasma gondii va Cryptosporidium turlari",
+   "w": [
+    "Giardia duodenalis, Leishmania va Balantidium coli",
+    "Entamoeba histolytica, Trichomonas vaginalis va Giardia duodenalis",
+    "Anopheles, Phlebotomus va Ornithodoros turlari",
+    "Sarcoptes scabiei, Phlebotomus va Anopheles turlari"
+   ],
+   "x": "«Sporalilar guruhiga Plasmodium turlari (bezgak), Toxoplasma gondii (toksoplazmoz) va Cryptosporidium turlari (kriptosporidioz) kiradi»"
+  },
+  {
+   "q": "Gelmintlar rivojlanish xususiyatiga ko'ra qanday guruhlarga ajratiladi?",
+   "c": "geogelmintlar, biogelmintlar va kontakt orqali yuqadigan gelmintlar",
+   "w": [
+    "trematodalar, sestodalar va nematodalarga ajratiladigan gelmintlar",
+    "protozoalar, gelmintlar va bo'g'imoyoqlilarga ajratiladigan guruhlar",
+    "tuxum, lichinka va voyaga yetgan shakldagi gelmintlar bosqichlari",
+    "gelmintlar, ektoparazitlar va boshqa tashuvchilar guruhlari"
+   ],
+   "x": "«Gelmintologiyada gelmintlarni rivojlanish xususiyatiga ko'ra geogelmintlar, biogelmintlar va kontakt orqali yuqadigan gelmintlarga ajratish qabul qilingan»"
+  },
+  {
+   "q": "Biogelmintlar qanday rivojlanadi?",
+   "c": "oraliq xo'jayin ishtirokida rivojlanadi",
+   "w": [
+    "rivojlanishi uchun tuproq zarur bo'ladi",
+    "bevosita aloqa orqali yuqadi",
+    "faqat tashqi muhitda ko'payadi",
+    "oraliq xo'jayinsiz rivojlanishi mumkin"
+   ],
+   "x": "«biogelmintlar esa oraliq xo'jayin ishtirokida rivojlanadi»"
+  },
+  {
+   "q": "Tibbiy araxnologiya nimani o'rganadi?",
+   "c": "o'rgimchaksimonlarni, asosan iksod va argas kanalarini hamda qo'tir kanasini",
+   "w": [
+    "hasharotlarni, jumladan Anopheles chivinlari, bitlar va burgalarni",
+    "bir hujayrali eukariot organizmlarni",
+    "yassi va to'garak chuvalchanglarni",
+    "gelmint tuxumlari va lichinkalarini"
+   ],
+   "x": "«Tibbiy araxnologiya o'rgimchaksimonlarni, asosan kanalarni, ya'ni iksod va argas kanalarini hamda qo'tir kanasi Sarcoptes scabiei ni o'rganadi»"
+  },
+  {
+   "q": "Bezgakni o'rganishda qaysi bo'limlar birgalikda qo'llanadi?",
+   "c": "protozoologiya va entomologiya",
+   "w": [
+    "gelmintologiya va protozoologiya",
+    "gelmintologiya va araxnologiya",
+    "entomologiya va gelmintologiya",
+    "sanitariya parazitologiyasi va immunoparazitologiya"
+   ],
+   "x": "«Bezgak kabi kasalliklarni o'rganishda protozoologiya (qo'zg'atuvchi plazmodiy) va entomologiya (tashuvchi Anopheles chivini) birgalikda qo'llanadi»"
+  },
+  {
+   "q": "Gelmint tuxumlari qaysi usullarda aniqlanadi?",
+   "c": "najasni boyitish usullarida",
+   "w": [
+    "qonning qalin tomchi va yupqa surtmasida",
+    "teri yoki suyak ko'migi materialidan tayyorlangan surtmalarda",
+    "bo'yalgan surtmalar va tabiiy preparatlarda",
+    "bo'g'imoyoqlilarni tutish va ularning turini aniqlashda"
+   ],
+   "x": "«Gelmint tuxumlari najasni boyitish usullari bilan, bezgak plazmodiylari qonning qalin tomchi va yupqa surtmasida, leyshmaniyalar esa teri yoki suyak ko'migi materialidan tayyorlangan surtmalarda aniqlanadi»"
+  },
+  {
+   "q": "Sanitariya parazitologiyasi nimaga imkon beradi?",
+   "c": "suv, tuproq va oziq-ovqatdagi parazit tuxumlari yoki sistalarini aniqlashga",
+   "w": [
+    "bo'yalgan surtmalar va tabiiy preparatlarda protozoy shakllarini topishga",
+    "bo'g'imoyoqlilarni tutib, ularning turini va populyatsiya zichligini baholashga",
+    "kasallikni davolash va tashuvchilarga qarshi dori tanlashga",
+    "gelmintlarning voyaga yetgan shakllarini makroskopik tekshirishga"
+   ],
+   "x": "«sanitariya parazitologiyasi suv, tuproq va oziq-ovqat mahsulotlarida parazit tuxumlari yoki sistalarini aniqlab, aholi zararlanish xavfini oldindan baholashga imkon beradi»"
+  },
+  {
+   "q": "Immunoparazitologiya nimani o'rganadi?",
+   "c": "parazitlarga organizm javobini va serologik tashxis usullarining nazariy asosini",
+   "w": [
+    "suv, tuproq va oziq-ovqat mahsulotlaridagi parazit tuxumlarini",
+    "parazitar kasalliklarning aholi orasida tarqalish qonuniyatlarini",
+    "bo'g'imoyoqlilarni tutish va ularning populyatsiya zichligini baholashni",
+    "gelmintlarning voyaga yetgan shakllarini makroskopik tekshirishni"
+   ],
+   "x": "«Immunoparazitologiya esa parazitlarga organizm javobini o'rganib, serologik tashxis usullarining nazariy asosini yaratadi»"
+  }
+ ],
+ "003": [
+  {
+   "q": "Sodda jonivorlarning eng muhim xususiyati nima?",
+   "c": "xo'jayin organizmida ko'payish qobiliyati",
+   "w": [
+    "tashqi muhitda sista hosil qilish qobiliyati",
+    "oraliq xo'jayinsiz rivojlanish qobiliyati",
+    "hujayra ichida yashamaslik xususiyati",
+    "immun tizimini butunlay susaytirish qobiliyati"
+   ],
+   "x": "«Ularning eng muhim xususiyati xo'jayin organizmida ko'payish qobiliyatidir»"
+  },
+  {
+   "q": "Sista protozoalar hayotida qanday vazifani bajaradi?",
+   "c": "tashqi muhitda saqlanishini va yangi xo'jayinga o'tishini ta'minlaydi",
+   "w": [
+    "faol oziqlanishini va ko'payishini ta'minlaydi",
+    "xo'jayin ichida kasallik chaqiradi va parazitlar sonini oshiradi",
+    "harakat uchun soxta oyoqlar, xivchinlar yoki kipriklar hosil qiladi",
+    "trofozoit shaklida kasallik chaqirishini ta'minlaydi"
+   ],
+   "x": "«sista esa qo'zg'atuvchining tashqi muhitda saqlanishi va yangi xo'jayinga o'tishini ta'minlaydi»"
+  },
+  {
+   "q": "Gelmintozlarda invaziya intensivligi nimaga bog'liq?",
+   "c": "qayta zararlanishlar soniga",
+   "w": [
+    "qo'zg'atuvchining organizm ichida ko'payish tezligiga",
+    "protozoalarning xo'jayin organizmida ko'payishiga",
+    "tashxis usulining laboratoriyada tanlanishiga",
+    "xo'jayin immun javobining yo'qligiga"
+   ],
+   "x": "«Ularning aksariyati odam organizmida ko'paymaydi, shuning uchun invaziya intensivligi qayta zararlanishlar soniga bog'liq bo'ladi»"
+  },
+  {
+   "q": "Qaysi qatorda faqat nematodalar (to'garak chuvalchanglar) keltirilgan?",
+   "c": "Ascaris lumbricoides, Trichuris trichiura va Enterobius vermicularis",
+   "w": [
+    "Taenia saginata, Taenia solium va Hymenolepis nana",
+    "Fasciola hepatica va Opisthorchis felineus",
+    "Taenia solium, Echinococcus granulosus va Fasciola hepatica",
+    "Hymenolepis nana, Trichuris trichiura va Opisthorchis felineus"
+   ],
+   "x": "«Ularga Ascaris lumbricoides, Trichuris trichiura, Enterobius vermicularis, Toxocara canis va Trichinella spiralis kiradi»"
+  },
+  {
+   "q": "Sestodalarning tanasi qanday tuzilgan?",
+   "c": "skoleks, bo'yin va proglottidalar zanjiridan iborat, ichak kanali bo'lmaydi",
+   "w": [
+    "duksimon tanali, jinslari alohida va ichak kanali mavjud bo'ladi",
+    "bargsimon tanali, ikkita so'rg'ichga ega va germafrodit",
+    "bir hujayrali tuzilmadan iborat, trofozoit va sista shaklida bo'ladi",
+    "hujayra ichida joylashgan, faqat xivchin bilan harakatlanadi"
+   ],
+   "x": "«Sestodalar yoki tasmasimon chuvalchanglarning tanasi skoleks, bo'yin va bo'g'imlar (proglottidalar) zanjiridan iborat, ichak kanali bo'lmaydi»"
+  },
+  {
+   "q": "Trematodalar (so'rg'ichlilar) qanday tuzilgan va qanday rivojlanadi?",
+   "c": "tanasi bargsimon, ikkita so'rg'ichga ega, oraliq xo'jayini mollyuska",
+   "w": [
+    "tanasi duksimon, jinslari alohida, oraliq xo'jayinsiz rivojlanadi",
+    "tanasi skoleks, bo'yin va bo'g'imlardan iborat, ichak kanali yo'q",
+    "bir hujayrali, trofozoit va sista shaklida ko'payadi",
+    "tanasi proglottidalardan iborat, oraliq xo'jayini bit"
+   ],
+   "x": "«Trematodalar yoki so'rg'ichlilarning tanasi bargsimon, ikkita so'rg'ichga ega, ko'pchiligi germafrodit bo'lib, rivojlanishida mollyuska oraliq xo'jayin vazifasini bajaradi»"
+  },
+  {
+   "q": "Bezgak plazmodiylari va leyshmaniyalar xo'jayinning qaysi hujayralarida yashaydi?",
+   "c": "plazmodiylar eritrotsitlarda, leyshmaniyalar makrofaglarda",
+   "w": [
+    "plazmodiylar makrofaglarda, leyshmaniyalar eritrotsitlarda",
+    "plazmodiylar ham, leyshmaniyalar ham ichak devorida",
+    "plazmodiylar qon plazmasida, leyshmaniyalar najasda",
+    "plazmodiylar ham, leyshmaniyalar ham ichak yo'llarida"
+   ],
+   "x": "«Sodda jonivorlar xo'jayin hujayralari ichida (masalan, bezgak plazmodiylari eritrotsitlarda, leyshmaniyalar makrofaglarda) yashab, immun tizimidan qisman yashirinishi mumkin»"
+  },
+  {
+   "q": "Bolalarda surunkali gelmintozlar nimaga sabab bo'lishi mumkin?",
+   "c": "jismoniy va aqliy rivojlanishning sekinlashuviga",
+   "w": [
+    "qon hujayralarining yemirilishi va isitmaga",
+    "to'qima va a'zolarning o'tkir yallig'lanishiga",
+    "qisqa inkubatsiya davri va o'tkir kechishga",
+    "hujayra ichida yashab immun tizimidan yashirinishga"
+   ],
+   "x": "«Bolalarda surunkali gelmintozlar jismoniy va aqliy rivojlanishning sekinlashuviga ham sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Gelmintozlar odatda qanday kechadi va qaysi belgi xos hisoblanadi?",
+   "c": "surunkali kechadi, eozinofiliya xos belgi hisoblanadi",
+   "w": [
+    "o'tkir kechadi, inkubatsiya davri qisqa bo'ladi",
+    "o'tkir kechadi, anemiya va isitma xos belgi hisoblanadi",
+    "qisqa inkubatsiya bilan o'tadi, diareya xos belgi hisoblanadi",
+    "yashirin kechadi, eritrotsitlar yemirilishi xos belgi hisoblanadi"
+   ],
+   "x": "«Gelmintozlar esa odatda surunkali kechib, uzoq vaqt davomida allergik, toksik va mexanik ta'sir ko'rsatadi; ularda eozinofiliya xos belgi hisoblanadi»"
+  },
+  {
+   "q": "Oraliq xo'jayinsiz rivojlanadigan parazitlarni to'xtatish nima yordamida nisbatan oson?",
+   "c": "sanitariya va gigiyena choralari yordamida",
+   "w": [
+    "mollyuskalarning yashash joylarini nazorat qilish yordamida",
+    "bir necha xo'jayin ishtirok etadigan sikl bo'g'inlariga ta'sir yordamida",
+    "iqlim va turmush sharoitini hududlarda o'zgartirish yordamida",
+    "eozinofiliyani laboratoriyada aniqlash yordamida"
+   ],
+   "x": "«Oraliq xo'jayinsiz rivojlanadigan parazitlarni sanitariya va gigiyena choralari bilan to'xtatish nisbatan oson bo'lsa»"
+  }
+ ],
+ "004": [
+  {
+   "q": "Parazitar kasallik aholi orasida tarqalishi uchun epidemik jarayonning qaysi uchta bo'g'ini bir vaqtda mavjud bo'lishi zarur?",
+   "c": "invaziya manbai, yuqish mexanizmi va moyil organizm",
+   "w": [
+    "qo'zg'atuvchi, oraliq xo'jayin va tashuvchi bo'g'imoyoqli",
+    "tuproq, suv va oziq-ovqat mahsulotlari",
+    "tashxis, davolash va profilaktika choralari",
+    "manba, yo'l va omilni aniqlash bosqichlari"
+   ],
+   "x": "«invaziya manbai, yuqish mexanizmi va moyil organizm»"
+  },
+  {
+   "q": "Fekal-oral mexanizm qaysi yo'llar orqali amalga oshadi?",
+   "c": "alimentar (oziq-ovqat), suv va kontakt-maishiy yo'llar",
+   "w": [
+    "transmissiv, perkutan va vertikal yo'llar",
+    "parenteral, transplatsentar va transmissiv yo'llar",
+    "perkutan, parenteral va hayvonlar bilan muloqot yo'llari",
+    "suv, tuproq va oziq-ovqat mahsulotlari orqali faqat transmissiv yo'l"
+   ],
+   "x": "«Bu mexanizm alimentar (oziq-ovqat), suv va kontakt-maishiy yo'llar orqali amalga oshadi»"
+  },
+  {
+   "q": "Askaridoz va trixosefalyozning asosiy yuqish omillari qaysilar?",
+   "c": "yuvilmagan sabzavotlar, mevalar va ko'katlar",
+   "w": [
+    "chala pishgan qoramol go'shti va xom baliq",
+    "qon so'ruvchi bo'g'imoyoqlilar chaqishi",
+    "itlar va mushuklar bilan muloqot",
+    "sterillanmagan shprits va qon quyish"
+   ],
+   "x": "«askaridoz va trixosefalyozning asosiy yuqish omillari yuvilmagan sabzavotlar, mevalar va ko'katlar bo'lib»"
+  },
+  {
+   "q": "Enterobioz va gimenolepidoz tuxumlari kontakt-maishiy yo'lda nimalar orqali bevosita yuqadi?",
+   "c": "qo'llar, o'yinchoqlar, choyshab va eshik tutqichlari orqali",
+   "w": [
+    "tuproqda uzoq yetilgandan so'ng yuvilmagan sabzavotlar orqali",
+    "chala pishgan go'sht va xom baliq orqali",
+    "chivin va iskaptoparlar chaqishi orqali",
+    "zararlangan qon quyish va sterillanmagan shprits orqali"
+   ],
+   "x": "«ular qo'llar, o'yinchoqlar, choyshab va eshik tutqichlari orqali bevosita yuqadi»"
+  },
+  {
+   "q": "Bezgak qaysi vosita orqali yuqadi?",
+   "c": "Anopheles turkumiga mansub chivin chaqishi orqali",
+   "w": [
+    "Phlebotomus turkumiga mansub iskaptoparlar chaqishi orqali",
+    "Ornithodoros turkumidagi argas kanalari chaqishi orqali",
+    "tuproq va suv bilan ifloslangan qo'llar orqali",
+    "katta va qizil dumli qum sichqonlari bilan muloqot orqali"
+   ],
+   "x": "«bezgak Anopheles turkumiga mansub chivin chaqishi orqali yuqadigan antroponoz transmissiv protozoy kasallik sifatida ta'riflangan»"
+  },
+  {
+   "q": "Qaysi kasalliklar perkutan yo'l bilan, ya'ni lichinkalarning teri orqali kirishi bilan yuqadi?",
+   "c": "ankilostomidozlar, strongiloidoz va shistosomozlar",
+   "w": [
+    "askaridoz, trixosefalyoz va enterobioz",
+    "lyamblioz, kriptosporidioz va amyobiaz",
+    "teniarinxoz, tenioz va trixinellyoz",
+    "exinokokkoz, toksokaroz va toksoplazmoz"
+   ],
+   "x": "«Perkutan yo'lda lichinkalar teri orqali faol kiradi; ankilostomidozlar, strongiloidoz va shistosomozlar bunga misoldir»"
+  },
+  {
+   "q": "Tug'ma toksoplazmoz qaysi yo'lning eng ma'lum namunasi hisoblanadi?",
+   "c": "vertikal yoki transplatsentar yo'l, ya'ni onadan homilaga",
+   "w": [
+    "perkutan yo'l, ya'ni teri orqali lichinkalar kirishi",
+    "parenteral yo'l, ya'ni steril bo'lmagan asboblar orqali",
+    "kontakt-maishiy yo'l, ya'ni qo'llar va o'yinchoqlar orqali",
+    "transmissiv mexanizm, ya'ni qon so'ruvchi bo'g'imoyoqli orqali"
+   ],
+   "x": "«Vertikal yoki transplatsentar yo'lda qo'zg'atuvchi onadan homilaga o'tadi, tug'ma toksoplazmoz bu yo'lning eng ma'lum namunasidir»"
+  },
+  {
+   "q": "Hayvonlar bilan muloqotda itlar va mushuklar qaysi kasalliklar manbai bo'lishi mumkin?",
+   "c": "itlar exinokokkoz va toksokaroz, mushuklar toksoplazmoz manbai",
+   "w": [
+    "itlar toksoplazmoz, mushuklar exinokokkoz va toksokaroz manbai",
+    "itlar bezgak, mushuklar leyshmanioz manbai",
+    "itlar tenioz, mushuklar trixinellyoz manbai",
+    "itlar opistorxoz, mushuklar fassiolyoz manbai"
+   ],
+   "x": "«itlar exinokokkoz va toksokaroz, mushuklar esa toksoplazmoz manbai bo'lishi mumkin»"
+  },
+  {
+   "q": "Bezgak chivinlari respublikaga passiv ravishda qanday kirib keladi?",
+   "c": "samolyot, poyezd va avtotransport orqali tashib kelinadi",
+   "w": [
+    "zararlangan chivinlar chegaradosh aholi punktlariga uchib keladi",
+    "chegaradan uch kilometr masofada doimiy ravishda ko'payadi",
+    "qon quyish va steril bo'lmagan shpritslar orqali o'tadi",
+    "epidemik qo'shni davlatlardan kelgan hayvonlar orqali o'tadi"
+   ],
+   "x": "«Passiv kirib kelishda zararlangan chivinlar samolyot, poyezd va avtotransport orqali tashib kelinadi»"
+  },
+  {
+   "q": "Tropik va subtropik davlatlardan qaytgan shaxslar qancha vaqt dispanser nazoratida bo'ladi?",
+   "c": "uch yil davomida",
+   "w": [
+    "bir yil davomida",
+    "uch kilometr masofada",
+    "bir necha yil davomida",
+    "so'nggi uch oy davomida"
+   ],
+   "x": "«tropik va subtropik davlatlardan qaytgan shaxslar hisobga olinib, laboratoriya yo'li bilan tekshiriladi va uch yil davomida dispanser nazoratida bo'ladi»"
+  }
+ ],
+ "005": [
+  {
+   "q": "Invaziya nima?",
+   "c": "parazitning xo'jayin organizmiga kirib, unda yashashi va rivojlanishi holati",
+   "w": [
+    "organizm parazitdan to'liq xalos bo'lgandan keyin tashqi manbadan qayta zararlanishi",
+    "xo'jayinning o'z-o'zini qayta zararlashi",
+    "bir vaqtning o'zida bir nechta parazit turlarining birga uchrashi",
+    "parazitning tashqi muhitda tuxum yoki sista shaklida saqlanishi"
+   ],
+   "x": "«Invaziya parazitning xo'jayin organizmiga kirib, unda yashashi va rivojlanishi holatidir»"
+  },
+  {
+   "q": "Aholi darajasida invaziyaning ekstensivligi nimani bildiradi?",
+   "c": "tekshirilganlar orasida zararlanganlar ulushini",
+   "w": [
+    "organizmdagi parazitlar sonini yoki bir gramm najasdagi tuxumlar sonini",
+    "o'choqlardagi mikroo'choqlar sonini",
+    "bola davolangandan keyin tuxum ajratish davrini",
+    "o'choqda yuqish omillarining faolligini"
+   ],
+   "x": "«Aholi darajasida esa invaziyaning ekstensivligi, ya'ni tekshirilganlar orasida zararlanganlar ulushi qo'llanadi»"
+  },
+  {
+   "q": "Askaridoz va trixosefalyozda invaziya intensivligi nima hisobiga oshadi?",
+   "c": "takroriy superinvaziyalar hisobiga",
+   "w": [
+    "parazitlarning odam organizmida ko'payishi hisobiga",
+    "autoinvaziya tufayli tashqi muhitda ko'payish hisobiga",
+    "mikstinvaziya paytida turli parazit turlari qo'shilishi hisobiga",
+    "reinvaziya orqali oldingi invaziya tugashi hisobiga"
+   ],
+   "x": "«askaridoz va trixosefalyoz kabi kasalliklarda intensivlik aynan takroriy superinvaziyalar hisobiga oshadi»"
+  },
+  {
+   "q": "Kato-Kats usuli nimani hisoblash imkonini beradi?",
+   "c": "bir gramm najasdagi tuxumlar sonini",
+   "w": [
+    "perianal sohadagi ostritsa tuxumlari sonini",
+    "ichak vorsinkalaridagi onkosferalar sonini",
+    "perianal teri atrofidagi lichinkalar sonini",
+    "o'choqdagi mikroo'choqlar sonini"
+   ],
+   "x": "«Kato-Kats usuli bir gramm najasdagi tuxumlar sonini hisoblash imkonini beradi»"
+  },
+  {
+   "q": "Ostritsa tuxumlari perianal sohada invaziv bo'lib, qashilganda tirnoq ostiga tushadi. Bu qaysi autoinvaziyaga misol?",
+   "c": "tashqi autoinvaziyaga, ya'ni enterobiozga",
+   "w": [
+    "ichki autoinvaziyaga, ya'ni strongiloidozga",
+    "reinvaziyaga, ya'ni geogelmintozlarga",
+    "superinvaziyaga, ya'ni askaridozga",
+    "mikstinvaziyaga, ya'ni protozoozlarga"
+   ],
+   "x": "«Tashqi autoinvaziyada tuxumlar tashqi muhitga chiqib, qo'llar orqali yana og'izga tushadi. Klassik misol enterobiozdir»"
+  },
+  {
+   "q": "Ichki autoinvaziyada parazitning rivojlanish sikli qayerda yakunlanadi?",
+   "c": "tashqi muhitga chiqmasdan xo'jayin ichida",
+   "w": [
+    "perianal sohada yetilgan tuxum va lichinkalar bosqichida",
+    "oraliq xo'jayin organizmida mollyuskalar ichida",
+    "perianal teri sohasida qo'llar orqali yana og'izga tushgach",
+    "tashqi muhitda tuxum va lichinka shaklida"
+   ],
+   "x": "«Ichki autoinvaziyada parazitning rivojlanish sikli tashqi muhitga chiqmasdan xo'jayin ichida yakunlanadi»"
+  },
+  {
+   "q": "Reinvaziya superinvaziyadan nimasi bilan farq qiladi?",
+   "c": "qayta zararlanish oldingi invaziya tugagandan keyin sodir bo'ladi",
+   "w": [
+    "qayta zararlanish oldingi invaziya davom etayotgan paytda sodir bo'ladi",
+    "qayta zararlanish xo'jayin ichida tashqi muhitga chiqmasdan sodir bo'ladi",
+    "bir vaqtning o'zida ikki yoki undan ortiq parazit turi bilan zararlanadi",
+    "parazit sonini ko'paytirib, intensivlikni oshiradi"
+   ],
+   "x": "«Uning superinvaziyadan farqi shundaki, qayta zararlanish oldingi invaziya tugagandan keyin sodir bo'ladi»"
+  },
+  {
+   "q": "Mikstinvaziya nima?",
+   "c": "bir vaqtning o'zida ikki yoki undan ortiq parazit turi bilan zararlanish",
+   "w": [
+    "zararlangan organizmning aynan o'sha turdagi parazit bilan qayta zararlanishi",
+    "parazitdan to'liq xalos bo'lgach, tashqi manbadan qayta zararlanish",
+    "tuxumlarning qo'llar orqali yana og'izga tushishi",
+    "parazit lichinkalarining teri orqali faol kirishi"
+   ],
+   "x": "«Mikstinvaziya yoki aralash invaziya bir vaqtning o'zida ikki yoki undan ortiq parazit turi bilan zararlanishdir»"
+  },
+  {
+   "q": "Invaziya darajasi 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga nima o'tkaziladi?",
+   "c": "yilda ikki marta ommaviy degelmintizatsiya",
+   "w": [
+    "faqat mikroo'choqlarda davolash bajariladi",
+    "yilda bir marta rejali profilaktik tekshiruv",
+    "oromgohlarda sanatoriylarga joylashuvchilarni tekshirish",
+    "suzish havzalariga qatnaydigan bolalarni tekshirish"
+   ],
+   "x": "«invaziya darajasi 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga yilda ikki marta ommaviy degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Ichak gelmintozlarida najas qachon qayta tekshiriladi?",
+   "c": "davolashdan bir oy o'tgach",
+   "w": [
+    "olti oylik dispanser kuzatuvi davomida",
+    "2–3 kunlik oraliq bilan uch marta",
+    "to'rt kun davomida davolangandan keyin",
+    "yilda bir marta rejali tarzda"
+   ],
+   "x": "«Ichak gelmintozlarida najas davolashdan bir oy o'tgach qayta tekshiriladi»"
+  }
+ ]
+}

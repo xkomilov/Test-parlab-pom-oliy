@@ -1,0 +1,450 @@
+{
+ "015": [
+  {
+   "q": "Culicidae oilasiga mansub chivinlar orasida bezgakni qaysi turkum vakillari tashiydi?",
+   "c": "Anopheles turkumi vakillari",
+   "w": [
+    "Culex turkumi vakillari",
+    "Aedes turkumi vakillari",
+    "Mansonia turkumi vakillari",
+    "Culiseta turkumi vakillari"
+   ],
+   "x": "«Culicidae oilasiga mansub chivinlar orasida faqat Anopheles turkumi vakillari bezgakni tashiydi»"
+  },
+  {
+   "q": "Anopheles urg'ochisi tuxumlarini qanday qo'yadi?",
+   "c": "suv yuzasiga yakka-yakka, bir-biriga yopishtirmasdan",
+   "w": [
+    "yopishtirib, ixcham sol shaklida",
+    "suv qirg'og'idagi sayozlarga, nam tuproqqa",
+    "daraxt kovaklari va ko'lmaklarga yakka-yakka",
+    "suv yuzasida vertikal holatda likopchasimon gardishli holda"
+   ],
+   "x": "«Anopheles urg'ochisi tuxumlarini suv yuzasiga yakka-yakka, bir-biriga yopishtirmasdan qo'yadi»"
+  },
+  {
+   "q": "Anopheles lichinkasida nafas olish organi qanday tuzilgan?",
+   "c": "sifon yo'q, stigmal plastinkada bir juft nafas teshigi bor",
+   "w": [
+    "sifon bor, uning uchida nafas teshigi joylashgan",
+    "sifon sakkizinchi bo'g'imdan chiqib, suv yuzasiga burchak ostida osiladi",
+    "sifon qisqa, stigmal plastinka bo'lmaydi",
+    "sifon bor, stigmal plastinkada bir juft teshik joylashgan"
+   ],
+   "x": "«Anopheles lichinkasining qorinchasi sakkizinchi bo'g'imining yelka tomonida maxsus stigmal plastinkada bir juft nafas teshigi (stigma) joylashgan, nafas olish naychasi (sifon) esa bo'lmaydi»"
+  },
+  {
+   "q": "Bezgak chivinlarining lichinkalari suvda qanday joylashadi?",
+   "c": "suv yuzasiga parallel joylashadi",
+   "w": [
+    "suv yuzasiga burchak ostida osilib turadi",
+    "sifon uchi suv yuzasiga yopishib turadi",
+    "suv yuzasiga vertikal holatda ushlanib turadi",
+    "ko'krak o'simtalari yordamida suv yuzasida vertikal turadi"
+   ],
+   "x": "«Bezgak chivinlarining lichinkalari ko'krak o'simtalari, stigmal plastinkalari va palmasimon tuklari yordamida suv yuzasiga parallel joylashadi»"
+  },
+  {
+   "q": "Anopheles g'umbaklarida bosh-ko'krakning yelka tomonidagi nafas naychalari qanday?",
+   "c": "yuqorida kengayib, voronka shaklini oladi",
+   "w": [
+    "silindrsimon shaklda bo'ladi",
+    "bo'lmaydi, qorincha havo bilan to'ladi",
+    "sifon uchida joylashgan bo'ladi",
+    "to'qqiz bo'g'imli qorinchada joylashgan bo'ladi"
+   ],
+   "x": "«Anopheles g'umbaklarida bu naychalar yuqori tomonda kengayib, voronka shaklini oladi»"
+  },
+  {
+   "q": "Anopheles urg'ochilarida paypaslagichlar uzunligi qanday?",
+   "c": "uzunligi bo'yicha xartumchaga teng",
+   "w": [
+    "xartumchadan ancha qisqa",
+    "uchida to'g'nog'ichsimon qalinlashma bor",
+    "uzunligi bo'yicha qanotga teng",
+    "qanot o'rtasida mustaqil boshlanadi"
+   ],
+   "x": "«Anopheles urg'ochilarida paypaslagichlar uzunligi bo'yicha xartumchaga teng»"
+  },
+  {
+   "q": "Anopheles chivinlari o'tirganda qanday holatda qo'nadi?",
+   "c": "yuzaga nisbatan taxminan 45 daraja burchak hosil qilib",
+   "w": [
+    "tanasini yuzaga deyarli parallel tutib",
+    "yuzaga nisbatan taxminan 90 daraja burchak hosil qilib",
+    "to'satdan sakrab uchib, yuzaga qo'nmasdan",
+    "uchish vaqtida chiqargan ovozi bilan farqlanib"
+   ],
+   "x": "«Anopheles chivinlari o'tirgan yuzaga nisbatan taxminan 45 daraja burchak hosil qilib qo'nadi»"
+  },
+  {
+   "q": "Anopheles urg'ochisi bir qo'yishda nechta tuxum qo'yadi?",
+   "c": "100 dan 500 tagacha tuxum",
+   "w": [
+    "500 dan ortiq tuxum",
+    "18 dan 278 tagacha tuxum",
+    "10 dan 500 tagacha tuxum",
+    "100 dan 278 tagacha tuxum"
+   ],
+   "x": "«Anopheles urg'ochisi bir qo'yishda 100 dan 500 tagacha tuxum qo'yadi»"
+  },
+  {
+   "q": "Ko'pchilik Anopheles turlari tuxumlarining rivojlanishi uchun eng qulay harorat qancha?",
+   "c": "27–29 °C haroratda",
+   "w": [
+    "10–12 °C haroratda",
+    "16–19 °C haroratda",
+    "25 °C haroratda",
+    "8–10 °C haroratda"
+   ],
+   "x": "«Tibbiy entomologiya qo'llanmasiga ko'ra ko'pchilik Anopheles turlari tuxumlarining rivojlanishi uchun eng qulay harorat 27–29 °C bo'lib, bu haroratda ular ikki kunda yetiladi»"
+  },
+  {
+   "q": "Chivin lichinkalari g'umbakka aylanguncha necha marta po'st tashlaydi?",
+   "c": "to'rt marta",
+   "w": [
+    "ikki marta",
+    "uch marta",
+    "500 marta",
+    "sakkiz marta"
+   ],
+   "x": "«Lichinkalar to'rt marta po'st tashlaydi va g'umbakka aylanguncha uzunligi bo'yicha 8 marta, hajmi bo'yicha esa 500 martadan ortiq kattalashadi»"
+  }
+ ],
+ "016": [
+  {
+   "q": "Gonotrofik sikl nima?",
+   "c": "chivinlarning qon bilan oziqlanishi va tuxum qo'yishining bog'liqligi",
+   "w": [
+    "chivin me'dasidagi qonning hazm bo'lish va so'rilish jarayoni",
+    "chivinlarning suvdan ertalab va kechqurun uchib chiqishi va urug'lanishi",
+    "urg'ochi chivinning qishlash joyidan uchib chiqishi va diapauzaga ketishi",
+    "chivinlarning suvdan ertalab va kechqurun uchib chiqishi"
+   ],
+   "x": "«chivinlarning qon bilan oziqlanishi va tuxum qo'yishining o'zaro bog'liqligi gonotrofik sikl (davr) deb ataladi»"
+  },
+  {
+   "q": "Gonotrofik sikl necha kun davom etadi?",
+   "c": "2–3 kun davom etadi",
+   "w": [
+    "10–12 kun davom etadi",
+    "41–44 soat davom etadi",
+    "13 kun davom etadi",
+    "8–10 oy davom etadi"
+   ],
+   "x": "«Bu davr 2–3 kun davom etadi va uni uch bosqichga bo'lish mumkin»"
+  },
+  {
+   "q": "Gonotrofik siklning ikkinchi bosqichida nima sodir bo'ladi?",
+   "c": "qonni hazm qilish va tuxumlarning yetilishi",
+   "w": [
+    "o'ljani topish, unga hujum qilish va qon so'rish",
+    "suv havzasini izlab topish va tuxum qo'yish",
+    "urug'donlarning rivojlanishi va urug'lanish",
+    "diapauzaga ketish va qishlash"
+   ],
+   "x": "«qonni hazm qilish va tuxumlarning yetilishi»"
+  },
+  {
+   "q": "Phlebotomus papatasii iskaptoparida oziqlanmasdan tuxum rivojlansa, nima bo'ladi?",
+   "c": "tuxumlar soni ikki baravar kamayadi",
+   "w": [
+    "tuxumlar soni ikki baravar ortadi",
+    "tuxumlar yetilmay qoladi",
+    "tuxumlar faqat avtogen yo'l bilan qo'yiladi",
+    "tuxumdonlar rivojlanmay qoladi"
+   ],
+   "x": "«Masalan, Phlebotomus papatasii iskaptoparida oziqlanmasdan tuxum rivojlanishi mumkin, biroq bunda tuxumlar soni ikki baravar kamayadi»"
+  },
+  {
+   "q": "Qaysi tur urg'ochilarining bir qismi birinchi tuxumlarini qon so'rmasdan, avtogen yo'l bilan qo'yadi?",
+   "c": "An. claviger",
+   "w": [
+    "An. superpictus",
+    "An. hyrcanus",
+    "An. artemievi",
+    "An. pulcherrimus"
+   ],
+   "x": "«Ayrim turlarda, masalan An. claviger urg'ochilarining bir qismi birinchi tuxumlarini qon so'rmasdan, avtogen yo'l bilan qo'yishi kuzatilgan»"
+  },
+  {
+   "q": "Beklemishev bo'yicha qaysi turlar poylab hujum qiluvchilar qatoriga kiradi?",
+   "c": "An. algeriensis va An. claviger",
+   "w": [
+    "An. hyrcanus",
+    "An. superpictus, An. martinius, An. artemievi va An. pulcherrimus",
+    "An. superpictus va An. hyrcanus",
+    "An. martinius va An. pulcherrimus"
+   ],
+   "x": "«poylab hujum qiluvchilar (An. algeriensis, An. claviger)»"
+  },
+  {
+   "q": "Swellengrebel gonotrofik uyg'unligi nima?",
+   "c": "qon hazm bo'lishi bilan uyg'un holda tuxumdonlar yetilishi",
+   "w": [
+    "urg'ochilarning urug'donlari bir necha kun ichida rivojlanishi",
+    "erkaklar urg'ochilardan oldin uchib chiqishi",
+    "urg'ochi chivinning suv havzasini kimyoviy retseptorlar yordamida topishi",
+    "sporozoitlar yetilishining harorat yig'indisiga bog'liqligi"
+   ],
+   "x": "«Qonning hazm bo'lishi bilan uyg'un holda tuxumdonlar ham yetiladi; bu hodisa Swellengrebel gonotrofik uyg'unligi deb ataladi»"
+  },
+  {
+   "q": "Gonotrofik jarayon uchun optimal harorat va uning tugash muddati qanday?",
+   "c": "28–30 °C bo'lib, 41–44 soat ichida tugaydi",
+   "w": [
+    "7,5 °C bo'lib, 41–44 soat ichida tugaydi",
+    "18,5 °C bo'lib, 2–3 kun ichida tugaydi",
+    "25 °C bo'lib, 10 kun ichida tugaydi",
+    "28–30 °C bo'lib, 13 kun ichida tugaydi"
+   ],
+   "x": "«uning uchun optimal harorat 28–30 °C bo'lib, bunda jarayon 41–44 soat ichida tugaydi»"
+  },
+  {
+   "q": "P. vivax sporozoitlari bezgak chivinlarining uchinchi gonotrofik sikli oxirida qaysi haroratda yetiladi?",
+   "c": "25 °C da uchinchi sikl oxirida",
+   "w": [
+    "18,5 °C da uchinchi sikl oxirida",
+    "25 °C da beshinchi sikl oxirida",
+    "28–30 °C da beshinchi sikl oxirida",
+    "7,5 °C da uchinchi sikl oxirida"
+   ],
+   "x": "«25 °C da P. vivax sporozoitlari bezgak chivinlarining uchinchi gonotrofik sikli oxirida, 18,5 °C da esa beshinchi sikl oxirida yetiladi»"
+  },
+  {
+   "q": "Chivinning fiziologik yoshi qanday aniqlanadi?",
+   "c": "tuxum kanalchalarida qoladigan kengayish izi bo'yicha",
+   "w": [
+    "tuxumlar soni kamayishi bo'yicha",
+    "qonning hazm bo'lish tezligi bo'yicha",
+    "qorinchadagi qon hazm bo'lish bosqichi bo'yicha",
+    "so'lak bezlaridagi sporozoitlar soni bo'yicha"
+   ],
+   "x": "«Har bir tuxum qo'yishdan keyin tuxum kanalchalarida o'ziga xos kengayish izi qoladi va unga qarab chivinning fiziologik yoshi aniqlanadi»"
+  }
+ ],
+ "017": [
+  {
+   "q": "Sporogoniya nima?",
+   "c": "plazmodiylarning chivin organizmidagi butun rivojlanish jarayoni",
+   "w": [
+    "plazmodiylarning odam organizmidagi jinssiz ko'payish jarayoni",
+    "erkak gametotsitning xivchincha ajratish bosqichi",
+    "zigotaning cho'zilib harakatchan shaklga aylanishi",
+    "ootsistaning bazal membrana ostida qobiq bilan qoplanishi"
+   ],
+   "x": "«plazmodiylarning chivin organizmidagi butun rivojlanish jarayoni sporogoniya deb ataladi»"
+  },
+  {
+   "q": "Sporogoniya qanday haroratda amalga oshadi va eng qulay harorat qancha?",
+   "c": "16–18 °C dan yuqori haroratda, eng qulay harorat 25–28 °C",
+   "w": [
+    "14,5 °C dan yuqori haroratda, eng qulay harorat 30 °C",
+    "15 °C dan yuqori haroratda, eng qulay harorat 28–30 °C",
+    "16–18 °C dan yuqori haroratda, eng qulay harorat 37 °C",
+    "37 °C dan yuqori haroratda, eng qulay harorat 25 °C"
+   ],
+   "x": "«Sporogoniya havo harorati 16–18 °C dan yuqori bo'lgan sharoitda amalga oshadi, eng qulay harorat esa 25–28 °C»"
+  },
+  {
+   "q": "Gametogoniyada eksflagellyatsiya jarayonida nima sodir bo'ladi?",
+   "c": "erkak gametotsit harakatchan mikrogametalar ajratadi",
+   "w": [
+    "urg'ochi gametotsit harakatchan mikrogametalar ajratadi",
+    "ootsista yoriladi va sporozoitlar gemolimfaga chiqadi",
+    "zigota cho'zilib, harakatchan ookinetaga aylanadi",
+    "jinssiz shakllar saqlovchi eritrotsitlar halok bo'lib, hazm qilinadi"
+   ],
+   "x": "«erkak gametotsit 4–8 ta harakatchan xivchincha, ya'ni mikrogameta ajratadi (eksflagellyatsiya)»"
+  },
+  {
+   "q": "Zigota qancha vaqt ichida ookinetaga aylanadi?",
+   "c": "18–24 soat ichida",
+   "w": [
+    "9–12 daqiqa ichida",
+    "41–44 soat ichida",
+    "2–3 kun ichida",
+    "10–12 kun ichida"
+   ],
+   "x": "«18–24 soat ichida zigota cho'zilib, harakatchan shakl, ookinetaga aylanadi»"
+  },
+  {
+   "q": "Ootsista qayerda hosil bo'ladi?",
+   "c": "bazal membrana ostida, qobiq bilan qoplanib",
+   "w": [
+    "so'lak bezlarida, sporozoitlar to'planib",
+    "gemolimfada, chivinning barcha a'zolarida",
+    "eritrotsitlar ichida, jinssiz ko'payib",
+    "chivin me'dasi ichida, gametotsitlar qo'shilib"
+   ],
+   "x": "«bazal membrana ostiga kiradi va u yerda yumaloqlanib qobiq bilan qoplanadi; shu tariqa ootsista hosil bo'ladi»"
+  },
+  {
+   "q": "Yetilgan ootsistalar yorilgach, sporozoitlar gemolimfa bilan qayerlarga yetib boradi?",
+   "c": "chivinning barcha a'zolariga, jumladan so'lak bezlariga",
+   "w": [
+    "me'da devori endoteliy hujayralari orasiga",
+    "bazal membrana ostiga, qobiq bilan qoplangan holda",
+    "odam qoniga, so'lak bilan birga faqat bir qismi",
+    "yumaloq hujayra, zigota hosil bo'ladigan joyga"
+   ],
+   "x": "«sporozoitlar gemolimfa bilan chivinning barcha a'zolariga, shu jumladan so'lak bezlariga yetib boradi»"
+  },
+  {
+   "q": "P. vivax qo'zg'atuvchilari chivin organizmida 25 °C da necha kunda yetiladi?",
+   "c": "10 kunda",
+   "w": [
+    "22 kunda",
+    "7 kunda",
+    "45–55 kunda",
+    "6,5 kunda"
+   ],
+   "x": "«P. vivax qo'zg'atuvchilari chivin organizmida 16–17 °C da 45–55 kunda, 19–20 °C da 22 kunda, 25 °C da 10 kunda, 28 °C da 7 kunda va 30 °C da 6,5 kunda yetiladi»"
+  },
+  {
+   "q": "Harorat 37 °C dan oshsa, chivin organizmida nima bo'ladi?",
+   "c": "sporozoitlar halok bo'ladi",
+   "w": [
+    "rivojlanish sekinlashadi",
+    "ookinetalar harakatchan bo'lib qoladi",
+    "sporozoitlar soni ortadi",
+    "ookinetalar ootsistaga aylanadi"
+   ],
+   "x": "«Harorat 30 °C dan oshsa, rivojlanish sekinlashadi, 37 °C dan oshsa esa sporozoitlar halok bo'ladi»"
+  },
+  {
+   "q": "25 °C da P. vivax sporozoitlari yetilguncha urg'ochi chivinlarning qancha qismi tirik qoladi?",
+   "c": "1/8 qismi",
+   "w": [
+    "1/16 qismi",
+    "1/2 qismi",
+    "1/4 qismi",
+    "1/32 qismi"
+   ],
+   "x": "«25 °C da P. vivax sporozoitlari yetilguncha urg'ochi chivinlarning 1/8 qismi, P. falciparum sporozoitlari yetilguncha esa 1/16 qismi tirik qoladi»"
+  },
+  {
+   "q": "Sporogoniya muddatining chivin umridan uzunligi qanday amaliy ahamiyatga ega?",
+   "c": "ishlov berilgan xonalarda chivinlar infeksiyani o'tkazib ulgurmay o'ladi",
+   "w": [
+    "zararlangan chivinlar bir necha kilometr uzoqqa uchib ketadi",
+    "chivinlar o'limi kamayib, xavfli yoshdagi urg'ochilar ulushi ortadi",
+    "mo''tadil mintaqada tropik bezgakning yuqish mavsumi uzayadi",
+    "chivinlar ishlov berilgan yuzalar bilan aloqada bo'lmaydi"
+   ],
+   "x": "«qoldiq ta'sirli insektitsidlar bilan ishlov berilgan xonalarda chivinlar infeksiyani o'tkazib ulgurmay o'ladi»"
+  }
+ ],
+ "018": [
+  {
+   "q": "Bezgak parazitar tizimi qaysi uch tarkibiy qismdan iborat?",
+   "c": "parazit, chivinlar va inson populyatsiyalari",
+   "w": [
+    "parazit, chivin va hayvon rezervuarlari",
+    "chivin, inson va iqlim sharoitlari",
+    "parazit, dori vositalari va inson populyatsiyalari",
+    "parazit, harorat va aholi moyilligi"
+   ],
+   "x": "«bezgak parazitar tizimi uch tarkibiy qismdan, ya'ni parazit, chivinlar va inson populyatsiyalaridan iborat murakkab tizimdir»"
+  },
+  {
+   "q": "P. vivax ning keng tarqalishi nimalar bilan izohlanadi?",
+   "c": "chivinda past haroratda rivojlana olishi va gipnozoitlar hosil qilishi",
+   "w": [
+    "chivin organizmida yuqori haroratda rivojlanishi va yuqori harorat yig'indisi talab qilishi",
+    "faqat Afrikadan keltirilgan shtammlar bilan zararlanishi",
+    "mahalliy Anopheles chivinlarini zararlay olmasligi",
+    "polimorfizmi bo'lmasligi va gipnozoitlar hosil qilmasligi"
+   ],
+   "x": "«P. vivax ning keng tarqalishi uning chivin organizmida nisbatan past haroratda rivojlana olishi va sporogoniyasining tez yakunlanishi, polimorfizmi hamda odam organizmida uzoq saqlanuvchi gipnozoitlar hosil qilishi bilan izohlanadi»"
+  },
+  {
+   "q": "MDH hududida Afrikadan keltirilgan P. falciparum mahalliy Anopheles chivinlariga nisbatan qanday?",
+   "c": "mahalliy Anopheles chivinlarini zararlay olmaydi",
+   "w": [
+    "mahalliy Anopheles chivinlarini yaxshi zararlaydi",
+    "faqat P. vivax bilan birga zararlaydi",
+    "ayrim turlarini zararlab, mahalliy yuqishni keltirib chiqaradi",
+    "chivin organizmida past haroratda rivojlanadi"
+   ],
+   "x": "«MDH hududida Afrikadan keltirilgan P. falciparum mahalliy Anopheles chivinlarini zararlay olmaydi»"
+  },
+  {
+   "q": "Qaysi sharoit bezgak tarqalish hududini belgilovchi to'rt asosiy sharoitdan biri hisoblanadi?",
+   "c": "havo haroratining chivin tanasida sporozoitlar yetilishi uchun yetarliligi",
+   "w": [
+    "uy hayvonlari sonining zooprofilaktika uchun yetarliligi",
+    "aholining kimyoprofilaktikadan foydalanish darajasi",
+    "dengiz sathidan balandlikning stratifikatsiya uchun yetarliligi",
+    "migratsiya natijasida olib kelingan holatlar soni"
+   ],
+   "x": "«havo haroratining chivin tanasida sporozoitlar yetilishi uchun yetarliligi»"
+  },
+  {
+   "q": "Qanday hududda olib kelingan bezgakdan ikkilamchi yuqish bo'lmaydi?",
+   "c": "havo harorati 15 °C dan yuqori kunlar 60 dan oshmaydigan hududda",
+   "w": [
+    "havo harorati 15 °C dan yuqori kunlar 60–90 bo'lgan hududda",
+    "havo harorati 15 °C dan yuqori kunlar 90–120 bo'lgan hududda",
+    "havo harorati 15 °C dan yuqori kunlar 120 dan oshmaydigan hududda",
+    "havo harorati 15 °C dan yuqori kunlar 30 dan oshmaydigan hududda"
+   ],
+   "x": "«Havo harorati 15 °C dan yuqori bo'lgan kunlar 60 dan oshmaydigan hududda olib kelingan bezgakdan ikkilamchi yuqish bo'lmaydi»"
+  },
+  {
+   "q": "Qaysi omil olib kelingan holatlar sonini oshiruvchi asosiy omil hisoblanadi?",
+   "c": "migratsiya",
+   "w": [
+    "chivinlar sonining kamayishi",
+    "sog'liqni saqlash tizimining faolligi",
+    "uy hayvonlari sonining ko'payishi",
+    "stratifikatsiya va prognozlash"
+   ],
+   "x": "«Migratsiya esa olib kelingan holatlar sonini oshiruvchi asosiy omil hisoblanadi»"
+  },
+  {
+   "q": "Hududning yuqumlilik darajasi nimaga ko'ra belgilanadi?",
+   "c": "epidemik mavsum davomida bezgak chivinlarining mavjudligi va kasallikni o'tkazish qobiliyatiga ko'ra",
+   "w": [
+    "infeksiyaning tashqaridan olib kelinish ehtimolining o'lchoviga ko'ra",
+    "aholining zararlanishga genetik moyilligi va yoshiga ko'ra",
+    "shaxsiy himoya vositalari va kimyoprofilaktikadan foydalanish darajasiga ko'ra",
+    "dengiz sathidan balandlik va yosh guruhlari bo'yicha taqsimotiga ko'ra"
+   ],
+   "x": "«Hududning yuqumlilik darajasi epidemik mavsum davomida bezgak chivinlarining mavjudligi va kasallikni o'tkazish qobiliyati bilan belgilanadi»"
+  },
+  {
+   "q": "Hududning moyilligi nimaning o'lchovi hisoblanadi?",
+   "c": "infeksiyaning tashqaridan olib kelinish ehtimoli",
+   "w": [
+    "chivinlar sonining va antropofilligining",
+    "epidemik mavsum davomidagi chivin yashovchanligining",
+    "plazmodiylar rivojlanishi uchun iqlim sharoitining",
+    "uy hayvonlari soni kamayishining"
+   ],
+   "x": "«Hududning moyilligi esa infeksiyaning tashqaridan olib kelinish ehtimolining o'lchovidir»"
+  },
+  {
+   "q": "Bezgak epidemiyalari rivojlanishining ikkita zaruriy sharti qaysilar?",
+   "c": "immunitetsiz aholining katta qatlami va yuqish jadalligining to'satdan kuchayishi",
+   "w": [
+    "uy hayvonlari sonining ko'pligi va chivinlar sonining kamayishi",
+    "epidemiologik nazorat va prognozlashning kuchayishi",
+    "gipnozoitlar hosil bo'lishi va sporogoniyaning sekinlashuvi",
+    "aholining yuqori immuniteti va yuqish jadalligining pasayishi"
+   ],
+   "x": "«bezgak epidemiyalari rivojlanishining ikkita zaruriy sharti mavjud: immunitetsiz aholining katta qatlami va yuqish jadalligining to'satdan kuchayishi»"
+  },
+  {
+   "q": "Hududlarni stratifikatsiya qilishda qaysi ko'rsatkich eng universal indikator hisoblanadi?",
+   "c": "dengiz sathidan balandlik",
+   "w": [
+    "havo haroratining o'rtacha sutkalik qiymati",
+    "ko'p yillik o'rtacha ko'rsatkichlar",
+    "aholi migratsiyasi darajasi",
+    "yillik parazitar indeks"
+   ],
+   "x": "«dengiz sathidan balandlik eng universal indikator hisoblanadi»"
+  }
+ ]
+}

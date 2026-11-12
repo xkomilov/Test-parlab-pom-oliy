@@ -1,0 +1,338 @@
+{
+ "029": [
+  {
+   "q": "JSST bezgak o'choqlarini qaysi o'lchovlarga tayanib tasniflaydi?",
+   "c": "endemiklik darajasi, o'choqning faollik holati va holatning kelib chiqishi",
+   "w": [
+    "taloq indeksi, parazitar indeks va qon tekshirish ko'rsatkichi",
+    "aholi punktining maydoni, rasmiy maqomi va aholi zichligi",
+    "bolalarda taloq indeksi, parazitar indeks va endemiklik",
+    "tarkibi, funksional xususiyati va mustaqilligi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti tasniflari bir necha o'lchovga tayanadi: endemiklik darajasi, o'choqning faollik holati va aniqlangan har bir holatning kelib chiqishi»"
+  },
+  {
+   "q": "JSST terminologiyasida bezgak o'chog'i qanday ta'riflanadi?",
+   "c": "bezgak yuqishi uchun zarur omillar mavjud bo'lgan aniq chegaralangan hudud",
+   "w": [
+    "aholi punktining maydoni va rasmiy maqomiga ko'ra belgilanadigan hudud",
+    "qo'shni o'choqlar bilan tutashgan, mustaqil bo'lmagan hudud",
+    "yuqish uchun epidemiologik omillar mavjud bo'lmagan hudud",
+    "qo'shni o'choqlar bilan tutashgan barcha hududlar"
+   ],
+   "x": "«o'choq bezgak yuqishi uchun zarur epidemiologik va ekologik omillar mavjud bo'lgan yoki mavjud bo'lgan aniq chegaralangan hudud sifatida ta'riflanadi»"
+  },
+  {
+   "q": "Taloq indeksi 76 % dan yuqori bo'lgan endemiklik darajasi qanday ataladi?",
+   "c": "goloendemiya",
+   "w": [
+    "gipoendemiya",
+    "mezoendemiya",
+    "giperendemiya",
+    "epidemiya"
+   ],
+   "x": "«giperendemiya (51–75 %) va goloendemiya (76 % dan yuqori)»"
+  },
+  {
+   "q": "Giperendemik va goloendemik hududlar uchun nima xos emas?",
+   "c": "epidemiyalar",
+   "w": [
+    "kasallanish yosh bolalar tomon siljishi",
+    "kattalar kam zararlanishi",
+    "epidemik jarayonning barqarorligi",
+    "taloq indeksining yuqoriligi"
+   ],
+   "x": "«Giperendemik va goloendemik hududlar uchun epidemiyalar xos emas»"
+  },
+  {
+   "q": "Tarkibiga ko'ra oddiy va murakkab o'choqlar bir-biridan qanday farq qiladi?",
+   "c": "oddiy o'choqda bir turdagi qo'zg'atuvchi, murakkabida bir necha tur ishtirok etadi",
+   "w": [
+    "oddiy o'choq mustaqil, murakkab o'choq qaram bo'ladi",
+    "oddiy o'choq yolg'on, murakkab o'choq faol bo'ladi",
+    "oddiy o'choq ajralgan, murakkab o'choq qo'shni o'choqlar bilan tutashgan",
+    "oddiy o'choqda faqat olib kelingan kasallik, murakkabida mahalliy yuqish bo'ladi"
+   ],
+   "x": "«o'choqlar oddiy, ya'ni bir turdagi qo'zg'atuvchi shakllantirgan, va murakkab, ya'ni bir necha tur ishtirokida vujudga kelgan o'choqlarga bo'linadi»"
+  },
+  {
+   "q": "Qaram o'choq qanday paydo bo'ladi?",
+   "c": "infeksiyaning tashqaridan kirib kelishi hisobiga mavsumiy yoki qisqa muddatli",
+   "w": [
+    "o'zini o'zi qayta tiklab, uzoq muddat mavjud bo'ladi",
+    "mahalliy yuqish sharoiti yo'q, faqat olib kelingan kasallik bo'ladi",
+    "bir necha tur ishtirokida vujudga keladi",
+    "butunlay ajralgan, qo'shni o'choqlar bilan tutashmagan bo'ladi"
+   ],
+   "x": "«qaram o'choq infeksiyaning tashqaridan kirib kelishi hisobiga mavsumiy yoki qisqa muddatli paydo bo'ladi»"
+  },
+  {
+   "q": "Yolg'on o'choq qanday o'choq hisoblanadi?",
+   "c": "mahalliy yuqish sharoiti yo'q, faqat tashqaridan olib kelingan kasallik mavjud",
+   "w": [
+    "o'zini o'zi qayta tiklab, uzoq muddat mavjud bo'la oladi",
+    "joriy yilda mahalliy yuqish aniqlangan o'choq",
+    "mahalliy yuqish bir yildan uch yilgacha avval to'xtagan o'choq",
+    "uch yildan ortiq mahalliy yuqish qayd etilmagan o'choq"
+   ],
+   "x": "«unda mahalliy yuqish sharoiti yo'q, faqat tashqaridan olib kelingan kasallik mavjud»"
+  },
+  {
+   "q": "Olti toifali tasnifdan qaysi ikki toifa o'choqning qoldiq holatini bildiradi?",
+   "c": "qoldiq faol va qoldiq nimjon",
+   "w": [
+    "yangi faol va yangi endemik",
+    "yangi potensial va yangi faol",
+    "sog'lomlashtirilgan va yangi potensial",
+    "sog'lomlashtirilgan va yangi endemik"
+   ],
+   "x": "«yangi endemik (tiklanayotgan), qoldiq faol va qoldiq nimjon»"
+  },
+  {
+   "q": "JSSTning 2017-yilgi soddalashtirilgan tasnifida tozalangan o'choq qanday o'choq?",
+   "c": "uch yildan ortiq mahalliy yuqish qayd etilmagan o'choq",
+   "w": [
+    "joriy yilda mahalliy yuqish aniqlangan o'choq",
+    "mahalliy yuqish bir yildan uch yilgacha avval to'xtagan o'choq",
+    "mahalliy yuqish sharoiti yo'q, faqat olib kelingan kasallik bor o'choq",
+    "o'zini o'zi qayta tiklab, uzoq muddat mavjud o'choq"
+   ],
+   "x": "«Tozalangan o'choq esa uch yildan ortiq vaqt davomida mahalliy yuqish qayd etilmagan o'choq bo'lib»"
+  },
+  {
+   "q": "Shizont-sun'iy yuqtirilgan bezgak holati qanday yuqadi?",
+   "c": "qon quyish yoki sterillanmagan asboblar orqali",
+   "w": [
+    "olib kirilgan holatdan mahalliy aholiga yuqish orqali",
+    "uzoq vaqtdan keyingi qaytalanish orqali",
+    "mahalliy anofelogen suv havzasidagi chivinlar orqali",
+    "chivin chaqishidan olib kelingan holat orqali"
+   ],
+   "x": "«qaytalangan va shizont-sun'iy yuqtirilgan (qon quyish yoki sterillanmagan asboblar orqali)»"
+  }
+ ],
+ "030": [
+  {
+   "q": "Kimyoprofilaktikaning ta'sir yo'nalishi bo'yicha ikkinchi turi qanday?",
+   "c": "eritrotsitar shizogoniyani to'xtatuvchi tur",
+   "w": [
+    "zararlanish jarayoniga ta'sir etuvchi radikal profilaktik tur",
+    "relapslarga qarshi terminal tur",
+    "mavsumlararo ommaviy tur",
+    "shaxsiy kimyoprofilaktika turi"
+   ],
+   "x": "«Ikkinchisi eritrotsitar shizogoniyani to'xtatuvchi tur bo'lib, bu holda kasallik allaqachon yuqqan»"
+  },
+  {
+   "q": "Terminal kimyoprofilaktika nimaga qaratilgan?",
+   "c": "endemik hududdan qaytgach P. vivax va P. ovale gipnozoitlarini yo'qotishga",
+   "w": [
+    "chivin chaqishidan himoya bilan birga o'tkaziladigan qisqa muddatli profilaktikaga",
+    "yuqish mavsumida o'choqdagi barcha yashovchilarga qo'llanadigan profilaktikaga",
+    "tropik bezgak bilan zararlanishning oldini olishga qaratilgan mavsumiy profilaktikaga",
+    "aholining zaif guruhiga beriladigan shaxsiy profilaktikaga"
+   ],
+   "x": "«U endemik hududdan qaytgandan keyin P. vivax va P. ovale gipnozoitlarini yo'qotishga qaratilgan va primaxin yoki tafenoxin bilan o'tkaziladi»"
+  },
+  {
+   "q": "Himoyalanadigan kontingentga qarab kimyoprofilaktika qanday turlarga bo'linadi?",
+   "c": "shaxsiy, guruhiy va ommaviy",
+   "w": [
+    "qisqa muddatli, mavsumiy va mavsumlararo",
+    "radikal profilaktik va eritrotsitar shizogoniyani to'xtatuvchi",
+    "kauzal, supressiv va terminal",
+    "tafenoxin, primaxin va proguanil bo'yicha"
+   ],
+   "x": "«Himoyalanadigan kontingentga qarab shaxsiy, guruhiy va ommaviy kimyoprofilaktika farqlanadi»"
+  },
+  {
+   "q": "Shaxsiy kimyoprofilaktika kimlar uchun ko'zda tutilgan?",
+   "c": "sayyohlar, tadbirkorlar, ekipaj a'zolari va ekspeditsiyalar",
+   "w": [
+    "bezgak o'chog'ida yashovchi barcha aholi",
+    "yuqish va kasallanish yuqori o'choqlardagi aholi",
+    "homilador ayollar, yosh bolalar va qariyalar",
+    "uch kunlik bezgak bilan og'riganlar"
+   ],
+   "x": "«shaxsiy kimyoprofilaktika endemik o'choqqa borayotgan barcha shaxslar, ya'ni sayyohlar, tadbirkorlar, ekipaj a'zolari va ekspeditsiyalar uchun ko'zda tutilgan»"
+  },
+  {
+   "q": "Jamoaviy kimyoprofilaktika kimlarga qo'llanadi?",
+   "c": "yuqish mavsumida bezgak o'chog'ida yashovchilarning barchasiga",
+   "w": [
+    "yuqish va kasallanish yuqori yangi hamda qoldiq faol o'choqlarda barcha aholiga",
+    "endemik o'choqqa borayotgan shaxslarga",
+    "yuqish mavsumi tugagach, ommaviy profilaktik davolash sifatida",
+    "vaqtincha o'choqda bo'lgan shaxslarga"
+   ],
+   "x": "«Jamoaviy kimyoprofilaktika esa yuqish mavsumida bezgak o'chog'ida yashovchilarning barchasiga qo'llanadi»"
+  },
+  {
+   "q": "Mavsumlararo kimyoprofilaktika qachon o'tkaziladi?",
+   "c": "yuqish mavsumi yakunida",
+   "w": [
+    "kasallikning yuqish mavsumida",
+    "endemik hududga borishdan 1 hafta oldin",
+    "o'choqda vaqtincha bo'lgan davrda",
+    "endemik hududdan qaytgandan keyin"
+   ],
+   "x": "«Mavsumlararo kimyoprofilaktika yuqish mavsumi yakunida o'tkaziladi»"
+  },
+  {
+   "q": "Kimyoprofilaktika preparatlari qaysi shaklga ta'sir qilmaydi, shu sababli uyga qaytgandan keyin uch kunlik bezgak kech namoyon bo'lishi mumkin?",
+   "c": "jigardagi gipnozoitlarga",
+   "w": [
+    "eritrotsitar shizogoniyaga",
+    "chivin chaqishidan himoyaga",
+    "tropik bezgak qo'zg'atuvchisiga",
+    "qisqa yashirin davrli shakllarga"
+   ],
+   "x": "«Hech bir kimyoprofilaktika preparati gipnozoitlarga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Doksitsiklin qaysi yoshgacha bo'lgan bolalarga man etiladi?",
+   "c": "8 yoshgacha bolalarga",
+   "w": [
+    "4 yoshgacha bolalarga",
+    "14 yoshgacha bolalarga",
+    "bir yoshgacha bolalarga",
+    "chaqaloqlar va qariyalarga"
+   ],
+   "x": "«doksitsiklin 8 yoshgacha bolalarga man etiladi»"
+  },
+  {
+   "q": "Primaxin va tafenoxin bilan kimyoprofilaktika boshlashdan oldin nima qilinadi?",
+   "c": "G6FD tanqisligida gemoliz chaqirgani sababli ferment faolligi tekshiriladi",
+   "w": [
+    "homiladorlikda gemoliz chaqirgani sababli dozasi oshiriladi",
+    "tropik bezgakda chidamlilik tufayli oldin xinin beriladi",
+    "8 yoshgacha bolalarda man etilgani sababli doksitsiklin beriladi",
+    "gipnozoitlarga ta'sir qilmagani sababli ferment tekshirilmaydi"
+   ],
+   "x": "«Primaxin va tafenoxin G6FD tanqisligida gemoliz chaqirgani sababli oldin ferment faolligi tekshiriladi»"
+  },
+  {
+   "q": "Quyidagilardan qaysi biri JSST tavsiyalaridagi endemik hududlar uchun qo'shimcha shakl hisoblanadi?",
+   "c": "homiladorlarda vaqti-vaqti bilan profilaktik davolash",
+   "w": [
+    "endemik o'choqqa boruvchilar uchun shaxsiy kimyoprofilaktika",
+    "primaxin bilan radikal profilaktik davolash",
+    "aeroportlarda vaqtincha to'xtaganlarga shaxsiy profilaktika",
+    "artemizinin birikmalari bilan kimyoprofilaktika"
+   ],
+   "x": "«homiladorlarda vaqti-vaqti bilan profilaktik davolash, chaqaloqlar va bolalarda profilaktik davolash»"
+  }
+ ],
+ "031": [
+  {
+   "q": "Uch kunlik bezgakni davolash qaysi ikki vazifani hal qilishi kerak?",
+   "c": "xurujlarni to'xtatish va qaytalanishning oldini olish",
+   "w": [
+    "chivin zararlanishini kamaytirish va gametotsitlarni sanash",
+    "parazitemiyani miqdoriy baholash va dispanser kuzatuvi",
+    "bemorni yotqizish va kontaktlarni kuzatish",
+    "asoratlarni davolash va gipoglikemiyani to'xtatish"
+   ],
+   "x": "«qondagi jinssiz shakllarni yo'qotib klinik xurujlarni to'xtatish va jigardagi gipnozoitlarni yo'qotib qaytalanishning oldini olish»"
+  },
+  {
+   "q": "Uch kunlik bezgakning standart davolash sxemasida preparatlar qanday tartibda tayinlanadi?",
+   "c": "avval gematoshizotrop, so'ngra gistoshizotrop preparat",
+   "w": [
+    "avval gistoshizotrop, so'ngra gematoshizotrop preparat",
+    "avval primaxin, so'ngra xlorokin",
+    "avval xinin, so'ngra primaxin",
+    "avval gematoshizotrop preparat, so'ngra xinin"
+   ],
+   "x": "«avval gematoshizotrop preparat, so'ngra gistoshizotrop preparat tayinlanadi»"
+  },
+  {
+   "q": "Xlorokindifosfat (delagil) bilan davolash kursi qanday hisoblanadi?",
+   "c": "tana vazniga 25 mg/kg asos hisobida 3 kun davomida",
+   "w": [
+    "tana vazniga 10 mg/kg asos hisobida 14 kun davomida",
+    "tana vazniga 45 mg/kg asos hisobida 8 hafta davomida",
+    "tana vazniga 0,25 mg/kg asos hisobida 14 kun davomida",
+    "tana vazniga 5 mg/kg asos hisobida 5 kun davomida"
+   ],
+   "x": "«Davolash kursi tana vazniga 25 mg/kg asos hisobida 3 kun davomida o'tkaziladi»"
+  },
+  {
+   "q": "Nima uchun xlorokin bilan davolash bemorning batamom sog'ayishiga kafolat bermaydi?",
+   "c": "gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi",
+   "w": [
+    "gametotsitlar xlorokin qabul qilingandan keyin qondan yo'qolmaydi",
+    "gematoshizotrop preparat gametotsitlar va xurujlarga ta'sir qilmaydi",
+    "gematoshizotrop preparat faqat tropik bezgak qo'zg'atuvchisiga ta'sir qiladi",
+    "gematoshizotrop preparat bolalarda gemoliz keltirib chiqaradi"
+   ],
+   "x": "«chunki gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Katta yoshlilarga primaxin qanday hisobda va necha kun beriladi?",
+   "c": "bir sutkada 0,25 mg/kg hisobida 14 kun davomida",
+   "w": [
+    "bir sutkada 0,45 mg/kg hisobida 8 hafta davomida",
+    "bir sutkada 0,25 mg/kg hisobida 3 kun davomida",
+    "bir sutkada 25 mg/kg hisobida 14 kun davomida",
+    "bir sutkada 10 mg/kg hisobida 5 kun davomida"
+   ],
+   "x": "«Katta yoshlilarga primaxin bir sutkada 0,25 mg/kg hisobida xlorokindan keyin tanaffussiz yoki bir vaqtda, shuningdek bir hafta, bir oydan keyin 14 kun davomida buyuriladi»"
+  },
+  {
+   "q": "Primaxin qabul qilinishini nazorat qilish uchun nima talab etiladi?",
+   "c": "dori vositasini tibbiyot xodimining o'zi tarqatishi",
+   "w": [
+    "bemorning o'zi dori vositasini tarqatishi",
+    "dori faqat shifoxonadan chiqishda berilishi",
+    "dori vositasi bir hafta, bir oydan keyin tarqatilishi",
+    "preparat haftada bir marta tavsiya etilishi"
+   ],
+   "x": "«Dori vositasini tibbiyot xodimining o'zi tarqatishi va»"
+  },
+  {
+   "q": "G6FD qisman tanqis bo'lganda primaxin qanday tavsiya etiladi?",
+   "c": "primaxin 0,45 mg/kg dozada haftada bir marta 8 hafta davomida",
+   "w": [
+    "primaxin 0,25 mg/kg dozada kuniga bir marta 14 kun davomida",
+    "primaxin 0,45 mg/kg dozada kuniga bir marta 8 hafta davomida",
+    "primaxin 0,25 mg/kg dozada haftada bir marta 14 kun davomida",
+    "primaxin 25 mg/kg dozada haftada bir marta 3 kun davomida"
+   ],
+   "x": "«primaxin 0,45 mg/kg dozada haftada bir marta 8 hafta davomida tavsiya etiladi»"
+  },
+  {
+   "q": "Xlorokin samarasiz bo'lsa, qaysi kursga o'tiladi?",
+   "c": "5 kunlik xinin kursiga o'tiladi",
+   "w": [
+    "3 kunlik primaxin kursiga o'tiladi",
+    "14 kunlik xlorokin kursiga o'tiladi",
+    "8 hafta davomida primaxin kursiga o'tiladi",
+    "davolash to'xtatiladi"
+   ],
+   "x": "«preparat samarasiz bo'lsa 5 kunlik xinin kursiga o'tiladi (har 8 soatda 10 mg)»"
+  },
+  {
+   "q": "Radikal davolanmagan homilador ayollar va 4 yoshgacha bolalar primaxinni qanday qabul qiladi?",
+   "c": "qarshi ko'rsatma muddati o'tgach, 14 kun davomida ambulatoriya sharoitida",
+   "w": [
+    "qarshi ko'rsatma muddatida 8 hafta davomida shifoxonada",
+    "xlorokin bilan mavsumiy kimyoprofilaktika o'rniga qabul qilmaydi",
+    "primaxinni 14 kun davomida shifoxonada",
+    "xininni har 8 soatda 5 kun davomida"
+   ],
+   "x": "«Radikal davolanmagan homilador ayollar va 4 yoshgacha bolalar qarshi ko'rsatma muddati o'tgach, 14 kun davomida primaxinni ambulatoriya sharoitida qabul qiladi»"
+  },
+  {
+   "q": "Uch kunlik bezgakda davolash davomida qon preparatlari necha marta tekshiriladi?",
+   "c": "uch marta tekshiriladi",
+   "w": [
+    "har kuni tekshiriladi",
+    "bir marta tekshiriladi",
+    "haftada bir marta tekshiriladi",
+    "ikki hafta davomida tekshiriladi"
+   ],
+   "x": "«shifoxonadan chiqish oldidan, ya'ni uch marta tekshiriladi»"
+  }
+ ]
+}

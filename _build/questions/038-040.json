@@ -1,0 +1,338 @@
+{
+ "038": [
+  {
+   "q": "Sholipoyalar bezgak chivinlari lichinkalari rivojlanadigan muhim sun'iy havza hisoblanadi. Buning sababi nimada?",
+   "c": "suv bilan uzoq muddat qoplangan, iliq va sayoz",
+   "w": [
+    "suv oqimi kuchli va chuqur",
+    "qalin suv o'tlari bilan qoplangan va ifloslangan",
+    "aholi punktlaridan 3–5 km uzoqda joylashgan",
+    "kimyoviy ishlov berilmagan, quruq"
+   ],
+   "x": "«Sholipoyalar suv bilan uzoq muddat qoplangan, iliq va sayoz bo'lgani uchun bezgak chivinlari lichinkalari rivojlanadigan eng muhim sun'iy havzalardan biridir»"
+  },
+  {
+   "q": "An. pulcherrimus lichinkalari qanday havzalarda uchramaydi?",
+   "c": "qalin suv o'tlari bilan qoplangan havzalarda",
+   "w": [
+    "o'simliklarga boy suv havzalarida",
+    "sholipoyalar va sekin oqadigan suvlarda",
+    "katta-kichik botqoqliklar bilan bir qatorda sholi maydonlarida",
+    "sekin oqadigan suvlarda va sholipoyalarda"
+   ],
+   "x": "«bu tur termofil bo'lib, rivojlanishi uchun eng qulay harorat 30 °C va undan yuqori, shu sababli qalin suv o'tlari bilan qoplangan havzalarda uchramaydi»"
+  },
+  {
+   "q": "Bezgakni tugatish dasturining hujum fazasida aholi punktlari ichida va ularga yaqin joyda nimaga yo'l qo'yilmaydi?",
+   "c": "xususiy sholi ekishga",
+   "w": [
+    "gambuziyalash o'tkazishga",
+    "xonadonma-xonadon yurishga",
+    "suv omborlari qurishga",
+    "sug'orish tizimlarini loyihalashga"
+   ],
+   "x": "«hujum fazasida aholi punktlari ichida va ularga yaqin joyda, ayniqsa xususiy sholi ekishga yo'l qo'yilmaydi»"
+  },
+  {
+   "q": "Suv omborlari aholi punktlaridan qancha uzoqlikda joylashtirilishi lozim?",
+   "c": "3–5 km uzoqlikda",
+   "w": [
+    "3 km uzoqlikda",
+    "1–5 km uzoqlikda",
+    "7–9 km uzoqlikda",
+    "10 km uzoqlikda"
+   ],
+   "x": "«suv omborlari aholi punktlaridan 3–5 km uzoqlikda joylashtirilishi, epidemiolog va entomolog xulosasi olinishi lozim»"
+  },
+  {
+   "q": "Aholi punktlaridagi qaysi vaqtinchalik ko'lmaklar yo'qotilishi kerak?",
+   "c": "10 kun va undan ortiq qurimaydigan",
+   "w": [
+    "bir sutkada qurib qoladigan",
+    "faqat qishda hosil bo'ladigan",
+    "sholipoyalar yonidagi ko'lmaklar",
+    "3 km radiusdagi ko'lmaklar"
+   ],
+   "x": "«aholi punktlaridagi 10 kun va undan ortiq muddatda qurimaydigan vaqtinchalik ko'lmaklarni yo'qotish»"
+  },
+  {
+   "q": "Gambuziya baliqlari sutkasiga o'rtacha nechta lichinka yoki g'umbak iste'mol qiladi?",
+   "c": "60–100 ta lichinka yoki g'umbak",
+   "w": [
+    "10–15 ta lichinka yoki g'umbak",
+    "1–5 ta lichinka yoki g'umbak",
+    "10–50 ta lichinka yoki g'umbak",
+    "1000 ta lichinka yoki g'umbak"
+   ],
+   "x": "«Gambuziya sutkasiga o'rtacha 60–100 ta lichinka yoki g'umbak iste'mol qiladi»"
+  },
+  {
+   "q": "Nima uchun gambuziyani baliqchilik hovuzlarida ishlatib bo'lmaydi?",
+   "c": "u xo'jalik baliqlari ikrasini yeydi",
+   "w": [
+    "u suv haroratini 7–9 °C gacha pasaytiradi",
+    "u bakterial preparatlar ta'sirini kuchaytiradi",
+    "u qalin suv o'tlarini yo'qotadi",
+    "u g'umbaklarga va katta lichinkalarga ta'sir qilmaydi"
+   ],
+   "x": "«Gambuziyani baliqchilik hovuzlarida ishlatib bo'lmaydi, chunki u xo'jalik baliqlari ikrasini yeydi»"
+  },
+  {
+   "q": "Bakterial preparat bilan baliq bir-birini qanday to'ldiradi?",
+   "c": "ochiq joylardagi mayda lichinkalarni baliq yeydi, o'tli joylarda preparat uzoqroq saqlanadi",
+   "w": [
+    "o'tli joylarda lichinkani baliq yeydi, preparat ochiq joylarda saqlanadi",
+    "g'umbaklarni baliq yo'qotadi, katta lichinkalarni preparat qiradi",
+    "suvni baliq isitadi, haroratni preparat pasaytiradi",
+    "gambuziyani baliqchilik hovuzlarida, preparatni sholi cheklarida ishlatish"
+   ],
+   "x": "«ochiq joylardagi mayda lichinkalarni baliq yeydi, preparatning qoldiq ta'siri esa o'tli joylarda uzoqroq saqlanadi»"
+  },
+  {
+   "q": "Chivinlarning insektitsidlarga chidamliligi qishloq xo'jaligida qanday paydo bo'lishi mumkin?",
+   "c": "zararkunandalarga qarshi preparatlarni havodan sepib qo'llash natijasida",
+   "w": [
+    "gambuziya baliqlarini ortiqcha qo'yish va larvitsid ishlatish natijasida",
+    "suv rejimini sholikor xo'jalik bilan kelishmaslik natijasida",
+    "ko'lmaklarni yo'qotish va qirg'oqlarni tekislash natijasida",
+    "sholipoyalarda temefos granulalarini qo'llash natijasida"
+   ],
+   "x": "«Chivinlarning insektitsidlarga chidamliligi qishloq xo'jaligida sholi, paxta va boshqa ekinlar zararkunandalariga qarshi preparatlar, ayniqsa havodan sepilganda, qo'llanishi natijasida paydo bo'lishi mumkin»"
+  },
+  {
+   "q": "Standart to'r bilan olingan besh namuna nimani beradi?",
+   "c": "1 m² dagi lichinkalar sonini",
+   "w": [
+    "1/5 m² dagi lichinkalar sonini",
+    "havzadagi barcha lichinkalar yoshini",
+    "suv haroratini va havza turini",
+    "ishlov jadvalini va muddatini"
+   ],
+   "x": "«besh namuna 1 m² dagi lichinkalar sonini beradi»"
+  }
+ ],
+ "039": [
+  {
+   "q": "Dezinseksiya samarasi qaysi muddatda va kim tomonidan baholanadi?",
+   "c": "kimyoviy ishlovdan bir sutka keyin entomolog tomonidan",
+   "w": [
+    "ishlovdan oldin entomolog tomonidan",
+    "ishlovdan keyin dezinseksiya xodimlari tomonidan",
+    "kimyoviy ishlov tugagach entomolog tomonidan",
+    "kimyoviy ishlovdan bir sutka keyin kontaktlar tomonidan"
+   ],
+   "x": "«chivinlarga qarshi o'tkazilgan tadbirlarning sifati va samaradorligini entomolog kimyoviy ishlov o'tkazilgandan bir sutka keyin baholaydi»"
+  },
+  {
+   "q": "Qachon o'tkazilgan tadbir samarali hisoblanadi?",
+   "c": "son 95 foizdan yuqori kamaysa",
+   "w": [
+    "son 50 foizdan yuqori kamaysa",
+    "son 80 foizdan past kamaysa",
+    "son o'zgarmasa",
+    "faqat lichinkalar sonigina kamaysa"
+   ],
+   "x": "«son 95 foizdan yuqori kamaysa, o'tkazilgan tadbir samarali hisoblanadi»"
+  },
+  {
+   "q": "Sifatli ishlovdan keyin xonalarda qanday chivinlarni topish mumkin bo'ladi?",
+   "c": "yaqinda uchib kelgan yosh urg'ochi chivinlarni",
+   "w": [
+    "fiziologik jihatdan qari urg'ochi chivinlarni",
+    "tuxum qo'ygan qari urg'ochi chivinlarni",
+    "bir necha gonotrof sikl o'tkazgan qari urg'ochi chivinlarni",
+    "xonalarda qishlagan qari urg'ochi chivinlarni"
+   ],
+   "x": "«xonalarga qoldiq ta'sirli insektitsidlar bilan sifatli ishlov berilsa, xonalarda faqat yaqinda suv havzalaridan uchib kelgan yosh urg'ochi chivinlarni topish mumkin bo'ladi»"
+  },
+  {
+   "q": "Lichinkalar zichligi standart usulda qanday aniqlanadi?",
+   "c": "diametri 20 sm bo'lgan to'r bilan namuna olish orqali",
+   "w": [
+    "diametri 45 sm bo'lgan to'r bilan namuna olish orqali",
+    "eksgaustir bilan xonalardagi chivinlarni yig'ish orqali",
+    "piretrin eritmasini purkash orqali",
+    "konus usulida devorga chivin qo'yish orqali"
+   ],
+   "x": "«MDH mamlakatlarida standart usul diametri 20 sm bo'lgan to'r bilan namuna olishdir»"
+  },
+  {
+   "q": "Ishlovdan keyin qanday topilma ishlovning qoniqarsiz ekanini bildiradi?",
+   "c": "II–III yoshdagi lichinkalar topilishi yoki chivinlar ko'pligi",
+   "w": [
+    "faqat I yoshdagi lichinkalar topilishi va chivinlar kamligi",
+    "xonalarda yosh urg'ochilar topilmasligi va lichinkalar yo'qligi",
+    "lichinkalar sonining 95 foizdan ortiq kamayishi hamda chivinlar kamligi",
+    "kunlash joylarida chivinlar bo'lmasligi va lichinkalar yo'qligi"
+   ],
+   "x": "«agar havzada II–III yoshdagi lichinkalar topilsa yoki kunlash joylarida chivinlar ko'p bo'lsa, ishlov qoniqarsiz hisoblanadi»"
+  },
+  {
+   "q": "Ishlovgacha 1 m² da 50 ta chivin bo'lib, ishlovdan keyin 10 ta qolgan, nazoratda son o'zgarmagan bo'lsa, samaradorlik qanday baholanadi?",
+   "c": "80 foiz bo'lib, ishlov yetarli emas deb baholanadi",
+   "w": [
+    "98 foiz bo'lib, ishlov yuqori natija bergan deb baholanadi",
+    "97 foiz bo'lib, ishlov yetarli deb baholanadi",
+    "50 foiz bo'lib, ishlov sifatsiz deb baholanadi",
+    "10 foiz bo'lib, ishlov samarali deb baholanadi"
+   ],
+   "x": "«xonada 10 ta qolsa, samaradorlik 80 foiz bo'lib, ishlov yetarli emas deb baholanadi»"
+  },
+  {
+   "q": "Samarali ishlovdan keyingi ko'rsatkich qancha bo'lishi lozim?",
+   "c": "97 foizdan kam bo'lmasligi",
+   "w": [
+    "80 foizdan kam bo'lmasligi",
+    "50 foizdan kam bo'lmasligi",
+    "90 foizdan kam bo'lmasligi",
+    "99 foizdan kam bo'lmasligi"
+   ],
+   "x": "«ishlovdan keyin ko'rsatkich 97 foizdan kam bo'lmasligi lozimligi»"
+  },
+  {
+   "q": "Urg'ochi chivinning fiziologik yoshi qanday aniqlanadi?",
+   "c": "qilingan gonotrof sikllar soniga ko'ra",
+   "w": [
+    "ishlov berilgan devorlar soniga ko'ra",
+    "konus usulidagi o'limga ko'ra",
+    "chivinlar sonining kamayishiga ko'ra",
+    "insektitsid konsentratsiyasiga ko'ra"
+   ],
+   "x": "«Urg'ochi chivinning fiziologik yoshi qilingan gonotrof sikllar soni bilan aniqlanadi»"
+  },
+  {
+   "q": "JSST konus usulida o'lim qanday bo'lsa, ishlov samarasi pasaygan hisoblanadi?",
+   "c": "o'lim 80 foizdan past bo'lsa",
+   "w": [
+    "o'lim 98 foiz va undan yuqori bo'lsa",
+    "o'lim 90–97 foiz bo'lsa",
+    "o'lim 97 foizdan yuqori bo'lsa",
+    "o'lim 100 foiz bo'lsa"
+   ],
+   "x": "«o'lim 80 foizdan past bo'lsa, ishlov samarasi pasaygan va qayta ishlov kerak deb baholanadi»"
+  },
+  {
+   "q": "Probirka sinovida 98 foiz va undan yuqori o'lim nimani bildiradi?",
+   "c": "sezgir populyatsiyani",
+   "w": [
+    "chidamli populyatsiyani",
+    "chidamlilik ehtimolini va qayta ishlov zarurligini",
+    "ishlov samarasi pasayganini",
+    "chivinlarning bezovtalanishini"
+   ],
+   "x": "«98 foiz va undan yuqori o'lim sezgir populyatsiyani, 90–97 foiz chidamlilik ehtimolini (qo'shimcha tekshiruv kerak), 90 foizdan past o'lim chidamli populyatsiyani bildiradi»"
+  }
+ ],
+ "040": [
+  {
+   "q": "O'zbekistonda leyshmaniozlarning qaysi uch turi ajratiladi?",
+   "c": "antroponoz teri, zoonoz teri va visseral leyshmanioz",
+   "w": [
+    "zoonoz teri leyshmaniozi va antroponoz teri leyshmaniozi",
+    "antroponoz teri leyshmaniozi va visseral leyshmanioz",
+    "zoonoz teri leyshmaniozi va visseral leyshmanioz",
+    "faqat zoonoz teri va visseral leyshmanioz"
+   ],
+   "x": "«O'zbekistonda leyshmaniozlarning uch turi ajratiladi: antroponoz teri leyshmaniozi, zoonoz teri leyshmaniozi va ichki, ya'ni visseral leyshmanioz»"
+  },
+  {
+   "q": "Qaysi qo'zg'atuvchi qaysi leyshmanioz shaklini chaqiradi?",
+   "c": "antroponozni Leishmania tropica, zoonozni Leishmania major, visseralni Leishmania infantum",
+   "w": [
+    "antroponozni Leishmania major, zoonozni Leishmania tropica, visseralni Leishmania infantum",
+    "antroponozni Leishmania infantum, zoonozni Leishmania major, visseralni Leishmania tropica",
+    "antroponozni Leishmania tropica, zoonozni Leishmania infantum, visseralni Leishmania major",
+    "antroponozni Leishmania major, zoonozni Leishmania infantum, visseralni Leishmania tropica"
+   ],
+   "x": "«Antroponoz shaklni Leishmania tropica, zoonoz shaklni Leishmania major, visseral shaklni esa Leishmania infantum qo'zg'atadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida asosiy tashuvchi qaysi tur?",
+   "c": "Phlebotomus papatasi",
+   "w": [
+    "Phlebotomus sergenti",
+    "Phlebotomus longiductus",
+    "Phlebotomus angustus",
+    "Phlebotomus caucasicus"
+   ],
+   "x": "«Zoonoz teri leyshmaniozida asosiy tashuvchi Phlebotomus papatasi, antroponoz shaklda Phlebotomus sergenti, visseral leyshmaniozda esa Phlebotomus longiductus hisoblanadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi qo'zg'atuvchisining tabiiy xo'jayini kim?",
+   "c": "katta qum sichqoni",
+   "w": [
+    "qizil dumli qum sichqoni",
+    "ingichka tanali yumronqoziq",
+    "itlar",
+    "tulki"
+   ],
+   "x": "«Qo'zg'atuvchining tabiiy xo'jayinlari katta qum sichqoni»"
+  },
+  {
+   "q": "Mirzacho'lda 1970–1980-yillardagi o'zlashtirish ishlari zoonoz teri leyshmaniozining holatiga qanday ta'sir qilgan?",
+   "c": "katta qum sichqonlari yo'qolib, kasallik tugatilishiga olib kelgan",
+   "w": [
+    "qum sichqonlari ko'payib, kasallik kuchayishiga olib kelgan",
+    "iskaptoparlar soni oshib, kasallik tarqalishiga olib kelgan",
+    "itlar zararlanib, visseral shakl paydo bo'lishiga olib kelgan",
+    "bemor odamlar ko'payib, antroponoz shakl tarqalishiga olib kelgan"
+   ],
+   "x": "«1970–1980-yillarda Mirzacho'lda olib borilgan keng ko'lamli o'zlashtirish ishlari natijasida qo'zg'atuvchining xo'jayini bo'lgan katta qum sichqonlari yo'qolgani zoonoz teri leyshmaniozining tugatilishiga olib kelgani aytilgan»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozi (Ashxobod yarasi) asosan qayerda uchraydi va uning manbai kim?",
+   "c": "shaharlarda, manbai bemor odam",
+   "w": [
+    "cho'llarda, manbai katta qum sichqoni",
+    "tog' oldi hududlarida, manbai tulki",
+    "qishloq joylarda, manbai qizil dumli qum sichqoni",
+    "shahar chekkalarida, manbai chiyabo'ri"
+   ],
+   "x": "«Antroponoz teri leyshmaniozi, ya'ni Ashxobod yarasi yoki yillik yara, asosan shaharlarda uchraydi. Qo'zg'atuvchisi Leishmania tropica, manbai bemor odam, ba'zan itlar»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozining inkubatsion davri qancha?",
+   "c": "2–8 oy, ba'zan 1,5 yilgacha",
+   "w": [
+    "20 kundan 1 yilgacha, o'rtacha 3–5 oy",
+    "1,5 yildan 3 yilgacha, ba'zan 5 yilgacha",
+    "10 kundan 1 yilgacha, ba'zan 2 yilgacha",
+    "20 kundan 6 oygacha, ba'zan 1 yilgacha"
+   ],
+   "x": "«Inkubatsion davri 2–8 oy, ba'zan 1,5 yilgacha cho'ziladi»"
+  },
+  {
+   "q": "Visseral leyshmanioz bilan asosan kimlar kasallanadi va qo'zg'atuvchisi qaysi?",
+   "c": "asosan bolalar, qo'zg'atuvchisi Leishmania infantum",
+   "w": [
+    "asosan kattalar, qo'zg'atuvchisi Leishmania major",
+    "asosan keksalar, qo'zg'atuvchisi Leishmania tropica",
+    "asosan chorvadorlar, qo'zg'atuvchisi Leishmania major",
+    "asosan kattalar, qo'zg'atuvchisi Leishmania tropica"
+   ],
+   "x": "«Visseral leyshmaniozni O'zbekistonda Leishmania infantum qo'zg'atadi, bu kasallik bilan asosan bolalar kasallanadi»"
+  },
+  {
+   "q": "Visseral leyshmaniozning inkubatsion davri qancha?",
+   "c": "20 kundan 1 yilgacha, o'rtacha 3–5 oy",
+   "w": [
+    "2–8 oy, ba'zan 1,5 yilgacha",
+    "10 kundan 1 yilgacha, o'rtacha 3–5 yil",
+    "20 kundan 2 yilgacha, o'rtacha 6–12 oy",
+    "1,5 yildan 3 yilgacha, o'rtacha 2 yil"
+   ],
+   "x": "«Kasallikning inkubatsion davri 20 kundan 1 yilgacha, o'rtacha 3–5 oy davom etadi»"
+  },
+  {
+   "q": "Teri leyshmaniozi o'choqlarida iskaptoparlar soni qachon eng yuqori bo'ladi?",
+   "c": "may oxiri – iyun boshida va iyul oxiri – avgust boshida",
+   "w": [
+    "aprel oyida paydo bo'lishi va oktyabrda yo'qolishi",
+    "may oyidan sentabrgacha bir tekis",
+    "iyul oxiridan sentabr o'rtasigacha doimiy",
+    "aprel oxiri – may boshida va sentabr oxiri – oktyabr boshida"
+   ],
+   "x": "«ularning soni birinchi marta may oxiri – iyun boshida, ikkinchi marta iyul oxiri – avgust boshida eng yuqori bo'ladi»"
+  }
+ ]
+}

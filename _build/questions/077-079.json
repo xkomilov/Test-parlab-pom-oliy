@@ -1,0 +1,338 @@
+{
+ "077": [
+  {
+   "q": "Enterobiozni qaysi gelmint qo'zg'atadi?",
+   "c": "E. vermicularis",
+   "w": [
+    "H. nana",
+    "A. lumbricoides",
+    "G. lamblia",
+    "E. coli"
+   ],
+   "x": "«Enterobioz ostritsa (Enterobius vermicularis) qo'zg'atadigan»"
+  },
+  {
+   "q": "Bemordan ajralgan zahoti yuqish qobiliyatiga ega bo'ladigan qo'zg'atuvchilar qanday gelmintlar guruhiga kiradi?",
+   "c": "kontagioz gelmintlar guruhiga",
+   "w": [
+    "perianal gelmintlar guruhiga",
+    "autoinvaziv gelmintlar guruhiga",
+    "antroponoz gelmintlar guruhiga",
+    "retroinvaziv gelmintlar guruhiga"
+   ],
+   "x": "«deb ataladigan gelmintlar guruhiga kiradi»"
+  },
+  {
+   "q": "Ostritsa erkagining uzunligi qancha bo'ladi?",
+   "c": "uzunligi 2–5 mm bo'ladi",
+   "w": [
+    "uzunligi 8–13 mm bo'ladi",
+    "uzunligi 50–60 mkm bo'ladi",
+    "uzunligi 20–30 mkm bo'ladi",
+    "uzunligi 22–40 mm bo'ladi"
+   ],
+   "x": "«erkagi esa 2–5 mm bo'ladi va dum uchi qayrilgan»"
+  },
+  {
+   "q": "Ostritsa tuxumlari asosan qayerda topiladi?",
+   "c": "asosan perianal qirindida",
+   "w": [
+    "asosan najasda",
+    "asosan peshobda",
+    "asosan qizilo'ngach bulbusida",
+    "asosan ko'richakda"
+   ],
+   "x": "«tuxumlar asosan perianal qirindida topilishi, najas va peshobda esa faqat ba'zan uchrashi»"
+  },
+  {
+   "q": "Tuxumlar qulay sharoitda qancha vaqt ichida invaziv lichinkani shakllantiradi?",
+   "c": "4–6 soat ichida",
+   "w": [
+    "2–6 soat ichida",
+    "15–26 soat ichida",
+    "3–4 soat ichida",
+    "22–40 soat ichida"
+   ],
+   "x": "«Tuxumlar tana harorati, yetarli namlik va kislorod sharoitida 4–6 soat ichida invaziv lichinkani shakllantiradi»"
+  },
+  {
+   "q": "Enterobiozning yagona manbai nima?",
+   "c": "zararlangan odam",
+   "w": [
+    "ifloslangan o'yinchoqlar",
+    "ifloslangan eshik tutqichlari",
+    "havoga ko'tarilgan chang",
+    "tashqi muhitdagi gilam"
+   ],
+   "x": "«Enterobiozning yagona manbai zararlangan odamdir»"
+  },
+  {
+   "q": "Autoinvaziya nima?",
+   "c": "xo'jayinning o'z qo'li orqali qayta zararlanishi",
+   "w": [
+    "lichinkalarning anal teshik orqali ichakka qaytib kirishi",
+    "tuxumlarning chang bilan havoga ko'tarilib yutilishi",
+    "ifloslangan buyumlar orqali boshqa bolaning zararlanishi",
+    "tuxumlarning najas bilan chiqib ketishi"
+   ],
+   "x": "«Autoinvaziya — xo'jayinning o'z qo'li orqali qayta zararlanishi bo'lib»"
+  },
+  {
+   "q": "Invaziyalangan bola davolangandan keyin qancha vaqt gelmint tuxumlarini ajratadi?",
+   "c": "to'rt kun davomida",
+   "w": [
+    "uch kun davomida",
+    "ikki hafta davomida",
+    "bir oy davomida",
+    "uch hafta davomida"
+   ],
+   "x": "«invaziyalangan bola davolangandan keyin ham to'rt kun davomida gelmint tuxumlarini ajratadi»"
+  },
+  {
+   "q": "Ostritsa tuxumlarining rivojlanishi uchun eng qulay harorat qancha?",
+   "c": "eng qulay harorat 36 °C",
+   "w": [
+    "eng qulay harorat 22 °C",
+    "eng qulay harorat 40 °C",
+    "eng qulay harorat 30 °C",
+    "eng qulay harorat 90 °C"
+   ],
+   "x": "«eng qulay harorat 36 °C»"
+  },
+  {
+   "q": "Bolalar muassasalarida xonalar qaysi eritma bilan kuniga ikki marta nam usulda yig'ishtiriladi?",
+   "c": "sovun-soda eritmasi",
+   "w": [
+    "xlorli eritma",
+    "kuchsiz dezinfeksiya eritmasi",
+    "qaynoq suv",
+    "oddiy artish eritmasi"
+   ],
+   "x": "«xonalar kuniga ikki marta sovun-soda eritmasi bilan nam usulda yig'ishtiriladi»"
+  }
+ ],
+ "078": [
+  {
+   "q": "Enterobiozning asosiy belgisi qachon kuchayadi?",
+   "c": "kechqurun va tunda",
+   "w": [
+    "ertalab, bola yuvinishidan oldin",
+    "bola yuvinishidan keyin",
+    "hojatxonaga borishdan oldin",
+    "ertalab, bola yuvinishidan keyin"
+   ],
+   "x": "«Asosiy belgi — perianal qichishish bo'lib, u asosan kechqurun va tunda kuchayadi»"
+  },
+  {
+   "q": "Perianal qichishish nima sababli kechqurun va tunda kuchayadi?",
+   "c": "urg'ochi gelmintlar anal teshikdan chiqib tuxum qo'yadi",
+   "w": [
+    "erkak gelmintlar anal teshikdan chiqib tuxum qo'yadi",
+    "ichak peristaltikasi kuchayib, qichishish paydo bo'ladi",
+    "eozinofiliya kuchayib qichishish paydo bo'ladi",
+    "gelmintlar qinga kirib vulvovaginit chaqiradi"
+   ],
+   "x": "«urug'langan urg'ochi gelmintlar aynan shu paytda anal teshikdan chiqib, perianal burmalarga tuxum qo'yadi»"
+  },
+  {
+   "q": "Enterobiozda eozinofiliya qanday bo'ladi?",
+   "c": "kuchsiz yoki yo'q bo'ladi",
+   "w": [
+    "kuchli bo'ladi",
+    "tashxisni tasdiqlaydi",
+    "faqat qizlarda bo'ladi",
+    "asoratlarda kuchayadi"
+   ],
+   "x": "«Eozinofiliya odatda kuchsiz yoki yo'q bo'ladi»"
+  },
+  {
+   "q": "Enterobioz tashxisining asosiy usuli qaysi?",
+   "c": "perianal qirindini mikroskopda tekshirish",
+   "w": [
+    "najasni koproskopik usulda tekshirish",
+    "umumiy qon tahlilida eozinofiliyani aniqlash",
+    "voyaga yetgan gelmintlarni ko'z bilan ko'rish",
+    "Lyugol eritmali nativ preparatni ko'rish"
+   ],
+   "x": "«Enterobioz tashxisining asosiy usuli perianal burmalardan olingan qirindini mikroskopda tekshirishdir»"
+  },
+  {
+   "q": "Perianal qirindi uchun material qachon olinadi?",
+   "c": "ertalab, bola yuvinishidan oldin",
+   "w": [
+    "kechqurun, bola yuvinishidan keyin",
+    "tunda, hojatxonaga borishdan keyin",
+    "kechqurun, bola ovqatlanishidan keyin",
+    "tunda, bola uyg'onishidan oldin"
+   ],
+   "x": "«Material ertalab, bola yuvinishidan va hojatxonaga borishidan oldin olinadi»"
+  },
+  {
+   "q": "Kevorkov usulida qirindi qanday ishlanadi?",
+   "c": "suvli probirkada chayqatilib, sentrifugalanadi",
+   "w": [
+    "shaffof lentaga yopishtirilib, mikroskopda ko'riladi",
+    "paxta tamponda qoldirilib, mikroskopda ko'riladi",
+    "glitserin shimdirilgan shpatelga olinadi",
+    "najas bilan aralashtirilib, mikroskopda ko'riladi"
+   ],
+   "x": "«Kevorkov usulida esa qirindi suvli probirkada chayqatilib, 1500 aylanish/daqiqada 3 daqiqa sentrifugalanadi»"
+  },
+  {
+   "q": "Bolalarni ommaviy tekshirishda qaysi usul qulay hisoblanadi?",
+   "c": "lenta usuli",
+   "w": [
+    "Torgushin usuli",
+    "Kevorkov usuli",
+    "najas tekshiruvi",
+    "koproskopik usul"
+   ],
+   "x": "«bolalarni ommaviy tekshirishda lenta usuli qulay deb hisoblanadi»"
+  },
+  {
+   "q": "Qayta nazorat tekshiruvlari qaysi muddatlarda uch martadan o'tkaziladi?",
+   "c": "ikki hafta va bir oydan keyin",
+   "w": [
+    "bir hafta va ikki oydan keyin",
+    "uch hafta va olti oydan keyin",
+    "ikki oy va olti oydan keyin",
+    "bir hafta va uch oydan keyin"
+   ],
+   "x": "«qayta nazorat tekshiruvlari ikki hafta va bir oydan keyin 2–3 kunlik tanaffus bilan uch martadan o'tkazilishi»"
+  },
+  {
+   "q": "Enterobiozda dispanser kuzatuvi qancha davom etadi?",
+   "c": "uch oygacha, og'ir kechganda olti oygacha",
+   "w": [
+    "bir oygacha, og'ir kechganda uch oygacha",
+    "ikki oygacha, og'ir kechganda uch oygacha",
+    "olti oygacha, og'ir kechganda bir yilgacha",
+    "ikki haftagacha, og'ir kechganda bir oygacha"
+   ],
+   "x": "«dispanser kuzatuvi esa uch oygacha, og'ir kechganda olti oygacha davom etishi yozilgan»"
+  },
+  {
+   "q": "Ektopik joylashuvda gelmintlar qinga kirsa, qiz bolalarda qaysi kasallik chaqiriladi?",
+   "c": "vulvovaginit",
+   "w": [
+    "proktosigmoidit",
+    "neyrodermatit",
+    "sfinkterit",
+    "gemorroy"
+   ],
+   "x": "«gelmintlar qinga kirib, vulvovaginit chaqirishi mumkin»"
+  }
+ ],
+ "079": [
+  {
+   "q": "Bolalar jamoasida zararlanish qancha bo'lganda butun jamoa 100 foiz davolanadi?",
+   "c": "15 foiz va undan yuqori",
+   "w": [
+    "5 foiz va undan yuqori",
+    "10 foiz va undan yuqori",
+    "50 foiz va undan yuqori",
+    "100 foiz va undan yuqori"
+   ],
+   "x": "«invaziyalanganlar 15 foiz va undan yuqori topilsa, butun jamoa 100 foiz davolanadi»"
+  },
+  {
+   "q": "Bolalar va xodimlarni davolash qaysi kunlarda o'tkaziladi?",
+   "c": "dam olish kunlari",
+   "w": [
+    "ish kunlari",
+    "har kuni",
+    "yiliga ikki marta",
+    "kuniga ikki marta"
+   ],
+   "x": "«bolalar va xodimlarni davolash dam olish kunlari o'tkaziladi»"
+  },
+  {
+   "q": "Mebendazol 2 yoshdan katta bolalarga qanday dozada belgilangan?",
+   "c": "mebendazol 100 mg",
+   "w": [
+    "mebendazol 400 mg",
+    "mebendazol 10 mg/kg",
+    "mebendazol 50 mg",
+    "mebendazol 20 mg"
+   ],
+   "x": "«mebendazol 2 yoshdan katta bolalarga 100 mg»"
+  },
+  {
+   "q": "Ikki haftadan keyin kursi takrorlanadigan preparatlar qaysilar?",
+   "c": "mebendazol, pirantel va kardobendatsim",
+   "w": [
+    "albendazol, pirantel va piperazin",
+    "mebendazol, albendazol va piperazin",
+    "albendazol, piperazin va kardobendatsim",
+    "pirantel, albendazol va piperazin"
+   ],
+   "x": "«mebendazol, pirantel hamda kardobendatsim kursi ikki haftadan keyin takrorlanadi»"
+  },
+  {
+   "q": "Rejali tekshiruvda zararlanish 15 foiz va undan yuqori topilgan muassasalarda bolalar davolanish davrida qanday holatda bo'ladi?",
+   "c": "muassasadan chetlatilmaydi",
+   "w": [
+    "muassasadan vaqtincha chetlatiladi",
+    "tekshiruvdan o'tmay qabul qilinmaydi",
+    "maktabgacha muassasaga qatnashdan chetlatiladi",
+    "nazorat tekshiruvigacha chetlatiladi"
+   ],
+   "x": "«bolalar davolanish davrida muassasadan chetlatilmaydi»"
+  },
+  {
+   "q": "Yopiq turdagi bolalar muassasalarida oldindan tekshiruvsiz qanday profilaktik davolash belgilangan?",
+   "c": "yiliga ikki marta bir kurslik",
+   "w": [
+    "yiliga bir marta ikki kurslik",
+    "yiliga uch marta bir kurslik",
+    "har kuni bir kurslik",
+    "ikki haftada bir kurslik"
+   ],
+   "x": "«oldindan tekshiruvsiz yiliga ikki marta bir kurslik profilaktik davolash o'tkazilishi belgilangan»"
+  },
+  {
+   "q": "Ichki kiyim va choyshablar qanday usulda tuxumlardan tozalanadi?",
+   "c": "dazmollash orqali",
+   "w": [
+    "qaynoq suv orqali",
+    "xlorli eritma orqali",
+    "sovun-soda eritmasi orqali",
+    "ultrabinafsha nurlari orqali"
+   ],
+   "x": "«Ichki kiyim va choyshablar dazmollash orqali tuxumlardan tozalanadi»"
+  },
+  {
+   "q": "Atrof-muhitdan surtma namunalari qaysi tartibda olinadi?",
+   "c": "avval ovqat tayyorlash blokidan, oxirida hojatxonadan",
+   "w": [
+    "avval hojatxonadan, oxirida ovqat tayyorlash blokidan",
+    "avval o'yin maydonchasidan, oxirida ovqatlanish stollaridan",
+    "avval gilamdan, oxirida eshik tutqichlaridan",
+    "avval qumdan, oxirida kiyim shkaflaridan"
+   ],
+   "x": "«namunalar tartib bilan, avval ovqat tayyorlash blokidan, oxirida hojatxonadan olinadi»"
+  },
+  {
+   "q": "Birorta namunada musbat natija aniqlanishi nimani anglatadi?",
+   "c": "sanitariya-gigiyena tartibining qo'pol buzilishi",
+   "w": [
+    "sog'lomlashtirish samaradorligi yetarli ekanligi",
+    "dorisiz choralar yetarli ekanligi",
+    "tuproq namunasining yetarli ekanligi",
+    "hojatxona tozaligi ta'minlanganligi"
+   ],
+   "x": "«Birorta namunada musbat natija aniqlanishi sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi»"
+  },
+  {
+   "q": "Invaziya aniqlanmagan muassasada qancha namuna olinadi?",
+   "c": "kamida 10–15 surtma, 10–15 chang va 5–6 tuproq",
+   "w": [
+    "kamida 5–6 surtma, 10–15 chang va 10–15 tuproq",
+    "kamida 10–15 surtma, 5–6 chang va 10–15 tuproq",
+    "kamida 5–6 surtma, 5–6 chang va 10–15 tuproq",
+    "kamida 20–30 surtma, 20–30 chang va 10–12 tuproq"
+   ],
+   "x": "«Invaziya aniqlanmagan muassasada kamida 10–15 surtma, 10–15 chang va 5–6 tuproq (qum) namunasi olinadi»"
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "006": [
+  {
+   "q": "Zoonoz teri leyshmaniozining qo'zg'atuvchisi qaysi?",
+   "c": "Leishmania major",
+   "w": [
+    "Leishmania infantum",
+    "Ornithodoros papillipes",
+    "Phlebotomidae oilasi iskaptoparlari",
+    "Rhombomys opimus"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi tabiiy o'choqli transmissiv zoonoz kasallik bo'lib, uning qo'zg'atuvchisi Leishmania major hisoblanadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining asosiy rezervuarlari qaysilar?",
+   "c": "katta qum sichqoni va qizil dumli qum sichqoni",
+   "w": [
+    "tulki va chiyabo'ri",
+    "itlar va ba'zan odam",
+    "yumronqoziqlar va bemor odam",
+    "Ornithodoros kanalari va iskaptoparlar"
+   ],
+   "x": "«Uning asosiy rezervuarlari katta qum sichqoni (Rhombomys opimus) va qizil dumli qum sichqoni (Meriones libycus)»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi o'choqlarida asosiy profilaktik tadbir qaysi?",
+   "c": "aholi punktlari atrofida kemiruvchilarga qarshi kurash, ya'ni deratizatsiya",
+   "w": [
+    "bezgakka qarshi kurash otryadlari faoliyatini kuchaytirish",
+    "anofelogen suv havzalarini pasportlashtirish va kuzatish",
+    "kanalarga qarshi tog' hududlarida entomologik nazorat",
+    "itlar orasida visseral leyshmaniozni aniqlash"
+   ],
+   "x": "«asosiy profilaktik tadbir aholi punktlari atrofida kemiruvchilarga qarshi kurash, ya'ni deratizatsiya hisoblanadi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi manbai tulki va chiyabo'ri bo'lgan visseral leyshmanioz o'chog'i qaysi turga kiradi?",
+   "c": "tabiiy o'choq",
+   "w": [
+    "yarim sinantrop o'choq",
+    "shahar turidagi o'choq",
+    "potensial o'choq",
+    "tashlandiq o'choq"
+   ],
+   "x": "«qo'zg'atuvchi manbai tulki va chiyabo'ri bo'lgan tabiiy o'choq»"
+  },
+  {
+   "q": "2007–2009-yillarda Pop tumanida tekshirilgan itlarning necha foizi visseral leyshmaniozdan zararlangan?",
+   "c": "38,8 foizi",
+   "w": [
+    "27,2 foizi",
+    "40,8 foizi",
+    "25,2 foizi",
+    "15,6 foizi"
+   ],
+   "x": "«2007–2009-yillarda Namangan viloyatining Pop tumani aholi punktlarida tekshirilgan 162 itning 38,8 foizi zararlangan»"
+  },
+  {
+   "q": "Kanali qaytalama terlamaning qo'zg'atuvchisi va tashuvchisi qaysilar?",
+   "c": "qo'zg'atuvchisi borreliyalar, tashuvchisi Ornithodoros turkumiga mansub kanalar",
+   "w": [
+    "qo'zg'atuvchisi Leishmania major, tashuvchisi Phlebotomidae oilasiga mansub iskaptoparlar",
+    "qo'zg'atuvchisi borreliyalar, tashuvchisi Anopheles turkumiga mansub chivinlar",
+    "qo'zg'atuvchisi Leishmania infantum, tashuvchisi Rhombomys opimus kemiruvchilari",
+    "qo'zg'atuvchisi Leishmania major, tashuvchisi Meriones libycus sichqonlari"
+   ],
+   "x": "«qo'zg'atuvchisi borreliyalar, tashuvchisi esa Argasidae oilasining Ornithodoros turkumiga mansub kanalaridir»"
+  },
+  {
+   "q": "Kanali qaytalama terlama bilan kasallanishning 80 foizi qaysi viloyatlarga to'g'ri keladi?",
+   "c": "Namangan va Farg'ona viloyatlariga",
+   "w": [
+    "Andijon va Samarqand viloyatlariga",
+    "Toshkent va Surxondaryo viloyatlariga",
+    "Jizzax va Navoiy viloyatlariga",
+    "Qashqadaryo va Buxoro viloyatlariga"
+   ],
+   "x": "«Respublika bo'yicha kanali qaytalama terlama bilan kasallanishning 80 foizi Namangan va Farg'ona viloyatlariga to'g'ri keladi»"
+  },
+  {
+   "q": "Iskaptoparlarda leyshmaniyalar to'rtinchi kunda qayerda to'planib, tiqin hosil qiladi?",
+   "c": "halqumda to'planib tiqin hosil qiladi",
+   "w": [
+    "me'da ostida to'planib tiqin hosil qiladi",
+    "ichakda xivchinli promastigotlarga aylanib to'planadi",
+    "qanotlarda to'planib yangi xo'jayinga o'tadi",
+    "kemiruvchilar uyalarida to'planib tiqin hosil qiladi"
+   ],
+   "x": "«uchinchi kunga kelib me'da ostida, to'rtinchi kunda esa halqumda to'planib, tiqin hosil qiladi»"
+  },
+  {
+   "q": "Bezgak O'zbekistonda qanday kasallik hisoblanadi?",
+   "c": "tabiiy o'choqli emas, antroponoz kasallik",
+   "w": [
+    "zoonoz transmissiv tabiiy o'choqli kasallik",
+    "kemiruvchilar orasida aylanuvchi zoonoz kasallik",
+    "yovvoyi hayvonlar va kanalar orasida aylanadigan kasallik",
+    "kanalar tashuvchi zoonoz kasallik"
+   ],
+   "x": "«Bezgak O'zbekistonda tabiiy o'choqli kasallik emas, balki antroponoz bo'lsa-da, uning tashuvchilari bo'lgan Anopheles chivinlari respublika hududida saqlanib qolgan»"
+  },
+  {
+   "q": "Anofelogen suv havzalari bilan nima qilinadi?",
+   "c": "pasportlashtiriladi va yil davomida kuzatib boriladi",
+   "w": [
+    "deratizatsiya o'tkazilib, kemiruvchilar soni aniqlanadi",
+    "obodonlashtirilib, yil davomida hisobga olinadi",
+    "dorilanib, kunduzgi yashirinish joylari yo'qotiladi",
+    "entomologik kuzatuv orqali iskaptoparlar sonini aniqlash"
+   ],
+   "x": "«anofelogen suv havzalari esa pasportlashtiriladi va yil davomida kuzatib boriladi»"
+  }
+ ],
+ "007": [
+  {
+   "q": "Kimyoprofilaktika nima?",
+   "c": "dori vositalari yordamida zararlanishning yoki kasallik rivojlanishining oldini olish usuli",
+   "w": [
+    "vaksinatsiya yordamida parazitar kasallikka qarshi immunitet hosil qilish usuli",
+    "tashuvchilarga qarshi kurash yordamida chivinlar sonini kamaytirish usuli",
+    "aholining tibbiy savodxonligini oshirish yordamida kasallikni aniqlash usuli",
+    "sanitariya-gigiyena choralari yordamida o'choqni sog'lomlashtirish usuli"
+   ],
+   "x": "«Kimyoprofilaktika parazitlarga qarshi ta'sirga ega dori vositalari yordamida zararlanishning yoki kasallik rivojlanishining oldini olish usulidir»"
+  },
+  {
+   "q": "Bezgak kimyoprofilaktikasi muddati bo'yicha qanday turlarga bo'linadi?",
+   "c": "qisqa muddatli, mavsumiy va mavsumlararo",
+   "w": [
+    "shaxsiy, ommaviy va jamoaviy",
+    "faol, qoldiq faol va soxta",
+    "uch kunlik, tropik va to'rt kunlik",
+    "tashuvchilarga qarshi, sanitariya-gigiyena va tibbiy savodxonlik"
+   ],
+   "x": "«kimyoprofilaktika muddati bo'yicha qisqa muddatli (shaxs o'choqda vaqtincha bo'lgan davrda), mavsumiy (yuqish mavsumida) va mavsumlararo (yuqish mavsumidan tashqari davrda) turlarga bo'linadi»"
+  },
+  {
+   "q": "Mavsumiy kimyoprofilaktika aholini qaysi bezgak turlari bilan zararlanishdan himoya qilish uchun o'tkaziladi?",
+   "c": "qisqa yashirin davrga ega uch kunlik va tropik bezgak",
+   "w": [
+    "uzoq yashirin davr bilan kechadigan uch kunlik bezgak",
+    "jigardagi gipnozoitlar hisobiga namoyon bo'ladigan bezgak",
+    "yuqish mavsumi yakunida uchraydigan kechki retsidivlar",
+    "dori vositalariga chidamli plazmodiylar chaqirgan bezgak"
+   ],
+   "x": "«Mavsumiy kimyoprofilaktika aholini qisqa yashirin davrga ega uch kunlik va tropik bezgak bilan zararlanishdan himoya qilish uchun o'tkaziladi»"
+  },
+  {
+   "q": "Uch kunlik bezgakda jigardagi mudroq shakllarni yo'qotib, kechki retsidivlarning oldini oladigan preparat qaysi?",
+   "c": "primaxin",
+   "w": [
+    "xlorokin",
+    "albendazol",
+    "mebendazol",
+    "artemeter va lumefantrin birikmasi"
+   ],
+   "x": "«Uch kunlik bezgakda gipnozoitlarga qarshi asosiy preparat primaxindir; u jigardagi mudroq shakllarni yo'qotib, kechki retsidivlarning oldini oladi»"
+  },
+  {
+   "q": "Artemeter va lumefantrin birikmasi qaysi maqsadda tavsiya etiladi?",
+   "c": "asoratlanmagan tropik bezgakni davolash",
+   "w": [
+    "kimyoprofilaktika maqsadida shaxsiy himoya qilish",
+    "uch kunlik bezgakda kechki retsidivlarning oldini olish",
+    "mavsumlararo kimyoprofilaktikani 14 kun davomida o'tkazish",
+    "homilador ayollarda mavsumiy kimyoprofilaktika o'tkazish"
+   ],
+   "x": "«artemeter va lumefantrin birikmasi asoratlanmagan tropik bezgakni davolash uchun tavsiya etilgani»"
+  },
+  {
+   "q": "Mavsumaro kimyoprofilaktikani primaxin bilan necha kun davomida o'tkazish maqsadga muvofiq?",
+   "c": "14 kun davomida",
+   "w": [
+    "uch kun davomida",
+    "uch oy davomida",
+    "bir yil davomida",
+    "yuqish mavsumi davomida"
+   ],
+   "x": "«mavsumaro kimyoprofilaktikani esa primaxin bilan 14 kun davomida o'tkazish maqsadga muvofiq deb belgilangan»"
+  },
+  {
+   "q": "Askaridoz va trixosefalyoz bilan zararlanish 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda nima o'tkaziladi?",
+   "c": "yilda ikki marta ommaviy degelmintizatsiya",
+   "w": [
+    "faqat mikroo'choqlar davolanadi",
+    "yopiq turdagi muassasalardagi bolalarga oldindan tekshiruvsiz davolash",
+    "so'nggi degelmintizatsiyadan uch oy o'tgach qayta tekshirish",
+    "doimiy aholi guruhini 200–300 kishi bilan tekshirish"
+   ],
+   "x": "«Askaridoz va trixosefalyoz bilan zararlanish 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga yilda ikki marta ommaviy degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Maktabgacha va maktab yoshidagi bolalarga geogelmintozlarga qarshi profilaktik kimyoterapiya uchun JSST qaysi preparatlarni tavsiya etadi?",
+   "c": "albendazol yoki mebendazolning bir martalik dozasini",
+   "w": [
+    "primaxinning 14 kunlik kursini ambulator sharoitda",
+    "xlorokin bilan mavsumiy kimyoprofilaktika kursini",
+    "artemeter va lumefantrin birikmasining kombinatsiyasini",
+    "nematotsidlar bilan o'choqlarni sog'lomlashtirish kursini"
+   ],
+   "x": "«JSST maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar kabi xavf guruhlarida geogelmintozlarga qarshi profilaktik kimyoterapiya uchun albendazol yoki mebendazolning bir martalik dozasini tavsiya etadi»"
+  },
+  {
+   "q": "Degelmintizatsiya samaradorligini baholash uchun doimiy aholi guruhi qachon qayta tekshiriladi?",
+   "c": "so'nggi degelmintizatsiyadan uch oy o'tgach",
+   "w": [
+    "epidemik mavsum boshlanishidan oldin",
+    "yuqish mavsumi yakunida",
+    "uch yil davomida har yili",
+    "bir yil o'tgach"
+   ],
+   "x": "«Buning uchun har bir o'choqdagi 200–300 kishilik doimiy aholi guruhi so'nggi degelmintizatsiyadan uch oy o'tgach qayta tekshiriladi»"
+  },
+  {
+   "q": "Leyshmaniozlar va kanali qaytalama terlamaning oldini olish asosan nimaga tayanadi?",
+   "c": "tashuvchilar va rezervuarlarga qarshi kurash va obodonlashtirishga",
+   "w": [
+    "ommaviy kimyoprofilaktika va mavsumiy primaxin qabul qilishga",
+    "profilaktik va ommaviy degelmintizatsiya o'tkazishga",
+    "bezgakka qarshi dori vositalarini muntazam qabul qilishga",
+    "vaksinatsiya va gipnozoitlarga qarshi davolashga"
+   ],
+   "x": "«ularning oldini olish asosan tashuvchilar va rezervuarlarga qarshi kurash, aholi punktlarini obodonlashtirish va shaxsiy himoya vositalariga tayanadi»"
+  }
+ ],
+ "008": [
+  {
+   "q": "Qonunning 36-moddasiga ko'ra qaysi sohadagi kadrlar ishga ruxsat berishdan oldin gigiyenik o'qitiladi?",
+   "c": "oziq-ovqat, ichimlik suvi, bolalar va kommunal xizmat sohasidagi kadrlar",
+   "w": [
+    "kasal deb gumon qilingan shaxslar bilan muloqotda bo'lganlar",
+    "ishlab chiqarish tarmoqlaridagi xodimlarni vaqti-vaqti bilan ko'rikdan o'tuvchi",
+    "laboratoriyalarda patogenlik guruhidagi mikroorganizmlar bilan ishlovchilar",
+    "ichki ishlar boshqarmalari va harbiy komissariatlar xodimlari"
+   ],
+   "x": "«36-moddada esa oziq-ovqat, ichimlik suvi, bolalarni o'qitish va tarbiyalash, kommunal va maishiy xizmat sohasidagi kadrlarni ishga ruxsat berishdan oldin gigiyenik o'qitish nazarda tutilgan»"
+  },
+  {
+   "q": "630-son hujjat aniqlangan har bir yuqumli kasallik to'g'risidagi axborotni qanday yetkazishni talab qiladi?",
+   "c": "hududiy davlat sanitariya-epidemiologiya nazorati markazlariga xabarnoma orqali",
+   "w": [
+    "hududiy sog'liqni saqlash boshqarmalariga birinchi chorakda tibbiy kengashlarda",
+    "ichki ishlar boshqarmalari va migratsiya xizmatiga so'rov orqali",
+    "sanitariya kitobchasiga qayd etish orqali",
+    "dekretiv kontingentlar orasida tekshiruv orqali"
+   ],
+   "x": "«Buyruq aniqlangan har bir yuqumli kasallik to'g'risidagi axborotni hududiy davlat sanitariya-epidemiologiya nazorati markazlariga belgilangan tartibda xabarnoma orqali yetkazishni talab qiladi»"
+  },
+  {
+   "q": "121-son hujjatning 3-ilovasi qaysi kasallikka bag'ishlangan?",
+   "c": "kanali qaytalama terlamaga",
+   "w": [
+    "bezgak profilaktikasi va chetdan kirib kelishining oldini olishga",
+    "teri va visseral leyshmaniozlarga",
+    "ichak protozoozlariga",
+    "parazitar kasalliklarning epidemiologik nazoratiga"
+   ],
+   "x": "«bezgak profilaktikasi va chetdan kirib kelishining oldini olish (1-ilova), teri va visseral leyshmaniozlar (2-ilova), kanali qaytalama terlama (3-ilova), gelmintozlar (4-ilova), ichak protozoozlari (5-ilova)»"
+  },
+  {
+   "q": "Epidemiologik nazoratda ko'p yillik retrospektiv tahlil kamida qancha vaqtni qamrab olishi shart?",
+   "c": "so'nggi besh yilni",
+   "w": [
+    "so'nggi ikki yilni",
+    "so'nggi uch yilni",
+    "so'nggi bir yilni",
+    "so'nggi ikki haftani"
+   ],
+   "x": "«ko'p yillik retrospektiv tahlil kamida so'nggi besh yilni qamrab olishi shart»"
+  },
+  {
+   "q": "Parazitar kasalliklar tashxis va davolash standartlarini tasdiqlagan hujjat standartlarni qanchada bir qayta ko'rib chiqishni nazarda tutadi?",
+   "c": "har ikki yilda",
+   "w": [
+    "har yili",
+    "har besh yilda",
+    "har chorakda",
+    "har kuni"
+   ],
+   "x": "«va standartlarni har ikki yilda qayta ko'rib chiqishni nazarda tutadi»"
+  },
+  {
+   "q": "Epidemiologik nazoratda operativ tahlil qanday asosda o'tkaziladi?",
+   "c": "har kuni, haftalik va oylik asosda",
+   "w": [
+    "kamida so'nggi besh yilni qamrab olgan holda",
+    "ko'p yillik va mavsumiy dinamika asosida",
+    "yosh va kontingentlar bo'yicha taqsimot asosida",
+    "uch kilometr radiusdagi hayvonlar soni asosida"
+   ],
+   "x": "«Operativ tahlil esa har kuni, haftalik va oylik asosda o'tkaziladi»"
+  },
+  {
+   "q": "Dekretiv kontingentlarni enterobiozga tekshirish, aniqlanganlarni davolash va kimyoprofilaktikani tashkil etish kimning zimmasiga yuklangan?",
+   "c": "tashkilot rahbariyati va xususiy tadbirkorlar",
+   "w": [
+    "hududiy sog'liqni saqlash boshqarmalari va tibbiy kengashlar",
+    "sanitariya-epidemiologiya markazlari laboratoriyalari xodimlari",
+    "ichki ishlar boshqarmalari va migratsiya xizmati",
+    "davolash-profilaktika muassasalari va veterinariya xizmati"
+   ],
+   "x": "«dekretiv va xizmat ko'rsatuvchi xodimlarni enterobiozga tekshirish, aniqlanganlarni davolash va kimyoprofilaktikani tashkil etish tashkilot rahbariyati va xususiy tadbirkorlar zimmasiga yuklangan»"
+  },
+  {
+   "q": "Transport vositalari orqali zararlangan chivinlar kirib kelishining oldini olish uchun ularga qanday ishlov beriladi?",
+   "c": "Xalqaro tibbiy-sanitariya qoidalariga muvofiq yuqori chidamli insektitsidlar yordamida",
+   "w": [
+    "ichki ishlar boshqarmalari ma'lumotiga muvofiq migratsiya xizmati nazorati yordamida",
+    "harbiy komissariatlar so'roviga muvofiq epidemik davlatlar ro'yxati yordamida",
+    "sanitariya-epidemiologiya xizmati talabiga muvofiq entomologik kuzatuv yordamida",
+    "Vazirlar Mahkamasining qaroriga muvofiq davlat dasturi yordamida"
+   ],
+   "x": "«transport vositalari orqali zararlangan chivinlar kirib kelishining oldini olish uchun ularga Xalqaro tibbiy-sanitariya qoidalariga muvofiq yuqori chidamli insektitsidlar bilan ishlov beriladi»"
+  },
+  {
+   "q": "Vazirlar Mahkamasining 2015-yil 23-yanvardagi 9-son qarori qachon o'z kuchini yo'qotgan?",
+   "c": "2021-yil 22-fevralda",
+   "w": [
+    "2015-yil 23-yanvarda",
+    "2016-yil 5-aprelda",
+    "ikki yildan keyin 25-martda",
+    "2015-yildagi 29-yanvarda"
+   ],
+   "x": "«Vazirlar Mahkamasining 2015-yil 23-yanvardagi 9-son qarori 2021-yil 22-fevralda Vazirlar Mahkamasining 87-son qaroriga asosan o'z kuchini yo'qotgan»"
+  },
+  {
+   "q": "Sanitariya-epidemiologiya xizmati so'roviga ko'ra epidemik davlatlarga borib kelganlar to'g'risida kim ma'lumot berishi belgilangan?",
+   "c": "ichki ishlar boshqarmalari, harbiy komissariatlar va migratsiya xizmati",
+   "w": [
+    "hududiy sog'liqni saqlash boshqarmalari va tibbiy kengashlar",
+    "davolash-profilaktika muassasalari va xususiy shifoxonalar",
+    "kommunal xizmat va oziq-ovqat sohasi rahbarlari",
+    "bolalarni o'qitish va tarbiyalash muassasalari xodimlari"
+   ],
+   "x": "«sanitariya-epidemiologiya xizmati so'roviga ko'ra ichki ishlar boshqarmalari, harbiy komissariatlar va migratsiya xizmati epidemik davlatlarga borib kelganlar to'g'risida ma'lumot berishi ham belgilangan»"
+  }
+ ],
+ "009": [
+  {
+   "q": "Plasmodium vivax qaysi bezgakni chaqiradi?",
+   "c": "uch kunlik bezgak (malaria tertiana)",
+   "w": [
+    "to'rt kunlik bezgak (malaria quartana)",
+    "tropik bezgak (malaria tropica)",
+    "tropik Afrika va Okeaniyada uchraydigan ovale-bezgak",
+    "maymunlardan odamga o'tadigan zoonoz bezgak"
+   ],
+   "x": "«Plasmodium vivax uch kunlik bezgak (malaria tertiana), Plasmodium malariae to'rt kunlik bezgak (malaria quartana)»"
+  },
+  {
+   "q": "JSST tan oladigan beshinchi plazmodiy turi qaysi va u qanday qo'zg'atuvchi?",
+   "c": "P. knowlesi, makaka maymunlaridan odamga o'tadigan zoonoz qo'zg'atuvchi",
+   "w": [
+    "P. ovale, tropik Afrika va Okeaniyada uchraydigan qo'zg'atuvchi",
+    "P. malariae, eritrotsitlarda 72 soat rivojlanadigan qo'zg'atuvchi",
+    "P. falciparum, tropik bezgakni chaqiradigan eng xavfli qo'zg'atuvchi",
+    "P. vivax, uch kunlik bezgakni chaqiradigan xavfli qo'zg'atuvchi"
+   ],
+   "x": "«Beshinchi tur P. knowlesi asosan Janubi-Sharqiy Osiyoda makaka maymunlaridan odamga o'tadigan zoonoz qo'zg'atuvchi hisoblanadi»"
+  },
+  {
+   "q": "Eritrotsitlarda rivojlanishi 72 soat davom etadigan tur qaysi?",
+   "c": "P. malariae",
+   "w": [
+    "P. vivax",
+    "P. falciparum",
+    "P. ovale",
+    "P. falciparum va P. vivax"
+   ],
+   "x": "«Eritrotsitlarda P. malariae rivojlanishi 72 soat, qolgan turlarniki esa 48 soat davom etadi»"
+  },
+  {
+   "q": "Nima uchun uch kunlik bezgakda qo'zg'atuvchining qondan yo'qolishi to'liq sog'ayishni anglatmaydi?",
+   "c": "sporozoitlarning bir qismi jigarda uzoq muddat mudroq holatda saqlanadi",
+   "w": [
+    "eritrotsitlarda rivojlanish davri 48 soat davom etishi sababli",
+    "isitma xurujlarining davriyligi 48 soat bilan bog'liq",
+    "tashuvchini zararlash xususiyati yo'qolishi mumkin",
+    "qo'zg'atuvchining virulentligi turlar bo'yicha farqlanishi sababli"
+   ],
+   "x": "«P. vivax va P. ovale sporozoitlarining bir qismi jigarda uzoq muddat, bir necha oydan ikki yilgacha va undan ko'proq, mudroq holatda saqlanishi mumkin»"
+  },
+  {
+   "q": "O'zbekistonda tarixan mahalliy (autoxton) bezgak turi qaysi bo'lgan?",
+   "c": "uch kunlik bezgak",
+   "w": [
+    "tropik bezgak",
+    "to'rt kunlik bezgak",
+    "ovale-bezgak",
+    "zoonoz bezgak"
+   ],
+   "x": "«O'zbekiston uchun tarixan mahalliy (autoxton) bezgak turi uch kunlik bezgak bo'lgan»"
+  },
+  {
+   "q": "Tropik bezgak O'zbekistonda qanday shaklda qayd etiladi?",
+   "c": "tropik va subtropik mamlakatlardan olib kelingan holatlar ko'rinishida",
+   "w": [
+    "mahalliy yuqish shaklida, qisqa yoki uzoq yashirin davrli holatlar",
+    "qon quyish orqali sun'iy yuqtirilgan holatlar ko'rinishida",
+    "soxta va potensial o'choqlar ko'rinishida",
+    "kechki retsidivlar ko'rinishida mahalliy aholi orasida"
+   ],
+   "x": "«Tropik bezgak respublikada mahalliy yuqish shaklida emas, balki asosan tropik va subtropik mamlakatlardan olib kelingan holatlar ko'rinishida qayd etiladi»"
+  },
+  {
+   "q": "Bezgak holatlari zararlanish manbai bo'yicha qanday tasniflanadi?",
+   "c": "tashib keltirilgan, mahalliy, sun'iy yuqtirilgan yoki retsidiv",
+   "w": [
+    "soxta, potensial, faol va faol bo'lmagan o'choqlar toifalari",
+    "uch kunlik, to'rt kunlik, tropik va ovale turlari",
+    "birlamchi, ikkilamchi, kechki va noma'lum holatlar",
+    "xabarnoma, registr, nazorat va dispanser kuzatuvi"
+   ],
+   "x": "«aniqlangan har bir holat tashib keltirilgan, mahalliy, sun'iy yuqtirilgan yoki qaytalangan (retsidiv) deb tasniflanadi»"
+  },
+  {
+   "q": "Musbat natijali qon preparatlari kasallik aniqlangandan keyin necha soat ichida Respublika markaziga yuboriladi?",
+   "c": "24 soat ichida",
+   "w": [
+    "48 soat ichida",
+    "72 soat ichida",
+    "uch kun ichida",
+    "bir yil ichida"
+   ],
+   "x": "«Barcha musbat natijali qon preparatlari kasallik aniqlangandan keyin 24 soat ichida nazorat maqsadida Respublika sanitariya-epidemiologiya markaziga yuboriladi»"
+  },
+  {
+   "q": "Bezgak bilan og'riganlar dispanser kuzatuvida qancha vaqt turadi?",
+   "c": "uch kunlik bezgakda uch yil, tropik bezgakda bir yil",
+   "w": [
+    "uch kunlik bezgakda bir yil, tropik bezgakda uch yil",
+    "uch kunlik bezgakda ikki yil, tropik bezgakda bir yil",
+    "uch kunlik va tropik bezgakda uch yil",
+    "uch kunlik bezgakda uch yil, tropik bezgakda ikki yil"
+   ],
+   "x": "«uch kunlik bezgak bilan og'riganlar uch yil, tropik bezgak bilan og'riganlar esa bir yil davomida infeksionist va terapevt nazoratida bo'ladi»"
+  },
+  {
+   "q": "Qon bezgakka tekshirilishi uchun so'nggi necha kun ichida harorat ko'tarilgani haqidagi ma'lumot yetarli asos bo'ladi?",
+   "c": "so'nggi uch kun ichida",
+   "w": [
+    "so'nggi ikki yil ichida",
+    "so'nggi uch oy ichida",
+    "so'nggi to'rt kun ichida",
+    "so'nggi 24 soat ichida"
+   ],
+   "x": "«so'nggi uch kun ichida harorat ko'tarilgani haqidagi ma'lumot ham yetarli asos bo'ladi»"
+  }
+ ],
+ "010": [
+  {
+   "q": "Bezgak qo'zg'atuvchisini birinchi marta 1880-yilda bemor qonida kim aniqlagan?",
+   "c": "A. Laveran",
+   "w": [
+    "I.I. Mechnikov",
+    "R. Ross",
+    "B. Grassi",
+    "K. Golji"
+   ],
+   "x": "«Qo'zg'atuvchini birinchi marta 1880-yilda fransuz shifokori A. Laveran bemor qonida aniqlagan»"
+  },
+  {
+   "q": "Chivinlarning bezgak yuqtirishdagi rolini kimlar isbotlagan?",
+   "c": "R. Ross va B. Grassi",
+   "w": [
+    "A. Laveran va K. Golji",
+    "I.I. Mechnikov va A. Laveran",
+    "K. Golji va I.I. Mechnikov",
+    "A. Laveran va R. Ross"
+   ],
+   "x": "«chivinlarning yuqtirishdagi rolini esa R. Ross va B. Grassi isbotlagan»"
+  },
+  {
+   "q": "Beshta tur orasida qaysi plazmodiylar eng katta xavf tug'diradi?",
+   "c": "P. falciparum hamda P. vivax",
+   "w": [
+    "P. malariae hamda P. ovale",
+    "P. knowlesi hamda P. ovale",
+    "P. malariae hamda P. knowlesi",
+    "P. ovale hamda P. vivax"
+   ],
+   "x": "«Beshta tur orasida P. falciparum va P. vivax eng katta xavf tug'diradi»"
+  },
+  {
+   "q": "Sporozoitlar odam organizmiga tushgach qayerga o'tib, to'qima shizogoniyasini boshlaydi?",
+   "c": "jigarga o'tib, gepatotsitlarda to'qima shizogoniyasini boshlaydi",
+   "w": [
+    "chivin me'dasiga o'tib, ootsistada sporogoniyani boshlaydi",
+    "eritrotsitlarga o'tib, to'qima shizogoniyasini boshlaydi",
+    "chivinning so'lak bezlariga o'tib, ookinetani hosil qiladi",
+    "eritrotsitlarga kirib, eritrotsitar shizogoniyani boshlaydi"
+   ],
+   "x": "«15–45 daqiqa ichida qon oqimi bilan jigarga o'tib, gepatotsitlarda to'qima shizogoniyasini boshlaydi»"
+  },
+  {
+   "q": "To'qima shizogoniyasi to'rt kunlik bezgakda qancha davom etadi?",
+   "c": "olti haftagacha",
+   "w": [
+    "6–15 sutkadan uch haftagacha",
+    "72 soat davomida",
+    "bir necha oydan ikki yilgacha",
+    "15–45 daqiqagacha"
+   ],
+   "x": "«To'qima shizogoniyasining davomiyligi to'rt kunlik bezgakda olti haftagacha, qolgan turlarda esa 6–15 sutkadan uch haftagacha davom etadi»"
+  },
+  {
+   "q": "Chivin me'dasida taxminan 9–12 daqiqadan keyin erkak gametotsit nima qiladi?",
+   "c": "sakkizta ingichka harakatchan xivchincha chiqaradi (eksflagellyatsiya)",
+   "w": [
+    "urug'langan zigota hosil qilib, harakatchan ookinetaga aylanadi",
+    "cho'zilib, bazal membrana ostida ootsistaga aylanadi",
+    "so'lak bezlariga to'planib sporozoitlar hosil qiladi",
+    "eritrotsitlardan xalos bo'lib, makrogametaga aylanadi"
+   ],
+   "x": "«Taxminan 9–12 daqiqadan keyin erkak gametotsit sakkizta ingichka harakatchan xivchincha chiqaradi (eksflagellyatsiya)»"
+  },
+  {
+   "q": "Ootsista yetilishi yakunida nima hosil bo'ladi?",
+   "c": "chivinning so'lak bezlariga to'planadigan sporozoitlar",
+   "w": [
+    "odam jigarida to'qima shizogoniyasini boshlovchi gepatotsitlar",
+    "eritrotsitlarda isitma xurujlariga sabab bo'luvchi merozoitlar",
+    "urug'langan zigota hosil qiluvchi mikrogametalar",
+    "harakatchan ookinetaga aylanuvchi gametotsitlar"
+   ],
+   "x": "«yakunda chivinning so'lak bezlariga to'planadigan sporozoitlar hosil bo'ladi»"
+  },
+  {
+   "q": "Sporogoniyaning davomiyligi nimaga bog'liq?",
+   "c": "havo haroratiga",
+   "w": [
+    "chivinning so'lak bezlari hajmiga",
+    "bemor qonidagi eritrotsitlar soniga",
+    "odam jigaridagi gepatotsitlar soniga",
+    "merozoitlarning eritrotsitlardagi davomiyligiga"
+   ],
+   "x": "«Sporogoniyaning davomiyligi havo haroratiga bog'liq, shu bois bezgak yuqishi mavsumiy xususiyatga ega»"
+  },
+  {
+   "q": "Chivinlar qanday odamdan zararlanadi?",
+   "c": "qonida to'liq rivojlangan gametotsitlar mavjud odamdan",
+   "w": [
+    "qonida faqat merozoitlar mavjud bo'lgan odamdan",
+    "jigarida gipnozoitlar mavjud bo'lgan odamdan",
+    "eritrotsitlari yorilmagan sog'lom odamdan",
+    "isitma xuruji boshlanmagan sog'lom odamdan"
+   ],
+   "x": "«chivinlar faqat qonida to'liq rivojlangan gametotsitlar mavjud bo'lgan odamdan zararlanadi»"
+  },
+  {
+   "q": "Asoratlanmagan tropik bezgakda birinchi qator davolash sifatida nima qo'llanadi?",
+   "c": "artemizinin asosidagi kombinatsiyalangan terapiya",
+   "w": [
+    "xlorokin bilan primaxinni bir vaqtda berish",
+    "uy sharoitida tibbiyot xodimi nazoratida davolash",
+    "yuqumli kasalliklar shifoxonasiga yotqizish",
+    "gametotsitlarga qarshi davolash va chivin chaqishidan himoya"
+   ],
+   "x": "«Asoratlanmagan tropik bezgakda birinchi qator davolash sifatida artemizinin asosidagi kombinatsiyalangan terapiya qo'llanadi»"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "137": [
+  {
+   "q": "Bolalar muassasasida enterobioz yoki gimenolepidoz holatining ro'yxatga olinishi nimani ko'rsatadi?",
+   "c": "jamoada kontakt yo'li bilan yuqish davom etayotganini",
+   "w": [
+    "jamoada autoinvaziya imkoniyati yo'qligini",
+    "jamoada sanitariya tartibi buzilmaganini",
+    "jamoada kontakt yo'li bilan yuqish tugaganini",
+    "guruhda yuqish tugaganini"
+   ],
+   "x": "«Bolalar muassasasida enterobioz yoki gimenolepidoz holatining ro'yxatga olinishi jamoada kontakt yo'li bilan yuqish davom etayotganini ko'rsatadi»"
+  },
+  {
+   "q": "Holat aniqlangach, o'choqni sanitariya-epidemiologik jihatdan kim tekshiradi?",
+   "c": "tibbiyot xodimi va sanitariya-epidemiologiya xizmati mutaxassisi",
+   "w": [
+    "bola qatnaydigan guruhning tarbiyachisi va ota-onalar",
+    "oshxona xodimlari va muassasa ma'muriyati",
+    "yashash joyidagi shifokor va oila a'zolari",
+    "davolash-profilaktika muassasasi rahbarlari"
+   ],
+   "x": "«muassasaning tibbiyot xodimi va sanitariya-epidemiologiya xizmati mutaxassisi o'choqni sanitariya-epidemiologik jihatdan tekshiradi»"
+  },
+  {
+   "q": "Enterobiozda qaysi usul bilan tekshirish o'tkaziladi?",
+   "c": "perianal qirma tekshiruvi",
+   "w": [
+    "najas mikroskopiyasi tekshiruvi",
+    "koproskopik tekshiruv",
+    "Lyugol eritmasi tekshiruvi",
+    "nativ preparat tekshiruvi"
+   ],
+   "x": "«Enterobiozda tekshirish perianal qirma bilan, gimenolepidozda najas mikroskopiyasi bilan o'tkaziladi»"
+  },
+  {
+   "q": "Gimenolepidoz bilan zararlanganlar qanday oralatib tekshiriladi?",
+   "c": "5–7 kun oralatib uch marta",
+   "w": [
+    "2–3 kun oralatib uch marta",
+    "5–7 kun oralatib ikki marta",
+    "2–3 kun oralatib ikki marta",
+    "15 kun oralatib uch marta"
+   ],
+   "x": "«Gimenolepidoz bilan zararlanganlar 5–7 kun oralatib uch marta, enterobiozga esa 2–3 kun oralatib uch marta tekshiriladi»"
+  },
+  {
+   "q": "Bolalar jamoasida enterobiozga tekshirilganda invaziyalanganlar qancha bo'lsa, butun jamoa 100 foiz davolanadi?",
+   "c": "15 foiz va undan yuqori",
+   "w": [
+    "5 foiz va undan yuqori",
+    "30 foiz va undan yuqori",
+    "50 foiz va undan yuqori",
+    "10 foiz va undan ortiq"
+   ],
+   "x": "«invaziyalanganlar 15 foiz va undan yuqori bo'lsa, butun jamoa 100 foiz davolanadi»"
+  },
+  {
+   "q": "Gimenolepidozda prazikvantel qanday dozada qo'llanadi?",
+   "c": "25 mg/kg bir martalik dozada",
+   "w": [
+    "10 mg/kg bir martalik dozada",
+    "50 mg/kg bir martalik dozada",
+    "25 mg/kg ikki martalik dozada",
+    "25 mg/kg ikki hafta davomida"
+   ],
+   "x": "«Gimenolepidozda prazikvantel 25 mg/kg bir martalik dozada qo'llanadi»"
+  },
+  {
+   "q": "Rejali tekshiruvlarda zararlanish 15 foiz va undan yuqori topilgan muassasalarda bolalar davolash davrida qanday bo'ladi?",
+   "c": "davolash davrida ham chetlatilmaydi",
+   "w": [
+    "davolash davrida vaqtincha chetlatiladi",
+    "davolash davrida alohida guruhga o'tkaziladi",
+    "davolash davrida ota-onalarga topshiriladi",
+    "davolash davrida ikki hafta chetlatiladi"
+   ],
+   "x": "«rejali tekshiruvlarda zararlanish 15 foiz va undan yuqori topilgan muassasalarda bolalar davolash davrida chetlatilmaydi»"
+  },
+  {
+   "q": "Atrofga yuqtirish xavfi bilan bog'liq bo'lmagan ishga o'tkazib bo'lmasa, zararlangan kattalar kimning qarori asosida vaqtincha ishdan chetlatiladi?",
+   "c": "Bosh davlat sanitariya shifokori qarori asosida",
+   "w": [
+    "muassasa ma'muriyati qarori asosida",
+    "tibbiyot xodimi qarori asosida",
+    "davolash-profilaktika muassasasi rahbari qarori asosida",
+    "sanitariya-epidemiologiya xizmati mutaxassisi qarori asosida"
+   ],
+   "x": "«ular Bosh davlat sanitariya shifokori qarori asosida vaqtincha ishdan chetlatiladi»"
+  },
+  {
+   "q": "Qattiq o'yinchoqlar, uy jihozlari va eshik tutqichlari qaysi eritmalar bilan zararsizlantiriladi?",
+   "c": "sovun-soda eritmalari",
+   "w": [
+    "xlorli eritmalar",
+    "kuchsiz dezinfeksiya eritmalari",
+    "Lyugol eritmasi",
+    "ultrabinafsha nurlari"
+   ],
+   "x": "«Qattiq o'yinchoqlar, uy jihozlari, eshik tutqichlari, stollar, o'rindiqlar va zinapoya tutqichlari sovun-soda eritmalari bilan zararsizlantiriladi»"
+  },
+  {
+   "q": "Farg'ona viloyatida gigiyena targ'iboti ichak parazitlari bilan qayta zararlanishni qanchaga kamaytirgan?",
+   "c": "30 foizga kamaytirgan",
+   "w": [
+    "15 foizga kamaytirgan",
+    "50 foizga kamaytirgan",
+    "100 foizga kamaytirgan",
+    "5 foizga kamaytirgan"
+   ],
+   "x": "«gigiyena targ'iboti ichak parazitlari bilan qayta zararlanishni 30 foizga kamaytirgan»"
+  }
+ ],
+ "138": [
+  {
+   "q": "Sanitariya-gelmintologik nazoratning birinchi vazifasi nima?",
+   "c": "geogelmintozlar va boshqa gelmintozlarning yuqish omillarini aniqlash",
+   "w": [
+    "tozalash inshootlari va sanitariya obodonlashtirish choralarining samaradorligini baholash",
+    "najasni zararsizlantirish choralarining samaradorligini baholash",
+    "tuproqdagi invaziv tuxumlar sonini kamaytirish",
+    "aholini davolash natijalarini baholash"
+   ],
+   "x": "«Nazoratning birinchi vazifasi geogelmintozlar va boshqa gelmintozlarning yuqish omillarini aniqlashdir»"
+  },
+  {
+   "q": "Tuproqda geogelmint tuxumlari qancha muddat hayotchan qoladi?",
+   "c": "bir necha oydan 5–7 yilgacha",
+   "w": [
+    "bir necha kundan 5–7 yilgacha",
+    "bir necha oydan 1–2 yilgacha",
+    "bir necha haftadan 5–7 yilgacha",
+    "bir necha oydan bir yilgacha"
+   ],
+   "x": "«Tuproqda geogelmint tuxumlari bir necha oydan 5–7 yilgacha hayotchan qoladi»"
+  },
+  {
+   "q": "Muassasalarda yuvindilar olinadigan tamponlar nimaga bo'ktiriladi?",
+   "c": "1 foizli natriy ishqori yoki 20 foizli glitseringa",
+   "w": [
+    "5 foizli natriy nitrat va alyuminiy sulfatga",
+    "20 foizli natriy ishqori yoki 1 foizli glitseringa",
+    "1 foizli alyuminiy sulfat yoki xloramin eritmasiga",
+    "5 foizli ishqor yoki zichligi 1,38–1,40 bo'lgan natriy nitratga"
+   ],
+   "x": "«1 foizli natriy ishqori yoki 20 foizli glitseringa bo'ktirilgan holda olinadi»"
+  },
+  {
+   "q": "Tuproq maydonchadan namuna qanday olinadi?",
+   "c": "konvert usulida bir necha nuqtadan",
+   "w": [
+    "sentrifuga usulida bir nuqtadan",
+    "flotatsiya usulida bir nuqtadan",
+    "cho'ktirish usulida bir necha nuqtadan",
+    "membrana usulida bitta nuqtadan"
+   ],
+   "x": "«bir necha nuqtadan olinib aralashtiriladi»"
+  },
+  {
+   "q": "Katta hajmdagi suv namunasi nimadan o'tkaziladi?",
+   "c": "membrana filtrlardan",
+   "w": [
+    "paxtali tamponlardan",
+    "zich eritmalardan",
+    "kapron tamponlardan",
+    "alyuminiy sulfatdan"
+   ],
+   "x": "«katta hajmdagi suv esa membrana filtrlardan o'tkaziladi»"
+  },
+  {
+   "q": "Atrof-muhit obyektida qanday tuxumlar epidemiologik xavf tug'diradi?",
+   "c": "hayotchan, invaziv tuxumlar",
+   "w": [
+    "yuvindilardagi tuxumlar",
+    "qo'llardagi tuxumlar",
+    "oqova suvdagi barcha tuxumlar",
+    "rivojlanishning dastlabki bosqichidagi tuxumlar"
+   ],
+   "x": "«epidemiologik xavfni faqat hayotchan, invaziv tuxumlar tug'diradi»"
+  },
+  {
+   "q": "JSST qishloq xo'jaligida sug'orish uchun ishlatiladigan tozalangan oqova suvda gelmint tuxumlari qancha bo'lishini tavsiya qiladi?",
+   "c": "1 litrda bittadan oshmasligini",
+   "w": [
+    "1 kg tuproqda bittadan oshmasligini",
+    "1 litrda hayotchan tuxum bo'lmasligini",
+    "1 litrda 36 va undan ko'p bo'lishini",
+    "1 kg tuproqda 27 va undan ko'p bo'lishini"
+   ],
+   "x": "«gelmint tuxumlarining 1 litrda bittadan oshmasligini tavsiya qiladi»"
+  },
+  {
+   "q": "1 kg tuproqda askarida invaziv tuxumlari qancha bo'lsa, ifloslanish kuchli hisoblanadi?",
+   "c": "36 va undan ko'p",
+   "w": [
+    "27 va undan ko'p",
+    "10 va undan ko'p",
+    "40–45 va undan ko'p",
+    "5 va undan ko'p"
+   ],
+   "x": "«1 kg tuproqda askarida invaziv tuxumlari 36 va undan ko'p, qilboshda 27 va undan ko'p bo'lsa, ifloslanish kuchli hisoblanadi»"
+  },
+  {
+   "q": "Bolalar muassasalarida qaysi holatda sanitariya-gigiena tartibi qo'pol buzilgan hisoblanadi?",
+   "c": "surtma, tuproq yoki qum namunalaridan birortasi musbat chiqsa",
+   "w": [
+    "barcha namunalar kamida ikki marta musbat chiqsa",
+    "tuproq namunalarining 36 foizi va undan ko'pi musbat chiqsa",
+    "yuvindilarning 50 foizi va undan ko'pi musbat chiqsa",
+    "qum namunalari bir necha oy hayotchan qolsa"
+   ],
+   "x": "«surtma, tuproq yoki qum namunalaridan birortasi musbat chiqsa, sanitariya-gigiena tartibi qo'pol buzilgan hisoblanadi»"
+  },
+  {
+   "q": "Hisobiy vaqt me'yorlariga ko'ra mevalar, sabzavotlar va ko'katlarni gelmint tuxumlariga tekshirish qancha vaqt talab qiladi?",
+   "c": "180 daqiqa talab qiladi",
+   "w": [
+    "15 daqiqa talab qiladi",
+    "60 daqiqa talab qiladi",
+    "120 daqiqa talab qiladi",
+    "20 daqiqa talab qiladi"
+   ],
+   "x": "«mevalar, sabzavotlar va ko'katlarni tekshirish esa 180 daqiqa talab qiladi»"
+  }
+ ],
+ "139": [
+  {
+   "q": "Kriptosporidioz qo'zg'atuvchisi qaysi oilaga mansub?",
+   "c": "Cryptosporidiidae oilasiga",
+   "w": [
+    "Coccidiida oilasiga",
+    "Sporozoa oilasiga",
+    "Coccidia oilasiga",
+    "Cryptosporidium oilasiga"
+   ],
+   "x": "«Coccidia sinfiga, Coccidiida turkumiga va Cryptosporidiidae oilasiga mansub»"
+  },
+  {
+   "q": "Hozirgi tasnifda odamda kasallikni asosan qaysi ikki tur chaqiradi?",
+   "c": "antroponoz C. hominis va zoonoz C. parvum",
+   "w": [
+    "antroponoz C. muris va zoonoz C. hominis",
+    "antroponoz C. parvum va zoonoz C. hominis",
+    "C. muris va C. parvum",
+    "Cryptosporidium muris va toksoplazma"
+   ],
+   "x": "«odamda kasallik asosan ikki tur, ya'ni antroponoz C. hominis va zoonoz C. parvum tomonidan chaqirilishi aniqlangan»"
+  },
+  {
+   "q": "Kriptosporidiyalarning butun hayot sikli qaysi organizmda o'tadi?",
+   "c": "bitta xo'jayin organizmida",
+   "w": [
+    "oraliq xo'jayin va asosiy xo'jayin organizmida",
+    "odam va hayvon organizmida",
+    "buzoq va odam organizmida",
+    "xo'jayin va tashqi muhit organizmida"
+   ],
+   "x": "«ularning butun hayot sikli bitta xo'jayin organizmida o'tadi va oraliq xo'jayin talab qilinmaydi»"
+  },
+  {
+   "q": "Ootsistalar qanday shaklda va diametri qancha bo'ladi?",
+   "c": "dumaloq shaklda, diametri 4–7 mkm",
+   "w": [
+    "chuvalchangsimon shaklda, diametri 4–7 mkm",
+    "dumaloq shaklda, diametri 0,8–1,2 mkm",
+    "dumaloq shaklda, diametri 4,9–11 mkm",
+    "chuvalchangsimon shaklda, diametri 0,8–1,2 mkm"
+   ],
+   "x": "«ootsistalar dumaloq shaklda, diametri 4–7 mkm bo'ladi»"
+  },
+  {
+   "q": "Sporozoitning uzunligi va kengligi qancha bo'ladi?",
+   "c": "uzunligi 4,9–11 mkm, kengligi 0,8–1,2 mkm",
+   "w": [
+    "uzunligi 4–7 mkm, kengligi 0,8–1,2 mkm",
+    "uzunligi 0,8–1,2 mkm, kengligi 4,9–11 mkm",
+    "uzunligi 4–7 mkm, kengligi 4,9–11 mkm",
+    "uzunligi 4,9–11 mkm, kengligi 4–7 mkm"
+   ],
+   "x": "«uzunligi 4,9–11 mkm, kengligi 0,8–1,2 mkm bo'lgan to'rtta chuvalchangsimon harakatchan sporozoit chiqadi»"
+  },
+  {
+   "q": "Ootsista xo'jayinga tushgandan to najas bilan chiqquncha qancha vaqt o'tadi?",
+   "c": "4–7 kun o'tadi",
+   "w": [
+    "4–14 kun o'tadi",
+    "5–11 kun o'tadi",
+    "3–4 hafta o'tadi",
+    "2–3 hafta o'tadi"
+   ],
+   "x": "«Ootsista xo'jayinga tushgandan to najas bilan chiqquncha 4–7 kun o'tadi»"
+  },
+  {
+   "q": "Ootsistalar tashqi muhitda qayerda bir necha oy saqlanishi mumkin?",
+   "c": "molxona polida",
+   "w": [
+    "suzish havzasida",
+    "ichakda",
+    "oziq-ovqat mahsulotlarida",
+    "ochiq suv havzalarida"
+   ],
+   "x": "«ootsistalar tashqi muhitga juda chidamli bo'lib, molxona polida bir necha oy saqlanishi mumkin»"
+  },
+  {
+   "q": "Kriptosporidiozning yashirin davri qancha davom etadi?",
+   "c": "4–14 kun davom etadi",
+   "w": [
+    "4–7 kun davom etadi",
+    "5–11 kun davom etadi",
+    "3–4 hafta davom etadi",
+    "1–2 hafta davom etadi"
+   ],
+   "x": "«kasallikning yashirin davri 4–14 kun davom etadi»"
+  },
+  {
+   "q": "Ootsistalarni aniqlashda Sil-Nilsen bo'yicha qaysi bo'yoq qo'llanadi?",
+   "c": "karbol-fuksin",
+   "w": [
+    "safranin",
+    "azur-eozin",
+    "Kester usuli",
+    "flotatsiya usuli"
+   ],
+   "x": "«Sil-Nilsen bo'yicha karbol-fuksin, Kester bo'yicha safranin yoki Romanovskiy–Gimza bo'yicha azur-eozin bilan bo'yalgan surtmalar qo'llanadi»"
+  },
+  {
+   "q": "Kriptosporidioz bilan og'riganlar kamida qancha muddat dispanser kuzatuvida bo'ladi?",
+   "c": "kamida ikki oy",
+   "w": [
+    "kamida 4–14 kun",
+    "kamida 3–4 hafta",
+    "kamida 5–11 kun",
+    "kamida bir hafta"
+   ],
+   "x": "«Bemorlar kamida ikki oy dispanser kuzatuvida bo'ladi»"
+  }
+ ]
+}

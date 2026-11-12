@@ -1,0 +1,338 @@
+{
+ "110": [
+  {
+   "q": "Exinokokkozga qarshi veterinariya choralari qaysi xo'jayinlar o'rtasidagi zanjirni uzishga qaratilgan?",
+   "c": "itlar — definitiv xo'jayin, chorva — oraliq xo'jayin",
+   "w": [
+    "chorva — definitiv xo'jayin, itlar — oraliq xo'jayin",
+    "odamlar — definitiv xo'jayin, itlar — oraliq xo'jayin",
+    "itlar — definitiv xo'jayin, odamlar — oraliq xo'jayin",
+    "mushuklar — definitiv xo'jayin, chorva — oraliq xo'jayin"
+   ],
+   "x": "«definitiv xo'jayin — itlar va oraliq xo'jayin — chorva o'rtasidagi zanjirni uzishga qaratilgan»"
+  },
+  {
+   "q": "Ro'yxatga olingan it egasiga nimalar beriladi?",
+   "c": "veterinariya pasporti, jeton shaklidagi belgi yoki mikrochip",
+   "w": [
+    "veterinariya pasporti, bo'yinbog' yoki prazikvantel",
+    "jeton shaklidagi belgi va tutilgan itlar xarajati",
+    "mikrochip va prazikvantel 5 mg/kg",
+    "bo'yinbog' va najas yig'ish uchun kurak"
+   ],
+   "x": "«egasiga veterinariya pasporti, jeton shaklidagi ro'yxatga olish belgisi yoki mikrochip beriladi»"
+  },
+  {
+   "q": "Itlar qanday yoshdan boshlab emlanadi?",
+   "c": "3 oyligidan boshlab",
+   "w": [
+    "1 oyligidan boshlab",
+    "6 oyligidan boshlab",
+    "12 oyligidan boshlab",
+    "2 oyligidan boshlab"
+   ],
+   "x": "«Itlar 3 oyligidan boshlab emlanadi»"
+  },
+  {
+   "q": "Muntazam degelmintizatsiya uchun itlarga prazikvantel qanday miqdorda beriladi?",
+   "c": "5 mg/kg miqdorida",
+   "w": [
+    "3–4 mg/kg miqdorida",
+    "20 mg/kg miqdorida",
+    "50 mg/kg miqdorida",
+    "10 mg/kg miqdorida"
+   ],
+   "x": "«itlarga prazikvantel 5 mg/kg miqdorida beriladi»"
+  },
+  {
+   "q": "Degelmintizatsiyadan keyin ajralgan najas qancha vaqt davomida yig'ilib yo'q qilinadi?",
+   "c": "2–3 kun davomida",
+   "w": [
+    "6–7 hafta davomida",
+    "5 kun davomida",
+    "bir hafta davomida",
+    "3 oy davomida"
+   ],
+   "x": "«Degelmintizatsiyadan keyin 2–3 kun davomida ajralgan najasni yig'ib, yoqish yoki ko'mish yo'li bilan yo'q qilish zarur»"
+  },
+  {
+   "q": "Nima sababli daydi va qarovsiz itlar eng xavfli manba bo'lib qoladi?",
+   "c": "egasi bo'lmagani sababli muntazam degelmintizatsiya qilinmaydi",
+   "w": [
+    "ro'yxatga olinib, har yili qayta emlanadi",
+    "bo'yinbog'i bo'lgani sababli tutilmaydi",
+    "pasporti bo'lgani sababli egasiga qaytariladi",
+    "najasi ko'milgani sababli tuproqni ifloslantirmaydi"
+   ],
+   "x": "«Daydi va qarovsiz itlar eng xavfli manba bo'lib qoladi, chunki egasi bo'lmagani uchun ular odatda muntazam degelmintizatsiya qilinmaydi»"
+  },
+  {
+   "q": "Samarqand viloyatida 2009–2010-yillarda o'lgan va so'yilgan 79 bosh qoramolning nechtasida exinokokkoz topilgan?",
+   "c": "27 tasida (34,2 %)",
+   "w": [
+    "12 tasida (15,2 %)",
+    "42 tasida (53,2 %)",
+    "28 tasida (35,4 %)",
+    "7 tasida (8,9 %)"
+   ],
+   "x": "«79 bosh qoramolning 27 tasida (34,2 %) exinokokkoz topilgan»"
+  },
+  {
+   "q": "Exinokokk pufaklari topilgan ichki a'zolar qanday zararsizlantiriladi?",
+   "c": "yoqish, chuqur ko'mish yoki texnik utilizatsiya",
+   "w": [
+    "kasalxona chiqindisiga tashlash yoki itlarga berish",
+    "so'yish joylarida qoldirish va mushuklarga berish",
+    "uyda so'yilgan hayvonlar bilan birga qoldirish",
+    "xom holda chorva uchun saqlash"
+   ],
+   "x": "«Exinokokk pufaklari topilgan ichki a'zolarni zararsizlantirish — yoqish, chuqur ko'mish yoki texnik utilizatsiya yo'li bilan amalga oshiriladi»"
+  },
+  {
+   "q": "O'zbekistonda 1990-yillarda professor M. Aminjonov tomonidan nima yaratilgan?",
+   "c": "hayvonlar exinokokkoziga qarshi vaksina",
+   "w": [
+    "itlar uchun prazikvantel preparati",
+    "qo'ylar uchun EG95 antigeni",
+    "koproantigen va PZR testlari",
+    "prazikvantel bilan degelmintizatsiya dasturi"
+   ],
+   "x": "«1990-yillarda professor M. Aminjonov tomonidan hayvonlar exinokokkoziga qarshi vaksina yaratilgani»"
+  },
+  {
+   "q": "Samarqand viloyatida 2015–2018-yillarda tekshirilgan 1755 itning nechtasida E. granulosus topilgan?",
+   "c": "28 tasida (1,6 %)",
+   "w": [
+    "79 tasida (4,5 %)",
+    "27 tasida (1,5 %)",
+    "12 tasida (0,7 %)",
+    "20 tasida (1,1 %)"
+   ],
+   "x": "«tekshirilgan 1755 itning 28 tasida (1,6 %) E. granulosus topilgan»"
+  }
+ ],
+ "111": [
+  {
+   "q": "Exinokokkoz holatini epidemiologik tekshirishdan maqsad nima?",
+   "c": "zararlanishning ehtimoliy manbasi va sharoitlarini aniqlash",
+   "w": [
+    "faqat bemorning kasbi va ish stajini aniqlash",
+    "tuproq va ko'kat namunalarini saqlash muddatini belgilash",
+    "itlarni degelmintizatsiya qilish va ro'yxatga olish",
+    "oila a'zolarini serologik testlar bilan tekshirish"
+   ],
+   "x": "«zararlanishning ehtimoliy manbasi va sharoitlarini aniqlash, oila a'zolari orasida boshqa holatlarni topish»"
+  },
+  {
+   "q": "Nima sababli tekshiruv bemorning butun hayoti davomidagi sharoitlarini qamrab olishi lozim?",
+   "c": "inkubatsion davr yillar bilan o'lchanadi",
+   "w": [
+    "inkubatsion davr bir necha kun davom etadi",
+    "bemorlar faqat bolalikda kasallanadi",
+    "oila a'zolari bir yashash joyida bo'lmaydi",
+    "itlar faqat bir hovlida saqlanadi"
+   ],
+   "x": "«Kasallikning inkubatsion davri yillar bilan o'lchangani sababli zararlanish vaqti va joyini aniq belgilash qiyin»"
+  },
+  {
+   "q": "Epidemiologik tekshirish kartasini kim to'ldiradi?",
+   "c": "parazitolog yoki epidemiolog",
+   "w": [
+    "veterinariya xodimlari guruhi",
+    "oila a'zolari va qo'shnilar",
+    "bozor veterinariya laboratoriyasi xodimi",
+    "tuman markazi xodimi"
+   ],
+   "x": "«bu kartani parazitolog yoki epidemiolog har bir bemor uchun to'ldiradi»"
+  },
+  {
+   "q": "Shaxsiy kartada itning saqlanish sharti qanday belgilanadi?",
+   "c": "bog'langan yoki yechilgan",
+   "w": [
+    "mahalliy yoki kelgan",
+    "rejali yoki epidemiologik",
+    "jamoa yoki xususiy",
+    "uyushgan yoki oilaviy"
+   ],
+   "x": "«itning borligi va saqlanish sharti (bog'langan yoki yechilgan) so'raladi»"
+  },
+  {
+   "q": "Kartada zararlanishning taxminiy yo'llari sifatida nimalar so'raladi?",
+   "c": "it bilan muloqot, ov, teri oshlash, o't-o'lan va mevalar",
+   "w": [
+    "jun qirqish, qo'y podasi, itxona va ovqatlanish joyi",
+    "kiyim, oyoq kiyim, pol changi va to'shak",
+    "chelak, kurak, eshik tutqichi va cho'michlar",
+    "ichimlik suvi, tomorqa va cho'milish joylari"
+   ],
+   "x": "«zararlanishning taxminiy yo'li — it bilan muloqot, ov, teri oshlash, o't-o'lan va mevalar»"
+  },
+  {
+   "q": "Xavf guruhlari qanday davriylikda IFT bilan tekshiriladi?",
+   "c": "yiliga bir marta",
+   "w": [
+    "yiliga bir necha marta",
+    "oy davomida bir marta",
+    "mavsum davomida bir marta",
+    "umr bo'yi bir marta"
+   ],
+   "x": "«veterinar xodimlar hamda it egalari — yiliga bir marta IFT bilan tekshiriladi»"
+  },
+  {
+   "q": "Tuproq va ko'kat namunalari hayvonlar turadigan joydan kamida qanday aylana maydondan olinadi?",
+   "c": "10 m aylana maydondan",
+   "w": [
+    "25 m aylana maydondan",
+    "4 m aylana maydondan",
+    "3 m aylana maydondan",
+    "24 m aylana maydondan"
+   ],
+   "x": "«hayvonlar turadigan joydan kamida 10 m aylana maydondan olinadi»"
+  },
+  {
+   "q": "Bitta ob'ektdan nechta surtma namunasi olinadi?",
+   "c": "25 ta surtma",
+   "w": [
+    "4 ta surtma",
+    "10 ta surtma",
+    "24 ta surtma",
+    "3 ta surtma"
+   ],
+   "x": "«Bitta ob'ektdan 25 ta surtma, 4 ta tuproq, 4 ta sabzavot, 4 ta ko'kat va 4 ta suv namunasi olinadi»"
+  },
+  {
+   "q": "+4 °C da saqlangan tuproq namunasi qancha vaqt ichida tekshiriladi?",
+   "c": "3 kun ichida",
+   "w": [
+    "24 soat ichida",
+    "10 kun ichida",
+    "4 kun ichida",
+    "25 kun ichida"
+   ],
+   "x": "«namunalar 24 soat ichida, +4 °C da saqlangan tuproq esa 3 kun ichida tekshiriladi»"
+  },
+  {
+   "q": "O'choq kadastri nimaga yordam beradi?",
+   "c": "turg'un o'choqlarni topish va invaziya tarqalishi chegarasini aniqlash",
+   "w": [
+    "bemorni bosqichga xos davolash va dispanser kuzatuviga olish",
+    "itlarni koproantigen yoki PZR testlari bilan tekshirish",
+    "surtma namunalarini 24 soat ichida tekshirish",
+    "oila a'zolarini ultratovush tekshiruviga yuborish"
+   ],
+   "x": "«Kadastr turg'un o'choqlarni topish, invaziya tarqalishi chegarasini aniqlash, tekshirilmagan hududlarni ajratish»"
+  }
+ ],
+ "112": [
+  {
+   "q": "Exinokokkoz profilaktikasi qanday choralarga bo'linadi?",
+   "c": "shaxsiy va jamoat choralariga",
+   "w": [
+    "jamoat va ikkilamchi choralariga",
+    "itlar va chorva choralariga",
+    "veterinariya va sanitariya choralariga",
+    "tibbiy va sanitariya choralariga"
+   ],
+   "x": "«Exinokokkoz profilaktikasi shaxsiy (odamni tuxumlardan himoya qilish) va jamoat (itlar hamda chorva o'rtasidagi zanjirni uzish) choralariga bo'linadi»"
+  },
+  {
+   "q": "Itlar bilan muloqotdan keyin shaxsiy profilaktikaning asosi nima?",
+   "c": "qo'llarni sovun bilan yuvish",
+   "w": [
+    "itlarni o'pish va ular bilan ovqatlanish",
+    "uy hayvonlarini ro'yxatdan o'tkazish",
+    "itlarga xom ichki a'zolar berish",
+    "sabzavotlarni qaynatilgan suvda saqlash"
+   ],
+   "x": "«Itlar bilan muloqotdan keyin qo'llarni sovun bilan yuvish shaxsiy profilaktikaning asosidir»"
+  },
+  {
+   "q": "Sabzavot, ko'kat va rezavor mevalarni yuvish bilan birga yana nima tuxumlarning og'izga tushishini kamaytiradi?",
+   "c": "qaynatilgan yoki zararsizlantirilgan suvni ichish",
+   "w": [
+    "itlarni yetovda va maxsus maydonda sayr qildirish",
+    "najasni yoqish yoki chuqur ko'mish",
+    "daydi itlar sonini nazorat qilish",
+    "pufakli a'zolarni yoqish yoki ko'mish"
+   ],
+   "x": "«Sabzavot, ko'kat va rezavor mevalarni yuvish, shuningdek qaynatilgan yoki zararsizlantirilgan suvni ichish tuxumlarning og'izga tushishini kamaytiradi»"
+  },
+  {
+   "q": "Exinokokk zanjirini uzishning asosiy usullaridan biri qaysi?",
+   "c": "itlarni prazikvantel bilan muntazam degelmintizatsiya qilish",
+   "w": [
+    "jarrohlik amaliyotidan keyin albendazol buyurish",
+    "serologik tekshiruvni yiliga bir marta o'tkazish",
+    "ultratovush skriningi va operatsiya",
+    "so'yish joylarida chorvani ko'mish"
+   ],
+   "x": "«Itlarga so'yilgan hayvonlarning xom ichki a'zolarini bermaslik va ularni prazikvantel bilan muntazam degelmintizatsiya qilish exinokokk zanjirini uzishning asosiy usullaridan biridir»"
+  },
+  {
+   "q": "Qoidalar itlarni qanday sayr qildirishni talab qiladi?",
+   "c": "yetovda yoki maxsus ajratilgan maydonda",
+   "w": [
+    "umumfoydalanishdagi joylarda sayr qildirish",
+    "egasiz holda umumfoydalanishdagi joylarda",
+    "bolalar o'yin maydonchalarida",
+    "tomorqa va hovlida bo'sh holda"
+   ],
+   "x": "«itlarni yetovda yoki maxsus ajratilgan maydonda sayr qildirishni talab qiladi»"
+  },
+  {
+   "q": "Buxoro shahrida itlardan har kuni tuproqqa o'rtacha qancha najas tushadi?",
+   "c": "o'rtacha 1500–2000 kg najas",
+   "w": [
+    "o'rtacha 50 kg najas",
+    "o'rtacha 55 kg najas",
+    "o'rtacha 12 kg najas",
+    "o'rtacha 2057 kg najas"
+   ],
+   "x": "«itlardan har kuni tuproqqa o'rtacha 1500–2000 kg najas tushishi»"
+  },
+  {
+   "q": "Ultratovush skriningi endemik hududlarda kasallikni qanday aniqlash imkonini beradi?",
+   "c": "erta, asoratlar rivojlanmasdan",
+   "w": [
+    "kech, asoratlar rivojlangandan keyin",
+    "jarrohlik amaliyotidan keyin",
+    "qaytalanishdan keyin",
+    "ilgari operatsiya qilinganda"
+   ],
+   "x": "«ultratovush skriningi kasallikni erta, asoratlar rivojlanmasdan aniqlash imkonini beradi»"
+  },
+  {
+   "q": "Qaytalanishning oldini olish uchun jarrohlik amaliyotidan keyin albendazol qancha muddat buyuriladi?",
+   "c": "bir oy buyuriladi",
+   "w": [
+    "ikki marta buyuriladi",
+    "ikki oy buyuriladi",
+    "bir yil buyuriladi",
+    "uzoq muddat buyuriladi"
+   ],
+   "x": "«jarrohlik amaliyotidan keyin albendazol bir oy buyuriladi»"
+  },
+  {
+   "q": "Nima sababli ikkilamchi profilaktika epidemik zanjirga ta'sir qilmaydi?",
+   "c": "odamdan odamga yuqish bo'lmagani sababli",
+   "w": [
+    "itlarni degelmintizatsiya qilmagani sababli",
+    "chorva so'yilmagani sababli",
+    "bemorlar dispanser hisobida turmagani sababli",
+    "tuxumlar tuproqda saqlanmagani sababli"
+   ],
+   "x": "«ammo odamdan odamga yuqish bo'lmagani uchun epidemik zanjirga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Markaziy Osiyoda 1990-yillarda kasallikning ko'payishiga nima olib kelgan?",
+   "c": "ijtimoiy-iqtisodiy o'zgarishlar va nazoratning susayishi",
+   "w": [
+    "itlar sonining kamayishi va chorvachilik rivoji",
+    "so'yish joylarining ko'payishi va degelmintizatsiya",
+    "skrining dasturlarining kengayishi va emlash",
+    "sanitariya ta'limining kuchayishi va nazorat"
+   ],
+   "x": "«1990-yillardagi ijtimoiy-iqtisodiy o'zgarishlar, qishloq xo'jaligining xususiylashtirilishi va veterinariya-epidemiologiya nazoratining susayishi kasallikning ko'payishiga olib kelgan»"
+  }
+ ]
+}

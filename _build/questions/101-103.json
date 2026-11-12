@@ -1,0 +1,338 @@
+{
+ "101": [
+  {
+   "q": "Qonunning 19-moddasiga ko'ra hayvonlar va mahsulot egalari nimalarga rioya etishi shart?",
+   "c": "hayvonlarni so'yishga doir veterinariya-sanitariya qoidalari va normalariga",
+   "w": [
+    "bozorlarda hayvonotga mansub mahsulot ekspertizasi xulosasiga",
+    "odam salomatligiga xavf tug'diradigan mahsulotni olib qo'yish qoidalariga",
+    "epizootik monitoring o'tkazish qoidalari va normalariga",
+    "go'shtni muzlatish rejimi qoidalari va normalariga"
+   ],
+   "x": "«hayvonlar va mahsulot egalari hayvonlarni so'yishga doir veterinariya-sanitariya qoidalari va normalariga rioya etishi shart»"
+  },
+  {
+   "q": "Bozorlarda hayvonotga mansub mahsulotni qabul qilish, saqlash va sotish nimaga asoslanadi?",
+   "c": "veterinariya-sanitariya ekspertizasi xulosasi asosida",
+   "w": [
+    "epizootik monitoring natijalari asosida",
+    "ekspertiza o'tkazmasdan sotuvchi xulosasi asosida",
+    "veterinariya xodimlarining kuzatuvi asosida",
+    "hojatxonalar holati asosida"
+   ],
+   "x": "«veterinariya-sanitariya ekspertizasi xulosasi asosida amalga oshiriladi»"
+  },
+  {
+   "q": "Qonunning 27-moddasiga ko'ra odam salomatligiga xavf tug'diradigan mahsulot nima qilinadi?",
+   "c": "majburiy olib qo'yilib, yo'q qilinadi yoki zararsizlantirilib qayta ishlanadi",
+   "w": [
+    "ekspertiza xulosasiz saqlanib, savdo obyektlarida sotiladi",
+    "egalarining xohishiga ko'ra so'yilib, aholiga sotiladi",
+    "faqat monitoring qilinib, hududiy markazga topshiriladi",
+    "xavflilik darajasidan qat'i nazar, yo'q qilinadi va hisobga olinmaydi"
+   ],
+   "x": "«majburiy ravishda olib qo'yilishi va yo'q qilinishi yoki zararsizlantirilib qayta ishlanishi shartligi belgilangan»"
+  },
+  {
+   "q": "Ekspertiza paytida finnalar ko'proq joylashadigan qaysi mushaklar kesib ko'riladi?",
+   "c": "chaynov mushaklari, yurak, til va diafragma",
+   "w": [
+    "boldir mushaklari, bo'yin va qalin qatlam",
+    "tana go'shti, qiyma va kolbasa",
+    "qizilo'ngach, bo'yin va boldir mushaklari",
+    "tana go'shti va qiyma mushaklari"
+   ],
+   "x": "«chaynov mushaklari, yurak, til, diafragma, qizilo'ngach va bo'yin mushaklari kesib ko'riladi»"
+  },
+  {
+   "q": "Okello va Thomas ma'lumotlariga ko'ra kuchli invaziyada tana go'shti nima qilinadi?",
+   "c": "texnik maqsadlarda utilizatsiya qilinadi",
+   "w": [
+    "zararsizlantirilgandan keyin ishlatiladi",
+    "bozorlarda ekspertizasiz sotiladi",
+    "muzlatilmasdan qiymaga ishlatiladi",
+    "issiq ishlovsiz kolbasa sanoatiga yuboriladi"
+   ],
+   "x": "«kuchli invaziyada tana go'shti texnik maqsadlarda utilizatsiya qilinadi»"
+  },
+  {
+   "q": "Qoramol go'shtida muzlatish harorati qayerda o'lchanadi?",
+   "c": "boldir mushaklarining 7–10 sm qalinligida",
+   "w": [
+    "chaynov mushaklarining 7–10 sm qalinligida",
+    "boldir mushaklarining 8 sm qalinligida",
+    "yurak mushaklarining 7–10 sm qalinligida",
+    "bo'yin mushaklarining 2,5 kg qalinligida"
+   ],
+   "x": "«harorat boldir mushaklarining 7–10 sm qalinligida o'lchanadi»"
+  },
+  {
+   "q": "Minus 6–9 darajada qoramol tanasi kamerada qancha saqlanadi?",
+   "c": "kamida 24 soat sovutgich kamerasida",
+   "w": [
+    "kamida 10 sutka sovutgich kamerasida",
+    "kamida 4 sutka sovutgich kamerasida",
+    "kamida 20 kun sovutgich kamerasida",
+    "kamida 3 soat sovutgich kamerasida"
+   ],
+   "x": "«minus 6–9 darajada esa tana kamida 24 soat sovutgich kamerasida saqlanadi»"
+  },
+  {
+   "q": "Issiq ishlovda go'sht ochiq qozonda qancha vaqt pishiriladi?",
+   "c": "ochiq qozonda 3 soat",
+   "w": [
+    "ochiq qozonda 2,5 soat",
+    "yopiq qozonda 3 soat",
+    "yopiq qozonda 2,5 soat",
+    "ochiq qozonda 20 kun"
+   ],
+   "x": "«ochiq qozonda 3 soat yoki 0,5 MPa bosimdagi yopiq qozonda 2,5 soat pishiriladi»"
+  },
+  {
+   "q": "Tuzlash orqali zararsizlantirish qanday o'tkaziladi?",
+   "c": "10 foiz tuz bilan ishqalanib, 24 foizli eritmada 20 kun saqlanadi",
+   "w": [
+    "24 foiz tuz bilan ishqalanib, 10 foizli eritmada 20 kun saqlanadi",
+    "10 foiz tuz bilan ishqalanib, 24 foizli eritmada 10 kun saqlanadi",
+    "10 foiz tuz bilan ishqalanib, 24 foizli eritmada 2,5 kun saqlanadi",
+    "2,5 foiz tuz bilan ishqalanib, 24 foizli eritmada 20 kun saqlanadi"
+   ],
+   "x": "«og'irligining 10 foizi miqdorida tuz bilan ishqalanadi, so'ngra 24 foizli tuz eritmasida 20 kun saqlanadi»"
+  },
+  {
+   "q": "Hayvonlarda sistitserkoz aniqlanganda veterinariya xizmati kimga xabar berishi shart?",
+   "c": "hududiy sanitariya-epidemiologiya markaziga",
+   "w": [
+    "hududiy veterinariya bo'limiga",
+    "mahalla yig'iniga",
+    "sanitariya-epidemiologiya markazi veterinariya bo'limiga",
+    "hududiy markaz mutaxassislariga"
+   ],
+   "x": "«hududiy sanitariya-epidemiologiya markaziga xabar berishi shart»"
+  }
+ ],
+ "102": [
+  {
+   "q": "Teniarinxoz holatini epidemiologik tekshirishdan maqsad nima?",
+   "c": "manba va omilni aniqlash, o'choqdagi zararlanganlarni topish hamda manbani yo'qotish",
+   "w": [
+    "faqat bemorlarni davolash va dispanser kuzatuviga olish hamda hisobga olish",
+    "tashxisni tasdiqlash, turini aniqlash va bemorlarni dispanser kuzatuviga olish",
+    "go'shtni muzlatish, ekspertiza qilish va veterinariya xodimlarini tekshirish",
+    "serologik usullarni qo'llash va sistitserkozni davolash"
+   ],
+   "x": "«zararlanish manbasi va omilini aniqlash, o'choqdagi boshqa zararlangan shaxslarni topish hamda qoramolning zararlanishiga sabab bo'layotgan manbani yo'qotishdir»"
+  },
+  {
+   "q": "Holat haqida qaysi shakldagi xabarnoma yuboriladi va natijalar qaysi shakldagi kartaga yoziladi?",
+   "c": "058/u shakldagi xabarnoma, 357/u shakldagi karta",
+   "w": [
+    "357/u shakldagi xabarnoma, 058/u shakldagi karta",
+    "058/u shakldagi xabarnoma, 2-shakldagi karta",
+    "2-shakldagi xabarnoma, 357/u shakldagi karta",
+    "357/u shakldagi xabarnoma, 2-shakldagi karta"
+   ],
+   "x": "«Holat haqida 058/u shaklidagi shoshilinch xabarnoma yuboriladi, natijalar esa 357/u shaklidagi epidemiologik kartaga yoziladi»"
+  },
+  {
+   "q": "Bemor ichagiga finna tushgandan taxminan qancha vaqt o'tgach gelmint bo'g'imlarni ajrata boshlaydi?",
+   "c": "taxminan uch oy o'tgach",
+   "w": [
+    "taxminan ikki hafta o'tgach",
+    "taxminan besh oy o'tgach",
+    "taxminan bir yil o'tgach",
+    "taxminan ikki kun o'tgach"
+   ],
+   "x": "«bemor ichagiga finna tushgandan taxminan uch oy o'tgach gelmint bo'g'imlarni ajrata boshlaydi»"
+  },
+  {
+   "q": "Omilni aniqlashda farqlash usuli nimaga asoslanadi?",
+   "c": "kasallanish yuqori hududlarda aniqlanadigan omil past hududlarda aniqlanmaydi",
+   "w": [
+    "oziq-ovqat va suv orqali yuqish holatlari bir omilga to'g'ri keladi",
+    "omil yuqori va past kasallanishli hududlarda bir xil topiladi",
+    "omil faqat past kasallanishli hududlarda aniqlanadi",
+    "kasallanish yuqori hududlarda ham, past hududlarda ham aniqlanmaydi"
+   ],
+   "x": "«kasallanish yuqori hududlarda aniqlanadigan omil past hududlarda aniqlanmaydi»"
+  },
+  {
+   "q": "Omilni aniqlashning rozilik usuli nimani kuzatadi?",
+   "c": "oziq-ovqat va suv orqali yuqish holatlarining bir omilga to'g'ri kelishini",
+   "w": [
+    "kasallanish yuqori hududlarda omil past hududlarda aniqlanmasligini",
+    "bozor, uyda so'yish va ekspertizadan o'tgan go'sht bo'yicha bir xil kasallanishni",
+    "omil yuqori va past kasallanishli hududlarda bir xil topilishini",
+    "oziq-ovqat orqali yuqish holatlari suv orqali yuqishdan farq qilishini"
+   ],
+   "x": "«Ikkinchisi rozilik usuli: oziq-ovqat va suv orqali yuqish holatlari bir omilga to'g'ri kelishi kuzatiladi»"
+  },
+  {
+   "q": "Epidemiologik tekshiruvda tur nima sababdan aniq bo'lishi kerak?",
+   "c": "teniozda sistitserkoz xavfi mavjud",
+   "w": [
+    "teniarinxozda sistitserkoz xavfi mavjud",
+    "teniozda ichak tutilishi xavfi mavjud",
+    "teniarinxozda ichak tutilishi xavfi mavjud",
+    "teniozda sistitserkoz xavfi yo'q"
+   ],
+   "x": "«Tur aniq bo'lishi kerak, chunki teniozda sistitserkoz xavfi mavjud»"
+  },
+  {
+   "q": "Agar tur T. solium deb topilsa, tekshiruv o'choqdagi odamlarda nimani qamrab olishi kerak?",
+   "c": "sistitserkoz belgilarini (bosh og'rig'i, mushak og'rig'i)",
+   "w": [
+    "ferma xodimlarining maxsus kiyimini va sanitariya daftarchasini",
+    "bozorlardagi go'shtning ekspertiza xulosasini",
+    "oila a'zolarining anamnezini",
+    "yaylovlardagi hojatxonalar holatini"
+   ],
+   "x": "«tekshiruv o'choqdagi odamlarda sistitserkoz belgilarini (bosh og'rig'i, mushak og'rig'i) ham qamrab olishi kerak»"
+  },
+  {
+   "q": "Zararlanish davrini topish uchun bo'g'imlar paydo bo'lgan sanadan qancha orqaga qarab sanash kerak?",
+   "c": "ikki–uch oy orqaga qarab",
+   "w": [
+    "ikki–uch hafta orqaga qarab",
+    "bir yil orqaga qarab",
+    "besh oy orqaga qarab",
+    "bir–uch kun orqaga qarab"
+   ],
+   "x": "«bo'g'imlar paydo bo'lgan sanadan ikki–uch oy orqaga qarab sanash»"
+  },
+  {
+   "q": "So'yish joyida qoramolda finnalar topilsa, manba qayerda izlanadi?",
+   "c": "hayvon kelgan xo'jalikda odamlar orasida",
+   "w": [
+    "so'yish joyidagi qassoblar orasida",
+    "bozordagi go'sht sotuvchilari orasida",
+    "hayvon kelgan xo'jalikdagi qoramollar orasida",
+    "ekspertiza o'tkazgan veterinarlar orasida"
+   ],
+   "x": "«so'yish joyida qoramolda finnalar topilsa, hayvon kelgan xo'jalikda odamlar orasida manba izlanadi»"
+  },
+  {
+   "q": "Teniarinxoz bemorlari kuzatuvdan qachon chiqariladi?",
+   "c": "yangi holatlar paydo bo'lmasa va bemorlar uch marta salbiy natija bersa",
+   "w": [
+    "yangi holatlar paydo bo'lmasa va bemorlar bir marta salbiy natija bersa",
+    "yangi holatlar paydo bo'lsa va bemorlar uch marta salbiy natija bersa",
+    "yangi holatlar paydo bo'lmasa va bemorlar besh marta salbiy natija bersa",
+    "ferma xodimlari ikki marta tekshirilib, salbiy natija bersa"
+   ],
+   "x": "«Yangi holatlar paydo bo'lmasa va bemorlar uch marta salbiy natija bersa, ular kuzatuvdan chiqariladi»"
+  }
+ ],
+ "103": [
+  {
+   "q": "Passiv aniqlashda kim tekshiriladi?",
+   "c": "bo'g'imlar chiqishi haqida shikoyat bilan murojaat qilgan bemor",
+   "w": [
+    "qishloq vrachlik punktida yilda bir marta tekshiriladigan chorvador",
+    "uyma-uy yurib so'rovda aniqlangan shikoyatsiz odam",
+    "ambulator bemor har yili birlamchi murojaat qilganda",
+    "sistitserkoz aniqlangan xo'jalikdagi aholi"
+   ],
+   "x": "«Passiv aniqlashda bo'g'imlar chiqishi haqida shikoyat bilan murojaat qilgan bemor tekshiriladi»"
+  },
+  {
+   "q": "So'rov usulida savol tushunarli bo'lishi uchun nima ko'rsatilishi tavsiya etiladi?",
+   "c": "bo'g'imlarning rasmi yoki namunasi",
+   "w": [
+    "tuxumlarning rasmi yoki mikroskopi",
+    "skoleksning rasmi yoki ilmog'i",
+    "najas surtmasining rasmi yoki namunasi",
+    "bemorning tashxis qo'yilgan kartasi"
+   ],
+   "x": "«Savol tushunarli bo'lishi uchun bo'g'imlarning rasmi yoki namunasi ko'rsatilishi tavsiya etiladi»"
+  },
+  {
+   "q": "T. saginatada bachadon yon shoxchalari soni qancha bo'ladi?",
+   "c": "odatda 17–35 ta shoxcha",
+   "w": [
+    "odatda 7–13 ta shoxcha",
+    "odatda 8–12 ta shoxcha",
+    "odatda 0,7–0,9 ta shoxcha",
+    "odatda 10–20 ta shoxcha"
+   ],
+   "x": "«T. saginatada har tomonda 17 tadan ko'p (odatda 17–35), T. soliumda esa 7–13 ta shoxcha bo'ladi»"
+  },
+  {
+   "q": "Qoramol solityoriga xos belgi qaysi?",
+   "c": "terminal bo'g'imlar harakatchan, skoleksda ilmoq bo'lmaydi",
+   "w": [
+    "terminal bo'g'imlar deyarli harakatsiz, skoleksda ilmoq bo'ladi",
+    "terminal bo'g'imlar harakatchan, skoleksda ilmoq bo'ladi",
+    "terminal bo'g'imlar deyarli harakatsiz, skoleksda ilmoq bo'lmaydi",
+    "shoxchalar 7–13 ta, skoleksda ilmoq bo'ladi"
+   ],
+   "x": "«Qoramol solityorida terminal bo'g'imlar harakatchan, cho'chqa solityorida esa deyarli harakatsiz; skoleksda ilmoq bo'lmasligi qoramol solityoriga xos belgi»"
+  },
+  {
+   "q": "Yetilgan gelmint va uning bo'laklari qanday saqlanadi?",
+   "c": "10 foizli formalin yoki 70 foizli spirtda",
+   "w": [
+    "20 foizli formalin yoki 10 foizli spirtda",
+    "10 foizli spirt yoki 70 foizli formalinda",
+    "10 foizli glitserin yoki 70 foizli fenolda",
+    "20 foizli glitserin yoki 10 foizli fenolda"
+   ],
+   "x": "«Yetilgan gelmint va uning bo'laklari 10 foizli formalin yoki 70 foizli spirtda saqlanadi»"
+  },
+  {
+   "q": "Torgushin usulida perianal qirma nima bilan olinadi?",
+   "c": "glitserinli paxta tamponi",
+   "w": [
+    "yopishqoq lenta",
+    "suvli probirka",
+    "gigroskopik tselofan",
+    "70 foizli spirt"
+   ],
+   "x": "«Torgushin usulida glitserinli paxta tamponi bilan, Kevorkov usulida suvli probirkada»"
+  },
+  {
+   "q": "Kato-Miura usulida nima tayyorlanadi?",
+   "c": "gigroskopik tselofan ostida najasning qalin surtmasi",
+   "w": [
+    "yopishqoq lenta ostida najasning ingichka surtmasi",
+    "buyum oynasi orasida bo'g'imning siqilgan surtmasi",
+    "suvli probirkada najasning qalin surtmasi",
+    "paxta tamponida perianal terining qirmasi"
+   ],
+   "x": "«gigroskopik tselofan ostida najasning qalin surtmasi tayyorlanadi»"
+  },
+  {
+   "q": "Najasni tekshirishda bir martalik manfiy natija nimani anglatadi?",
+   "c": "kasallikni inkor etmaydi, tekshiruv takrorlanadi",
+   "w": [
+    "kasallikni tasdiqlaydi, tekshiruv takrorlanmaydi",
+    "kasallikni inkor etadi, tekshiruv takrorlanmaydi",
+    "sistitserkozni tasdiqlaydi, tekshiruv takrorlanadi",
+    "turni aniqlaydi, tekshiruv takrorlanmaydi"
+   ],
+   "x": "«bir martalik manfiy natija kasallikni inkor etmaydi: tekshiruv takrorlanadi»"
+  },
+  {
+   "q": "Qoramol solityori aniqlangan bemorlarda serologiya nima sababdan odatda talab qilinmaydi?",
+   "c": "tashxis bo'g'im yoki qirma bilan tasdiqlanadi",
+   "w": [
+    "tashxis serologik reaksiya bilan tasdiqlanadi",
+    "tashxis koproantigen aniqlash bilan tasdiqlanadi",
+    "tashxis rentgenologik tekshiruv bilan tasdiqlanadi",
+    "tashxis najasdagi tuxum turi bilan tasdiqlanadi"
+   ],
+   "x": "«Qoramol solityori aniqlangan bemorlarda esa serologiya odatda talab qilinmaydi, chunki tashxis bo'g'im yoki qirma bilan tasdiqlanadi»"
+  },
+  {
+   "q": "Teniarinxoz holati aniqlash usulidan qat'i nazar qaysi shaklga kiritiladi?",
+   "c": "2-shaklga kiritiladi",
+   "w": [
+    "058/u shaklga kiritiladi",
+    "ikki shaklga kiritiladi",
+    "121-son shaklga kiritiladi",
+    "perianal qirma shaklga kiritiladi"
+   ],
+   "x": "«holat aniqlash usulidan qat'i nazar 2-shaklga kiritiladi»"
+  }
+ ]
+}

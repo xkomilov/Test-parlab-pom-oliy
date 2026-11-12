@@ -1,0 +1,338 @@
+{
+ "113": [
+  {
+   "q": "Odam uchun nospetsifik gelmintlar qanday gelmintlar hisoblanadi?",
+   "c": "asosiy definitiv xo'jayini hayvonlar bo'lgan gelmintlar",
+   "w": [
+    "asosiy definitiv xo'jayini odam bo'lgan gelmintlar",
+    "faqat odamdan odamga tarqaladigan gelmintlar",
+    "oraliq xo'jayini faqat odam bo'lgan gelmintlar",
+    "najasda tuxum ajratadigan voyaga yetgan gelmintlar"
+   ],
+   "x": "«asosiy definitiv xo'jayini hayvonlar bo'lgan, ammo odamni ham tasodifan zararlay oladigan gelmintlardir»"
+  },
+  {
+   "q": "Nima sababli odam toksokaralar uchun biologik berk ko'cha hisoblanadi?",
+   "c": "gelmint hayot siklini yakunlamaydi",
+   "w": [
+    "lichinkalar najas bilan chiqib ketadi",
+    "gelmint odamdan odamga tarqaladi",
+    "tuxumlar najasda topiladi",
+    "lichinkalar jigar va o'pkada voyaga yetadi"
+   ],
+   "x": "«Odam toksokaralar uchun biologik berk ko'cha, chunki ularda gelmint hayot siklini yakunlamaydi»"
+  },
+  {
+   "q": "Ko'z larva migransida lichinkalar nimaga olib keladi?",
+   "c": "ko'rishning pasayishiga, ba'zan ko'rlikka",
+   "w": [
+    "teri ichida ilonsimon yo'llar hosil bo'lishiga",
+    "buyrak parenximasi yemirilishiga",
+    "jigarda mayda pufaklar to'planishiga",
+    "oshqozonda o'tkir og'riq paydo bo'lishiga"
+   ],
+   "x": "«Ko'z larva migransida lichinkalar ko'zga tushib, ko'rishning pasayishiga, ba'zan ko'rlikka olib keladi»"
+  },
+  {
+   "q": "Teri larva migransida teri ichida ilonsimon yo'llarni qaysi gelmintlar lichinkalari hosil qiladi?",
+   "c": "it va mushuklarning ankilostomidlari",
+   "w": [
+    "it va mushuklarning askaridalari",
+    "kalamush tasmasimon chuvalchangi",
+    "anizakidlar va dioktofimalar",
+    "trixinella va fassiola"
+   ],
+   "x": "«Teri larva migransi it va mushuklarning ankilostomidlari (Ancylostoma braziliense, A. caninum) lichinkalari teri ichida ilonsimon yo'llar hosil qilganda kuzatiladi»"
+  },
+  {
+   "q": "E. multilocularis keltirib chiqaradigan alveokokkozda qanday tuzilma hosil bo'ladi?",
+   "c": "suyuqlik bo'lmagan mayda pufaklar to'plami",
+   "w": [
+    "bir kamerali suyuqlikli yirik pufak",
+    "teri ostida zich tugun",
+    "konyunktiva ostida harakatlanuvchi tuzilma",
+    "buyrak jomida parazit to'plami"
+   ],
+   "x": "«ichida suyuqlik bo'lmagan, mayda pufaklar to'plamidan iborat tuzilma hosil bo'ladi»"
+  },
+  {
+   "q": "Trixinellyoz bilan kasallanganlar necha oy davomida dispanser kuzatuvida turadi?",
+   "c": "6 oy davomida",
+   "w": [
+    "1 yilgacha",
+    "3 oy davomida",
+    "2 yil davomida",
+    "10 yil davomida"
+   ],
+   "x": "«trixinellyoz bilan kasallanganlar terapiya bo'limlarida davolanishi, 6 oy davomida dispanser kuzatuvida turishi»"
+  },
+  {
+   "q": "Odam Dipylidium caninum bilan qanday zararlanadi?",
+   "c": "zararlangan burgalarni tasodifan yutganda",
+   "w": [
+    "xom dengiz baliqlarini iste'mol qilganda",
+    "yuvilmagan sho'vulni iste'mol qilganda",
+    "xom cho'chqa go'shtini iste'mol qilganda",
+    "turg'un suvdan ichganda"
+   ],
+   "x": "«odam, ko'pincha bolalar, zararlangan burgalarni tasodifan yutganda zararlanadi»"
+  },
+  {
+   "q": "Odam Fasciola hepatica bilan qanday zararlanadi?",
+   "c": "yuvilmagan sho'vul va salat o'tlarini iste'mol qilganda",
+   "w": [
+    "xom yoki chala dudlangan go'shtni iste'mol qilganda",
+    "chala pishgan dengiz baliqlarini iste'mol qilganda",
+    "it va mushuklar bilan yaqin muloqot qilganda",
+    "kalamushlar najasi bilan ifloslangan suvdan ichganda"
+   ],
+   "x": "«Odam yuvilmagan sho'vul, tomorqa ko'katlari va salat o'tlarini iste'mol qilganda yoki turg'un suvdan ichganda zararlanadi»"
+  },
+  {
+   "q": "Toksokarozda qanday IFT titri kasallikdan dalolat beradi?",
+   "c": "1:800 va undan yuqori",
+   "w": [
+    "1:166 va undan yuqori",
+    "1:121 va undan yuqori",
+    "1:2015 va undan yuqori",
+    "1:2018 va undan yuqori"
+   ],
+   "x": "«1:800 va undan yuqori titr kasallikdan dalolat beradi»"
+  },
+  {
+   "q": "Kalamush tasmasimon chuvalchangi qo'zg'atadigan gimenolepidoz shakli qanday hisoblanadi?",
+   "c": "peroral zoonoz",
+   "w": [
+    "peroral antroponoz",
+    "kontagioz antroponoz",
+    "kontagioz zoonoz",
+    "peroral geogelmintoz"
+   ],
+   "x": "«kalamush tasmasimon chuvalchangi qo'zg'atadigan shakl esa peroral zoonoz hisoblanadi»"
+  }
+ ],
+ "114": [
+  {
+   "q": "Toksokaroz nima bilan kechadigan zoonoz gelmintoz?",
+   "c": "it va mushuk askaridalari lichinkalarining odam to'qimalarida ko'chib yurishi",
+   "w": [
+    "odam askaridalari lichinkalarining ichakda voyaga yetishi",
+    "it va mushuk askaridalarining voyaga yetgan shaklining odam ichagida yashashi",
+    "tuxumlarning odam ichagida voyaga yetishi",
+    "odam najasi bilan tuxumlarning ajralishi"
+   ],
+   "x": "«Toksokaroz — it va mushuk askaridalari lichinkalarining odam to'qimalarida ko'chib yurishi bilan kechadigan zoonoz gelmintoz»"
+  },
+  {
+   "q": "Toksokaraning voyaga yetgan gelmintlari qayerda yashaydi?",
+   "c": "itlar va mushuklarning ingichka ichagida",
+   "w": [
+    "odamning ingichka ichagida",
+    "itlar va mushuklarning jigarida",
+    "odamning jigari va o'pkasida",
+    "itlar va mushuklarning bosh miyasida"
+   ],
+   "x": "«Voyaga yetgan gelmintlar itlar va mushuklarning, ayniqsa kuchuklar va mushukchalarning ingichka ichagida yashaydi»"
+  },
+  {
+   "q": "Toksokara tuxumlarining o'lchami qancha?",
+   "c": "o'lchami 75–90 mkm",
+   "w": [
+    "o'lchami 0,1–0,2 mm",
+    "o'lchami 0,1–0,2 mkm",
+    "o'lchami 75–90 mm",
+    "o'lchami 10 mkm"
+   ],
+   "x": "«Tuxumlari dumaloq, o'lchami 75–90 mkm, qalin, chuqurchali qobiqli bo'lib»"
+  },
+  {
+   "q": "Toksokaroz bilan zararlanish qaysi paratenik xo'jayinlarning xom go'shti orqali ham mumkin?",
+   "c": "kemiruvchilar, qushlar va boshqa hayvonlar",
+   "w": [
+    "itlar, bo'rilar va tulkilar hamda kuchuklar",
+    "kuchuklar va mushukchalar, ayniqsa yosh hayvonlar",
+    "suvaraklar va bolalar",
+    "qishloq aholisi va bog'bonlar"
+   ],
+   "x": "«Kemiruvchilar, qushlar va boshqa hayvonlar paratenik xo'jayin bo'lib, ularning xom yoki chala pishgan go'shti, masalan tovuq jigari, orqali ham zararlanish mumkin»"
+  },
+  {
+   "q": "Odam invaziv tuxumlarni yutganda lichinkalar qanday tarqaladi?",
+   "c": "ichak devorini teshib, limfa va qon tomirlari orqali",
+   "w": [
+    "ichak devorida voyaga yetib",
+    "najas orqali tashqi muhitga chiqib, tuproq orqali tarqalib",
+    "o'pka va jigarda voyaga yetib",
+    "tuproq orqali tarqalib"
+   ],
+   "x": "«ichak devorini teshib o'tgan lichinkalar limfa va qon tomirlari orqali jigar, o'pka, taloq, ko'z, skelet mushaklari va bosh miyaga tarqaladi»"
+  },
+  {
+   "q": "Lichinkalar odam organizmida qancha vaqtgacha hayotchan qolishi mumkin?",
+   "c": "10 yilgacha",
+   "w": [
+    "5 kun ichida",
+    "bir necha hafta ichida",
+    "2 yilgacha",
+    "20 yilgacha"
+   ],
+   "x": "«Lichinkalar odam organizmida 10 yilgacha hayotchan qolishi mumkin»"
+  },
+  {
+   "q": "Toksokaroz bilan asosan kimlar kasallanadi?",
+   "c": "bolalar, ayniqsa maktabgacha yoshdagilar",
+   "w": [
+    "keksalar, ayniqsa kasbiy guruhlar",
+    "veterinariya xodimlari, ayniqsa haydovchilar",
+    "faqat yirik shaharlardagi kattalar",
+    "kommunal xo'jalik ishchilari va bog'bonlar"
+   ],
+   "x": "«Asosan bolalar, ayniqsa tuproq bilan tez-tez aloqada bo'ladigan va geofagiyaga moyil maktabgacha yoshdagilar kasallanadi»"
+  },
+  {
+   "q": "Kanzas shtatining Manxetten shahrida jamoat joylaridan olingan 282 tuproq namunasidan nechtasida toksokara tuxumlari topilgan?",
+   "c": "58 tasida (20,6 %)",
+   "w": [
+    "9 tasida (39,1 %)",
+    "23 tasida (8,2 %)",
+    "24 tasida (24,4 %)",
+    "80 tasida (28,8 %)"
+   ],
+   "x": "«282 tuproq namunasidan 58 tasida (20,6 %)»"
+  },
+  {
+   "q": "Toksokaroz bemori aniqlansa, shoshilinch xabar qaysi shakl bo'yicha beriladi?",
+   "c": "058/u shakli",
+   "w": [
+    "357/u shakli",
+    "166-son shakli",
+    "121-son shakli",
+    "4-ilova shakli"
+   ],
+   "x": "«Har bir aniqlangan bemor haqida 058/u shakli bo'yicha hududiy sanitariya-epidemiologiya nazorati markaziga shoshilinch xabar beriladi»"
+  },
+  {
+   "q": "Romanenko va hammualliflar ma'lumotiga ko'ra xonaki itlarning necha foizida toksokaroz topilgan?",
+   "c": "xonaki itlarning 42 %",
+   "w": [
+    "xonaki itlarning 75 %",
+    "xonaki itlarning 65 %",
+    "xonaki itlarning 20 %",
+    "xonaki itlarning 80 %"
+   ],
+   "x": "«ov itlarining 75 %, xonaki itlarning 42 %, qarovsiz itlarning 65 % ida toksokaroz topilgan»"
+  }
+ ],
+ "115": [
+  {
+   "q": "Fassiolyoz bilan odam qaysi bosqichni yutganda zararlanadi?",
+   "c": "metaserkariyalar (adoleskariylar)",
+   "w": [
+    "tuxumlarni yutganda",
+    "serkariyalarni yutganda",
+    "ekssistatsiyaga uchragan yosh gelmintlarni",
+    "mollyuskalarni yutganda"
+   ],
+   "x": "«invaziv lichinkalari, ya'ni metaserkariyalar (adoleskariylar) yutilganda zararlanadi»"
+  },
+  {
+   "q": "Fassiolyozda yuqish mexanizmi qanday?",
+   "c": "fekal-oral, aniqrog'i alimentar",
+   "w": [
+    "kontakt, aniqrog'i suv orqali",
+    "odamdan odamga bevosita o'tadi",
+    "tuxumlarni yutish orqali",
+    "xom jigar orqali"
+   ],
+   "x": "«Yuqish mexanizmi fekal-oral, aniqrog'i alimentar bo'lib, qo'zg'atuvchi bevosita odamdan odamga o'tmaydi»"
+  },
+  {
+   "q": "Fassiolyozda oraliq xo'jayin kim?",
+   "c": "chuchuk suv mollyuskalari",
+   "w": [
+    "yirik va mayda shoxli hayvonlar",
+    "otlar va tuyalar",
+    "kemiruvchilar va odamlar",
+    "suv teresi o'simliklari"
+   ],
+   "x": "«oraliq xo'jayin chuchuk suv mollyuskalari, definitiv xo'jayinlar esa yirik va mayda shoxli hayvonlar, otlar, tuyalar»"
+  },
+  {
+   "q": "Odamlardagi fassiolyoz holatlarining ko'pchiligi nima iste'moli bilan bog'liq?",
+   "c": "suv teresi iste'moli",
+   "w": [
+    "yalpiz iste'moli",
+    "qoqio't barglari iste'moli",
+    "qo'zi salatasi iste'moli",
+    "xom jigar iste'moli"
+   ],
+   "x": "«Odamlardagi holatlarning ko'pchiligi suv teresi iste'moli bilan bog'liq»"
+  },
+  {
+   "q": "Fransiyadagi tadqiqotda eng ko'p holat qaysi suv teresi bilan bog'langan?",
+   "c": "uyda o'stirilgan suv teresi",
+   "w": [
+    "yovvoyi suv teresi",
+    "tijoriy yetishtirilgan suv teresi",
+    "bozorda sotilgan suv teresi",
+    "Boliviyada yig'ilgan suv teresi"
+   ],
+   "x": "«23 holat uyda o'stirilgan, 8 holat yovvoyi, 2 holat tijoriy yetishtirilgan suv teresi bilan bog'langan»"
+  },
+  {
+   "q": "Eronda zararlanishga sabab bo'lgan o'simliklar qaysilar?",
+   "c": "suv teresi va yalpiz",
+   "w": [
+    "qoqio't barglari, qo'zi salatasi va yalpiz",
+    "berro-berro, kjosko va tortora",
+    "sho'vul, salat o'tlari va tomorqa ko'katlari",
+    "Nasturtium officinale va Roripa amphibia"
+   ],
+   "x": "«Eronda suv teresi va yalpiz»"
+  },
+  {
+   "q": "Adoleskariy suvda va nam tuproqda qancha vaqtgacha yashashi mumkin?",
+   "c": "2 yilgacha",
+   "w": [
+    "bir yildan ortiq",
+    "2,5–3 oy o'tgach",
+    "7–10 kundan keyin",
+    "24 soat ichida"
+   ],
+   "x": "«adoleskariy suvda va nam tuproqda 2 yilgacha yashashi»"
+  },
+  {
+   "q": "Fassiolyozda xom jigar iste'moli yuqishning qanday yo'li hisoblanadi?",
+   "c": "ikkinchi darajali yo'l",
+   "w": [
+    "asosiy va eng muhim yo'l",
+    "eng muhim mexanik yo'l",
+    "asosiy mexanik yo'l",
+    "eng muhim omil yo'li"
+   ],
+   "x": "«xom jigar esa ikkinchi darajali yo'l hisoblanadi»"
+  },
+  {
+   "q": "Najasda transit tuxumlar topilsa, tahlil qancha vaqtdan keyin qaytariladi?",
+   "c": "7–10 kundan keyin",
+   "w": [
+    "bir kundan keyin",
+    "2,5–3 oy o'tgach",
+    "2 yildan keyin",
+    "bir yildan keyin"
+   ],
+   "x": "«tahlilni 7–10 kundan keyin qaytarish va parazit tuxumlarini najasdan emas, o't suyuqligidan qidirish tavsiya etiladi»"
+  },
+  {
+   "q": "Samarqand bozorida sotilgan sabzavotlarning necha foizida metaserkariyalar topilgan?",
+   "c": "sabzavotlarning 10,5 foizida",
+   "w": [
+    "sabzavotlarning 13 foizida",
+    "sabzavotlarning 23 foizida",
+    "sabzavotlarning 2,5 foizida",
+    "sabzavotlarning 8 foizida"
+   ],
+   "x": "«Samarqand bozorida sotilgan sabzavotlarning 10,5 foizida ensistlangan metaserkariyalar topilgani»"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "083": [
+  {
+   "q": "Uyushgan guruhlarda enterobioz va gimenolepidozga qanday tekshiruv o'tkaziladi?",
+   "c": "enterobiozga perianal qirma, gimenolepidozga najas mikroskopiyasi",
+   "w": [
+    "enterobiozga najas mikroskopiyasi, gimenolepidozga perianal qirma",
+    "ikkalasiga ham perianal qirma",
+    "ikkalasiga ham najas mikroskopiyasi",
+    "enterobiozga qon tahlili, gimenolepidozga perianal qirma"
+   ],
+   "x": "«enterobiozga perianal qirma, gimenolepidozga najas mikroskopiyasi»"
+  },
+  {
+   "q": "Aralash invaziyani o'tkazib yubormaslik uchun perianal surtma bilan bir vaqtda nima qo'llanadi?",
+   "c": "koproskopik usul va Lyugol eritmali nativ preparat",
+   "w": [
+    "umumiy hisobot va dalolatnoma",
+    "tashqi muhit surtmasi va chang namunasi",
+    "sanitariya hisoboti va qum namunasi",
+    "tuproq namunasi va qum surtmasi"
+   ],
+   "x": "«perianal surtma bilan bir vaqtda biror koproskopik usul va Lyugol eritmasi bilan nativ preparat qo'llash kerak»"
+  },
+  {
+   "q": "Zararlanishni pasaytirishning samarali shakllaridan biri nima?",
+   "c": "jamoaga yangi manba kirib kelishini to'sish",
+   "w": [
+    "jamoadagi barcha bolalarni chetlatish",
+    "dori vositalari bilan davolash",
+    "sanitariya tartibi buzilishi",
+    "yangi bolalarni qabul qilishni tezlashtirish"
+   ],
+   "x": "«Zararlanishni pasaytirishning samarali shakllaridan biri jamoaga yangi manba kirib kelishini to'sishdir»"
+  },
+  {
+   "q": "Shifoxonaga yotqiziladigan maktabgacha va boshlang'ich sinf bolalari qachon enterobioz va gimenolepidozga tekshiriladi?",
+   "c": "klinik ko'rsatmadan qat'i nazar",
+   "w": [
+    "faqat klinik ko'rsatma bo'lganda",
+    "epidemik ko'rsatma asosida",
+    "bir oydan keyin qaytganda",
+    "reja-jadval asosida"
+   ],
+   "x": "«klinik ko'rsatmadan qat'i nazar enterobioz va gimenolepidozga tekshiriladi»"
+  },
+  {
+   "q": "Zararlanish 15 foiz va undan yuqori topilgan muassasada barcha bolalar va xodimlarga qancha degelmintizatsiya o'tkaziladi?",
+   "c": "1–2 kurs degelmintizatsiya",
+   "w": [
+    "3–4 kurs degelmintizatsiya",
+    "5–6 kurs degelmintizatsiya",
+    "yilda 2–3 kurs degelmintizatsiya",
+    "bir kunlik degelmintizatsiya"
+   ],
+   "x": "«barcha bolalar va xodimlarga 1–2 kurs degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Hojatxona va qo'l yuvish joylari nima bilan ta'minlanadi?",
+   "c": "sovun va alohida sochiqlar",
+   "w": [
+    "xlorli eritma va alohida idishlar",
+    "changyutgich va issiq dazmol",
+    "sovun-soda eritmasi va changyutgich",
+    "sovun-soda eritmasi va issiq dazmol"
+   ],
+   "x": "«Hojatxona va qo'l yuvish joylari sovun va alohida sochiqlar bilan ta'minlanadi»"
+  },
+  {
+   "q": "Bolalarning qo'llari necha marta sovunlab yuviladi?",
+   "c": "ikki marta",
+   "w": [
+    "bir marta",
+    "yilda ikki marta",
+    "yilda bir marta",
+    "kuniga 10–15 marta"
+   ],
+   "x": "«qo'llar ikki marta sovunlab yuviladi»"
+  },
+  {
+   "q": "Zararlanganlik ko'rsatkichi qanday hisoblanadi?",
+   "c": "zararlanganlar sonining tekshirilganlar soniga nisbati foizda",
+   "w": [
+    "tekshirilganlar sonining zararlanganlar soniga nisbati foizda",
+    "zararlanganlar sonining xodimlar soniga nisbati foizda",
+    "davolanganlar sonining zararlanganlar soniga nisbati foizda",
+    "tekshirilganlar sonining xodimlar soniga nisbati foizda"
+   ],
+   "x": "«zararlanganlar sonining tekshirilganlar soniga nisbati foizda hisoblanadi»"
+  },
+  {
+   "q": "Zararlanganlik ko'rsatkichining pasayishi nimani bildiradi?",
+   "c": "o'tkazilgan choralar samaradorligini",
+   "w": [
+    "umumiy hisobot natijasini",
+    "muassasa rahbariyati javobgarligini",
+    "sanitariya tartibining buzilishini",
+    "yakunlovchi dezinfeksiya natijasini"
+   ],
+   "x": "«Ko'rsatkichning pasayishi o'tkazilgan choralarning samaradorligini bildiradi»"
+  },
+  {
+   "q": "Geogelmintozlar o'choqlarida samarani baholash uchun oxirgi degelmintizatsiyadan 3 oy o'tgach qanday guruh qayta tekshiriladi?",
+   "c": "200–300 kishilik doimiy aholi guruhi",
+   "w": [
+    "50–100 kishilik doimiy aholi guruhi",
+    "10–15 kishilik doimiy aholi guruhi",
+    "barcha bolalar jamoasi",
+    "200–300 kishilik xodimlar guruhi"
+   ],
+   "x": "«har bir o'choqdagi 200–300 kishilik doimiy aholi guruhi oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tekshiriladi»"
+  }
+ ],
+ "084": [
+  {
+   "q": "Fassiolyozning qo'zg'atuvchilari qaysi turlar?",
+   "c": "Fasciola hepatica va Fasciola gigantica",
+   "w": [
+    "Galba truncatula va L. tomentosa",
+    "L. cubensis va L. viatrix",
+    "Fasciola hepatica va Galba truncatula",
+    "Galba truncatula va Fasciola gigantica"
+   ],
+   "x": "«uning qo'zg'atuvchilari Fasciola hepatica va Fasciola gigantica turlaridir»"
+  },
+  {
+   "q": "F. hepatica ning uzunligi qancha?",
+   "c": "uzunligi 2–3 sm",
+   "w": [
+    "uzunligi 7 sm gacha",
+    "uzunligi 130–150 mkm",
+    "uzunligi 60–90 mkm",
+    "uzunligi 1 sm"
+   ],
+   "x": "«uzunligi 2–3 sm, eni taxminan 1 sm ga teng»"
+  },
+  {
+   "q": "Fassiola tuxumining xarakterli belgisi nima?",
+   "c": "bir qutbida qopqoqchasi bor",
+   "w": [
+    "ikkala qutbida qopqoqchasi bor",
+    "rangi oq va qopqoqchasiz",
+    "tuxumi yirik emas",
+    "rangi sarg'ish-jigarrang, qopqoqchasiz"
+   ],
+   "x": "«rangi sarg'ish-jigarrang, bir qutbida qopqoqchasi bor»"
+  },
+  {
+   "q": "Fassiola uchun oraliq xo'jayin vazifasini kim bajaradi?",
+   "c": "chuchuk suv mollyuskalari",
+   "w": [
+    "yirik va mayda shoxli hayvonlar",
+    "otlar, tuyalar va kemiruvchilar",
+    "o'txo'r hayvonlar va odam",
+    "suv o'simliklari va ariq suvi"
+   ],
+   "x": "«limneidlar oilasiga mansub chuchuk suv mollyuskalari, asosan Galba (Lymnaea) truncatula bajaradi»"
+  },
+  {
+   "q": "Bitta mirasidiy yuqtirgan mollyuska qancha metaserkariya hosil qilishi mumkin?",
+   "c": "taxminan 4000 ta metaserkariya",
+   "w": [
+    "taxminan 60 ta metaserkariya",
+    "taxminan 10 ta metaserkariya",
+    "taxminan 90 ta metaserkariya",
+    "taxminan 30 ta metaserkariya"
+   ],
+   "x": "«bitta mirasidiy yuqtirgan mollyuska taxminan 4000 ta metaserkariya hosil qilishi mumkin»"
+  },
+  {
+   "q": "Ingichka ichakda ekssistatsiya qanday boshlanadi?",
+   "c": "bir soat o'tgach po'st ochila boshlaydi",
+   "w": [
+    "ikki soat o'tgach po'st ochila boshlaydi",
+    "bir soat o'tgach ichak devorini teshib o'tadi",
+    "bir kun o'tgach tuxum ajratiladi",
+    "3–4 oy o'tgach po'st ochiladi"
+   ],
+   "x": "«yuqtirishdan bir soat o'tgach po'st ochila boshlaydi»"
+  },
+  {
+   "q": "Definitiv xo'jayinda voyaga yetish taxminan qancha davom etadi?",
+   "c": "taxminan 3–4 oy",
+   "w": [
+    "taxminan 10 kun",
+    "taxminan 60 kun",
+    "taxminan 2 yil",
+    "taxminan bir soat"
+   ],
+   "x": "«Voyaga yetish taxminan 3–4 oy davom etadi»"
+  },
+  {
+   "q": "Fassiolyozning o'tkir (migratsion) bosqichi qaysi davrga to'g'ri keladi?",
+   "c": "jigar to'qimasi orqali ko'chish davriga",
+   "w": [
+    "o't yo'llarida joylashgan voyaga yetgan gelmintlarga",
+    "mollyuska ichidagi rivojlanishga",
+    "tuxumning tashqi muhitga o'tishiga",
+    "metaserkariyalarning yutilishiga"
+   ],
+   "x": "«o'tkir (migratsion) bosqich jigar to'qimasi orqali ko'chish davriga»"
+  },
+  {
+   "q": "Odamlar orasida tarqalish qanchadan ortiq bo'lgan hudud giperendemik hisoblanadi?",
+   "c": "10 foizdan ortiq",
+   "w": [
+    "1 foizdan kam",
+    "1–10 foiz",
+    "51 foizdan ortiq",
+    "5 foizdan kam"
+   ],
+   "x": "«giperendemik (10 foizdan ortiq)»"
+  },
+  {
+   "q": "Samarqand bozorida sotilgan sabzavotlarning qancha foizida ensistlangan metaserkariyalar topilgan?",
+   "c": "10,5 foizida",
+   "w": [
+    "25 foizida",
+    "1 foizida",
+    "30 foizida",
+    "58 foizida"
+   ],
+   "x": "«sotilgan sabzavotlarning 10,5 foizida ensistlangan metaserkariyalar topilgani»"
+  }
+ ],
+ "085": [
+  {
+   "q": "JSST geogelmintozlarga qarshi bir martalik dozada qaysi preparatlarni tavsiya qiladi?",
+   "c": "albendazol 400 mg yoki mebendazol 500 mg",
+   "w": [
+    "albendazol 500 mg yoki mebendazol 400 mg",
+    "albendazol 200 mg yoki mebendazol 500 mg",
+    "albendazol 400 mg yoki prazikvantel 40 mg/kg",
+    "mebendazol 400 mg yoki levamizol 500 mg"
+   ],
+   "x": "«albendazol 400 mg yoki mebendazol 500 mg»"
+  },
+  {
+   "q": "12–23 oylik bolalarga albendazol qanday dozada beriladi?",
+   "c": "albendazolning yarim dozasi, ya'ni 200 mg",
+   "w": [
+    "albendazolning to'liq dozasi, ya'ni 400 mg",
+    "mebendazolning to'liq dozasi, ya'ni 500 mg",
+    "albendazolning chorak dozasi, ya'ni 100 mg",
+    "albendazolning ikki marta dozasi, ya'ni 800 mg"
+   ],
+   "x": "«12–23 oylik bolalarga albendazolning yarim dozasi, ya'ni 200 mg beriladi»"
+  },
+  {
+   "q": "Maktab yoshidagi bolalar nima sababli dasturlarning asosiy maqsadli guruhi hisoblanadi?",
+   "c": "ularni maktablar orqali oson qamrab olish mumkin",
+   "w": [
+    "ular homilador ayollar guruhiga kiradi",
+    "kamqonlik xavfi yuqori emas",
+    "individual tashxis talab qilinadi",
+    "emizikli ayollar hisoblanadi"
+   ],
+   "x": "«Maktab yoshidagi bolalarni maktablar orqali oson qamrab olish mumkinligi sababli»"
+  },
+  {
+   "q": "Zararlanganlik 50 foiz va undan yuqori bo'lgan hududlarda JSST preparatni qanchalik beradi?",
+   "c": "yiliga ikki marta",
+   "w": [
+    "yiliga bir marta",
+    "bir necha yilda bir marta",
+    "davolashdan keyin bir marta",
+    "faqat bir martalik dozada"
+   ],
+   "x": "«50 foiz va undan yuqori bo'lgan hududlarda yiliga ikki marta beriladi»"
+  },
+  {
+   "q": "Dasturning maqsadi xavf guruhining kamida qancha qismini qamrab olishdir?",
+   "c": "kamida 75 foizini",
+   "w": [
+    "kamida 20 foizini",
+    "kamida 50 foizini",
+    "kamida 90 foizini",
+    "kamida 95 foizini"
+   ],
+   "x": "«Dasturning maqsadi xavf guruhining kamida 75 foizini qamrab olishdir»"
+  },
+  {
+   "q": "Shistosomozda qaysi preparat qanday dozada tavsiya etiladi?",
+   "c": "prazikvantel 40 mg/kg",
+   "w": [
+    "albendazol 40 mg/kg",
+    "mebendazol 40 mg/kg",
+    "pirantel 40 mg/kg",
+    "prazikvantel 400 mg"
+   ],
+   "x": "«Shistosomozda prazikvantel 40 mg/kg dozada tavsiya etiladi»"
+  },
+  {
+   "q": "Enterobioz va gimenolepidoz nima sababli JSSTning geogelmintozlar bo'yicha dasturiga to'g'ridan-to'g'ri kirmaydi?",
+   "c": "epidemiologiyasi kontaktga bog'liq",
+   "w": [
+    "epidemiologiyasi tuproq orqali yuqishga bog'liq",
+    "tashxis talab qilinadi",
+    "preparat bir martalik beriladi",
+    "faqat homilador ayollarda uchraydi"
+   ],
+   "x": "«chunki ularning epidemiologiyasi tuproq orqali yuqishga emas, balki kontaktga bog'liq»"
+  },
+  {
+   "q": "Albendazolning tuxumlar sonini kamaytirish bo'yicha qiymati qilbosh uchun qancha?",
+   "c": "qilbosh uchun 50 foiz",
+   "w": [
+    "qilbosh uchun 95 foiz",
+    "qilbosh uchun 90 foiz",
+    "qilbosh uchun 75 foiz",
+    "qilbosh uchun 20 foiz"
+   ],
+   "x": "«askarida uchun 95 foiz, ankilostomidlar uchun 90 foiz, qilbosh uchun 50 foiz»"
+  },
+  {
+   "q": "Yalpi degelmintizatsiya nima sababli qayta zararlanishning oldini olmaydi?",
+   "c": "tashqi muhitdagi tuxumlar saqlanib qoladi",
+   "w": [
+    "preparatlar benzimidazol hosilalari emas",
+    "davolash bir martalik dozada o'tkaziladi",
+    "bolalar najas tekshiruvidan o'tmaydi",
+    "najas tekshirilishi shart"
+   ],
+   "x": "«chunki tashqi muhitdagi tuxumlar saqlanib qoladi va bolalar ularni yana yutishi mumkin»"
+  },
+  {
+   "q": "Zararlanganlik 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga qanday davolash o'tkaziladi?",
+   "c": "yilda ikki marta ommaviy degelmintizatsiya",
+   "w": [
+    "yilda bir marta ommaviy degelmintizatsiya",
+    "faqat mikroo'choqlarda davolash",
+    "yilda uch marta ommaviy degelmintizatsiya",
+    "oyiga ikki marta ommaviy degelmintizatsiya"
+   ],
+   "x": "«Zararlanganlik 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga yilda ikki marta ommaviy degelmintizatsiya o'tkaziladi»"
+  }
+ ]
+}

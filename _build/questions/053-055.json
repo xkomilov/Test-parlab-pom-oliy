@@ -1,0 +1,338 @@
+{
+ "053": [
+  {
+   "q": "Antroponoz teri leyshmaniozi o'chog'ida chora-tadbirlar qaysi uchta yo'nalishda olib boriladi?",
+   "c": "bemorni topib davolash, iskaptoparlar sonini kamaytirish va muhitni tozalash",
+   "w": [
+    "bemorni topib davolash, iskaptoparlar sonini kamaytirish va hisobot tuzish",
+    "iskaptoparlar sonini kamaytirish, aholini emlash va hisobot tuzish",
+    "bemorni topib davolash, kemiruvchi inlarini buzish va hisobot tuzish",
+    "xonadonma-xonadon yurish, iskaptoparlar sonini kamaytirish va smeta tuzish"
+   ],
+   "x": "«Antroponoz teri leyshmaniozi o'chog'ida chora-tadbirlar uchta yo'nalishda olib boriladi: bemorni topib davolash, iskaptoparlar sonini kamaytirish va aholi yashash muhitini ko'payish joylaridan tozalash»"
+  },
+  {
+   "q": "Aniqlash tadbirlari qanday jadval bo'yicha o'tkaziladi?",
+   "c": "iyuldan oktyabrgacha haftada 2 marta, noyabr va dekabrda oyiga bir marta",
+   "w": [
+    "iyuldan oktyabrgacha oyiga bir marta, noyabr va dekabrda haftada 2 marta",
+    "iyuldan oktyabrgacha haftada 2 marta, noyabr va dekabrda haftada bir marta",
+    "aprel va may oylarida haftada 2 marta, iyuldan oktyabrgacha oyiga bir marta",
+    "noyabr va dekabrda haftada 2 marta, iyuldan oktyabrgacha oyiga bir marta"
+   ],
+   "x": "«aniqlash tadbirlari iyuldan oktyabrgacha haftada 2 marta, noyabr va dekabrda oyiga bir marta o'tkaziladi»"
+  },
+  {
+   "q": "Nima uchun kechqurunlari yarani bog'lab qo'yish tavsiya etiladi?",
+   "c": "ochiq yaradan iskaptopar zararlanishi mumkin",
+   "w": [
+    "yara atrofida repellent kerak bo'ladi",
+    "bemor yarasini bog'lamasdan maktabga borishi mumkin",
+    "ochiq yarada insektitsid ishlatilmaydi",
+    "yaraning bog'lanishi muhim emas"
+   ],
+   "x": "«Yaraning bog'lanishi muhim, chunki ochiq yaradan iskaptopar zararlanishi mumkin»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartasi nechta nusxada to'ldiriladi?",
+   "c": "ikki nusxada: biri tuman DSENMda qoladi, ikkinchisi viloyat DSENM parazitologiya bo'limiga yuboriladi",
+   "w": [
+    "ikki nusxada: biri bemorda qoladi, ikkinchisi tuman DSENMga yuboriladi",
+    "bir nusxada: viloyat DSENM parazitologiya bo'limiga yuboriladi",
+    "uch nusxada: tuman, viloyat va respublika DSENMiga yuboriladi",
+    "ikki nusxada: biri oilaviy poliklinikada qoladi, ikkinchisi hokimlikka yuboriladi"
+   ],
+   "x": "«Ma'lumotlar maxsus kartada ikki nusxada to'ldiriladi: biri tuman DSENMda qoladi, ikkinchisi viloyat DSENM parazitologiya bo'limiga yuboriladi»"
+  },
+  {
+   "q": "Toshkent viloyatiga olib kelingan holat o'z vaqtida cheklanmagani natijasida Olmaliq shahrida necha mahalliy holat ro'yxatga olingan?",
+   "c": "5 ta mahalliy holat",
+   "w": [
+    "10 ta olib kelingan holat",
+    "1 ta mahalliy holat",
+    "2 ta olib kelingan holat",
+    "3 ta mahalliy holat"
+   ],
+   "x": "«Toshkent viloyatiga olib kelingan holat rasmiy o'tkazilgan tekshiruv sababli o'z vaqtida cheklanmagan, natijada Olmaliq shahrida 5 ta mahalliy holat qayd etilgan»"
+  },
+  {
+   "q": "Bemor aniqlangan xonadonda insektitsid bilan qanday ishlov o'tkaziladi?",
+   "c": "xonadonning ichki va tashqi qismlari ishlanadi, qo'shni xonadonlar ham qamrab olinadi",
+   "w": [
+    "xonadonning ichki qismi ishlanadi, qo'shni xonadonlar qamrab olinmaydi",
+    "xonadonning tashqi qismi ishlanadi, qo'shni xonadonlar ham qamrab olinadi",
+    "xonadon ishlanmaydi, bemor kasalxonaga yotqiziladi",
+    "qo'shni xonadonlar ishlanadi, bemor xonadoni ishlanmaydi"
+   ],
+   "x": "«bemor aniqlangan xonadonning ichki va tashqi qismlari insektitsid bilan ishlanishi, shuningdek iskaptoparlarning faol ko'payish mavsumi boshlanmasidan oldin qo'shni xonadonlar ham qamrab olinishi talab etilgan»"
+  },
+  {
+   "q": "Ko'payish joylarini yo'qotish uchun qaysi obodonlashtirish ishlari tavsiya etilgan?",
+   "c": "devorlar pastini betonlash, ko'chalarni asfaltlash, hovlini g'isht bilan yopish",
+   "w": [
+    "devorlarning pastki qismini beton bilan qoplash va hovlilarni haydash",
+    "ko'chalarni tozalash, axlat to'plash va yaroqsiz binolarni qoldirish",
+    "ko'chalarni asfaltlash va devorlarni suvash taqiqlanadi",
+    "kemiruvchi inlarini saqlash va qarovsiz bostirmalarni qoldirish"
+   ],
+   "x": "«xonadon devorlarining pastki qismini beton qoplama bilan qoplash, ko'chalarni asfaltlash, hovlilarni pishiq g'isht bilan yopish tavsiya etilgan»"
+  },
+  {
+   "q": "Sanitariya-targ'ibot ishlarida kim tashkilotchi, kim ijrochi bo'ladi?",
+   "c": "DSENM xodimlari tashkilotchi, DPM xodimlari ijrochi",
+   "w": [
+    "DPM xodimlari tashkilotchi, DSENM xodimlari ijrochi",
+    "hokimlik tashkilotchi, DSENM xodimlari ijrochi",
+    "sanitariya faollari tashkilotchi, DPM xodimlari ijrochi",
+    "uchastka tibbiy xodimlari tashkilotchi, hokimlik ijrochi"
+   ],
+   "x": "«Sanitariya-targ'ibot ishlarida DSENM xodimlari tashkilotchi, DPM xodimlari ijrochi bo'ladi»"
+  },
+  {
+   "q": "Chora-tadbirlar rejasi kim tomonidan tuziladi va kim bilan kelishiladi?",
+   "c": "DSENM parazitologiya bo'limi mudiri tuzadi, mahalliy hokimiyat bilan kelishiladi",
+   "w": [
+    "DSENM parazitologiya bo'limi mudiri tuzadi, oilaviy poliklinika xodimlari bilan kelishiladi",
+    "oilaviy poliklinika xodimlari tuzadi, mahalliy hokimiyat bilan kelishiladi",
+    "DPM xodimlari tuzadi, parazitologiya bo'limi mudiri bilan kelishiladi",
+    "sanitariya faollari tuzadi, DSENM parazitologi bilan kelishiladi"
+   ],
+   "x": "«Yo'riqnomada chora-tadbirlar rejasi DSENM parazitologiya bo'limi mudiri tomonidan tuziladi va mahalliy hokimiyat bilan kelishiladi»"
+  },
+  {
+   "q": "JSSTning minimal tavsiyalariga ko'ra L. tropica qo'zg'atgan antroponoz shaklda asosiy choralar qaysilar?",
+   "c": "erta tashxis va davolash, obodonlashtirish hamda qoldiq ta'sirli insektitsidlar bilan ishlov",
+   "w": [
+    "bemorlarni kasalxonaga yotqizish, shoshilinch xabar berish va hisobot tuzish",
+    "xarajat smetasi tuzish, taqvim jadvali va tushuntirish xati",
+    "bemorni aniqlash, iskaptoparlarni ushlash va yopishqoq qog'ozda sanash",
+    "bog'cha, maktab va korxonalarni insektitsid bilan ishlash"
+   ],
+   "x": "«L. tropica qo'zg'atgan antroponoz shaklda holatni aniqlash, erta tashxis va adekvat davolash, obodonlashtirish, hamda qoldiq ta'sirli insektitsidlar bilan binolarning ichki va tashqi ishlovi asosiy choralardir»"
+  }
+ ],
+ "054": [
+  {
+   "q": "Antroponoz teri leyshmaniozi profilaktikasi qaysi ikki bo'g'inga tayanadi?",
+   "c": "bemorni erta aniqlab davolash va iskaptopar bilan aloqani uzish",
+   "w": [
+    "bolalar va migrantlar orasida kasallikni faol aniqlash va emlash",
+    "kemiruvchi inlarini buzish va aholini emlash",
+    "repellent ishlatish va bemorni kasalxonaga yotqizish",
+    "yangi xonadonlarni ko'chirish va aholi punktlarini obodonlashtirish"
+   ],
+   "x": "«profilaktika ikki bo'g'inga tayanadi: bemorni erta aniqlab davolash va iskaptoparlar bilan odam o'rtasidagi aloqani uzish»"
+  },
+  {
+   "q": "Aniqlanmagan bemor nima uchun uzoq vaqt davomida infeksiya manbai bo'lib qoladi?",
+   "c": "qaytalanuvchi shakl bir necha yil davom etishi mumkin",
+   "w": [
+    "qaytalanuvchi shakl past yuqish davrida yo'qoladi",
+    "davolash tugamaguncha bemor manba bo'lmaydi",
+    "bemor yaralari bog'lanmaydi",
+    "iskaptoparlar kechqurun va tunda faol emas"
+   ],
+   "x": "«Qaytalanuvchi leyshmanioz bir necha yil davom etishi mumkin, shu sababli aniqlanmagan bemor uzoq vaqt davomida infeksiya manbai bo'lib qoladi»"
+  },
+  {
+   "q": "Qaysi murakkab holatlarda bemor kasalxonaga yotqiziladi?",
+   "c": "yaralar uchtadan ko'p, 3 sm dan katta yoki bo'g'imlar yaqinida bo'lsa",
+   "w": [
+    "yaralar soni bitta va 3 sm dan oshmasa",
+    "yaralar bitta, bo'g'imlardan uzoq va yiringsiz bo'lsa",
+    "yaralar chandiqlangan, yiringli flora qo'shilmagan bo'lsa",
+    "yaralar uchtadan kam, limfa tugunlari jalb etilmagan bo'lsa"
+   ],
+   "x": "«Murakkab shakllarda (yaralar soni uchtadan ko'p bo'lsa, kattaligi 3 sm dan oshsa, bo'g'imlar yaqinida joylashsa, limfa tomir va tugunlar jarayonga qo'shilsa, yiringli flora qo'shilsa) bemor kasalxonaga yotqiziladi»"
+  },
+  {
+   "q": "Iskaptoparlarga qarshi ishlov samarasi qanday baholanadi?",
+   "c": "iskaptoparlar sonini ishlovdan oldin va keyin taqqoslab, monitoring orqali",
+   "w": [
+    "kasallanish ko'rsatkichini ishlovdan oldin va keyin taqqoslab",
+    "kemiruvchilar sonini ishlovdan oldin va keyin taqqoslab",
+    "yaralar chandiqlanishini ishlovdan oldin va keyin taqqoslab",
+    "aholi punktlari obodonlashtirilishini taqqoslab"
+   ],
+   "x": "«Ishlov samarasi iskaptoparlar sonini ishlovdan oldin va keyin taqqoslab, monitoring orqali baholanadi»"
+  },
+  {
+   "q": "Aholi punktlarini obodonlashtirishda nima tavsiya etilgan?",
+   "c": "devorlar pastini beton bilan qoplash, ko'chalarni asfaltlash, hovliga g'isht yotqizish",
+   "w": [
+    "devorlarni suvash va yangilash, hovlilarni nam saqlash",
+    "ko'chalarni asfaltlash, hovlilarni nam saqlash va organik moddalarni to'plash",
+    "kemiruvchi inlarini saqlash va qarovsiz binolarni qoldirish",
+    "hovlilarga pishiq g'isht yotqizish va devorlardagi yoriqlarni qoldirish"
+   ],
+   "x": "«Yo'riqnomada xonadonlar devorlarining pastki qismini beton bilan qoplash, ko'chalarni asfaltlash, hovlilarga pishiq g'isht yotqizish, devorlarni muntazam suvash va yangilash ko'rsatilgan»"
+  },
+  {
+   "q": "Shaxsiy profilaktika nimalarni o'z ichiga oladi?",
+   "c": "repellentlar va insektitsid bilan ishlangan pashshaxonalar",
+   "w": [
+    "bolalar va migrantlar orasida faol aniqlash",
+    "yaralarni majburiy bog'lagan holda davolash",
+    "kemiruvchi inlarini buzish va ko'kalamzorlashtirish",
+    "beton qoplama va asfaltlash ishlari"
+   ],
+   "x": "«Shaxsiy profilaktika repellentlar va uzoq muddat ta'sir qiluvchi insektitsidlar bilan ishlangan pashshaxonalardan foydalanishni o'z ichiga oladi»"
+  },
+  {
+   "q": "Xalqaro ma'lumotnomada to'r va kiyimlarni nima bilan ishlash samaraliroq deyiladi?",
+   "c": "permetrin yoki piretrum bilan ishlash",
+   "w": [
+    "DEET saqlovchi vositalarni surtish",
+    "pashshaxonalarni insektitsid bilan ishlamasdan qo'llash",
+    "repellentni faqat terining ochiq qismiga surtish",
+    "to'shak to'rini mexanik to'siq sifatida qo'llash"
+   ],
+   "x": "«to'r, to'shak to'ri va kiyimlar permetrin yoki piretrum bilan ishlanganda samaraliroq bo'lishi qayd etilgan»"
+  },
+  {
+   "q": "Iskaptoparlarni fenologik kuzatish jadvalida qaysi davr bo'yicha ma'lumotlar qayd etiladi?",
+   "c": "apreldan oktyabrgacha har o'n kunlikda",
+   "w": [
+    "apreldan oktyabrgacha har kuni",
+    "oktyabrdan dekabrgacha har o'n kunlikda",
+    "oktyabrdan aprelgacha har o'n kunlikda",
+    "apreldan oktyabrgacha bir marta"
+   ],
+   "x": "«iskaptoparlarning umumiy soni va bitta yopishqoq varaqdagi o'rtacha soni apreldan oktyabrgacha har o'n kunlikda qayd etiladi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi o'choqlarida L. major suyuq kulturasi bilan emlashdan maqsad nima?",
+   "c": "antroponoz shaklga qarshi immunitet hosil qilish",
+   "w": [
+    "zoonoz shaklga qarshi vaksina yaratish",
+    "kasallikni qaytalanishdan saqlash",
+    "iskaptoparlar sonini kamaytirish",
+    "visseral leyshmaniozni davolash"
+   ],
+   "x": "«antroponoz teri leyshmaniozi bilan kesishuvchi immunitet hosil qilish maqsadida zoonoz teri leyshmaniozi o'choqlarida L. major qo'zg'atuvchisining suyuq kulturasi bilan emlash ishlari olib borilishi»"
+  },
+  {
+   "q": "Profilaktika samarasi aholi orasida qanday baholanadi?",
+   "c": "kasalliklarning tarqalish darajasini erta faol aniqlash orqali",
+   "w": [
+    "kasallanganlarning yaralarini majburiy bog'lash orqali",
+    "iskaptoparlar sonini yopishqoq varaqda hisoblash orqali",
+    "repellentlar va pashshaxonalar sonini hisoblash orqali",
+    "yangi xonadonlarni obodonlashtirish hajmini hisoblash orqali"
+   ],
+   "x": "«Profilaktika samarasi aholi orasida kasalliklarning tarqalish darajasini erta faol aniqlash usuli bilan baholanadi»"
+  }
+ ],
+ "055": [
+  {
+   "q": "Leyshmaniyalar umurtqali xo'jayinda va iskaptopar ichagida qaysi shakllarda yashaydi?",
+   "c": "umurtqali xo'jayinda amastigota, iskaptoparda promastigota",
+   "w": [
+    "umurtqali xo'jayinda promastigota, iskaptoparda amastigota",
+    "ikkala xo'jayinda ham amastigota",
+    "ikkala xo'jayinda ham promastigota",
+    "umurtqali xo'jayinda sista, iskaptoparda amastigota"
+   ],
+   "x": "«Umurtqali xo'jayinda parazit to'qima ichidagi, asosan makrofaglar ichidagi xivchinsiz amastigota shaklida yashaydi, iskaptopar ichagida esa xivchinli harakatchan promastigota shaklida ko'payadi»"
+  },
+  {
+   "q": "Eski dunyoda va yangi dunyoda leyshmaniyalarning tarqatuvchisi qaysi turkum?",
+   "c": "Eski dunyoda Phlebotomus, yangi dunyoda Lutzomyia",
+   "w": [
+    "Eski dunyoda Lutzomyia, yangi dunyoda Phlebotomus",
+    "ikkala dunyoda ham Phlebotomus",
+    "ikkala dunyoda ham Lutzomyia",
+    "Eski dunyoda Phlebotomus, yangi dunyoda Anopheles"
+   ],
+   "x": "«Eski dunyoda ularning tarqatuvchisi Phlebotomus, yangi dunyoda Lutzomyia turkumiga kiruvchi iskaptoparlardir»"
+  },
+  {
+   "q": "Leyshmaniya morfologiyasi qanday?",
+   "c": "uzunligi 2–6, kengligi 1–3 mikron, ekssentrik yadro va kinetoplast bor",
+   "w": [
+    "uzunligi 10–20, kengligi 5–6 mikron, yadro va kinetoplast yo'q",
+    "uzunligi 2–6 mikron, kengligi 1–3 mikron, yadro va kinetoplast yo'q",
+    "uzunligi 1–3, kengligi 2–6 mikron, yadro yo'q, kinetoplast bor",
+    "uzunligi 2–6, kengligi 1–3 mikron, xivchinli promastigota shaklida"
+   ],
+   "x": "«leyshmaniya uzunligi 2–6, kengligi 1–3 mikron bo'lib, hujayrasi uch qavatli qobiq, sitoplazma va ekssentrik joylashgan yadro hamda kinetoplastdan iborat»"
+  },
+  {
+   "q": "Teri shaklida parazit qaysi materialdan topiladi?",
+   "c": "yara chetidagi infiltratdan olingan material",
+   "w": [
+    "suyak ko'migidan olingan material",
+    "taloqdan olingan material",
+    "limfa tugunlaridan olingan material",
+    "jigar to'qimasidan olingan material"
+   ],
+   "x": "«teri shaklida yara chetidagi infiltratdan, visseral shaklda suyak ko'migi, taloq yoki limfa tugunlaridan olingan materialda parazit topiladi»"
+  },
+  {
+   "q": "Teriga tushgan promastigotalarni avval qaysi hujayralar yutadi?",
+   "c": "neytrofillar",
+   "w": [
+    "makrofaglar",
+    "mononuklear fagotsitlar",
+    "taloq hujayralari",
+    "suyak ko'migi hujayralari"
+   ],
+   "x": "«teriga tushgan promastigotalarni avval neytrofillar yutadi, so'ng ular apoptozga uchragach makrofaglarga o'tadi»"
+  },
+  {
+   "q": "Iskaptopar ichida parazitlar qayerda to'planib tiqin hosil qiladi?",
+   "c": "uch kun ichida oshqozon ostida, to'rtinchi kuni halqumda",
+   "w": [
+    "uch kun ichida halqumda, to'rtinchi kuni oshqozon ostida",
+    "uch kun ichida xartumda, to'rtinchi kuni ichakda",
+    "uch kun ichida ichakda, to'rtinchi kuni xartumda",
+    "to'rtinchi kuni oshqozon ostida, yettinchi kuni halqumda"
+   ],
+   "x": "«Uch kun ichida ular oshqozon ostida, to'rtinchi kuni esa iskaptoparning halqumida to'planib»"
+  },
+  {
+   "q": "Zararlangan iskaptopar sog' odamni chaqqanda o'rtacha chaqishda teriga nechta promastigota kiradi?",
+   "c": "100–1000 ta promastigota",
+   "w": [
+    "1–4 ta promastigota",
+    "10–20 ta promastigota",
+    "2–8 ta promastigota",
+    "6–8 ta promastigota"
+   ],
+   "x": "«Vikipediyaga ko'ra o'rtacha chaqishda teriga 100–1000 ta promastigota kiradi»"
+  },
+  {
+   "q": "Inkubatsion davr leyshmanioz turlariga qarab qanday?",
+   "c": "zoonoz teri shaklida 1–4 hafta, antroponoz teri shaklida 2–8 oy, visseral shaklda 3 haftadan 1 yilgacha",
+   "w": [
+    "zoonoz teri shaklida 2–8 oy, antroponoz teri shaklida 1–4 hafta, visseral shaklda 6–8 kun",
+    "zoonoz teri shaklida 3 haftadan 1 yilgacha, antroponoz shaklida 1–4 hafta",
+    "teri shaklida infeksiya terida chegaralangan holda qoladi va yara hosil qiladi",
+    "zoonoz teri shaklida 1–4 hafta, antroponoz shaklida 6–8 kun, visseral shaklda 2–8 oy"
+   ],
+   "x": "«zoonoz teri shaklida 1–4 hafta, antroponoz teri shaklida 2–8 oy, visseral shaklda 3 haftadan 1 yilgacha, ko'pincha 3–6 oy davom etadi»"
+  },
+  {
+   "q": "Aholi punktida iskaptoparlar qanchagacha, tabiiy o'choqda qanchagacha uchadi?",
+   "c": "aholi punktida 10 metrgacha, tabiiy o'choqda 1,5–1,8 km gacha",
+   "w": [
+    "aholi punktida 1,5–1,8 km gacha, tabiiy o'choqda 10 metrgacha",
+    "aholi punktida 100–1000 metrgacha, tabiiy o'choqda 3 km gacha",
+    "aholi punktida 26–30 metrgacha, tabiiy o'choqda 18 km gacha",
+    "aholi punktida 10 km gacha, tabiiy o'choqda 1,5–1,8 metrgacha"
+   ],
+   "x": "«Aholi punktida iskaptoparlar 10 metrgacha, tabiiy o'choqda 1,5–1,8 km gacha uchadi»"
+  },
+  {
+   "q": "Antroponoz shakllarda (L. tropica, L. donovani) manba kim?",
+   "c": "faqat odam",
+   "w": [
+    "cho'l va yarim cho'ldagi kemiruvchilar",
+    "shaqollar va itlar",
+    "so'ng taloq",
+    "uy hayvonlari"
+   ],
+   "x": "«Antroponoz shakllarda (L. tropica, hind visseral shakli L. donovani) manba faqat odam bo'lib»"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "122": [
+  {
+   "q": "Qoramol go'shtidagi eng muhim xavf qaysi parazitning finnalari hisoblanadi?",
+   "c": "Taenia saginata ning mushaklardagi finnalari",
+   "w": [
+    "Taenia solium ning mushaklardagi finnalari",
+    "Trichinella spiralis ning mushaklardagi lichinkalari",
+    "Echinococcus turlarining jigardagi pufaklari",
+    "Sarcocystis hominis ning mushaklardagi sistalari"
+   ],
+   "x": "«Qoramol go'shtidagi eng muhim xavf Taenia saginata ning mushaklarda joylashgan finnalari (Cysticercus bovis) hisoblanadi»"
+  },
+  {
+   "q": "Cho'chqa go'shtidagi eng xavfli parazit qaysi?",
+   "c": "Taenia solium",
+   "w": [
+    "Taenia saginata",
+    "Trichinella spiralis",
+    "Sarcocystis suihominis",
+    "Toxoplasma gondii"
+   ],
+   "x": "«Cho'chqa go'shtidagi eng xavfli parazit Taenia solium dir.»"
+  },
+  {
+   "q": "Tenioz bilan kasallangan odam najasidagi tuxumlar boshqa odamlarda qanday kasalliklarni keltirib chiqaradi?",
+   "c": "sistitserkoz va neyrotsistitserkoz",
+   "w": [
+    "teniarinxoz va ichak sarkotsistozi",
+    "trixinellyoz va miokardit",
+    "toksoplazmoz va ensefalit",
+    "exinokokkoz va fassiolali jigar"
+   ],
+   "x": "«tenioz bilan kasallangan odam najasidagi tuxumlar esa boshqa odamlarga yuqib, sistitserkoz va neyrotsistitserkozni keltirib chiqaradi»"
+  },
+  {
+   "q": "Trixinellyoz qanday belgilar bilan kechadi?",
+   "c": "isitma, mushak og'rig'i, yuz shishi va eozinofiliya",
+   "w": [
+    "isitma, yuz shishi, miokardit va tug'ma nuqson",
+    "mushak og'rig'i, tranzit tuxumlar va ensefalit",
+    "yuz shishi, ichak sarkotsistozi va isitma",
+    "isitma, tranzit tuxumlar va jigar pufaklari"
+   ],
+   "x": "«Trixinellyoz isitma, mushak og'rig'i, yuz shishi va eozinofiliya bilan kechadi»"
+  },
+  {
+   "q": "Qo'y va echki go'shtidagi Toxoplasma gondii sistalarini yo'qotish uchun nima qilinadi?",
+   "c": "ichki qismigacha termik ishlov beriladi",
+   "w": [
+    "yuzasi spirt bilan artiladi",
+    "xom holda qiymaga aylantiriladi",
+    "ichki a'zolar itlarga beriladi",
+    "faqat kabob qilib saqlanadi"
+   ],
+   "x": "«Go'shtning ichki qismigacha termik ishlov berilishi sistalarni yo'qotadi»"
+  },
+  {
+   "q": "Respublika hisobiy vaqt me'yorlariga ko'ra kompression usul qancha vaqt talab qiladi?",
+   "c": "15 daqiqa vaqt talab qiladi",
+   "w": [
+    "20 daqiqa vaqt talab qiladi",
+    "7 daqiqa vaqt talab qiladi",
+    "3 soat vaqt talab qiladi",
+    "2,5 soat vaqt talab qiladi"
+   ],
+   "x": "«kompression usul 15 daqiqa, hazm qilish usuli 20 daqiqa, oddiy finnoskopiya esa 7 daqiqa talab qiladi»"
+  },
+  {
+   "q": "Finnali mol go'shti tanasi qalinligida harorat qanday bo'lguncha muzlatilganda qo'shimcha saqlash talab etilmaydi?",
+   "c": "-12 daraja bo'lguncha",
+   "w": [
+    "-6 daraja bo'lguncha",
+    "-9 daraja bo'lguncha",
+    "-10 daraja bo'lguncha",
+    "-13 daraja bo'lguncha"
+   ],
+   "x": "«Romanenko bayon etgan tartibda finnali mol go'shti tanasi qalinligida harorat -12 daraja bo'lguncha muzlatilganda qo'shimcha saqlash talab etilmaydi»"
+  },
+  {
+   "q": "Tana bo'laklarga bo'linib qaynatilganda qancha vaqt va qaysi qozonda qaynatiladi?",
+   "c": "3 soat ochiq qozonda",
+   "w": [
+    "2,5 soat ochiq qozonda",
+    "3 soat yopiq qozonda",
+    "24 soat yopiq qozonda",
+    "20 sutka ochiq qozonda"
+   ],
+   "x": "«ochiq qozonda 3 soat yoki yopiq qozonda 2,5 soat qaynatiladi»"
+  },
+  {
+   "q": "Tahlil qilingan bemorlarning necha foizi exinokokk infeksiyasini itlardan yuqtirgani aniqlangan?",
+   "c": "53,85 foizi itlardan yuqtirgan",
+   "w": [
+    "10 foizi itlardan yuqtirgan",
+    "24 foizi itlardan yuqtirgan",
+    "85 foizi itlardan yuqtirgan",
+    "38 foizi itlardan yuqtirgan"
+   ],
+   "x": "«tahlil qilingan bemorlarning 53,85 foizi infeksiyani itlardan yuqtirgani aniqlangan»"
+  },
+  {
+   "q": "Teniarinxoz va teniozga yilda bir marta qaysi shaxslar tekshiriladi?",
+   "c": "sog'uvchilar, cho'ponlar, qushxona xodimlari, qassoblar va oshpazlar",
+   "w": [
+    "ov hayvonlari go'shtini iste'mol qiluvchi ovchilar va ularning oilalari",
+    "homilador ayollar, ovchilar, qassoblar va ov jamoasi a'zolari",
+    "veterinariya mutaxassislari, laborantlar va sanitariya-targ'ibot xodimlari",
+    "itlar bilan ishlovchi cho'ponlar, ovchilar va parazitologlar"
+   ],
+   "x": "«chorvachilik xo'jaligi xodimlari (sog'uvchilar, cho'ponlar) va ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar teniarinxoz va teniozga yilda bir marta»"
+  }
+ ],
+ "123": [
+  {
+   "q": "Baliq orqali yuqadigan jigar so'rg'ichlilari qaysi turlar hisoblanadi?",
+   "c": "Opisthorchis felineus, O. viverrini va Clonorchis sinensis",
+   "w": [
+    "Diphyllobothrium latum, D. dendriticum va D. klebanovskii",
+    "Anisakis simplex, Pseudoterranova decipiens va Dioctophyma renale",
+    "Metagonimus, Gnathostoma va Dioctophyma renale",
+    "Metorxis, Exinoxazmus va Apofallus turlari"
+   ],
+   "x": "«Opisthorchis felineus, O. viverrini va Clonorchis sinensis baliq orqali yuqadigan jigar so'rg'ichlilari hisoblanadi»"
+  },
+  {
+   "q": "O. felineus qaysi hududlarda tarqalgan?",
+   "c": "Sibir, Qozog'iston va Sharqiy Yevropada",
+   "w": [
+    "Janubi-Sharqiy Osiyoda",
+    "Xitoy, Koreya va Vyetnamda",
+    "Amudaryo va Vaxsh havzalarida",
+    "Markaziy Osiyo va Ozarbayjonda"
+   ],
+   "x": "«O. felineus Sibir, Qozog'iston va Sharqiy Yevropada, O. viverrini Janubi-Sharqiy Osiyoda»"
+  },
+  {
+   "q": "Uzoq davom etgan opistorxozning oxirgi og'ir oqibati nima bo'lishi mumkin?",
+   "c": "o't yo'llari saratoni",
+   "w": [
+    "anafilaksiya va eshakemi",
+    "B12-vitamin tanqisligi",
+    "o'tkir qorin og'rig'i",
+    "teri osti to'qimalari zararlanishi"
+   ],
+   "x": "«oxir-oqibat o't yo'llari saratoni kelib chiqishi mumkin»"
+  },
+  {
+   "q": "Difillobotrioz ayrim hollarda qanday holatga olib keladi?",
+   "c": "B12-vitamin tanqisligi anemiyasiga",
+   "w": [
+    "o't yo'llari saratoniga",
+    "eshakemi va anafilaksiyaga",
+    "surunkali jigar yetishmovchiligiga",
+    "o'tkir qorin og'rig'iga"
+   ],
+   "x": "«ayrim hollarda B12-vitamin tanqisligi anemiyasiga olib keladi»"
+  },
+  {
+   "q": "Anizakidoz odamda qachon kelib chiqadi?",
+   "c": "lichinkani xom baliq bilan yutganda",
+   "w": [
+    "metatserkariylarni xom baliqdan yutganda",
+    "plerotserkoidli ikrani kam tuzlaganda",
+    "qisqichbaqasimonlarni qaynatilganda",
+    "najas bilan suv havzasi ifloslanganda"
+   ],
+   "x": "«Odam lichinkani xom baliq bilan yutganda anizakidoz kelib chiqadi»"
+  },
+  {
+   "q": "Baliq tanasi necha darajaga yetganda anizakidlar bir zumda nobud bo'ladi?",
+   "c": "60 darajaga yetganda",
+   "w": [
+    "45 darajaga yetganda",
+    "55 darajaga yetganda",
+    "80 darajaga yetganda",
+    "36 darajaga yetganda"
+   ],
+   "x": "«baliq tanasi 60 darajaga yetganda esa bir zumda nobud bo'ladi»"
+  },
+  {
+   "q": "Opistorx metatserkariylari baliqda qancha vaqtgacha yashaydi?",
+   "c": "2,5 yilgacha yashaydi",
+   "w": [
+    "7 yilgacha yashaydi",
+    "40 sutkagacha yashaydi",
+    "20 daqiqagacha yashaydi",
+    "10 yilgacha yashaydi"
+   ],
+   "x": "«Metatserkariylar baliqda 2,5 yilgacha yashaydi»"
+  },
+  {
+   "q": "Opistorxid lichinkalaridan baliqni zararsizlantirish uchun tana ichidagi harorat qanday saqlanishi lozim?",
+   "c": "-40 darajada 7 soat",
+   "w": [
+    "-40 darajada 14 soat",
+    "-40 darajada 32 soat",
+    "-28 darajada 7 soat",
+    "-20 darajada 8 soat"
+   ],
+   "x": "«tanasi ichidagi harorat -40 darajada 7 soat, -35 darajada 14 soat yoki -28 darajada 32 soat saqlanishi lozim»"
+  },
+  {
+   "q": "Peskar va uklyeyka kabi mayda baliqlarni tuzlash uchun necha sutka talab qilinadi?",
+   "c": "10 sutka talab qilinadi",
+   "w": [
+    "21 sutka talab qilinadi",
+    "40 sutka talab qilinadi",
+    "14 sutka talab qilinadi",
+    "20 sutka talab qilinadi"
+   ],
+   "x": "«mayda baliqlar uchun 10 sutka, o'rtacha baliqlar uchun 21 sutka, 25 sm dan yirik yaz, leshch va linlar uchun 40 sutka talab qilinadi»"
+  },
+  {
+   "q": "Opistorxozni tashxislashda najas bilan birga yana nima tekshiriladi?",
+   "c": "o'n ikki barmoqli ichak suyuqligi",
+   "w": [
+    "oshqozon osti bezi suyuqligi",
+    "baliq mushaklaridagi metatserkariylar",
+    "sun'iy me'da shirasi",
+    "o't pufagi devori kesimi"
+   ],
+   "x": "«najas va o'n ikki barmoqli ichak suyuqligini tekshirish hamda IgG bo'yicha qiyosli serodiagnostika»"
+  }
+ ],
+ "124": [
+  {
+   "q": "Anizakidozda lichinkalar qayerga kirib o'tkir qorin og'rig'ini chaqiradi?",
+   "c": "oshqozon yoki ichak devoriga",
+   "w": [
+    "baliq mushaklari va ichki a'zolariga",
+    "o'pka va ichki a'zolar devoriga",
+    "kalmar mushaklari va ichki a'zolariga",
+    "krevetka mushaklari va mollyuskalarga"
+   ],
+   "x": "«lichinkalar oshqozon yoki ichak devoriga kirib, o'tkir qorin og'rig'i, ko'ngil aynishi va qusish bilan kechadigan anizakidozni chaqiradi»"
+  },
+  {
+   "q": "Anisakis simplex oqsillari nimadan keyin ham saqlanib qolishi mumkin?",
+   "c": "qizdirish va muzlatishdan keyin",
+   "w": [
+    "tuzlash va marinaddan keyin",
+    "sirka kislotasidan keyin",
+    "termik ishlov va sterilizatsiyadan keyin",
+    "hazm qilish usulidan keyin"
+   ],
+   "x": "«uning oqsillari qizdirish va muzlatishdan keyin ham saqlanib qolishi»"
+  },
+  {
+   "q": "Diphyllobothrium nihonkaiense qaysi baliqlar bilan bog'liq?",
+   "c": "Tinch okeani lososlari",
+   "w": [
+    "chuchuk suv qisqichbaqalari",
+    "ikki pallali mollyuskalar",
+    "seld va treska baliqlari",
+    "kalmar va sakkizoyoqlar"
+   ],
+   "x": "«Bu tur Tinch okeani lososlari bilan bog'liq bo'lib, plerotserkoidlar baliq mushaklarida joylashadi»"
+  },
+  {
+   "q": "Uzoq Sharq lososlarini D. klebanovskii lichinkalaridan sanoat tuzlashida zararsizlantirish qachon ta'minlanadi?",
+   "c": "tuz miqdori 5 foizga yetganda",
+   "w": [
+    "tuz miqdori 7 foizga yetganda",
+    "tuz miqdori 15 foizga yetganda",
+    "tuz miqdori 8 foizga yetganda",
+    "tuz miqdori 30 foizga yetganda"
+   ],
+   "x": "«baliq orqa mushaklaridagi tuz miqdori 5 foizga yetganda ta'minlanadi»"
+  },
+  {
+   "q": "O'pka paragonimozi qaysi kasallikka o'xshab kechadi?",
+   "c": "sil kasalligiga",
+   "w": [
+    "anizakidozga",
+    "difillobotriozga",
+    "opistorxozga",
+    "klonorxozga"
+   ],
+   "x": "«O'pka paragonimozi sil kasalligiga o'xshab kechadi»"
+  },
+  {
+   "q": "Midiya va ustritsa to'qimalarida qaysi protozoylar to'planishi mumkin?",
+   "c": "Cryptosporidium, Toxoplasma va Giardia",
+   "w": [
+    "Paragonimus, Angiostrongylus va Anisakis",
+    "Diphyllobothrium, Anisakis va Paragonimus",
+    "Anisakis, Pseudoterranova va Angiostrongylus",
+    "Paragonimus, Diphyllobothrium va Pseudoterranova"
+   ],
+   "x": "«o'z to'qimalarida protozoylarning ootsista va sistalarini, masalan Cryptosporidium, Toxoplasma va Giardia ni to'plashi mumkin»"
+  },
+  {
+   "q": "Qisqichbaqasimonlar va mollyuskalar qancha vaqt qaynatilganda zararsizlanadi?",
+   "c": "15 daqiqa qaynatilganda",
+   "w": [
+    "20 daqiqa qaynatilganda",
+    "40 daqiqa qaynatilganda",
+    "5 daqiqa qaynatilganda",
+    "60 daqiqa qaynatilganda"
+   ],
+   "x": "«Qisqichbaqasimonlar va mollyuskalar 15 daqiqa qaynatilganda zararsizlanadi»"
+  },
+  {
+   "q": "Kalmarda anizakid lichinkalari -40 darajada qancha vaqtda nobud bo'ladi?",
+   "c": "40 daqiqada nobud bo'ladi",
+   "w": [
+    "24 soatda nobud bo'ladi",
+    "60–90 daqiqada nobud bo'ladi",
+    "besh daqiqada nobud bo'ladi",
+    "4–5 sutkada nobud bo'ladi"
+   ],
+   "x": "«Kalmarda lichinkalar -40 darajada 40 daqiqada, -32 darajada 60–90 daqiqada, -20 darajada 24 soatda nobud bo'ladi»"
+  },
+  {
+   "q": "Import qilinayotgan baliq va dengiz mahsulotlarining gigienik bahosi nimaga asoslanadi?",
+   "c": "ishlab chiqargan va eksport qilgan davlat sertifikatlariga",
+   "w": [
+    "faqat Davlat standartidan o'tgan laboratoriya natijalariga",
+    "veterinariya xizmati va tashkilotlar laboratoriyalari xulosasiga",
+    "mahsulotning tashqi ko'rinishi va yetishtirilgan hududiga",
+    "mamlakatga kirib kelayotgan baliqlarning soniga"
+   ],
+   "x": "«gigienik bahosi mahsulotni ishlab chiqargan va eksport qilgan davlat (firma) sertifikatlariga asoslanadi»"
+  },
+  {
+   "q": "Nima sababdan O'zbekistonda dengiz mahsulotlari asosan import qilinadi?",
+   "c": "dengizga chiqish yo'liga ega bo'lmagan davlat bo'lgani sababli",
+   "w": [
+    "mollyuskalar faqat ichki suv havzalarida yetishtirilgani sababli",
+    "qisqichbaqasimonlar xom iste'mol qilinmagani sababli",
+    "dengiz mahsulotlari muzlatish rejimlariga mos kelmagani sababli",
+    "anizakid lichinkalari bu mahsulotlarda uchramagani sababli"
+   ],
+   "x": "«O'zbekiston dengizga chiqish yo'liga ega bo'lmagan davlat bo'lgani uchun»"
+  }
+ ]
+}

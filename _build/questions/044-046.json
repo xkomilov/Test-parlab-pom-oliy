@@ -1,0 +1,338 @@
+{
+ "044": [
+  {
+   "q": "Zoonoz teri leyshmaniozida inkubatsion davr asosan qancha davom etadi?",
+   "c": "bir haftadan to'rt haftagacha, ba'zan 1,5–2 oygacha davom etadi",
+   "w": [
+    "2–8 oy, ba'zan 1,5 yilgacha davom etadi",
+    "bir haftadan 1–1,5 oygacha, ko'pincha 10–20 kun davom etadi",
+    "1–3 haftadan keyin yaraga aylanguncha davom etadi",
+    "2 oydan 5–6 oygacha davom etadi"
+   ],
+   "x": "«Zararlangan iskaptopar chaqqandan keyin inkubatsion davr asosan bir haftadan to'rt haftagacha, ba'zan 1,5–2 oygacha davom etadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi qanday boshlanadi?",
+   "c": "do'mboqcha (papula) paydo bo'lishidan boshlanadi",
+   "w": [
+    "yara paydo bo'lishidan boshlanadi",
+    "chandiq paydo bo'lishidan boshlanadi",
+    "furunkul paydo bo'lishidan boshlanadi",
+    "nekroz paydo bo'lishidan boshlanadi"
+   ],
+   "x": "«Kasallik iskaptopar chaqqan joyda atrofi yallig'langan teri bilan o'ralgan do'mboqcha (papula) paydo bo'lishi bilan boshlanadi»"
+  },
+  {
+   "q": "Yaralar soni nimaga teng bo'ladi?",
+   "c": "chaqishlar soniga",
+   "w": [
+    "do'mboqchalar kattaligiga",
+    "o'choqlar soniga",
+    "mintaqaviy limfa tomirlari soniga",
+    "limfa tugunlari soniga"
+   ],
+   "x": "«Yaralar soni chaqishlar soniga teng bo'ladi»"
+  },
+  {
+   "q": "Yara bosqichida yara qanday xususiyatga ega?",
+   "c": "tubi notekis, seroz-yiringli ajralma ko'p, kam og'riydi",
+   "w": [
+    "tubi notekis, ajralmasi kam, ko'p og'riydi",
+    "tik qirrali, ajralmasi seroz-yiringli, ko'p og'riydi",
+    "tubi sarg'ish-yashil karashli, ajralmasi kam, ko'p og'riydi",
+    "chandiq bilan qoplangan, ajralmasi ko'p, kam og'riydi"
+   ],
+   "x": "«Yara tubi notekis, sarg'ish-kulrang yoki sarg'ish-yashil karash bilan qoplangan, ajralmasi seroz-yiringli va ko'p. Yara kam og'riydi»"
+  },
+  {
+   "q": "Do'mboqcha paydo bo'lgandan to'liq chandiqlanishgacha bo'lgan butun jarayon qancha davom etadi?",
+   "c": "2 oydan 5–6 oygacha",
+   "w": [
+    "bir haftadan to'rt haftagacha",
+    "1–3 haftadan keyin",
+    "2–8 oy, ba'zan 1,5 yilgacha",
+    "3–6 oy va undan keyin paydo bo'ladi"
+   ],
+   "x": "«Do'mboqcha paydo bo'lgandan to'liq chandiqlanishgacha bo'lgan butun jarayon 2 oydan 5–6 oygacha davom etadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida yaralar odatda tananing qaysi qismlarida joylashadi?",
+   "c": "yuz, bo'yin, qo'l va oyoqlarda",
+   "w": [
+    "bo'g'imlar yonida va limfa tugunlarida",
+    "yara atrofidagi limfa tomirlarida",
+    "ochiq bo'lmagan qismlarida, qo'l va oyoqlarda",
+    "yuz va bo'yinda hamda bo'g'imlar yonida"
+   ],
+   "x": "«yaralar odatda tananing ochiq qismlarida joylashadi: yuz, bo'yin, qo'l va oyoqlar eng ko'p zararlanadi»"
+  },
+  {
+   "q": "Qaysi holatda bemor kasalxonaga yotqizilishi shart?",
+   "c": "yaralar soni 3 tadan ko'p bo'lganda yoki piogen flora qo'shilganda",
+   "w": [
+    "yaralar soni 3 tadan kam bo'lib, ikkilamchi flora qo'shilmaganda",
+    "yaralar kattaligi 3 santimetrdan kam bo'lib, bo'g'imlardan uzoqda joylashganda",
+    "yaralar bo'g'imlardan uzoqda joylashib, limfa tugunlari jalb etilmaganda",
+    "mintaqaviy limfa tugunlari va tomirlari jalb etilmaganda, yara bitta bo'lganda"
+   ],
+   "x": "«yaralar soni 3 tadan ko'p bo'lganda, kattaligi 3 santimetrdan oshganda, bo'g'imlar yonida joylashganda, spetsifik jarayonga mintaqaviy limfa tugunlari va tomirlari jalb etilganda yoki piogen flora qo'shilganda bemor kasalxonaga yotqizilishi shart»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi qanchalik hollarda qaytalanishi mumkin?",
+   "c": "2–10 foiz hollarda",
+   "w": [
+    "20–30 foiz hollarda",
+    "85 foiz hollarda",
+    "5 foiz hollarda",
+    "1–2 foiz hollarda"
+   ],
+   "x": "«Shunga qaramay yo'riqnomada kasallik 2–10 foiz hollarda qaytalanishi mumkinligi aytilgan»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida asoratlarning asosiysi qaysi?",
+   "c": "ikkilamchi piogen mikroflora qo'shilishi",
+   "w": [
+    "limfangit va limfadenit rivojlanishi",
+    "bo'g'imlar ustida kontraktura hosil bo'lishi",
+    "yuzda kosmetik nuqson qolishi",
+    "keloid chandiq shakllanishi"
+   ],
+   "x": "«Asoratlarning asosiysi — ikkilamchi piogen mikroflora qo'shilishi»"
+  },
+  {
+   "q": "O'zbekistondan e'lon qilingan xabarda OIV infeksiyasining birinchi ko'rinishi sifatida qaysi leyshmanioz tasvirlangan?",
+   "c": "L. major qo'zg'atgan diffuz teri leyshmaniozi",
+   "w": [
+    "L. tropica qo'zg'atgan diffuz teri leyshmaniozi",
+    "L. major qo'zg'atgan nekrotik teri leyshmaniozi",
+    "L. major qo'zg'atgan visseral leyshmanioz",
+    "L. tropica qo'zg'atgan o'tkir nekrotik leyshmanioz"
+   ],
+   "x": "«O'zbekistondan e'lon qilingan xabarda OIV infeksiyasining birinchi ko'rinishi sifatida L. major qo'zg'atgan diffuz teri leyshmaniozi tasvirlangan»"
+  }
+ ],
+ "045": [
+  {
+   "q": "Zoonoz teri leyshmaniozining tashxisi nimaga asoslanadi?",
+   "c": "klinik-epidemiologik ma'lumotlarga va parazitologik tasdiqlanishga",
+   "w": [
+    "klinik-epidemiologik ma'lumotlarga va serologik tasdiqlanishga",
+    "klinik ma'lumotlarga va yaraning chandiqlanishiga",
+    "epidemiologik anamnezga va yara chandiqlariga",
+    "umumiy qon tahliliga va yara bo'yash usuliga"
+   ],
+   "x": "«Zoonoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlarga asoslanadi va albatta parazitologik tasdiqlanishi shart»"
+  },
+  {
+   "q": "Laboratoriya tekshiruviga yo'naltirish uchun qaysi klinik-epidemiologik ko'rsatkichlar bo'lishi kerak?",
+   "c": "xos zararlanish, tabiiy endemik o'choqda bo'lganlik va yil fasli",
+   "w": [
+    "xos zararlanish, oilada kasallik bo'lganligi va yil fasli",
+    "tabiiy endemik o'choqda bo'lganlik, chandiq va bemor yoshi",
+    "yil fasli, uyda it va mushuk mavjudligi va yara joylashuvi",
+    "xos zararlanish, yara soni va davolash natijasi"
+   ],
+   "x": "«teri leyshmaniozi uchun xos zararlanish, bemorning kasallikning tabiiy endemik o'chog'ida bo'lganligi va yil fasli»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida tekshirish materiali sifatida nima olinadi?",
+   "c": "yara atrofidagi yallig'langan do'mboqcha to'qimasidan olingan qirindi",
+   "w": [
+    "yara tubidagi do'mboqchadan va infiltrat chetidan olingan namuna",
+    "yara atrofidagi zararlangan teridan olingan qon",
+    "yara tubidan olingan yiringli ajralma namunasi",
+    "yara atrofidagi yallig'langan teridan olingan bo'yalmagan surtma"
+   ],
+   "x": "«tekshirish materiali sifatida yara atrofida joylashgan yallig'langan do'mboqcha to'qimasidan olingan qirindi qabul qilinadi»"
+  },
+  {
+   "q": "Qirindidan tayyorlangan surtma qaysi usulda bo'yaladi?",
+   "c": "Romanovskiy–Gimza usulida bo'yash",
+   "w": [
+    "biologik sinama usulida bo'yash",
+    "kultura usulida bo'yash",
+    "serologik test usulida bo'yash",
+    "PZR usulida bo'yash"
+   ],
+   "x": "«Qirindidan Romanovskiy–Gimza usulida bo'yaladigan surtma tayyorlanadi»"
+  },
+  {
+   "q": "Surtmada leyshmaniyalar qanday ko'rinishda topiladi?",
+   "c": "makrofaglar ichida va hujayradan tashqarida dumaloq yoki oval shakllar",
+   "w": [
+    "makrofaglar ichida va hujayradan tashqarida uzunligi 20–60 mikrometr shakllar",
+    "makrofaglar ichida eksentrik yadroli dumaloq shakllar",
+    "hujayradan tashqarida faqat oval shakllar",
+    "qirindida emas, faqat kulturada topiladigan oval shakllar"
+   ],
+   "x": "«parazit makrofaglar ichida va hujayradan tashqarida 2–6 mikrometr uzunlikdagi dumaloq yoki oval shakllar sifatida ko'rinadi»"
+  },
+  {
+   "q": "Antroponoz shakl uchun qaysi qo'shimcha usullar keltirilgan?",
+   "c": "oq sichqonlar va xomyaklarda biologik sinama, kultura olish",
+   "w": [
+    "oq sichqonlar va xomyaklarda serologik sinama, PZR",
+    "qon zardobida serologik sinama va kultura olish",
+    "yara atrofida PZR va izofermentlar tahlili",
+    "umumiy qon tahlili va yaraning zararlangan qismidan surtma"
+   ],
+   "x": "«antroponoz shakl uchun laboratoriya oq sichqonlari va xomyaklarda biologik sinama o'tkazish hamda leyshmaniyalar kulturasini olish tashxis qo'yish usullari sifatida keltirilgan»"
+  },
+  {
+   "q": "Serologik testlar leyshmaniozning qaysi shaklida foydali?",
+   "c": "visseral shaklda foydali, teri shaklida yordam bermaydi",
+   "w": [
+    "teri shaklida foydali, visseral shaklda yordam bermaydi",
+    "faqat shilliq qavat shaklida foydali",
+    "ikkala shaklda ham yordam bermaydi",
+    "teri shaklida ham, shilliq qavat shaklida ham foydali"
+   ],
+   "x": "«serologik testlar esa visseral shaklda foydali bo'lsa-da, teri shaklida yordam bermasligi»"
+  },
+  {
+   "q": "Parazitar kasalliklarni tashxislash standartida B55.1 kodi bilan teri leyshmaniozlari uchun nima tavsiya etiladi?",
+   "c": "umumiy qon tahlili va yaraning zararlangan qismidan olingan surtmani tekshirish",
+   "w": [
+    "serologik tahlil va yaraning zararlangan qismidan olingan kultura",
+    "PZR va izofermentlar tahlili",
+    "umumiy qon tahlili va biologik sinama",
+    "qirindi olish va leyshmaniya kulturasini ekish"
+   ],
+   "x": "«teri leyshmaniozlari (antroponoz va zoonoz) uchun umumiy qon tahlili va yaraning zararlangan qismidan olingan surtmani tekshirish ko'rsatilgan»"
+  },
+  {
+   "q": "Tashxisni tasdiqlash uchun surtmalarning qancha qismi nazoratga yuboriladi?",
+   "c": "manfiy natijali namunalarning 10 foizi va musbat hamda shubhali namunalarning 100 foizi",
+   "w": [
+    "manfiy natijali namunalarning 100 foizi va musbat namunalarning 10 foizi",
+    "manfiy natijali namunalarning 10 foizi va musbat namunalarning 50 foizi",
+    "barcha namunalarning 10 foizi va shubhali namunalarning 100 foizi",
+    "musbat va shubhali namunalarning 10 foizi hamda manfiy namunalarning 100 foizi"
+   ],
+   "x": "«barcha manfiy natijali namunalarning 10 foizi va musbat hamda shubhali namunalarning 100 foizi»"
+  },
+  {
+   "q": "Furunkul bosqichida zoonoz teri leyshmaniozi yiringli yallig'lanishdan nimasi bilan farqlanadi?",
+   "c": "yara kam og'riydi, atrofida zich xamirsimon infiltrat bo'ladi",
+   "w": [
+    "yara ko'p og'riydi, atrofida zich xamirsimon infiltrat bo'lmaydi",
+    "yara kam og'riydi, ajralma kam, infiltrat bo'lmaydi",
+    "yara ko'p og'riydi, seroz-yiringli ajralma kam bo'ladi",
+    "yara kam og'riydi, atrofida zich infiltrat bo'lmaydi"
+   ],
+   "x": "«zoonoz teri leyshmaniozida yara kam og'riydi, seroz-yiringli ajralma ko'p, atrofida zich xamirsimon infiltrat bo'ladi»"
+  }
+ ],
+ "046": [
+  {
+   "q": "Zoonoz teri leyshmaniozi o'chog'ida bemorlarni muntazam aniqlash qanday jadval bo'yicha o'tkaziladi?",
+   "c": "iyuldan oktyabrgacha haftada ikki marta, noyabr va dekabrda bir martadan",
+   "w": [
+    "iyuldan oktyabrgacha haftada bir marta, noyabr va dekabrda ikki martadan",
+    "iyuldan oktyabrgacha oyda ikki marta, noyabr va dekabrda haftada bir martadan",
+    "noyabrdan dekabrgacha haftada ikki marta, iyuldan oktyabrgacha bir martadan",
+    "aprel va may oylarida haftada ikki marta, iyuldan oktyabrgacha bir martadan"
+   ],
+   "x": "«Bemorlarni muntazam aniqlash iyuldan oktyabrgacha haftada ikki marta, noyabr va dekabr oylarida bir martadan o'tkazilishi lozim»"
+  },
+  {
+   "q": "Shoshilinch xabarnomadan keyin manzilga borib tashxisni kim tekshiradi?",
+   "c": "markazning parazitologi yoki uning yordamchisi",
+   "w": [
+    "markazning entomologi yoki zoologi",
+    "kurash guruhi boshlig'i yoki dezinfektor",
+    "oilaviy poliklinika xodimi yoki hokimiyat vakili",
+    "parazitologiya bo'limi mudiri yoki bosh vrach"
+   ],
+   "x": "«Markaz xodimi (parazitolog yoki uning yordamchisi) manzilga yetib borib tashxisni tekshiradi»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartasi nechta nusxada to'ldiriladi va qayerga topshiriladi?",
+   "c": "ikki nusxada: biri tuman markazida, ikkinchisi viloyat parazitologiya bo'limida",
+   "w": [
+    "ikki nusxada: biri bemorda, ikkinchisi tuman markazida",
+    "bir nusxada: viloyat parazitologiya bo'limida",
+    "ikki nusxada: biri tuman hokimiyatida, ikkinchisi viloyat markazida",
+    "uch nusxada: tuman, viloyat va respublika markazlarida"
+   ],
+   "x": "«Epidemiologik tekshiruv kartasi ikki nusxada to'ldiriladi: biri tuman markazida qoladi, ikkinchisi viloyat markazining parazitologiya bo'limiga topshiriladi»"
+  },
+  {
+   "q": "Dala deratizatsiyasi qaysi radiusda va yilda necha marta o'tkaziladi?",
+   "c": "3–5 kilometr radiusda, yilda uch marta",
+   "w": [
+    "3–5 kilometr radiusda, yilda ikki marta",
+    "3 kilometr radiusda, yilda uch marta",
+    "3–5 kilometr radiusda, yilda bir marta",
+    "2–2,5 kilometr radiusda, yilda uch marta"
+   ],
+   "x": "«O'choqni tugatish uchun dala deratizatsiyasi aholi punktlari va dala shiyponlaridan 3–5 kilometr radiusda o'tkaziladi. Yilda uch marta»"
+  },
+  {
+   "q": "Dala deratizatsiyasining yanvar–mart davridagi vazifasi nima?",
+   "c": "homilador va qishdan chiqqan zararlangan kemiruvchilarni qirish",
+   "w": [
+    "birinchi tur natijasini mustahkamlash va tekshirish",
+    "kelasi yil qishdan chiquvchi kemiruvchilarni kamaytirish",
+    "homilador kemiruvchilarni qishdan oldin qirish",
+    "zararlangan kemiruvchilar inlarini mexanik buzish"
+   ],
+   "x": "«yanvar–mart (homilador va qishdan chiqqan zararlangan kemiruvchilarni qirish), may (birinchi tur natijasini mustahkamlash) va sentabr–dekabr (kelasi yil qishdan chiquvchi kemiruvchilarni kamaytirish)»"
+  },
+  {
+   "q": "Iskaptoparlarga qarshi dezinseksiya qachon o'tkaziladi?",
+   "c": "birinchi tur aprel o'rtalaridan may boshigacha, ikkinchi tur iyul oyida",
+   "w": [
+    "birinchi tur iyul oyida, ikkinchi tur aprel o'rtalaridan may boshigacha",
+    "birinchi tur yanvar–martda, ikkinchi tur may oyida",
+    "birinchi tur may oxiri – iyun boshida, ikkinchi tur sentabr–dekabrda",
+    "birinchi tur aprel o'rtalarida, ikkinchi tur sentabr–dekabr oylarida"
+   ],
+   "x": "«Iskaptoparlarga qarshi dezinseksiya ikki turda o'tkaziladi: birinchi tur aprel o'rtalaridan may oyining birinchi o'n kunligigacha, ikkinchi tur iyul oyi davomida»"
+  },
+  {
+   "q": "Sanitariya obodonlashtirishga qaysi ishlar kiradi?",
+   "c": "inlarni buzish, bostirmalarni buzish va qabristonlarni obodonlashtirish",
+   "w": [
+    "zahar bilan ishlash, xonadonlarning ichki va tashqi devorlarini ishlash",
+    "bemorlarni aniqlash, xonadonma-xonadon yurish va so'rov-ko'rik o'tkazish",
+    "iskaptoparlarga qarshi birinchi va ikkinchi tur dezinseksiya o'tkazish",
+    "hisobot tayyorlash, jadvallarni to'ldirish va xaritaga belgi qo'yish"
+   ],
+   "x": "«kemiruvchilar inlarini buzish, qarovsiz bostirmalarni buzish va qabristonlarni obodonlashtirish ishlari xo'jalik tashkilotlari tomonidan bajariladi»"
+  },
+  {
+   "q": "Chora-tadbirlar rejasini entomolog, kurash guruhi boshlig'i va zoolog ishtirokida kim tuzadi?",
+   "c": "parazitologiya bo'limi mudiri",
+   "w": [
+    "markaz bosh vrachi",
+    "oilaviy poliklinika bosh vrachi",
+    "oilaviy poliklinika xodimi",
+    "dezinfektor"
+   ],
+   "x": "«Chora-tadbirlar rejasini entomolog, kurash guruhi boshlig'i va zoolog ishtirokida parazitologiya bo'limi mudiri tuzadi hamda mahalliy hokimiyat bilan kelishadi»"
+  },
+  {
+   "q": "Deratizatsiya yoki dezinseksiyadan keyin dezinfektor samarani qanchada bir tekshiradi?",
+   "c": "oyiga ikki marta",
+   "w": [
+    "haftada ikki marta",
+    "oyiga bir marta",
+    "yilda uch marta",
+    "haftada bir marta"
+   ],
+   "x": "«u oyiga ikki marta samarani tekshirib, tirik inlar qolgan bo'lsa ularni qayta ishlaydi»"
+  },
+  {
+   "q": "Iskaptoparlarga qarshi ishlov samarasi xonalarda qachon baholanadi?",
+   "c": "birinchi marta 24 soatdan keyin, keyin har 3–5 kunda",
+   "w": [
+    "birinchi marta 24 soatdan keyin, keyin har oyda ikki marta",
+    "birinchi marta 3–5 kundan keyin, keyin har 24 soatda",
+    "birinchi marta oyiga ikki marta, keyin har 3–5 kunda",
+    "birinchi marta iyul oyida, keyin har 3–5 kunda"
+   ],
+   "x": "«Iskaptoparlarga qarshi ishlov samarasi xonalarda birinchi marta 24 soatdan keyin, keyin har 3–5 kunda preparat kamida 80 foiz bo'g'imoyoqlilar o'limini ta'minlab turgunga qadar baholanadi»"
+  }
+ ]
+}

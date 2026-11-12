@@ -1,0 +1,338 @@
+{
+ "131": [
+  {
+   "q": "Amyobiaz profilaktikasida asosiy e'tibor qaysi choralarga qaratiladi?",
+   "c": "noaniq (nospetsifik) choralarga",
+   "w": [
+    "maxsus profilaktika choralariga",
+    "faqat sista ajratuvchilarni davolashga",
+    "vaksina bilan emlash choralariga",
+    "dezinfeksiya qurilmalari choralariga"
+   ],
+   "x": "«asosiy e'tibor noaniq (nospetsifik) choralarga qaratiladi»"
+  },
+  {
+   "q": "Ichburug' amyobasi sistalari suv tozalash inshootlarida qo'llaniladigan qaysi moddalar konsentratsiyalarida ham tirik qolishi mumkin?",
+   "c": "xlor va ozon",
+   "w": [
+    "lizol va ozon",
+    "xlor va lizol",
+    "paromomitsin va xlor",
+    "yodoxinol va ozon"
+   ],
+   "x": "«sistalari suv tozalash inshootlarida qo'llaniladigan xlor va ozon konsentratsiyalarida ham tirik qolishi mumkin»"
+  },
+  {
+   "q": "Xom holda iste'mol qilinadigan qaysi mahsulotlar eng xavfli omillardan biri hisoblanadi?",
+   "c": "salat, ko'kat va mevalar",
+   "w": [
+    "termik ishlov berilgan taomlar",
+    "qaynatilgan ichimlik suvi",
+    "toza oqar suvda yuvilgan mevalar",
+    "filtrlangan ichimlik suvi"
+   ],
+   "x": "«Xom holda iste'mol qilinadigan mahsulotlar, xususan salat, ko'kat va mevalar eng xavfli omillardan biri»"
+  },
+  {
+   "q": "Amyobiaz bilan og'rigan bemorlar qachongacha izolyatsiya qilinadi?",
+   "c": "to'liq sog'ayguncha va najasda qo'zg'atuvchi yo'qolguncha",
+   "w": [
+    "najasda sistalar yo'qolguncha va gospitalizatsiya qilinguncha",
+    "kamida 12 oy dispanser hisobida turguncha",
+    "ichki kiyimlari lizol eritmasida ivitilguncha",
+    "gospitalizatsiya qilinguncha va ishga qo'yilguncha"
+   ],
+   "x": "«bemorlar to'liq sog'ayguncha va najasda qo'zg'atuvchi yo'qolguncha izolyatsiya qilinadi»"
+  },
+  {
+   "q": "Amyobiaz bilan kasallanganlar qancha muddat dispanser kuzatuvida bo'ladi?",
+   "c": "kamida 12 oy dispanser kuzatuvida",
+   "w": [
+    "kamida 3 oy dispanser kuzatuvida",
+    "kamida 6 oy dispanser kuzatuvida",
+    "kamida 24 oy dispanser kuzatuvida",
+    "kamida 1 hafta dispanser kuzatuvida"
+   ],
+   "x": "«Amyobiaz bilan kasallanganlar kamida 12 oy dispanser kuzatuvida bo'ladi»"
+  },
+  {
+   "q": "Dispanser kuzatuvida tibbiy ko'riklar va laboratoriya tekshiruvlari qanday muddatda o'tkaziladi?",
+   "c": "har chorakda bir marta",
+   "w": [
+    "har haftada bir marta",
+    "har kuni bir marta",
+    "davolash tugagan kuni bir marta",
+    "yoz-kuz oylarida bir marta"
+   ],
+   "x": "«Tibbiy ko'riklar va laboratoriya tekshiruvlari har chorakda bir marta»"
+  },
+  {
+   "q": "O'choqda bemorning ichki kiyimlari qancha foizli lizol eritmasida ivitiladi?",
+   "c": "3 foizli lizol eritmasida",
+   "w": [
+    "5 foizli lizol eritmasida",
+    "10 foizli lizol eritmasida",
+    "1 foizli lizol eritmasida",
+    "12 foizli lizol eritmasida"
+   ],
+   "x": "«ichki kiyimlari 3 foizli lizol eritmasida ivitiladi»"
+  },
+  {
+   "q": "Ichakdagi amyobotsidlarni yo'qotish uchun qaysi preparat beriladi?",
+   "c": "paromomitsin",
+   "w": [
+    "metronidazol",
+    "tinidazol",
+    "ornidazol",
+    "seknidazol"
+   ],
+   "x": "«ichakdagi amyobotsidlarni yo'qotish uchun paromomitsin berilishi»"
+  },
+  {
+   "q": "Sog'lom parazit tashuvchilar qaysi korxonalarga ishga qo'yilmaydi?",
+   "c": "umumiy ovqatlanish korxonalariga",
+   "w": [
+    "kanalizatsiya inshootlariga",
+    "laboratoriyalarga",
+    "dispanserlarga",
+    "gospitallarga"
+   ],
+   "x": "«ular umumiy ovqatlanish korxonalariga ishga qo'yilmaydi»"
+  },
+  {
+   "q": "Dekretiv kontingent xodimlarini gigiyenik o'qitish qaysi dasturlar asosida tashkil etiladi?",
+   "c": "hududiy markazlar va Salomatlik instituti dasturlari",
+   "w": [
+    "yoz-kuz mavsumi va dezinfeksiya dasturlari",
+    "bolalar muassasalari va ichak infeksiyalari dasturlari",
+    "paromomitsin va metronidazol dasturlari",
+    "hasharotlarga qarshi va ozon dasturlari"
+   ],
+   "x": "«hududiy markazlar va Salomatlik instituti dasturlari asosida tashkil etiladi»"
+  }
+ ],
+ "132": [
+  {
+   "q": "Taxizoit (endozoit) qanday shaklda va uzunligi qancha?",
+   "c": "yarimoysimon, uzunligi 4-7 mkm",
+   "w": [
+    "sharsimon, uzunligi 50-200 mkm",
+    "oval, uzunligi 50-200 mkm",
+    "sharsimon, uzunligi 12-32 mkm",
+    "yarimoysimon, uzunligi 50-200 mkm"
+   ],
+   "x": "«Vegetativ shakl, ya'ni taxizoit (endozoit) yarimoysimon, bir uchi o'tkir, ikkinchisi yumaloq, uzunligi 4-7 mkm»"
+  },
+  {
+   "q": "Haqiqiy to'qima sistalari qanday o'lchamda bo'ladi?",
+   "c": "50-200 mkm o'lchamda",
+   "w": [
+    "4-7 mkm o'lchamda",
+    "12-32 mkm o'lchamda",
+    "6-90 mkm o'lchamda",
+    "1-5 mkm o'lchamda"
+   ],
+   "x": "«sharsimon yoki oval shaklda, 50-200 mkm o'lchamda bo'lib»"
+  },
+  {
+   "q": "Toksoplazmaning yakuniy (definitiv) xo'jayinlari kimlar?",
+   "c": "mushuklar oilasi vakillari",
+   "w": [
+    "kemiruvchilar va qushlar",
+    "barcha sutemizuvchilar",
+    "sudralib yuruvchilar",
+    "odam va issiq qonli hayvonlar"
+   ],
+   "x": "«Yakuniy (definitiv) xo'jayinlar mushuklar oilasi vakillari, ya'ni uy mushugi va silovsin»"
+  },
+  {
+   "q": "Mushuk najasi bilan chiqqan ootsistalarda qulay sharoitda sporulyatsiya necha kun ichida o'tadi?",
+   "c": "1-5 kun ichida",
+   "w": [
+    "12-32 kun ichida",
+    "6-90 kun ichida",
+    "50-200 kun ichida",
+    "4-7 kun ichida"
+   ],
+   "x": "«qulay sharoitda 1-5 kun ichida sporulyatsiya o'tadi»"
+  },
+  {
+   "q": "Har bir ootsistada qanday sporotsistalar hosil bo'ladi?",
+   "c": "to'rttadan sporozoit saqlovchi ikkita",
+   "w": [
+    "ikkitadan sporozoit saqlovchi to'rtta",
+    "bittadan sporozoit saqlovchi ikkita",
+    "to'rttadan sporozoit saqlovchi bitta",
+    "to'rttadan sporozoit saqlovchi to'rtta"
+   ],
+   "x": "«har bir ootsistada to'rttadan sporozoit saqlovchi ikkita sporotsista hosil bo'ladi»"
+  },
+  {
+   "q": "Hujayra ichidagi endozoitlar to'plami nima deb ataladi?",
+   "c": "psevdotsista",
+   "w": [
+    "ootsista",
+    "bradizoit",
+    "sporotsista",
+    "konoid"
+   ],
+   "x": "«Hujayra ichidagi to'plam psevdotsista deb ataladi»"
+  },
+  {
+   "q": "Endozoitlar ichki kurtaklanish yoki ikkiga bo'linish yo'li bilan nechta qiz hujayra hosil qiladi?",
+   "c": "12-32 qiz hujayra",
+   "w": [
+    "4-7 qiz hujayra",
+    "50-200 qiz hujayra",
+    "6-90 qiz hujayra",
+    "1-5 qiz hujayra"
+   ],
+   "x": "«12-32 qiz hujayra hosil qiladi»"
+  },
+  {
+   "q": "Surunkali bosqichda qaysi shakllar topiladi?",
+   "c": "haqiqiy sistalar",
+   "w": [
+    "endozoit va psevdotsistalar",
+    "ootsistalar va sporozoitlar",
+    "taxizoit va bradizoit",
+    "konoid va roptriyalar"
+   ],
+   "x": "«o'tkir bosqichda endozoit va psevdotsistalar, surunkali bosqichda esa haqiqiy sistalar topiladi»"
+  },
+  {
+   "q": "Homiladorlikda birinchi trimestrda birlamchi zararlanish nimaga olib keladi?",
+   "c": "bola tushishi yoki og'ir nuqsonlar",
+   "w": [
+    "gidrotsefaliya va ichki a'zolarning shikastlanishi",
+    "ensefalit va o'pka shikastlanishi",
+    "simptomsiz latent holat",
+    "ko'rishning yo'qolishi va ohaklangan sistalar"
+   ],
+   "x": "«birinchi trimestrda bola tushishi yoki og'ir nuqsonlar»"
+  },
+  {
+   "q": "OIV bilan kasallanganlarning necha foizida toksoplazmoz rivojlanadi?",
+   "c": "3-15 foizida rivojlanadi",
+   "w": [
+    "6-90 foizida rivojlanadi",
+    "20-30 foizida rivojlanadi",
+    "50-200 foizida rivojlanadi",
+    "4-7 foizida rivojlanadi"
+   ],
+   "x": "«OIV-infeksiyasi bilan kasallanganlarning 3-15 foizida toksoplazmoz rivojlanishi»"
+  }
+ ],
+ "133": [
+  {
+   "q": "Toksoplazmozda eng muhim invaziya manbai kim hisoblanadi?",
+   "c": "mushuklar",
+   "w": [
+    "qo'y va echki",
+    "cho'chqa va qushlar",
+    "homilador ayollar",
+    "kasal odam"
+   ],
+   "x": "«Eng muhim manba mushuklar, chunki ular najas bilan ootsistalarni tashqi muhitga chiqaradi»"
+  },
+  {
+   "q": "Qaysi yo'l toksoplazmozning eng ko'p uchraydigan yuqish yo'li hisoblanadi?",
+   "c": "alimentar yo'l",
+   "w": [
+    "vertikal yo'l",
+    "yatrogen yo'l",
+    "perkutan yo'l",
+    "havo-tomchi yo'li"
+   ],
+   "x": "«Alimentar yo'l eng ko'p uchraydigan yo'l bo'lib»"
+  },
+  {
+   "q": "Yevropaning olti shahrida homilador ayollar orasida zararlanish holatlarining qancha qismi chala pishgan go'sht bilan bog'liq bo'lgan?",
+   "c": "30-63 foizi",
+   "w": [
+    "6-17 foizi",
+    "20-30 foizi",
+    "3-15 foizi",
+    "6-90 foizi"
+   ],
+   "x": "«zararlanish holatlarining 30-63 foizi chala pishgan go'sht iste'moli bilan bog'liq bo'lgan»"
+  },
+  {
+   "q": "Yevropa tadqiqotida kasallik holatlarining necha foizi tuproq bilan muloqotga bog'liq bo'lgan?",
+   "c": "6-17 foizi",
+   "w": [
+    "30-63 foizi",
+    "20-30 foizi",
+    "3-15 foizi",
+    "6-90 foizi"
+   ],
+   "x": "«kasallik holatlarining 6-17 foizi tuproq bilan muloqot bilan bog'liq bo'lgani aniqlangan»"
+  },
+  {
+   "q": "Ootsistalar og'izga qaysi vositalar orqali tushadi?",
+   "c": "ifloslangan qo'llar, yuvilmagan sabzavot va mevalar, mushuk juni",
+   "w": [
+    "xom go'sht, qaynatilmagan sut va yomon qovurilgan go'sht",
+    "organ transplantatsiyasi, qon quyish va laboratoriya avariyalari",
+    "platsenta, homila suvi va urug' suyuqligi",
+    "shikastlangan teri, kasal hayvon go'shti va qon"
+   ],
+   "x": "«ootsistalar ifloslangan qo'llar, yuvilmagan sabzavot va mevalar, mushuk juni orqali og'izga tushadi»"
+  },
+  {
+   "q": "Homilador ayol toksoplazmani homilaga qachon o'tkazadi?",
+   "c": "homiladorlik davrida hayotida birinchi marta zararlansa",
+   "w": [
+    "homiladorlikdan oldin zararlangan va seropozitiv bo'lsa",
+    "qonida antitanalar bo'lsa va immunitet pasaygan bo'lsa",
+    "homiladorlik davrida qayta zararlansa va seropozitiv bo'lsa",
+    "mushuk bilan aloqada bo'lgan har qanday holatda"
+   ],
+   "x": "«homilador ayol toksoplazmani homilaga faqat shu homiladorlik davrida hayotida birinchi marta zararlansa»"
+  },
+  {
+   "q": "Toksoplazma shikastlangan teri orqali qaysi holatlarda kirishi mumkin?",
+   "c": "kasal hayvon go'shtini bo'laklash va kasallar qonini laboratoriyada tekshirish",
+   "w": [
+    "mushuk tuvagini tozalash va tuproq bilan qo'lqopsiz ishlash vaqtida",
+    "xom qiymani tatib ko'rish va dudlangan mahsulotlarni iste'mol qilish vaqtida",
+    "seropozitiv donordan seronegativ retsipiyentga a'zo ko'chirish vaqtida",
+    "yomon qovurilgan kasal hayvon go'shti va qaynatilmagan sut iste'moli vaqtida"
+   ],
+   "x": "«kasal hayvon go'shtini bo'laklash va kasallar qonini laboratoriyada tekshirish vaqtida»"
+  },
+  {
+   "q": "Yatrogen yo'l qaysi vaqtlarda amalga oshadi?",
+   "c": "qon quyish va organ transplantatsiyasida",
+   "w": [
+    "mushuk najasi bilan ifloslangan tuproqda",
+    "xom go'sht bilan ishlash vaqtida",
+    "homiladorlikning birinchi trimestrida",
+    "sabzavot va mevalarni yuvish vaqtida"
+   ],
+   "x": "«Yatrogen yo'l tibbiy muolajalar vaqtida, qon quyish va organ transplantatsiyasida amalga oshadi»"
+  },
+  {
+   "q": "Toksoplazmozning ikki yo'li qaysilar?",
+   "c": "geooral va ksenotrof yo'llar",
+   "w": [
+    "alimentar va yatrogen yo'llar",
+    "vertikal va perkutan yo'llar",
+    "geooral va yatrogen yo'llar",
+    "ksenotrof va vertikal yo'llar"
+   ],
+   "x": "«toksoplazmozning ikki yo'li, ya'ni geooral (tuproq va ootsistalar orqali) hamda ksenotrof (hayvon go'shti va to'qimalari orqali) yo'llar ajratilgan»"
+  },
+  {
+   "q": "Kattalarda musbat serologik natija sog'lom odamlarning necha foizida uchraydi?",
+   "c": "20-30 foizida",
+   "w": [
+    "6-17 foizida",
+    "30-63 foizida",
+    "3-15 foizida",
+    "6-90 foizida"
+   ],
+   "x": "«Kattalarda musbat serologik natija sog'lom odamlarning 20-30 foizida ham uchrashi»"
+  }
+ ]
+}

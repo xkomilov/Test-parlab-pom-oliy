@@ -1,0 +1,450 @@
+{
+ "011": [
+  {
+   "q": "Bezgakda infeksiya manbai kimlar hisoblanadi?",
+   "c": "qonida gametotsitlar bo'lgan bemorlar va parazit tashuvchilar",
+   "w": [
+    "sporozoitlar so'lak bezlarida to'plangan urg'ochi chivinlar",
+    "negroid irqiga mansub va Daffi antigenlari bo'lmagan odamlar",
+    "bezgakka nisbatan chidamli gemoglobin S geterozigotalari",
+    "donorlar va tug'ruq paytidagi homilador ayollar"
+   ],
+   "x": "«qonida gametotsitlar bo'lgan bezgak bemorlari va parazit tashuvchilar infeksiya manbai hisoblanadi»"
+  },
+  {
+   "q": "Nima uchun bemor parazit tashuvchiga nisbatan chivinni samaraliroq zararlaydi?",
+   "c": "antiparazitar immunitet shakllanmagan, gametotsitlarning yuqumliligi pasaymagan",
+   "w": [
+    "pirogenlik bo'sag'asining oshishi isitma rivojlanishiga to'sqinlik qiladi",
+    "antigametotsitar antitelalar paydo bo'lib, jinsiy hujayralar yuqumliligi pasaygan",
+    "immunitet shakllanib, gametotsitlar yuqumliligi pasaygan",
+    "parazitemiya jadalligi past, chivin chaqishidan himoya qilinadi"
+   ],
+   "x": "«unda hali antiparazitar immunitet shakllanmagan, shu sababli gametotsitlarning yuqumliligi pasaymagan bo'ladi»"
+  },
+  {
+   "q": "Tropik bezgakda chivinni zararlaydigan gametotsitlar qonda qachondan paydo bo'la boshlaydi?",
+   "c": "kasallikning 10–12-kunlaridan",
+   "w": [
+    "kasallikning dastlabki kunlaridan",
+    "kasallikning o'tkir xurujlaridan keyin",
+    "yuqish mavsumi boshlanishidan oldin",
+    "epidemik ko'tarilishdan keyingi yildan"
+   ],
+   "x": "«Uch kunlik, to'rt kunlik va ovale-bezgakda bu kasallikning dastlabki kunlaridan, tropik bezgakda esa kasallikning 10–12-kunlaridan boshlanadi»"
+  },
+  {
+   "q": "Parazit tashuvchining epidemiologik ahamiyati nimada?",
+   "c": "tibbiy yordamga murojaat qilmaydi, davolanmaydi, alohidalanmaydi va harakatchan bo'ladi",
+   "w": [
+    "isitma xurujlari bilan kechadi, shifoxonaga yotqiziladi va alohidalanadi",
+    "chivin uchun yuqumliligi kuchli, gametotsitlar soni ko'p bo'ladi",
+    "immunitet shakllanmagan, antiparazitar antitelalar bo'lmaydi",
+    "chivin chaqishidan o'zini himoya qila olmaydi va repellentlardan foydalanmaydi"
+   ],
+   "x": "«U amalda sog'lom odam sifatida tibbiy yordamga murojaat qilmaydi, davolanmaydi, alohidalanmaydi va harakatchan bo'ladi»"
+  },
+  {
+   "q": "Bezgakning asosiy yuqish mexanizmi va yuqish omili qaysi?",
+   "c": "transmissiv, yuqish omili Anopheles chivinlarining urg'ochilari",
+   "w": [
+    "parenteral, yuqish omili sterillanmagan tibbiy asboblar",
+    "vertikal, yuqish omili yo'ldosh yoki tug'ruq",
+    "kontakt, yuqish omili bemor bolalar",
+    "transmissiv, yuqish omili parazit tashuvchilarning qoni"
+   ],
+   "x": "«Bezgakning asosiy yuqish mexanizmi transmissiv bo'lib, yuqish omili Anopheles chivinlarining urg'ochilaridir»"
+  },
+  {
+   "q": "Urg'ochi Anopheles chivinining qon so'rish jarayoni qancha davom etadi?",
+   "c": "taxminan ikki daqiqa",
+   "w": [
+    "taxminan uch kun",
+    "taxminan 10–14 kun",
+    "taxminan uch oy",
+    "taxminan ikki kun"
+   ],
+   "x": "«urg'ochi Anopheles chivinining qon so'rish jarayoni taxminan ikki daqiqa davom etadi»"
+  },
+  {
+   "q": "Parenteral yo'lda bezgak qo'zg'atuvchisi tomir ichiga dori yuborilganda qachon o'tishi mumkin?",
+   "c": "sterillanmagan shprits bir necha marta qo'llanilganda, ignasi almashtirilsa-da",
+   "w": [
+    "homilador ayoldan homilaga yo'ldosh orqali yoki tug'ruq paytida",
+    "urg'ochi chivin so'lagi bilan sporozoitlarning faqat bir qismi chiqishi orqali",
+    "bemor bolalarda parazitemiya jadalligi yuqori bo'lishi orqali",
+    "qon topshirishdan oldin donorlar bezgakka tekshirilganda"
+   ],
+   "x": "«Sterillanmagan shprits bir necha marta qo'llanilganda, hatto ignasi almashtirilganda ham, bezgak qo'zg'atuvchisi tomir ichiga dori yuborilganda o'tishi mumkin»"
+  },
+  {
+   "q": "Shizont-sun'iy yuqtirilgan bezgakda uch kunlik bezgakning kechki retsidivlari nima uchun bo'lmaydi?",
+   "c": "to'qima shizogoniyasi kuzatilmaydi",
+   "w": [
+    "gametotsitlar soni mikroskopik aniqlash darajasidan past bo'ladi",
+    "qo'zg'atuvchi yo'ldosh orqali homilaga o'tadi",
+    "immunitet va pirogenlik bo'sag'asi oshadi",
+    "sporozoitlar so'lak bilan birga qonga o'tadi"
+   ],
+   "x": "«Bunday zararlanishda to'qima shizogoniyasi kuzatilmaydi, shu sababli uch kunlik bezgakning kechki retsidivlari ham bo'lmaydi»"
+  },
+  {
+   "q": "Negroid irqiga mansub ko'pchilik odamlar P. vivax ga nima uchun moyil emas?",
+   "c": "merozoit kirishi uchun retseptor bo'lgan Daffi antigenlari bo'lmaydi",
+   "w": [
+    "gemoglobin S bo'yicha geterozigotalar bo'lib, chidamli bo'ladi",
+    "antiparazitar immunitet to'liq shakllangan bo'ladi",
+    "antigametotsitar antitelalar ularda kuchli bo'ladi",
+    "parazitemiya jadalligi kattalarga qaraganda past bo'ladi"
+   ],
+   "x": "«chunki ularda eritrotsitga merozoit kirishi uchun retseptor bo'lgan Daffi guruhi antigenlari bo'lmaydi»"
+  },
+  {
+   "q": "P. vivax sporogoniyasi yakunlanishi uchun qanday harorat yig'indisi zarur?",
+   "c": "14,5 °C bo'sag'adan ortiq 105 daraja-kun",
+   "w": [
+    "16 °C bo'sag'adan ortiq 105 daraja-kun",
+    "14,5 °C bo'sag'adan ortiq 16 daraja-kun",
+    "10–14 kun davomida 14,5 °C bo'sag'adan ortiq",
+    "16 °C va undan yuqori o'rtacha sutkalik harorat"
+   ],
+   "x": "«P. vivax sporogoniyasi yakunlanishi uchun 14,5 °C bo'sag'adan ortiq 105 daraja-kun harorat yig'indisi zarur»"
+  }
+ ],
+ "012": [
+  {
+   "q": "Dunyoda Anopheles turkumining 500 ga yaqin turidan nechtasi bezgak tashuvchisi hisoblanadi?",
+   "c": "70 tasi",
+   "w": [
+    "22 tasi",
+    "7 tasi",
+    "500 tasi",
+    "400 tasi"
+   ],
+   "x": "«Dunyoda Anopheles turkumining 500 ga yaqin turi bo'lib, ulardan faqat 70 tasi bezgak tashuvchisi hisoblanadi»"
+  },
+  {
+   "q": "O'zbekistonda bezgak chivinlarining nechta turi topilgan?",
+   "c": "yetti turi",
+   "w": [
+    "22 turi",
+    "sakkiz turi",
+    "70 turi",
+    "500 turi"
+   ],
+   "x": "«MDH hududida bezgak chivinlarining 22 turi, O'zbekistonda esa 7 turi topilgan»"
+  },
+  {
+   "q": "Culicidae oilasi qaysi kenja oilalarga bo'linadi?",
+   "c": "Anophelinae, Toxorhynchitinae va Culicinae",
+   "w": [
+    "Cellia, Anopheles va Toxorhynchitinae",
+    "Anophelinae, Cellia va Culicinae",
+    "Toxorhynchitinae, Anopheles va Cellia",
+    "Culicinae, Anophelinae va Cellia"
+   ],
+   "x": "«Culicidae oilasi uchta kenja oilaga bo'linadi: Anophelinae, Toxorhynchitinae va Culicinae»"
+  },
+  {
+   "q": "O'zbekistonda Cellia kenja turkumidan qaysi turlar tarqalgan?",
+   "c": "An. pulcherrimus va An. superpictus",
+   "w": [
+    "An. artemievi va An. claviger",
+    "An. hyrcanus va An. martinius",
+    "An. algeriensis va An. hyrcanus",
+    "An. claviger va An. martinius"
+   ],
+   "x": "«Cellia kenja turkumidan: An. pulcherrimus Theobald, 1902 va An. superpictus Grassi, 1899»"
+  },
+  {
+   "q": "An. superpictus dengiz sathidan qancha balandlikkacha uchraydi?",
+   "c": "2800 metrgacha",
+   "w": [
+    "2000 metrgacha",
+    "1000 metrgacha",
+    "500 metrgacha",
+    "500–1000 metr balandlikkacha"
+   ],
+   "x": "«U O'zbekiston, Qirg'iziston, Tojikiston va janubiy Qozog'istonning tog' oldi va tog'li hududlarida keng tarqalgan bo'lib, dengiz sathidan 2800 metrgacha uchraydi»"
+  },
+  {
+   "q": "An. pulcherrimus An. superpictus dan qaysi belgi bilan farqlanadi?",
+   "c": "tanasi va qanotlaridagi oq tuklar uni quyoshdan himoya qiladi",
+   "w": [
+    "qanotlarida to'rtta oq dog' bo'lmaydi",
+    "qanotlaridagi qora dog'lar bilan tavsiflanadi",
+    "qanotining chetidagi ikkita oq dog' bilan ajraladi",
+    "buloqlar va salqin suv havzalarida uchraydi"
+   ],
+   "x": "«biroq tanasi va qanotlaridagi oq tuklar uni quyoshdan himoya qiladi va shu belgisi bilan An. superpictus dan farqlanadi»"
+  },
+  {
+   "q": "An. artemievi qanotlaridagi qaysi belgi bilan tavsiflanadi?",
+   "c": "qanotlaridagi qora dog'lar",
+   "w": [
+    "qanotlari old qismidagi to'rtta oq dog'",
+    "qanotining chetidagi ikkita oq dog'",
+    "tanasi va qanotlaridagi oq tuklar",
+    "qanotlarining old qismidagi qora tuklar"
+   ],
+   "x": "«An. artemievi qanotlaridagi qora dog'lar bilan tavsiflanadi»"
+  },
+  {
+   "q": "An. martinius O'zbekistonda qayerda uchraydi?",
+   "c": "Qoraqalpog'iston Respublikasi hamda Xorazm viloyatida",
+   "w": [
+    "Surxondaryo va Buxoro viloyatlarida",
+    "Navoiy va Xorazm viloyatlaridan tashqari barcha viloyatlarda",
+    "janubiy tekisliklarda, dengiz sathidan 500–1000 metr balandlikda",
+    "tog' va tog' oldi hududlarida, dengiz sathidan 2000 metrgacha"
+   ],
+   "x": "«An. martinius esa O'rta Osiyoda tor arealga ega va O'zbekistonda Qoraqalpog'iston Respublikasi hamda Xorazm viloyatida uchraydi»"
+  },
+  {
+   "q": "Hozirgi vaqtda O'zbekistonda bezgakni tarqatishda qaysi turlar eng xavfli hisoblanadi?",
+   "c": "An. superpictus, An. artemievi va An. pulcherrimus",
+   "w": [
+    "An. claviger, An. hyrcanus va An. algeriensis",
+    "An. martinius, An. claviger va An. hyrcanus",
+    "An. algeriensis, An. martinius va An. superpictus",
+    "An. hyrcanus, An. artemievi va An. claviger"
+   ],
+   "x": "«hozirgi vaqtda O'zbekistonda An. superpictus, An. artemievi va An. pulcherrimus bezgakni tarqatishda eng xavfli turlardir»"
+  },
+  {
+   "q": "An. claviger lichinkalari qanday suvlarni yoqtiradi?",
+   "c": "salqin suvlarni",
+   "w": [
+    "sekin oqadigan, kalsiy tuzlariga boy suvlarni",
+    "botqoqlashgan hududlardagi suvlarni",
+    "kunduzi 35–38 °C gacha isiydigan suvlarni",
+    "kollektor-drenaj tarmoqlari va sholi maydonlari suvlarini"
+   ],
+   "x": "«An. claviger lichinkalari esa salqin suvlarni yoqtiradi»"
+  }
+ ],
+ "013": [
+  {
+   "q": "Chivin turining yuqishdagi roli nimalarga bog'liq?",
+   "c": "uning soni, odam bilan aloqa darajasi, plazmodiylarga moyilligi, yashovchanligi va endofilligiga",
+   "w": [
+    "iqlimiy, jug'rofiy va ijtimoiy omillar hamda chivinning ekologik va fiziologik xususiyatlariga",
+    "qishlash joyi, kunduzgi yashirinish va ko'payish fazalarining davomiyligiga",
+    "xonalarga ishlov berish qamrovi va qoldiq ta'sirli insektitsidlar miqdoriga",
+    "uchib chiqish sanasi, diapauza va yozgi turg'unlik davomiyligiga"
+   ],
+   "x": "«Chivin turining yuqishdagi roli uning soni, odam bilan aloqa darajasi, plazmodiylarga moyilligi, yashovchanligi va endofilligiga bog'liq»"
+  },
+  {
+   "q": "An. claviger, An. hyrcanus, An. martinius va An. algeriensis qanday ahamiyatga ega?",
+   "c": "mahalliy sharoitga qarab ikkinchi darajali tashuvchi bo'lishi mumkin",
+   "w": [
+    "bezgakni tarqatishda eng xavfli turlar hisoblanadi",
+    "hududda bezgak tashuvchisi bo'la olmaydi",
+    "tog' va tog' oldi hududlarida asosiy tashuvchi hisoblanadi",
+    "bezgak parazitlari bilan eng ko'p zararlanadigan turlardir"
+   ],
+   "x": "«Qolgan turlar, ya'ni An. claviger, An. hyrcanus, An. martinius va An. algeriensis mahalliy sharoitga qarab ikkinchi darajali tashuvchi bo'lishi mumkin yoki ularning ahamiyati yetarli o'rganilmagan»"
+  },
+  {
+   "q": "An. superpictus qayerda va qanday hujum qiladi?",
+   "c": "endofil va endofag tur, odamlarga binolar ichida hujum qiladi",
+   "w": [
+    "ekzofil tur, odamlarga tashqarida hujum qiladi",
+    "yarim ekzofil tur, uy hayvonlariga ko'proq hujum qiladi",
+    "endofil tur, o'ljaga tashqarida va poylab hujum qiladi",
+    "issiqlikka chidamli tur, kunduzi quyoshda hujum qiladi"
+   ],
+   "x": "«U endofil va endofag tur bo'lib, odamlar yashaydigan binolarda, molxonalar, xo'jalik xonalari va yerto'lalarda ko'p uchraydi, aholi punktlarida to'planadi va odamlarga binolar ichida hujum qiladi»"
+  },
+  {
+   "q": "An. superpictus soni qachon ortib boradi?",
+   "c": "iyul-avgustdan sentabrgacha",
+   "w": [
+    "aprel-may oylarida paydo bo'lib, iyunda ko'payadi",
+    "avgust-sentabrda eng yuqori cho'qqiga chiqadi",
+    "yozning birinchi yarmida eng yuqori darajada bo'ladi",
+    "qishda eng yuqori darajaga chiqadi"
+   ],
+   "x": "«yozning birinchi yarmida uning soni kam bo'ladi, iyul-avgustdan sentabrgacha esa ortib boradi»"
+  },
+  {
+   "q": "An. artemievi uy hayvonlariga odamga nisbatan necha baravar ko'proq hujum qiladi?",
+   "c": "10–15 baravar",
+   "w": [
+    "uch baravar",
+    "15 baravar",
+    "25 baravar",
+    "bir necha baravar"
+   ],
+   "x": "«biroq uy hayvonlariga odamga nisbatan 10–15 baravar ko'proq hujum qiladi»"
+  },
+  {
+   "q": "An. artemievi imagosining faollik davri qancha?",
+   "c": "8–10 oyni tashkil etadi",
+   "w": [
+    "3–5 oyni tashkil etadi",
+    "bir necha haftani tashkil etadi",
+    "faqat yoz mavsumini tashkil etadi",
+    "butun yilni tashkil etadi"
+   ],
+   "x": "«Imagoning faollik davri 8–10 oyni tashkil etadi»"
+  },
+  {
+   "q": "An. pulcherrimus kundalik yashirinish joyi sifatida nimani tanlaydi?",
+   "c": "bostirmalar, ochiq molxonalar va butazorlarni",
+   "w": [
+    "yerto'lalar, xo'jalik xonalari va aholi punktlaridagi binolarni",
+    "sizot va zovur suvlarini, kam sho'rlangan suvlarni",
+    "sholipoyalar, zovur suvlari va daryo o'zanlarini",
+    "yerto'lalar va xo'jalik xonalarini"
+   ],
+   "x": "«kundalik yashirinish joyi sifatida bostirmalar, ochiq molxonalar va butazorlarni tanlaydi»"
+  },
+  {
+   "q": "Populyatsiyadagi fiziologik qari chivinlar ulushi nima uchun muhim ko'rsatkich?",
+   "c": "sporogoniya gonotrofik sikldan sekin kechadi, uzoq yashagan urg'ochi yuqumli bo'ladi",
+   "w": [
+    "gonotrofik sikl sporogoniyadan sekin kechadi, yosh urg'ochilar ko'proq yuqtiradi",
+    "yosh urg'ochilar epidemiologik jihatdan xavfliroq hisoblanadi",
+    "qari chivinlar populyatsiyada eng ko'p bo'ladi",
+    "fiziologik yosh chivinning hujum qilish mavsumini belgilaydi"
+   ],
+   "x": "«chunki sporogoniya gonotrofik sikldan ancha sekin kechadi va faqat uzoq yashagan urg'ochigina yuqumli bo'lib ulgura oladi»"
+  },
+  {
+   "q": "Urg'ochi chivinlarning qishlash joyidan uchib chiqishi qachon boshlanadi?",
+   "c": "o'rtacha kunlik havo harorati noldan 7–10 °C oshganda",
+   "w": [
+    "yozning juda issiq paytida yozgi turg'unlik boshlanganda",
+    "iyul-avgustdan sentabrgacha soni ortganda",
+    "yozgi turg'unlik davri tugaganda",
+    "qishda barcha chivinlarning faolligi kamayganda"
+   ],
+   "x": "«urg'ochi chivinlarning qishlash joyidan uchib chiqishi o'rtacha kunlik havo harorati noldan 7–10 °C oshganda boshlanishi»"
+  },
+  {
+   "q": "Endofil An. superpictus va An. artemievi ga qarshi qaysi usul samarali?",
+   "c": "xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish",
+   "w": [
+    "lichinkalarga qarshi tadbirlar va sholipoyalar nazorati",
+    "sizot suvlar ustidan nazorat va lichinkalarga qarshi tadbirlar",
+    "uchib chiqish sanasini aniqlash va diapauzani kuzatish",
+    "uchib chiqish sanasini hisoblash va kuzatish"
+   ],
+   "x": "«Endofil An. superpictus va An. artemievi ga qarshi xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish samarali bo'lsa»"
+  }
+ ],
+ "014": [
+  {
+   "q": "Endofil turlar qanday turlar hisoblanadi?",
+   "c": "binolarni yashirinish joyi sifatida afzal ko'radigan, u yerda oziqlanib qonni hazm qiladigan turlar",
+   "w": [
+    "tashqaridagi tabiiy yashirinish joylarini, masalan o'simliklar orasini, g'orlarni afzal ko'radigan turlar",
+    "binolarga va tabiatdagi yashirinish joylariga teng taqsimlanadigan yarim ekzofil turlar",
+    "bino ichida qon so'rib, tashqarida qonni hazm qilish uchun ketadigan turlar",
+    "kechqurun va kechasi bino ichida qon so'rib, tongda ketadigan ekzofil turlar"
+   ],
+   "x": "«Odamlar yashaydigan binolarni yashirinish joyi sifatida afzal ko'radigan, u yerda oziqlanadigan va qonni hazm qiladigan turlar endofillar deb ataladi»"
+  },
+  {
+   "q": "Ekzofil turlar qaysi yashirinish joylarini afzal ko'radi?",
+   "c": "o'simliklar orasi, g'orlar, daraxt kovaklari va jarliklarni",
+   "w": [
+    "molxonalar, xo'jalik xonalari va yerto'lalarni",
+    "odamlar yashaydigan binolarning shift va devorlarini",
+    "bostirmalar, ochiq molxonalar va butazorlarni",
+    "qamish bilan yopilgan uylarning shiftini"
+   ],
+   "x": "«Tashqaridagi tabiiy yashirinish joylarini, masalan, o'simliklar orasini, g'orlar, daraxt kovaklari va jarliklarni afzal ko'radigan turlar ekzofillar deyiladi»"
+  },
+  {
+   "q": "Endofagiya nima?",
+   "c": "bino ichida qon so'rish",
+   "w": [
+    "tashqarida qon so'rish",
+    "bino ichida qonni hazm qilish",
+    "tashqarida qonni hazm qilish",
+    "binolarga va tabiatga teng taqsimlanish"
+   ],
+   "x": "«Bino ichida qon so'rish endofagiya, tashqarida qon so'rish esa ekzofagiya deb ataladi»"
+  },
+  {
+   "q": "Ekzofil An. hyrcanus kechqurun bino ichida qon so'rsa ham, ertalab nima qiladi?",
+   "c": "qonni hazm qilish uchun tashqaridagi yashirinish joyiga uchib ketadi",
+   "w": [
+    "bino ichida qolib, qon to'liq hazm bo'lguncha turadi",
+    "shiftning yuqori qismida uzoq vaqt kam harakatli bo'lib qoladi",
+    "ishlov berilgan devorlarga qo'nib, zaharlanib o'ladi",
+    "kunduzi ham odam va hayvonlarga hujum qilishda davom etadi"
+   ],
+   "x": "«ekzofil An. hyrcanus kechqurun yoki kechasi bino ichida qon so'rsa ham, ertalab tongda qonni hazm qilish uchun tashqaridagi yashirinish joyiga uchib ketadi»"
+  },
+  {
+   "q": "O'zbekistonda qaysi turlar endofil hisoblanadi?",
+   "c": "An. superpictus va An. artemievi",
+   "w": [
+    "An. hyrcanus, An. claviger va An. algeriensis",
+    "An. pulcherrimus va An. martinius",
+    "An. claviger va An. pulcherrimus",
+    "An. hyrcanus va An. martinius"
+   ],
+   "x": "«O'zbekistonda An. superpictus va An. artemievi endofil, An. hyrcanus, An. claviger va An. algeriensis ekzofil»"
+  },
+  {
+   "q": "Qaysi turlar yarim ekzofil hisoblanadi?",
+   "c": "An. pulcherrimus va An. martinius",
+   "w": [
+    "An. superpictus va An. artemievi",
+    "An. hyrcanus va An. claviger",
+    "An. algeriensis va An. hyrcanus",
+    "An. superpictus va An. algeriensis"
+   ],
+   "x": "«An. pulcherrimus va An. martinius esa binolarga va tabiatdagi yashirinish joylariga teng taqsimlanadigan yarim ekzofil turlardir»"
+  },
+  {
+   "q": "Chivinlarning devorda boshini yuqoriga qaratib o'tirishi nimani ko'rsatadi?",
+   "c": "salbiy geotaksis borligini",
+   "w": [
+    "endofil xulq-atvor borligini",
+    "ekzofagiya borligini",
+    "zoofiliya borligini",
+    "antropofiliya borligini"
+   ],
+   "x": "«Chivinlar devorda boshini yuqoriga qaratib o'tiradi, bu ularda salbiy geotaksis borligini ko'rsatadi»"
+  },
+  {
+   "q": "An. pulcherrimus quyosh nuriga eng chidamli bo'lishining sababi nima?",
+   "c": "tanasi oq rangli qalin tuklar bilan qoplangani",
+   "w": [
+    "uy hayvonlari turadigan bostirmalarda yashirinishi",
+    "kunduzi ham odam va hayvonlarga hujum qilgani",
+    "loy bilan suvalgan devorlarda yashirinishi",
+    "ochiq molxonalarda va butazorlarda yashirinishi"
+   ],
+   "x": "«An. pulcherrimus tanasi oq rangli qalin tuklar bilan qoplangani sababli quyosh nuriga eng chidamli va quyosh yoritgan yashirinish joylarida uchraydigan yagona tur hisoblanadi»"
+  },
+  {
+   "q": "Endofil turlarni hisoblashda qayerlar tekshiriladi?",
+   "c": "binolarning shift va devorlarining yuqori qismi",
+   "w": [
+    "ariq bo'yidagi o'simliklar, zovurlar va devor yoriqlari",
+    "kunduzgi yashirinish joyi bo'lgan turar joylar va molxonalarni",
+    "ochiq bostirmalar va butazorlar",
+    "g'orlar va daraxt kovaklari"
+   ],
+   "x": "«endofil turlarni hisoblashda binolarning shift va devorlarining yuqori qismi, ekzofil turlarni hisoblashda esa ariq bo'yidagi o'simliklar, zovurlar, devor yoriqlari»"
+  },
+  {
+   "q": "Ekzofil turlarga qarshi qaysi tadbirlar asosiy ahamiyatga ega?",
+   "c": "lichinkalarga qarshi tadbirlar, larvitsidlar va gambuziya baliqlari",
+   "w": [
+    "xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish",
+    "ishlov berilgan yuzalarning chivinlarga zaharli ta'sirini saqlash",
+    "endofil urg'ochilarni binoda qonni hazm qilguncha kuzatish",
+    "bino ichida shift va devorlarning yuqori qismini tekshirish"
+   ],
+   "x": "«Bunday hollarda lichinkalarga qarshi tadbirlar, ya'ni ko'payish joylarini yo'qotish (bonifikatsiya), larvitsidlar va gambuziya baliqlaridan foydalanish hamda shaxsiy himoya vositalari, xususan pashshaxonalar va repellentlar asosiy ahamiyatga ega bo'ladi»"
+  }
+ ]
+}

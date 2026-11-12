@@ -1,0 +1,338 @@
+{
+ "071": [
+  {
+   "q": "Tashuvchi (vektor) deb kimga aytiladi?",
+   "c": "qo'zg'atuvchini sog'lom moyil organizmga o'tkazuvchi tirik mavjudot",
+   "w": [
+    "qo'zg'atuvchi hayot siklining bir qismini o'tkazadigan asosiy xo'jayin",
+    "qo'zg'atuvchini uzoq saqlaydigan oraliq xo'jayin va rezervuar",
+    "qo'zg'atuvchini kasal organizmdan sog'lom organizmga o'tkazuvchi vosita",
+    "qo'zg'atuvchi tanasida faqat ko'payadigan bo'g'imoyoqli hayvon"
+   ],
+   "x": "«qo'zg'atuvchini kasal organizmdan sog'lom, moyil organizmga o'tkazuvchi tirik mavjudotga, asosan bo'g'imoyoqlilarga aytiladi»"
+  },
+  {
+   "q": "Tashqi inkubatsiya davri deb nimaga aytiladi?",
+   "c": "qo'zg'atuvchi kirgandan tashuvchi yuqumli bo'lguniga qadar o'tadigan davr",
+   "w": [
+    "qo'zg'atuvchi kirgandan tashuvchi o'lguniga qadar o'tadigan davr",
+    "tashuvchi chaqqandan odam kasallanguniga qadar o'tadigan davr",
+    "tuxumdan voyaga yetgan tashuvchi paydo bo'lgunicha o'tadigan davr",
+    "lichinkadan nimfa bosqichigacha o'tadigan davr"
+   ],
+   "x": "«Qo'zg'atuvchi kirgandan tashuvchi yuqumli bo'lguniga qadar o'tadigan davr tashqi inkubatsiya davri deb ataladi»"
+  },
+  {
+   "q": "Qaysi kasalliklar majburiy (obligat) transmissiv deb ataladi?",
+   "c": "bezgak, kanali ensefalit va leyshmaniozlar",
+   "w": [
+    "o'lat va kuydirgi",
+    "kuydirgi va tulyaremiya",
+    "o'lat, kuydirgi va tulyaremiya",
+    "oshqozon-ichak kasalliklari va kuydirgi"
+   ],
+   "x": "«bezgak, kanali ensefalit va leyshmaniozlar shular jumlasidandir»"
+  },
+  {
+   "q": "Qo'zg'atuvchining tuxum orqali avlodlarga o'tishi nima deyiladi?",
+   "c": "transovarial o'tish",
+   "w": [
+    "transfazali o'tish",
+    "propagativ o'tish",
+    "siklik o'tish",
+    "fakultativ o'tish"
+   ],
+   "x": "«Tuxum orqali o'tish transovarial deyiladi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi rivojlanish bosqichlari (lichinka, nimfa, voyaga yetgan) orqali saqlanib qolishi nima deb ataladi?",
+   "c": "transfazali o'tish",
+   "w": [
+    "transovarial o'tish",
+    "propagativ o'tish",
+    "siklik o'tish",
+    "mexanik o'tish"
+   ],
+   "x": "«Qo'zg'atuvchi rivojlanish bosqichlari (lichinka, nimfa, voyaga yetgan) orqali saqlanib qolsa, bu transfazali o'tish deb ataladi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi rivojlanish shaklini o'zgartirmasdan faqat ko'payadigan tashuvchilik turi qaysi?",
+   "c": "ko'payuvchi (propagativ) turi",
+   "w": [
+    "siklik-rivojlanuvchi turi",
+    "siklik-ko'payuvchi turi",
+    "mexanik tashuvchilik turi",
+    "transfazali o'tish turi"
+   ],
+   "x": "«Ko'payuvchi (propagativ) turda qo'zg'atuvchi rivojlanish shaklini o'zgartirmasdan ko'payadi, masalan borreliyalar va ayrim viruslar»"
+  },
+  {
+   "q": "Siklik-rivojlanuvchi turda tashuvchi tanasida qo'zg'atuvchi nima bo'ladi?",
+   "c": "rivojlanadi, lekin ko'paymaydi",
+   "w": [
+    "ko'payadi, lekin rivojlanmaydi",
+    "ham rivojlanadi, ham ko'payadi",
+    "shaklini o'zgartirmasdan ko'payadi",
+    "rivojlanmaydi va ko'paymaydi"
+   ],
+   "x": "«Siklik-rivojlanuvchi turida qo'zg'atuvchi rivojlanadi, lekin ko'paymaydi»"
+  },
+  {
+   "q": "Bezgak plazmodiylari chivin tanasida qaysi jarayondan o'tadi?",
+   "c": "jinsiy ko'payish, ya'ni sporogoniya",
+   "w": [
+    "promastigotalarning ichakda to'planishi",
+    "tuxum orqali o'tish",
+    "tashqi inkubatsiya davrining boshlanishi",
+    "tashqi inkubatsiya davri tugashi"
+   ],
+   "x": "«Bezgak plazmodiylari chivin tanasida jinsiy ko'payish, ya'ni sporogoniyadan o'tadi»"
+  },
+  {
+   "q": "Onxoserkozning tashuvchilari kimlar?",
+   "c": "zahkash pashshalar",
+   "w": [
+    "Anopheles chivinlari",
+    "moskitlar (iskaptoparlar)",
+    "Ornithodoros kanalari",
+    "uy pashshalari"
+   ],
+   "x": "«onxoserkozning tashuvchilari sifatida esa zahkash pashshalar»"
+  },
+  {
+   "q": "So'nalar qaysi kasalliklarni faqat mexanik yo'l bilan tarqatadi?",
+   "c": "kuydirgi va tulyaremiya",
+   "w": [
+    "bezgak va leyshmaniozlar",
+    "filyarioz va onxoserkoz",
+    "kanali ensefalit va qaytalama terlama",
+    "bezgak va kanali ensefalit"
+   ],
+   "x": "«So'nalar kuydirgi, tulyaremiya kabi kasalliklarni faqat mexanik yo'l bilan tarqatadi»"
+  }
+ ],
+ "072": [
+  {
+   "q": "Tuxum va lichinkaning rivojlanish sharoitiga qarab gelmintozlar qanday guruhlarga ajratiladi?",
+   "c": "geogelmintozlar, biogelmintozlar va kontagioz (kontakt) gelmintozlar",
+   "w": [
+    "nematodalar, sestodalar va trematodalar",
+    "peroral antroponozlar, peroral zoonozlar va perkutan antroponozlar",
+    "intensiv, o'rta intensiv va sust intensiv o'choqlar",
+    "asl o'choq va yolg'on o'choq guruhlari"
+   ],
+   "x": "«geogelmintozlar, biogelmintozlar va kontagioz (kontakt) gelmintozlarga bo'linishi»"
+  },
+  {
+   "q": "Geogelmintlarning tuxum yoki lichinkalari invaziv bosqichgacha qayerda yetiladi?",
+   "c": "tashqi muhitda, asosan tuproqda",
+   "w": [
+    "odam ichagida",
+    "go'shtda yoki baliqda",
+    "perianal sohada",
+    "asosiy xo'jayin ichagida"
+   ],
+   "x": "«tashqi muhitda, asosan tuproqda, invaziv bosqichgacha yetiladi»"
+  },
+  {
+   "q": "Lichinkalari tuproqda rivojlanib, teri orqali ham kirishi mumkin bo'lgan geogelmintozlar qaysilar?",
+   "c": "ankilostomidoz, nekatoroz va strongiloidoz",
+   "w": [
+    "askaridoz va trixosefalyoz geogelmintozlari",
+    "enterobioz va gimenolepidoz kontakt gelmintozlari",
+    "teniarinxoz, tenioz va difillobotrioz biogelmintozlari",
+    "opistorxoz, fassiolyoz va exinokokkoz biogelmintozlari"
+   ],
+   "x": "«Ikkinchisi ankilostomidoz, nekatoroz va strongiloidoz bo'lib, lichinkalar tuproqda rivojlanib, teri orqali ham kirishi mumkin»"
+  },
+  {
+   "q": "Askaridoz va trixosefalyozning manbai kim?",
+   "c": "invaziyalangan odam",
+   "w": [
+    "it, bo'ri, tulki va boshqa go'shtxo'rlar",
+    "itlar va daydi hayvonlar",
+    "oraliq xo'jayin hisoblangan baliq",
+    "mol va cho'chqa go'shti"
+   ],
+   "x": "«Ularning manbai invaziyalangan odam, yuqtirish mavsumi yoz-kuz davriga to'g'ri keladi»"
+  },
+  {
+   "q": "Biogelmintlarda gelmint qayerda balog'atga yetadi?",
+   "c": "asosiy (definitiv) xo'jayinda",
+   "w": [
+    "oraliq xo'jayinning ichagida",
+    "tashqi muhitda, asosan tuproqda",
+    "tuxum va lichinka bosqichida",
+    "perianal sohada, kontakt buyumlarda"
+   ],
+   "x": "«oraliq xo'jayinda rivojlanishning dastlabki davri o'tadi, asosiy (definitiv) xo'jayinda gelmint balog'atga yetadi»"
+  },
+  {
+   "q": "Teniidozlarning finnalari qaysi taomlar orqali yuqadi?",
+   "c": "kabob, chuchvara, somsa va manti",
+   "w": [
+    "yuvilmagan sabzavot, meva va ko'katlar",
+    "chala pishirilgan baliq taomlari",
+    "iflos qo'l va tuproq orqali",
+    "oraliq xo'jayin go'shti va baliq"
+   ],
+   "x": "«teniidozlarning finnalari kabob, chuchvara, somsa, manti kabi taomlar orqali yuqishi»"
+  },
+  {
+   "q": "Epidemiologik tasnif kimlar tomonidan ishlab chiqilgan?",
+   "c": "K.I. Skryabin va R.S. Shuls",
+   "w": [
+    "S.S. Shulman",
+    "S.S. Shulman va K.I. Skryabin",
+    "R.S. Shuls va S.S. Shulman",
+    "K.I. Skryabin va S.S. Shulman"
+   ],
+   "x": "«Bu tasnif K.I. Skryabin va R.S. Shuls tomonidan ishlab chiqilgan»"
+  },
+  {
+   "q": "Ostritsa tuxumlari perianal sohada qancha vaqtda invaziv bo'ladi?",
+   "c": "perianal sohada 4–6 soatda",
+   "w": [
+    "perianal sohada 1–2 soatda",
+    "perianal sohada 24–48 soatda",
+    "perianal sohada 12–24 soatda",
+    "perianal sohada 10–15 soatda"
+   ],
+   "x": "«tuxumlari perianal sohada 4–6 soatda invaziv bo'ladi»"
+  },
+  {
+   "q": "Intensiv o'choqlarda ommaviy degelmintizatsiya yilda necha marta o'tkaziladi?",
+   "c": "yilda ikki marta",
+   "w": [
+    "yilda bir marta",
+    "2–3 yilda bir marta",
+    "yilda 3 marta",
+    "yilda 4 marta"
+   ],
+   "x": "«aholining 30 foiz va undan ko'pi zararlangan joylarda, yilda ikki marta ommaviy degelmintizatsiya o'tkaziladi»"
+  },
+  {
+   "q": "Bolalar jamoalarida infeksiya qancha foiz bo'lganda jamoaning hammasi davolanadi?",
+   "c": "15 foiz va undan yuqori",
+   "w": [
+    "30 foiz va undan yuqori",
+    "5 foiz va undan yuqori",
+    "53,85 foiz va undan yuqori",
+    "50 foiz va undan yuqori"
+   ],
+   "x": "«bolalar jamoalarida infeksiya 15 foiz va undan yuqori bo'lsa, jamoaning hammasi davolanadi»"
+  }
+ ],
+ "073": [
+  {
+   "q": "O'zbekistonda qaysi geogelmintozlar o'tgan asrda tugatilgan?",
+   "c": "ankilostomidozlar tugatilgan",
+   "w": [
+    "askaridoz tugatilgan",
+    "trixosefalyoz tugatilgan",
+    "strongiloidoz tugatilgan",
+    "enterobioz tugatilgan"
+   ],
+   "x": "«ankilostomidozlar o'tgan asrda tugatilgan»"
+  },
+  {
+   "q": "Gelmintozlar respublikada barcha parazitar kasalliklarning qancha qismini tashkil etadi?",
+   "c": "90 foizini",
+   "w": [
+    "30 foizini",
+    "15 foizini",
+    "3,5 foizini",
+    "80 foizini"
+   ],
+   "x": "«barcha parazitar kasalliklarning 90 foizini tashkil etishi»"
+  },
+  {
+   "q": "Respublikada gijja kasalliklari bilan har yili qancha kishi kasallanadi?",
+   "c": "250 ming–300 ming kishi",
+   "w": [
+    "2006-yilda 7 649 651 kishi",
+    "Farg'onada 762 138 kishi",
+    "2006-yilda 264 807 kishi",
+    "har yili 90 ming kishi"
+   ],
+   "x": "«respublikada gijja kasalliklari bilan har yili 250 ming–300 ming kishi kasallanadi»"
+  },
+  {
+   "q": "2006-yilda gelmintozlarga tekshirilgan kishilarning qancha qismi zararlangan?",
+   "c": "ulardan 3,5 foizi zararlangan",
+   "w": [
+    "ulardan 15 foizi zararlangan",
+    "ulardan 30 foizi zararlangan",
+    "ulardan 90 foizi zararlangan",
+    "ulardan 80 foizi zararlangan"
+   ],
+   "x": "«ulardan 264 807 nafari (3,5 foiz) zararlangan»"
+  },
+  {
+   "q": "Ikki bosqichli degelmintizatsiyada ikkinchi dori kursi qachon o'tkaziladi?",
+   "c": "kech kuz va qish boshida",
+   "w": [
+    "bahor oxiri–yoz boshida",
+    "yoz-kuz davrida",
+    "kech kuz boshida",
+    "ikki yil davomida"
+   ],
+   "x": "«ikkinchisi kech kuz va qish boshida o'tkazilishi»"
+  },
+  {
+   "q": "Askaridozda aholining 15–29 foizi zararlangan o'choq qanday hisoblanadi?",
+   "c": "o'rta intensiv o'choq hisoblanadi",
+   "w": [
+    "intensiv o'choq hisoblanadi",
+    "sust intensiv o'choq hisoblanadi",
+    "yolg'on o'choq hisoblanadi",
+    "asl o'choq hisoblanadi"
+   ],
+   "x": "«15–29 foiz zararlangan o'choq o'rta intensiv»"
+  },
+  {
+   "q": "O'choq necha yil davomida invaziyalanganlar aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa, hisobdan chiqariladi?",
+   "c": "ikki yil davomida",
+   "w": [
+    "bir yil davomida",
+    "3 yil davomida",
+    "10 yil davomida",
+    "3 oy davomida"
+   ],
+   "x": "«Ikki yil davomida o'choqda invaziyalanganlar aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi»"
+  },
+  {
+   "q": "Maktabgacha ta'lim muassasalari bolalari qaysi yoshda tekshiriladi?",
+   "c": "3–6 yosh bolalari",
+   "w": [
+    "7–14 yosh bolalari",
+    "15–29 yosh bolalari",
+    "1–2 yosh bolalari",
+    "30 yosh bolalari"
+   ],
+   "x": "«maktabgacha ta'lim muassasalari bolalari (3–6 yosh)»"
+  },
+  {
+   "q": "Degelmintizatsiyadan keyin doimiy aholi guruhi qachon va qanchasi qayta tekshiriladi?",
+   "c": "3 oy o'tgach, 200–300 kishilik guruh",
+   "w": [
+    "6 oy o'tgach, 200–300 kishilik guruh",
+    "3 oy o'tgach, 20–30 kishilik guruh",
+    "1 oy o'tgach, 15–29 kishilik guruh",
+    "12 oy o'tgach, 7–14 kishilik guruh"
+   ],
+   "x": "«Degelmintizatsiyadan 3 oy o'tgach, har o'choqda 200–300 kishilik doimiy aholi guruhi qayta tekshiriladi»"
+  },
+  {
+   "q": "Qishloq xonadonlarida tekshirilgan bolalarning o'rtacha qancha qismida ichak parazitlari aniqlangan?",
+   "c": "80 foizdan ortig'ida",
+   "w": [
+    "30 foizdan ortig'ida",
+    "15 foizdan ortig'ida",
+    "3,5 foizdan ortig'ida",
+    "90 foizdan ortig'ida"
+   ],
+   "x": "«tekshirilgan bolalarning o'rtacha 80 foizdan ortig'ida Enterobius vermicularis»"
+  }
+ ]
+}

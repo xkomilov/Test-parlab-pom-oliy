@@ -1,0 +1,338 @@
+{
+ "095": [
+  {
+   "q": "Teniarinxozda definitiv va oraliq xo'jayin kim hisoblanadi?",
+   "c": "definitiv xo'jayin odam, oraliq xo'jayin qoramol",
+   "w": [
+    "definitiv xo'jayin qoramol, oraliq xo'jayin odam",
+    "definitiv xo'jayin odam, oraliq xo'jayin cho'chqa",
+    "definitiv xo'jayin cho'chqa, oraliq xo'jayin odam",
+    "definitiv xo'jayin qoramol, oraliq xo'jayin cho'chqa"
+   ],
+   "x": "«Qo'zg'atuvchining yagona definitiv xo'jayini odam, oraliq xo'jayini esa qoramoldir»"
+  },
+  {
+   "q": "Qoramol solityori nima sababdan qurollanmagan solityor deb ataladi?",
+   "c": "skoleksida ilmoqlar yo'q",
+   "w": [
+    "skoleksida ikki qator ilmoq bor",
+    "strobilasi mingdan kam bo'g'imdan iborat",
+    "bachadon shoxchalari 7–13 ta bo'ladi",
+    "skoleksida to'rtta so'rg'ich yo'q"
+   ],
+   "x": "«ilmoqlari yo'q, shu sababli qoramol solityori qurollanmagan solityor deb ataladi»"
+  },
+  {
+   "q": "Cho'chqa solityorida bachadon yon shoxchalari soni qancha?",
+   "c": "7–13 ta shoxcha",
+   "w": [
+    "17–35 ta shoxcha",
+    "30–40 ta shoxcha",
+    "145 ta shoxcha",
+    "1,5–2 ta shoxcha"
+   ],
+   "x": "«cho'chqa solityoridagi 7–13 ta shoxchadan aniq farqlanadi»"
+  },
+  {
+   "q": "Onkosfera ichida nima joylashgan?",
+   "c": "uch juft ilmoqli zarodish",
+   "w": [
+    "to'rtta mushakli so'rg'ich",
+    "ikki juft ilmoqli zarodish",
+    "shaffof suyuqlikli pufakcha",
+    "145 mingga yaqin tuxum"
+   ],
+   "x": "«ichida uch juft ilmoqli zarodish joylashgan»"
+  },
+  {
+   "q": "Finna yutilgandan keyin bemor bo'g'imlarni qachondan ajrata boshlaydi?",
+   "c": "taxminan uch oy o'tgach",
+   "w": [
+    "taxminan to'rt oy o'tgach",
+    "taxminan ikki hafta o'tgach",
+    "taxminan sakkiz oy o'tgach",
+    "taxminan bir yil o'tgach"
+   ],
+   "x": "«Finna yutilgandan taxminan uch oy o'tgach, bemor tashqi muhitga»"
+  },
+  {
+   "q": "Qoramol mushaklarida invaziv finna (Cysticercus bovis) qancha vaqtda shakllanadi?",
+   "c": "taxminan to'rt oyda",
+   "w": [
+    "taxminan uch oyda",
+    "taxminan ikki haftada",
+    "taxminan sakkiz oyda",
+    "taxminan 1–2 oyda"
+   ],
+   "x": "«taxminan to'rt oyda hajmi 5×8 mm bo'lgan»"
+  },
+  {
+   "q": "Cho'chqa, it va kalamushlar qoramol sistitserkozi epizootologiyasida nima sababdan rol o'ynamaydi?",
+   "c": "ichagida onkosferalar 7–10 soat ichida hazm bo'lib ketadi",
+   "w": [
+    "ichagida onkosferalar 2 hafta ichida hazm bo'lib ketadi",
+    "ichagida onkosferalar 8 oy ichida hazm bo'lib ketadi",
+    "ichagida onkosferalar 4 oy ichida hazm bo'lib ketadi",
+    "ichagida finnalar 7–10 soat ichida hazm bo'lib ketadi"
+   ],
+   "x": "«ularning ichagida onkosferalar 7–10 soat ichida hazm bo'lib ketadi»"
+  },
+  {
+   "q": "Tashqi muhitga tushgan onkosferalar qancha vaqt hayotchan qoladi?",
+   "c": "ikki haftadan sakkiz oygacha",
+   "w": [
+    "ikki haftadan to'rt oygacha",
+    "uch oydan sakkiz oygacha",
+    "ikki haftadan uch oygacha",
+    "to'rt oydan sakkiz oygacha"
+   ],
+   "x": "«ikki haftadan sakkiz oygacha hayotchan qoladi»"
+  },
+  {
+   "q": "Jahon bo'yicha teniarinxoz bilan og'rigan bemorlar soni qancha deb baholanadi?",
+   "c": "39 milliondan 77 milliongacha",
+   "w": [
+    "39 milliondan 145 milliongacha",
+    "77 milliondan 90 milliongacha",
+    "2608 milliondan 77 milliongacha",
+    "39 milliondan 2608 milliongacha"
+   ],
+   "x": "«bemorlar soni 39 milliondan 77 milliongacha baholanadi»"
+  },
+  {
+   "q": "1993-yilda kasallanish ko'rsatkichlari bo'yicha respublikada qaysi hududlar birinchi o'rinlarda turgan?",
+   "c": "Xorazm viloyati va Qoraqalpog'iston",
+   "w": [
+    "Buxoro viloyati va Qoraqalpog'iston",
+    "Buxoro viloyati va Xorazm viloyati",
+    "Tojikiston va Ozarbayjon",
+    "Qoraqalpog'iston va Buxoro viloyati"
+   ],
+   "x": "«Xorazm viloyati va Qoraqalpog'iston birinchi o'rinlarda»"
+  }
+ ],
+ "096": [
+  {
+   "q": "Teniarinxozning eng xarakterli belgisi nima?",
+   "c": "yetilgan bo'g'imlarning anal teshikdan mustaqil sudralib chiqishi",
+   "w": [
+    "qorin og'rig'i, ko'ngil aynishi va ishtaha o'zgarishi",
+    "toksik-allergik reaksiyalar va dispeptik buzilishlar",
+    "bosh og'rig'i, bosh aylanishi va uyqu buzilishi",
+    "perianal sohada qichishish va beqaror axlat"
+   ],
+   "x": "«eng xarakterli belgisi yetilgan bo'g'imlarning defekatsiya aktidan tashqari anal teshikdan mustaqil sudralib chiqishidir»"
+  },
+  {
+   "q": "Davolash bayonnomasiga ko'ra teniarinxozda inkubatsion davr qancha?",
+   "c": "2–3 oyga teng",
+   "w": [
+    "3–4 oyga teng",
+    "bir–uch oyga teng",
+    "besh oyga teng",
+    "to'rt oyga teng"
+   ],
+   "x": "«Inkubatsion davr 2–3 oyga teng»"
+  },
+  {
+   "q": "Bo'g'imlarning chiqish soni o'rtacha qancha deb hisoblanadi?",
+   "c": "o'rtacha sakkiztagacha",
+   "w": [
+    "o'rtacha 17 tadan ko'p",
+    "o'rtacha 7–13 ta",
+    "o'rtacha 18 tadan kam",
+    "o'rtacha 1500 ta"
+   ],
+   "x": "«bo'g'imlarning chiqish sonini o'rtacha sakkiztagacha»"
+  },
+  {
+   "q": "Teniarinxoz asoratlariga qaysilar kiradi?",
+   "c": "appenditsit, ichak tutilishi, o'tkir pankreatit va gepatoxolesistit",
+   "w": [
+    "sistitserkoz, bosh og'rig'i, mushak og'rig'i va kamqonlik",
+    "kolit, enterokolit, gepatit va o'tkir qorin og'rig'i",
+    "toksik-allergik reaksiyalar, dispeptik buzilishlar va kamqonlik",
+    "gipoxrom kamqonlik, leykotsitoz, neytrofilyoz va eozinofiliya"
+   ],
+   "x": "«appenditsit, ichak tutilishi, o'tkir pankreatit va gepatoxolesistit asorat sifatida keltirilgan»"
+  },
+  {
+   "q": "Teniozda asosiy xavf nimadan iborat?",
+   "c": "sistitserkoz rivojlanish ehtimoli",
+   "w": [
+    "o'tkir appenditsit rivojlanish ehtimoli",
+    "ichak tutilishi rivojlanish ehtimoli",
+    "kamqonlik rivojlanish ehtimoli",
+    "o'tkir pankreatit rivojlanish ehtimoli"
+   ],
+   "x": "«Teniozda esa asosiy xavf asorat emas, balki sistitserkoz rivojlanish ehtimolidir»"
+  },
+  {
+   "q": "Makroskopik usulda T. saginatada bachadonning har tomonida nechta shoxcha bo'ladi?",
+   "c": "17 tadan ko'p shoxcha",
+   "w": [
+    "7–13 ta shoxcha",
+    "18 tadan kam shoxcha",
+    "7–10 ta shoxcha",
+    "1500 ta shoxcha"
+   ],
+   "x": "«T. saginatada har tomonda 17 tadan ko'p, T. soliumda 7–13 ta shoxcha bo'ladi»"
+  },
+  {
+   "q": "Skoleks topilganda tur qanday aniqlanadi?",
+   "c": "qoramol solityorida ilmoqlar yo'q, cho'chqa solityorida ikki qator ilmoq bor",
+   "w": [
+    "qoramol solityorida ikki qator ilmoq bor, cho'chqa solityorida ilmoqlar yo'q",
+    "qoramol solityorida bir qator ilmoq bor, cho'chqa solityorida ilmoqlar yo'q",
+    "qoramol va cho'chqa solityorida ikki qator ilmoq bor",
+    "qoramol va cho'chqa solityorida ilmoqlar yo'q"
+   ],
+   "x": "«qoramol solityorida ilmoqlar yo'q, cho'chqa solityorida ikki qator ilmoq bor»"
+  },
+  {
+   "q": "Grexem usulida perianal qirma nima bilan olinadi?",
+   "c": "yopishqoq lenta",
+   "w": [
+    "glitserinli paxta tamponi",
+    "suvli probirka",
+    "70 foizli spirt",
+    "10 foizli formalin"
+   ],
+   "x": "«Grexem usulida yopishqoq lenta, Torgushin usulida glitserinli paxta tamponi, Kevorkov usulida suvli probirka»"
+  },
+  {
+   "q": "Kontrast rentgenologik tekshiruvda qoramol solityori qanday ko'rinishda konturlanishi mumkin?",
+   "c": "ichak bo'ylab 0,7–0,9 sm kenglikdagi yorug' chiziq",
+   "w": [
+    "ichak bo'ylab 7–13 sm kenglikdagi yorug' chiziq",
+    "ichak bo'ylab 0,7–0,9 mm kenglikdagi yorug' chiziq",
+    "jigar bo'ylab 0,7–0,9 sm kenglikdagi yorug' chiziq",
+    "ichak devorida 5×8 mm kenglikdagi yorug' chiziq"
+   ],
+   "x": "«ichak bo'ylab 0,7–0,9 sm kenglikdagi yorug' chiziq ko'rinishida konturlanishi mumkin»"
+  },
+  {
+   "q": "121-son ilovasiga ko'ra davolangan bemorlar qachon nazorat tekshiruviga chaqiriladi?",
+   "c": "2, 4 va 6 oyda",
+   "w": [
+    "1, 3 va 5 oyda",
+    "3, 6 va 12 oyda",
+    "1, 2 va 3 oyda",
+    "4, 6 va 8 oyda"
+   ],
+   "x": "«2, 4 va 6 oyda nazorat tekshiruviga chaqiriladi»"
+  }
+ ],
+ "097": [
+  {
+   "q": "Teniarinxoz va tenioz bilan zararlanish qaysi yo'l orqali yuz beradi?",
+   "c": "oraliq xo'jayin mushaklaridagi tirik finnalarni yutish",
+   "w": [
+    "cho'chqa solityori tuxumlarini qo'llar orqali yutish",
+    "ifloslangan yem va suvdagi onkosferalarni yutish",
+    "go'ng qo'ng'izlari tashigan onkosferalarni yutish",
+    "oraliq xo'jayin najasidagi gelmint tuxumlarini yutish"
+   ],
+   "x": "«Zararlanish oraliq xo'jayin mushaklaridagi tirik finnalarni alimentar yo'l bilan yutish orqali yuz beradi»"
+  },
+  {
+   "q": "Teniarinxozda yuqish omili sifatida qaysi go'sht ko'rsatiladi?",
+   "c": "finnalari (Cysticercus bovis) saqlangan qoramol go'shti",
+   "w": [
+    "finnalari (Cysticercus cellulosae) saqlangan cho'chqa go'shti",
+    "tuxumlar bilan ifloslangan oqova suv",
+    "go'ng qo'ng'izlari tashigan o'tloq pichani",
+    "onkosferalar bilan ifloslangan qoramol yem-xashagi"
+   ],
+   "x": "«Teniarinxozda omil sifatida finnalari (Cysticercus bovis) saqlangan qoramol go'shti ko'rsatiladi»"
+  },
+  {
+   "q": "Qoramol solityori tuxumlari 5 foizli lizolda qancha vaqtda halok bo'ladi?",
+   "c": "ikki sutkada halok bo'ladi",
+   "w": [
+    "5–6 soatda halok bo'ladi",
+    "10–11 soatda halok bo'ladi",
+    "to'rt kunda halok bo'ladi",
+    "ikki haftada halok bo'ladi"
+   ],
+   "x": "«5 foizli lizolda ikki sutkada»"
+  },
+  {
+   "q": "Qoramol tanasida chuqur qatlam harorati qancha bo'lganda muzlatish to'xtatiladi?",
+   "c": "minus 12 daraja bo'lganda",
+   "w": [
+    "minus 10 daraja bo'lganda",
+    "minus 20 daraja bo'lganda",
+    "minus 6 daraja bo'lganda",
+    "minus 2 daraja bo'lganda"
+   ],
+   "x": "«qoramol tanasida chuqur qatlam harorati minus 12 daraja bo'lganda muzlatish to'xtatiladi»"
+  },
+  {
+   "q": "Muzlatib ishlov berilgan go'sht qayerga yuboriladi?",
+   "c": "qiyma yoki kolbasa sanoatiga",
+   "w": [
+    "kabob va chuchvara tayyorlashga",
+    "chorvadorlar va qassoblarga",
+    "oraliq xo'jayinlar yemiga",
+    "somsa va manti tayyorlashga"
+   ],
+   "x": "«ishlov berilgan go'sht esa qiyma yoki kolbasa sanoatiga yuboriladi»"
+  },
+  {
+   "q": "Go'sht yuqish omiliga aylanishining asosiy sharti nima?",
+   "c": "veterinariya nazoratidan o'tmaganligi",
+   "w": [
+    "yetarlicha termik ishlov berilganligi",
+    "xlorli ohak eritmasida saqlanganligi",
+    "chuqur qatlam harorati minus 12 darajaga yetganligi",
+    "qiyma yoki kolbasa sanoatiga yuborilganligi"
+   ],
+   "x": "«Go'sht yuqish omiliga aylanishining asosiy sharti uning veterinariya nazoratidan o'tmaganligidir»"
+  },
+  {
+   "q": "Sistitserkoz qaysi holatda rivojlanadi?",
+   "c": "tuxum odam tomonidan yutilsa",
+   "w": [
+    "odam finnali go'shtni yutsa",
+    "tuxum qoramol tomonidan yutilsa",
+    "tuxum cho'chqa tomonidan yutilsa",
+    "finna cho'chqa tomonidan yutilsa"
+   ],
+   "x": "«Agar tuxum odam tomonidan yutilsa, onkosferadan zarodish chiqib, qon bilan mushaklar, teri osti, ko'z va bosh miyaga o'tadi va sistitserkoz paydo bo'ladi»"
+  },
+  {
+   "q": "Tenioz bilan og'rigan bemorning o'z-o'zini zararlashi qanday ataladi?",
+   "c": "autoinvaziya, ya'ni o'z-o'zini zararlash",
+   "w": [
+    "alimentar yo'l, ya'ni finnali go'shtni yutish",
+    "go'ng qo'ng'izlari, ya'ni mexanik tashuvchilar",
+    "fekal-oral mexanizm, ya'ni najas bilan ifloslanish",
+    "oraliq xo'jayin, ya'ni cho'chqa solityori tuxumi"
+   ],
+   "x": "«tenioz bilan og'rigan bemorning o'z-o'zini zararlashi, ya'ni autoinvaziya ham mumkin»"
+  },
+  {
+   "q": "Onkosferalarni najas ajralgan joydan ko'p metrga qaysi hayvonlar olib ketadi?",
+   "c": "go'ng qo'ng'izlari",
+   "w": [
+    "cho'chqa, it va kalamushlar",
+    "qoramol va cho'chqalar",
+    "qoramol va kalamushlar",
+    "zararlangan cho'chqalar va kalamushlar"
+   ],
+   "x": "«Go'ng qo'ng'izlari onkosferalarni najas ajralgan joydan ko'p metrga olib ketadi»"
+  },
+  {
+   "q": "Qoramol qaysi narsalarni iste'mol qilganda onkosferalar bilan zararlanadi?",
+   "c": "yem-xashak, o'tloq va suv",
+   "w": [
+    "kabob, chuchvara, somsa va manti",
+    "quritilgan va kam tuzlangan go'sht",
+    "xom qiyma va qonli qovurilgan go'sht",
+    "tuxum bilan ifloslangan qo'llar"
+   ],
+   "x": "«Qoramol onkosferalar yoki gelmint bo'g'imlari bilan ifloslangan yem-xashak, o'tloq va suvni iste'mol qilganda zararlanadi»"
+  }
+ ]
+}

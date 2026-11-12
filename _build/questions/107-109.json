@@ -1,0 +1,338 @@
+{
+ "107": [
+  {
+   "q": "Odam Echinococcus granulosus bilan qachon zararlanadi?",
+   "c": "tuxumlarni og'iz orqali yutganda",
+   "w": [
+    "bemor odam bilan muloqot qilganda",
+    "pufakli ichki a'zolarni iste'mol qilganda",
+    "teri oshlaganda ovda",
+    "itlar tishlagan jarohat orqali"
+   ],
+   "x": "«Kistoz exinokokkoz bilan odam Echinococcus granulosus tuxumlarini og'iz orqali yutganda zararlanadi»"
+  },
+  {
+   "q": "Odam epidemik zanjirda qaysi xo'jayin hisoblanadi?",
+   "c": "tasodifiy oraliq xo'jayin",
+   "w": [
+    "asosiy oraliq xo'jayin",
+    "doimiy oraliq xo'jayin",
+    "doimiy asosiy xo'jayin",
+    "itlarga xos asosiy xo'jayin"
+   ],
+   "x": "«odam esa epidemik zanjirda tasodifiy oraliq xo'jayin bo'lib, qo'zg'atuvchining tabiatda aylanishiga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Molxonalarda asosan qaysi yo'l orqali zararlanish mumkin?",
+   "c": "nafas yo'llari va o'pka shilliq qavati orqali",
+   "w": [
+    "oshqozon-ichak shilliq qavati orqali",
+    "ochiq jarohat yuzasi orqali",
+    "itning tumshug'i va panjalari orqali",
+    "ochiq suv havzalari orqali"
+   ],
+   "x": "«asosan molxonalarda nafas yo'llari va o'pka shilliq qavati orqali hamda ochiq jarohat yuzasi orqali»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartalari tahlilida zararlanish manbalari ichida birinchi o'rinda nima turadi?",
+   "c": "itlar, 53,85 %",
+   "w": [
+    "shaxsiy gigiyena qoidalariga amal qilmaslik, 11,55 %",
+    "qoramol, 7,69 %",
+    "ko'katlar, 15,38 %",
+    "mushuklar, 1,92 %"
+   ],
+   "x": "«zararlanish manbai sifatida itlar 53,85 %, shaxsiy gigiyena qoidalariga amal qilmaslik 11,55 %»"
+  },
+  {
+   "q": "Nima sababli bolalar ayniqsa xavfli guruhga kiradi?",
+   "c": "qo'llarini va buyumlarni doim og'ziga soladi",
+   "w": [
+    "kattalar bilan birga mol va qo'y boqadi",
+    "buloq suvidan foydalanishi odat tusiga kirgan",
+    "itlarni ro'yxatdan o'tkazish majburiyati bor",
+    "qonida antitanachalar titri past bo'ladi"
+   ],
+   "x": "«Bolalar qo'llarini va turli buyumlarni doim og'ziga soladi, bu esa ularni ayniqsa xavfli guruhga aylantiradi»"
+  },
+  {
+   "q": "Tog'li hududlarda nima onkosferalarning ko'p yil saqlanishiga imkon beradi?",
+   "c": "mo'tadil harorat va yuqori namlik",
+   "w": [
+    "yuqori harorat va mo'tadil namlik",
+    "yuqori harorat va past namlik",
+    "past harorat va yuqori namlik",
+    "mo'tadil harorat va quruq tuproq"
+   ],
+   "x": "«Tog'li hududlarda mo'tadil harorat va yuqori namlik onkosferalarning ko'p yil saqlanishiga imkon beradi»"
+  },
+  {
+   "q": "Itlar doimiy saqlanadigan hovlilarda tuproq ifloslanishi ko'rsatkichi qancha bo'lgan?",
+   "c": "hovlilarda 50 %",
+   "w": [
+    "hovlilarda 21,9 %",
+    "hovlilarda 32,2 %",
+    "hovlilarda 20 %",
+    "hovlilarda 85 %"
+   ],
+   "x": "«itlar doimiy saqlanadigan hovlilarda bu ko'rsatkich 50 %, begona itlar kirib turadigan hovlilarda 21,9 %»"
+  },
+  {
+   "q": "Itlarning zararlanishining asosiy sababi nima?",
+   "c": "so'yilgan hayvonlarning pufakli ichki a'zolarini berish",
+   "w": [
+    "itlarni muntazam degelmintizatsiya qilish",
+    "yuvilmagan ko'katlarni berish",
+    "tuproqdagi toksokara tuxumlarini yutish",
+    "qo'ychilik xo'jaliklarida qo'riqchi itlar saqlash"
+   ],
+   "x": "«Itlarning zararlanishi uchun so'yilgan hayvonlarning pufakli ichki a'zolarini berish asosiy sabab hisoblanadi»"
+  },
+  {
+   "q": "Kasallik holatlarining taxminan to'rtdan uch qismi qaysi yoshdagilarga to'g'ri keladi?",
+   "c": "20–40 yoshdagilarga",
+   "w": [
+    "7–15 yoshdagilarga",
+    "40–60 yoshdagilarga",
+    "erta bolalikdagilarga",
+    "50 yoshdan kattalarga"
+   ],
+   "x": "«holatlarning taxminan to'rtdan uch qismi 20–40 yoshdagilarga to'g'ri keladi»"
+  },
+  {
+   "q": "Vazirlar Mahkamasi qoidalari it egalariga nimani majburiy qilib belgilagan?",
+   "c": "itni har yili ro'yxatdan o'tkazish va najasni olib tashlash",
+   "w": [
+    "itlarni muntazam degelmintizatsiya qilish va ro'yxatga olish",
+    "itlarni bog'langan holda saqlash va najasni tashlash",
+    "daydi itlarni tutish va yo'q qilish",
+    "so'yish joylariga itlarni kiritmaslik"
+   ],
+   "x": "«it egalariga itni har yili ro'yxatdan o'tkazish, veterinariya pasportini taqdim etish va jamoat joylarida itlar qoldirgan najasni olib tashlashni majburiy qilib belgilagan»"
+  }
+ ],
+ "108": [
+  {
+   "q": "Odamlar, itlar va chorva o'rtasidagi zanjirni uzish uchun qaysi xizmatlarning birgalikdagi ishi talab etiladi?",
+   "c": "tibbiyot, veterinariya va kommunal xizmatlar",
+   "w": [
+    "tibbiyot, obodonlashtirish va transport xizmatlari",
+    "veterinariya, kommunal va ommaviy axborot xizmatlari",
+    "tibbiyot, ta'lim va veterinariya xizmatlari",
+    "sanitariya-epidemiologiya va obodonlashtirish xizmatlari"
+   ],
+   "x": "«odamlar, itlar va chorva o'rtasidagi zanjirni uzish uchun tibbiyot, veterinariya va kommunal xizmatlarning birgalikdagi ishi talab etiladi»"
+  },
+  {
+   "q": "Itlar orasida qaysi choralar olib boriladi?",
+   "c": "ro'yxatga olish va muntazam degelmintizatsiya",
+   "w": [
+    "so'yishni nazorat qilish va pufakli a'zolarni yo'q qilish",
+    "erta aniqlash hamda davolash",
+    "aholini o'qitish va ommaviy ko'rik",
+    "emlash va ultratovush skriningi"
+   ],
+   "x": "«itlar orasida ro'yxatga olish va muntazam degelmintizatsiya, chorva orasida so'yishni nazorat qilish va pufakli a'zolarni yo'q qilish»"
+  },
+  {
+   "q": "E. granulosusning itlardagi prepatent davri qancha?",
+   "c": "taxminan 6–7 hafta",
+   "w": [
+    "taxminan 5 kun",
+    "taxminan 6–7 oy",
+    "taxminan 12 oy",
+    "har 6 haftada"
+   ],
+   "x": "«E. granulosusning itlardagi prepatent davri taxminan 6–7 hafta bo'lgani uchun»"
+  },
+  {
+   "q": "Yuqishni to'liq to'xtatish kerak bo'lgan dasturlarda itlar qancha vaqtda degelmintizatsiya qilinadi?",
+   "c": "har 6 haftada",
+   "w": [
+    "har yili",
+    "har 5 haftada",
+    "har 7 haftada",
+    "har 12 haftada"
+   ],
+   "x": "«itlarni har 6 haftada degelmintizatsiya qilish tavsiya etiladi»"
+  },
+  {
+   "q": "Qarovsiz hayvonlarni tutish bo'limlarida tutilgan itlar necha kun saqlanadi?",
+   "c": "5 kun saqlanadi",
+   "w": [
+    "6 kun saqlanadi",
+    "7 kun saqlanadi",
+    "5 hafta saqlanadi",
+    "6 oy saqlanadi"
+   ],
+   "x": "«tutilgan itlar esa 5 kun saqlanadi»"
+  },
+  {
+   "q": "Ayrim mamlakatlarda qo'ylar qaysi antigen bilan emlanadi?",
+   "c": "EG95 rekombinant antigeni",
+   "w": [
+    "E. granulosusning koproantigeni",
+    "IFT antigeni",
+    "onkosfera antigeni",
+    "pufakli a'zolar antigeni"
+   ],
+   "x": "«qo'ylarni E. granulosusning EG95 rekombinant antigeni bilan emlash qo'llanadi»"
+  },
+  {
+   "q": "Islandiyada exinokokkoz qaysi yilga kelib butunlay bartaraf etilgan?",
+   "c": "1953-yilga kelib",
+   "w": [
+    "1918-yilga kelib",
+    "2011-yilga kelib",
+    "1953-yildan oldin",
+    "1918-yildan keyin"
+   ],
+   "x": "«itlar va chorvaga qaratilgan choralar natijasida 1953-yilga kelib kasallik butunlay bartaraf etilgan»"
+  },
+  {
+   "q": "Holat aniqlangach qaysi shakl bo'yicha shoshilinch xabarnoma yuboriladi?",
+   "c": "058/u shakli",
+   "w": [
+    "357/u shakli",
+    "060/u shakli",
+    "121-son shakli",
+    "202-son shakli"
+   ],
+   "x": "«tibbiyot xodimlari holatni aniqlagach 058/u shakli bo'yicha shoshilinch xabarnoma yuboriladi»"
+  },
+  {
+   "q": "Rejalashtirishda itlarda onkosfera ajralishi qachon to'xtashi va qachon avj olishi hisobga olinadi?",
+   "c": "qish oylarida to'xtashi, bahorda avj olishi",
+   "w": [
+    "qish oylarida avj olishi, bahorda to'xtashi",
+    "qish oylarida va bahorda avj olishi",
+    "qish oylarida va bahorda to'xtashi",
+    "bahorda to'xtashi, qish oylarida kamayishi"
+   ],
+   "x": "«qish oylarida itlarda onkosfera ajralishi to'xtashi, bahorda esa avj olishi hisobga olinadi»"
+  },
+  {
+   "q": "Kurash natijalari qaysi ko'rsatkichlar bo'yicha baholanadi?",
+   "c": "itlar va chorvadagi zararlanganlik hamda bolalar orasida yangi holatlar soni",
+   "w": [
+    "kasallanish, kasb, bemorlarning yoshi va jinsi, qo'zg'atuvchi biologiyasi",
+    "tutilgan itlar, o'lgan hayvonlar va daydi egasiz itlar soni",
+    "ultratovush skriningi va tutilgan itlar soni",
+    "qo'ylar emlanishi va ko'chma uskunalar soni"
+   ],
+   "x": "«Kurash natijalari itlar orasida zararlanganlik (koproantigen va PZR testlari), chorvadagi zararlanganlik va bolalar orasida yangi holatlar soni bo'yicha baholanadi»"
+  }
+ ],
+ "109": [
+  {
+   "q": "Passiv aniqlashda qaysi belgilar bilan murojaat qilganlar exinokokkozga tekshiriladi?",
+   "c": "o'ng qovurg'a ostida og'riq, uzoq davom etuvchi yo'tal va eozinofiliya",
+   "w": [
+    "bilirubin, umumiy oqsil, timol sinamasi va transaminazalar o'zgarishi",
+    "jigar va o'pkada nofaol pufaklar",
+    "serologik reaksiya 5 yil davomida manfiy bo'lishi",
+    "mehnatga layoqat cheklanishi va nogironlik"
+   ],
+   "x": "«o'ng qovurg'a ostida og'riq, uzoq davom etuvchi yo'tal va eozinofiliya bilan murojaat qilgan shaxslar exinokokkozga tekshiriladi»"
+  },
+  {
+   "q": "Tashxis uchun qaysi serologik reaksiyalarga tayaniladi?",
+   "c": "IFT va BGAR",
+   "w": [
+    "UTT va MRT",
+    "KT va rentgenologik tekshiruv",
+    "biopsiya va autopsiya",
+    "UTT va autopsiya"
+   ],
+   "x": "«hamda IFT va BGAR serologik reaksiyalariga tayanishi»"
+  },
+  {
+   "q": "Samarqand viloyatida ultratovush skriningi 2057 kishining nechtasida qorin bo'shlig'ida exinokokk kistalarini aniqladi?",
+   "c": "12 tasida (0,58 %)",
+   "w": [
+    "23 tasida (1,12 %)",
+    "9 tasida (0,44 %)",
+    "11 tasida (0,53 %)",
+    "35 tasida (1,70 %)"
+   ],
+   "x": "«2057 kishining 12 tasida (0,58 %) qorin bo'shlig'ida exinokokk kistalarini»"
+  },
+  {
+   "q": "Exinokokkoz holati aniqlansa, markazga qaysi shakl bo'yicha shoshilinch xabarnoma yuboriladi?",
+   "c": "058/u shakli",
+   "w": [
+    "060/u shakli",
+    "030/u shakli",
+    "357/u shakli",
+    "003/u shakli"
+   ],
+   "x": "«hududiy sanitariya-epidemiologiya nazorati markaziga 058/u shakli bo'yicha shoshilinch xabarnoma yuboriladi»"
+  },
+  {
+   "q": "Exinokokkozda davolash usuli nimaga qarab tanlanadi?",
+   "c": "pufakning bosqichi va joylashuviga",
+   "w": [
+    "bemorning yoshi va mehnat stajiga",
+    "serologik reaksiya titriga va kasbiga",
+    "oiladagi itlar soniga va saqlanish shartiga",
+    "mehnatga layoqat guruhi va jinsiga"
+   ],
+   "x": "«Davolash usuli pufakning bosqichi va joylashuviga qarab tanlanadi»"
+  },
+  {
+   "q": "Albendazol kattalarga qanday rejimda beriladi?",
+   "c": "400 mg dan kuniga ikki mahal, 28 kunlik 3–4 kurs",
+   "w": [
+    "200 mg dan kuniga bir mahal, 28 kunlik 3–4 kurs",
+    "400 mg dan kuniga ikki mahal, 14 kunlik 3–4 kurs",
+    "400 mg dan kuniga ikki mahal, 28 kunlik bitta kurs",
+    "800 mg dan kuniga ikki mahal, 14 kunlik 28 kurs"
+   ],
+   "x": "«Albendazol kattalarga 400 mg dan kuniga ikki mahal, 28 kunlik 3–4 kurs, kurslar orasida 14 kunlik tanaffus bilan beriladi»"
+  },
+  {
+   "q": "Klinik belgilar bo'lmasa, serologik reaksiya qancha vaqt manfiy bo'lsa bemor hisobdan chiqariladi?",
+   "c": "5 yil davomida",
+   "w": [
+    "2 yil davomida",
+    "1 oy davomida",
+    "4–6 oy davomida",
+    "umr bo'yi"
+   ],
+   "x": "«Klinik belgilar bo'lmasa va serologik reaksiya 5 yil davomida manfiy bo'lsa, bemor hisobdan chiqariladi»"
+  },
+  {
+   "q": "Alveokokkoz bilan kasallanganlar dispanser hisobida qancha turadi?",
+   "c": "umr bo'yi",
+   "w": [
+    "5 yil davomida",
+    "2 yil davomida",
+    "bir oy davomida",
+    "12 oy davomida"
+   ],
+   "x": "«Alveokokkoz bilan kasallanganlar umr bo'yi dispanser hisobida turadi»"
+  },
+  {
+   "q": "Yakka exinokokk kistalari olib tashlangandan keyin faol mehnatga layoqat qachon tiklanadi?",
+   "c": "2–4 oydan so'ng",
+   "w": [
+    "4–6 oydan so'ng",
+    "bir oydan so'ng",
+    "5 oydan so'ng",
+    "12 oydan so'ng"
+   ],
+   "x": "«Yakka exinokokk kistalari olib tashlangandan keyin faol mehnatga layoqat 2–4 oydan so'ng tiklanadi»"
+  },
+  {
+   "q": "Oilaviy exinokokkoz kuzatuvida yaqin qarindoshlardan iborat guruhda 11 bemordan nechtasida birgalikdagi zararlanish aniqlangan?",
+   "c": "9 tasida birgalikdagi zararlanish",
+   "w": [
+    "2 tasida birgalikdagi zararlanish",
+    "12 tasida birgalikdagi zararlanish",
+    "23 tasida birgalikdagi zararlanish",
+    "5 tasida birgalikdagi zararlanish"
+   ],
+   "x": "«yaqin qarindoshlardan iborat guruhda 11 bemordan 9 tasida birgalikdagi va ko'p sonli zararlanish aniqlangan»"
+  }
+ ]
+}

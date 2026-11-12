@@ -1,0 +1,338 @@
+{
+ "059": [
+  {
+   "q": "Zoonoz teri leyshmaniozida odamlar asosan qachon kasallanadi?",
+   "c": "iyul oxiridan sentabr o'rtasigacha",
+   "w": [
+    "aprel–oktyabr oylarida bir tekis",
+    "avgust–sentabr oylaridan keyin",
+    "aprel–oktyabr oylarida",
+    "iyul oxiridan oldin"
+   ],
+   "x": "«odamlar asosan iyul oxiridan sentabr o'rtasigacha kasallanadi»"
+  },
+  {
+   "q": "Do'mboqcha dastlab qanday o'lchamda bo'ladi va ikkinchi kuni qanchagacha kattalashadi?",
+   "c": "dastlab 2–4 millimetr, ikkinchi kuni 8–10, ba'zan 15 millimetrgacha",
+   "w": [
+    "dastlab 8–10 millimetr, ikkinchi kuni 2–4 millimetrgacha kichrayadi",
+    "dastlab 15 millimetr, ikkinchi kuni 30 millimetrgacha",
+    "dastlab 2–4 santimetr, ikkinchi kuni 8–10 santimetrgacha",
+    "dastlab 1 millimetr, ikkinchi kuni o'zgarmaydi"
+   ],
+   "x": "«Do'mboqcha dastlab 2–4 millimetr bo'ladi, ikkinchi kuni 8–10, ba'zan 15 millimetrgacha kattalashadi»"
+  },
+  {
+   "q": "Do'mboqcha bosqichida element nimaga o'xshab ketadi?",
+   "c": "furunkulga",
+   "w": [
+    "keloid chandiqqa",
+    "Kaposhi sarkomasiga",
+    "kontrakturaga",
+    "limfadenitga"
+   ],
+   "x": "«Bu bosqichda element furunkulga o'xshab ketadi»"
+  },
+  {
+   "q": "Do'mboqchaning markazida nekroz qachon paydo bo'ladi?",
+   "c": "bir-ikki haftadan keyin",
+   "w": [
+    "bir-ikki kundan keyin",
+    "2–3 oydan keyin",
+    "5–6 oydan keyin",
+    "bir necha oydan keyin"
+   ],
+   "x": "«Bir-ikki haftadan keyin do'mboqchaning markazida nekroz paydo bo'ladi va tik qirrali yara hosil bo'ladi»"
+  },
+  {
+   "q": "Nima uchun kasallik tarixan o'tkir nekrotik teri leyshmaniozi yoki nam shakl deb ataladi?",
+   "c": "markaziy qismi juda jadal parchalanib, yara chetlari bo'ylab kengayadi",
+   "w": [
+    "markaziy qismi sekin parchalanib, bir yildan ortiq rivojlanadi",
+    "seroz-yiringli ajralmasi bo'lmagan quruq yara hosil bo'ladi",
+    "chetlari kengaymaydi, atrofida infiltrat bo'lmaydi",
+    "og'rimaydigan va chandiq qoldirmaydigan yara bo'ladi"
+   ],
+   "x": "«Markaziy qismining parchalanishi juda tez kechadi, yara chetlari bo'ylab kengayadi va ba'zan bolaning kafti kattaligiga yetadi»"
+  },
+  {
+   "q": "Yara hosil bo'lgandan qancha vaqt o'tgach chandiq shakllana boshlaydi?",
+   "c": "2–3 oy o'tgach",
+   "w": [
+    "1–2 hafta o'tgach",
+    "8–10 kun o'tgach",
+    "5–6 yil o'tgach",
+    "10–20 kun o'tgach"
+   ],
+   "x": "«Yara hosil bo'lgandan 2–3 oy o'tgach u asta-sekin nekrotik-yiringli karashdan tozalanib, chandiq shakllana boshlaydi»"
+  },
+  {
+   "q": "Terida umrbod qanday o'zgarishlar saqlanishi mumkin?",
+   "c": "tamg'alangan chandiq, keloid chandiq va kontraktura",
+   "w": [
+    "diffuz teri leyshmaniozi va Kaposhi sarkomasi",
+    "limfangit, limfadenit va infiltrat",
+    "do'mboqcha, furunkul va nekroz",
+    "seroz-yiringli ajralma va karash"
+   ],
+   "x": "«keloid chandiq va kontraktura kabi o'zgarishlar umrbod saqlanishi mumkin»"
+  },
+  {
+   "q": "Kasallikning og'irlik darajasi nimalarga qarab baholanadi?",
+   "c": "yaralarning joylashuvi, kattaligi va soniga",
+   "w": [
+    "inkubatsion davr va iskaptopar turiga",
+    "inkubatsion davr uzunligi va yil fasliga",
+    "chandiqning joylashuvi va xususiyatiga",
+    "immunitet mavjudligi va emlashga"
+   ],
+   "x": "«Og'irlik darajasi yaralarning joylashuvi, kattaligi va soni, ikkilamchi patogen mikrofloraning qo'shilishi hamda spetsifik jarayonga mintaqaviy limfa tomirlari va tugunlarining jalb etilishi bilan baholanadi»"
+  },
+  {
+   "q": "Mahalliy davolashda qaysi vositalar bilan namli-quruq bog'lam qo'llanadi?",
+   "c": "yarqiroq ko'k eritmasi, vodorod peroksidi, furatsilin va rivanol",
+   "w": [
+    "yarqiroq ko'k eritmasi va keloid chandiqqa qarshi vosita",
+    "vodorod peroksidi va leyshmanizatsiya vositasi",
+    "furatsilin va OIV infeksiyasiga qarshi vosita",
+    "rivanol va Kaposhi sarkomasiga qarshi vosita"
+   ],
+   "x": "«Mahalliy davolashda 3 foizli yarqiroq ko'k spirtli eritmasi, vodorod peroksidi, furatsilin va rivanol bilan namli-quruq bog'lam qo'llanadi»"
+  },
+  {
+   "q": "OIV infeksiyasining birinchi ko'rinishi sifatida tasvirlangan bemorga dastlab qanday tashxis qo'yilgan?",
+   "c": "qo'tir va Kaposhi sarkomasi",
+   "w": [
+    "furunkul va limfadenit",
+    "keloid chandiq va kontraktura",
+    "limfangit va infiltrat",
+    "nekroz va furunkul"
+   ],
+   "x": "«bemorga dastlab qo'tir va Kaposhi sarkomasi tashxisi qo'yilgan edi»"
+  }
+ ],
+ "060": [
+  {
+   "q": "Visseral leyshmanioz tashxisi nimalarni birlashtiradi?",
+   "c": "klinik-epidemiologik ma'lumotlar, parazitologik tasdiq, serologik va molekulyar usullar",
+   "w": [
+    "klinik ma'lumotlar, jigar ultratovush tekshiruvi va gematolog maslahati",
+    "epidemiologik ma'lumotlar, birlamchi affekt qirindisi va teri sinamasi",
+    "biokimyoviy tahlil, umumiy qon tahlili va immunoglobulinlar tekshiruvi",
+    "rK39 ekspress-test, IFA test-tizimi va bemorning shikoyatlari"
+   ],
+   "x": "«Visseral leyshmanioz tashxisi klinik va epidemiologik ma'lumotlarni, parazitologik tasdiqni va serologik hamda molekulyar usullarni birlashtiradi»"
+  },
+  {
+   "q": "JSST ta'rifiga ko'ra visseral leyshmaniozning asosiy simptomlari qaysilar?",
+   "c": "nomunazam isitma, splenomegaliya va ozish",
+   "w": [
+    "limfadenopatiya, leykopeniya va trombotsitopeniya",
+    "kamqonlik, isitma va limfa tugunlari kattalashishi",
+    "pansitopeniya, jigar va taloq kattalashishi",
+    "holsizlik, kamqonlik va limfadenopatiya"
+   ],
+   "x": "«uzoq muddat nomunazam isitma, splenomegaliya va vazn yo'qotishi asosiy simptomlar»"
+  },
+  {
+   "q": "O'zbekistonda qaysi hollarda 14 yoshgacha bolalarda suyak ko'migi punksiyasi majburiy?",
+   "c": "jigar va taloq kattalashib, kamqonlik va isitma bo'lsa",
+   "w": [
+    "bezgakka qarshi dorilar isitmaga yordam bersa",
+    "isitma 2 haftadan kam davom etsa",
+    "faqat limfa tugunlari kattalashsa",
+    "vazn yo'qotish va gripp bo'lsa"
+   ],
+   "x": "«O'zbekistonda 14 yoshgacha bolalarda jigar va taloq kattalashgan, kamqonlik va sababi noma'lum isitma bo'lsa, suyak ko'migi punksiyasi majburiy tekshiruvdir»"
+  },
+  {
+   "q": "Amaliyotda kam jarohat yetkazadigan usul sifatida qaysi punksiya qo'llanadi?",
+   "c": "to'sh yoki yonbosh suyagi punksiyasi",
+   "w": [
+    "jigar to'qimasi punksiyasi",
+    "taloq to'qimasi punksiyasi",
+    "limfa tuguni punksiyasi",
+    "birlamchi affektdan qirindi olish"
+   ],
+   "x": "«Amaliyotda kam jarohat yetkazadigan va ishlov berishga qulay usul sifatida to'sh suyagi (sternal) yoki yonbosh suyagi punksiyasi qo'llanadi»"
+  },
+  {
+   "q": "Birlamchi namoyon bo'lgan davrda rK39 testi musbat bo'lsa, nima qilinadi?",
+   "c": "parazitologik usulni qo'llashga hojat qolmaydi",
+   "w": [
+    "PZR o'tkazilishi shart",
+    "bemor dispanser kuzatuviga olinmaydi",
+    "tashxis inkor qilinadi",
+    "suyak ko'migi punksiyasi takrorlanadi"
+   ],
+   "x": "«Birlamchi namoyon bo'lgan davrda rK39 testi musbat bo'lsa, parazitologik usulni qo'llashga hojat qolmaydi»"
+  },
+  {
+   "q": "Qaytalanish (retsidiv) gumon qilinganda nima uchun yagona ishonchli usul parazitologik tekshiruv hisoblanadi?",
+   "c": "serologik natija davolashdan keyin ham uzoq musbat qoladi",
+   "w": [
+    "serologik testlar visseral shaklda ishlamaydi",
+    "PZR qaytalanishda doim manfiy bo'ladi",
+    "rK39 testi faqat bolalarda musbat bo'ladi",
+    "IFA test-tizimi sezgir va maxsus emas"
+   ],
+   "x": "«serologik tekshiruv natijasi kasallikning boshlang'ich davridan boshlab uzoq vaqt musbat qoladi, shuning uchun qaytalanish (retsidiv) gumon qilinganda yagona ishonchli usul parazitologik tekshiruvdir»"
+  },
+  {
+   "q": "Ekspress-usullarning musbat natijasi qanday tasdiqlanadi?",
+   "c": "mikroskopik tekshiruvda, keyin PZRda",
+   "w": [
+    "qayta rK39 ekspress-testida",
+    "IFA test-tizimida, keyin ELISA",
+    "umumiy qon tahlilida, keyin rK39",
+    "biokimyoviy tahlilda, keyin IFA"
+   ],
+   "x": "«ekspress-usullarning musbat natijasi mikroskopik tekshiruv bilan tasdiqlanishi, natijalar mos kelmasa PZR o'tkazilishi kerak»"
+  },
+  {
+   "q": "OITS yoki immunitet tanqisligi holatida serologik manfiy natija nimani anglatadi?",
+   "c": "kasallikni inkor qilmaydi",
+   "w": [
+    "kasallikni tasdiqlaydi",
+    "antitelalar bo'lmasligini tasdiqlaydi",
+    "qaytalanishni tasdiqlaydi",
+    "davolash samarasini ko'rsatadi"
+   ],
+   "x": "«OITS yoki boshqa immunitet tanqisligi holatida antitelalar bo'lmasligi mumkin, shuning uchun serologik manfiy natija kasallikni inkor qilmaydi»"
+  },
+  {
+   "q": "Kasallikning erta davrida visseral leyshmanioz qaysi kasalliklar bilan qiyoslanadi?",
+   "c": "gripp, bronxit, pnevmoniya, bezgak va brutsellyoz",
+   "w": [
+    "sepsis, sil, limfoma va leykemiya",
+    "qon kasalliklari, taloq abssessi va OIV/OITS",
+    "limfoma, leykemiya va kamqonlik",
+    "sil, sepsis va taloq abssessi"
+   ],
+   "x": "«Yo'riqnomada kasallikning erta davrida grippga, bronxitga, pnevmoniyaga, bezgakka, qorin tifiga va brutsellyozga qarshi qiyosiy tashxis o'tkazilishi ko'rsatilgan»"
+  },
+  {
+   "q": "Laboratoriya tasdig'idan keyin aniq davolash qancha vaqt ichida boshlanadi?",
+   "c": "24 soat ichida",
+   "w": [
+    "12 soat ichida",
+    "2 hafta ichida",
+    "48 soat ichida",
+    "bir oy ichida"
+   ],
+   "x": "«aniq davolash 24 soat ichida boshlanadi»"
+  }
+ ],
+ "061": [
+  {
+   "q": "Milliy davolash bayonnomasi etiotrop davo uchun qaysi uchta asosiy guruh preparatini belgilaydi?",
+   "c": "besh valentli surma, miltefosin va liposomal amfoterisin B",
+   "w": [
+    "sefalosporinlar, penitsillinlar va vitaminlar",
+    "pentamidin, paromomitsin va surma birikmalari",
+    "glyukantim, pentostam va solyusurmin",
+    "neostibozan, solyusurmin va vitaminlar"
+   ],
+   "x": "«Milliy davolash bayonnomasi etiotrop davo uchun uchta asosiy guruh preparatini belgilaydi: besh valentli surma birikmalari, miltefosin va amfoterisin B ning liposomal shakli»"
+  },
+  {
+   "q": "Meglumin antimonat yoki natriy stiboglyukonat qanday dozada va qancha muddat yuboriladi?",
+   "c": "28–30 kun davomida kuniga 1 kg vaznga 20 mg, tomirga tomchilab",
+   "w": [
+    "14 kun davomida kuniga 1 kg vaznga 3–4 mg, tomirga",
+    "28 kun davomida kuniga 50 mg, tabletka shaklida",
+    "7 kun davomida kuniga 1 kg vaznga 20 mg, og'iz orqali",
+    "3 kun davomida kuniga 1 kg vaznga 15–24 mg, tomirga"
+   ],
+   "x": "«Davolash bayonnomasida ular 28–30 kun davomida kuniga 1 kg tana vazniga 20 mg miqdorda tomirga tomchilab yuboriladi»"
+  },
+  {
+   "q": "Miltefosin qanday shaklda beriladi va kurs qancha davom etadi?",
+   "c": "tabletka shaklida, kurs 28 kun",
+   "w": [
+    "tomirga tomchilab, kurs 28–30 kun",
+    "tomirga tomchilab, kurs 15–24 kun",
+    "tabletka shaklida, kurs 14 kun",
+    "tomchilab yuboriladi, kurs 3 kun"
+   ],
+   "x": "«Miltefosin tabletka shaklida beriladi»"
+  },
+  {
+   "q": "12 yoshdan katta, vazni 25–50 kg bo'lgan bemorga miltefosin kuniga qancha beriladi?",
+   "c": "kuniga 100 mg",
+   "w": [
+    "kuniga 50 mg",
+    "kuniga 150 mg",
+    "kuniga 20 mg",
+    "kuniga 25 mg"
+   ],
+   "x": "«12 yoshdan kattalarda vazni 25 kg gacha bo'lsa 50 mg, 25–50 kg bo'lsa 100 mg, 50 kg dan og'ir bo'lsa 150 mg»"
+  },
+  {
+   "q": "Miltefosin homiladorlikda qanday hisoblanadi?",
+   "c": "homiladorlikda qarshi ko'rsatma hisoblanadi",
+   "w": [
+    "homiladorlikda tavsiya etiladi",
+    "homiladorlikda vazn bo'yicha beriladi",
+    "homiladorlikda tomirga tomchilab yuboriladi",
+    "homiladorlikda surma bilan birga beriladi"
+   ],
+   "x": "«preparat homiladorlikda qarshi ko'rsatilgani»"
+  },
+  {
+   "q": "Liposomal amfoterisin B (ambisom) qanday dozada yuboriladi?",
+   "c": "kuniga 3–4 mg/kg, kurs dozasi 15–24 mg/kg",
+   "w": [
+    "kuniga 1 kg vaznga 20 mg, 28–30 kun",
+    "kuniga 100 mg tabletka, 28 kun",
+    "kuniga 1 kg vaznga 50 mg, 7 kun",
+    "kuniga 1 kg vaznga 0,25 mg, 14 kun"
+   ],
+   "x": "«Liposomal amfoterisin B (ambisom) kuniga 1 kg vazn hisobiga 3–4 mg miqdorda tomirga tomchilab yuboriladi, butun kurs dozasi 15–24 mg/kg»"
+  },
+  {
+   "q": "Surma birikmalariga chidamlilik ayniqsa qayerda muammo bo'lib bormoqda?",
+   "c": "Hindistonda",
+   "w": [
+    "O'zbekistonda",
+    "respublikada",
+    "AQSh oziq-ovqat idorasida",
+    "standartlarda"
+   ],
+   "x": "«surma birikmalariga chidamlilik esa ayniqsa Hindistonda tobora muammo bo'lib bormoqda»"
+  },
+  {
+   "q": "Patogenetik va simptomatik davoga nimalar kiradi?",
+   "c": "antibakterial davo, plazma quyish va vitaminlar",
+   "w": [
+    "besh valentli surma preparatlari va splenektomiya",
+    "miltefosin va liposomal amfoterisin B kursi",
+    "meglumin antimonat va natriy stiboglyukonat kursi",
+    "pentamidin, paromomitsin va glyukantim kursi"
+   ],
+   "x": "«sefalosporinlar yoki penitsillinlar qatoridagi antibakterial terapiya, plazma, eritrotsitar massa yoki qon almashtiruvchi vositalarni quyish, B va C guruhi vitaminlari, temirga boy vositalar»"
+  },
+  {
+   "q": "Davolash kursidan keyin qancha bemorlarda qaytalanish bo'lishi mumkin?",
+   "c": "5 foiz bemorlarda, OIV bilan kasallanganlarda 50 foizgacha",
+   "w": [
+    "50 foiz bemorlarda, OIV bilan kasallanganlarda 5 foizgacha",
+    "99 foiz bemorlarda",
+    "1 foiz bemorlarda, OIV bilan kasallanganlarda 12 foizgacha",
+    "98–99 foiz bemorlarda"
+   ],
+   "x": "«Yo'riqnomada davolash kursidan keyin 5 foiz bemorlarda qaytalanish bo'lishi, OIV bilan kasallanganlarda esa 12 oy davomida 50 foizgacha yetishi mumkinligi ko'rsatilgan»"
+  },
+  {
+   "q": "JSST ko'rsatmalariga amal qilib davolanganda necha foiz hollarda umrbod immunitet hosil bo'ladi?",
+   "c": "99 foiz hollarda",
+   "w": [
+    "50 foiz hollarda",
+    "5 foiz hollarda",
+    "12 foiz hollarda",
+    "20 foiz hollarda"
+   ],
+   "x": "«Standartda JSST ko'rsatmalariga amal qilib davolanganda 99 foiz hollarda umrbod immunitet hosil bo'lishi aytilgan»"
+  }
+ ]
+}
