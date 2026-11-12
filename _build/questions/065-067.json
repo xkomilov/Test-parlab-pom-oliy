@@ -1,0 +1,338 @@
+{
+ "065": [
+  {
+   "q": "Kanali qaytalama terlamaning tashuvchisi qaysi oila va turkumga mansub kanalar?",
+   "c": "Argasidae oilasining Ornithodoros turkumi",
+   "w": [
+    "Borrelia avlodining Ornithodoros turkumi",
+    "Argasidae oilasining Borrelia turkumi",
+    "Ornithodoros oilasining Argasidae turkumi",
+    "Alectorobius oilasining tholozani turkumi"
+   ],
+   "x": "«tashuvchisi esa Argasidae oilasining Ornithodoros turkumiga mansub kanalardir»"
+  },
+  {
+   "q": "Farg'ona ma'ruzasida Borrelia avlodiga mansub spiroxetalarning nechta turi ma'lum ekani aytilgan?",
+   "c": "20 dan ortiq turi",
+   "w": [
+    "5 dan ortiq turi",
+    "10 dan ortiq turi",
+    "3 dan ortiq turi",
+    "12 dan ortiq turi"
+   ],
+   "x": "«bunday spiroxetalarning 20 dan ortiq turi ma'lum ekani»"
+  },
+  {
+   "q": "121-son hujjatga ko'ra mahalliy Ornithodoros papillipes kanalari O'zbekistonda qaysi spiroxetalarni yuqtiradi?",
+   "c": "Sogdiana spiroxetalari",
+   "w": [
+    "Latishev–Sofiyev spiroxetalari",
+    "B. recurrentis spiroxetalari",
+    "B. armenica spiroxetalari",
+    "Borrelia caucasica spiroxetalari"
+   ],
+   "x": "«mahalliy Ornithodoros papillipes kanalari yuqtiradigan Sogdiana spiroxetalari»"
+  },
+  {
+   "q": "Mahalliy hujjatda borreliyalar nechta katta buramadan iborat ekani yozilgan?",
+   "c": "4–12 ta katta burama",
+   "w": [
+    "12 tadan ortiq burama",
+    "2–3 ta katta burama",
+    "20–30 ta kichik burama",
+    "0,2–0,5 ta burama"
+   ],
+   "x": "«4–12 ta katta buramadan iborat ekani»"
+  },
+  {
+   "q": "Borreliyalarni topish uchun preparat immersion moyda qancha ko'riladi?",
+   "c": "kamida 100–200 ko'rish maydonida, 5–10 daqiqa davomida",
+   "w": [
+    "kamida 18–20 ko'rish maydonida, 1–2 daqiqa davomida",
+    "kamida 3–6 ko'rish maydonida, 30–40 daqiqa davomida",
+    "kamida 1–2 ko'rish maydonida, 5–10 daqiqa davomida",
+    "kamida 10–30 ko'rish maydonida, 0,2–0,5 daqiqa davomida"
+   ],
+   "x": "«kamida 100–200 ko'rish maydonida, 5–10 daqiqa davomida sinchiklab ko'riladi»"
+  },
+  {
+   "q": "Farg'ona ma'ruzasiga ko'ra qalin tomchi tekshirilganda bemorlarning qanchasida spiroxeta topiladi?",
+   "c": "bemorlarning atigi 18–20 foizida",
+   "w": [
+    "bemorlarning atigi 5–7 foizida",
+    "bemorlarning atigi 50 foizida",
+    "bemorlarning atigi 98–99 foizida",
+    "bemorlarning atigi 36,4 foizida"
+   ],
+   "x": "«qalin tomchi tekshirilganda ham bemorlarning atigi 18–20 foizida spiroxeta topiladi»"
+  },
+  {
+   "q": "Borreliyalar o'zining qaysi yuza oqsillarini almashtirib turadi?",
+   "c": "o'zgaruvchan katta va kichik lipoproteinlar",
+   "w": [
+    "eritrotsitlar va endotoksin oqsillari",
+    "so'lak va koksal bezlari oqsillari",
+    "retikuloendotelial tizim a'zolari oqsillari",
+    "markaziy asab tizimi oqsillari"
+   ],
+   "x": "«Borreliyalar yuza oqsillarini, ya'ni o'zgaruvchan katta va kichik lipoproteinlarni almashtirib turadi»"
+  },
+  {
+   "q": "Kanalar spiroxetani keyingi avlodlarga qanday beradi?",
+   "c": "tuxum orqali",
+   "w": [
+    "bit orqali",
+    "so'lak orqali jarohatga",
+    "qonga to'yingan boshqa kana orqali",
+    "kasal hayvonlar orqali"
+   ],
+   "x": "«spiroxetani tuxum orqali keyingi avlodlarga beradi»"
+  },
+  {
+   "q": "Qo'rg'on kanasi o'choqlarida yangi kelganlar kasallikka qanday chalinadi?",
+   "c": "og'irroq chalinadi",
+   "w": [
+    "kasalxona ichi zararlanishidan chalinadi",
+    "kamdan-kam chalinadi",
+    "bolalikdan chalinadi",
+    "nisbiy immunitet bilan chalinadi"
+   ],
+   "x": "«yangi kelganlar esa kasallikka og'irroq chalinadi»"
+  },
+  {
+   "q": "Davolash bayonnomasida qaytalanishlar soni qanchadan oshishi mumkinligi aytilgan?",
+   "c": "4–12 martadan oshishi mumkin",
+   "w": [
+    "5–10 martadan oshishi mumkin",
+    "18–20 martadan oshishi mumkin",
+    "1–3 martadan oshishi mumkin",
+    "6–8 martadan oshishi mumkin"
+   ],
+   "x": "«qaytalanishlar soni 4–12 martadan oshishi»"
+  }
+ ],
+ "066": [
+  {
+   "q": "O'zbekistonda kanali qaytalama terlamaning asosiy tashuvchisi qaysi kana?",
+   "c": "mahalliy Ornithodoros papillipes kanasi",
+   "w": [
+    "uya kanasi Ornithodoros tartakovskyi",
+    "g'or kanasi Ornithodoros cholodkovskyi",
+    "mushuk kanasi O. lahorensis",
+    "qushlarni zararlovchi Argas persicus"
+   ],
+   "x": "«Respublikada asosiy tashuvchi mahalliy Ornithodoros papillipes kanasi bo'lib»"
+  },
+  {
+   "q": "Kasallik manbai kimlar hisoblanadi?",
+   "c": "kasallangan umurtqali hayvonlar va kanalarning o'zi",
+   "w": [
+    "yer qazuvchilar, geologlar, dehqonlar va cho'ponlar",
+    "faqat odam va uy kemiruvchilari",
+    "kasalxona ichi zararlangan bemorlar",
+    "tartibsiz tashlangan chiqindilar va hovlilar"
+   ],
+   "x": "«spiroxetoz bilan kasallangan umurtqali hayvonlar, asosan spiroxetalarni umri davomida tashib yuruvchi kanalarning o'zi»"
+  },
+  {
+   "q": "Kasallanish zanjirida odam qanday xo'jayin hisoblanadi?",
+   "c": "tasodifiy xo'jayin",
+   "w": [
+    "yagona xo'jayin",
+    "asosiy rezervuar",
+    "yagona manba",
+    "saqlovchi xo'jayin"
+   ],
+   "x": "«Odam bu zanjirda tasodifiy xo'jayin bo'lib»"
+  },
+  {
+   "q": "Tabiiy o'choqlar qayerda joylashgan?",
+   "c": "hayvon inlari, uyalar, g'orlar va tog' etagidagi tirqishlar",
+   "w": [
+    "mikroo'choq deb tushuniladigan alohida xo'jalik binolari",
+    "aholi yashash joylaridagi ayvon, yerto'la va tovuqxona",
+    "kanalar mavjud bo'lgan turar xonalar va omborxona",
+    "kasallik xavfi bor xo'jaliklar va uy-joylar"
+   ],
+   "x": "«Tabiiy o'choqlar hayvon inlari, uyalar, g'orlar, tog' etagidagi tirqishlar, qirlardagi yoriqlar va katta toshlar tagidagi chuqurliklarda kanalar tarqalgan joylardir»"
+  },
+  {
+   "q": "Mahalliy, ya'ni antropurgik o'choq nima?",
+   "c": "O. papillipes kanalari tarqalgan aholi yashash joylari",
+   "w": [
+    "hayvon inlari, g'orlar va katta toshlar tagidagi chuqurliklar",
+    "kanalar mavjud bo'lgan xonalar va alohida xo'jalik binolari",
+    "kanalar bor, ammo kasallik qayd etilmagan xo'jaliklar",
+    "tog' etagidagi tirqishlar va qirlardagi yoriqlar"
+   ],
+   "x": "«Mahalliy, ya'ni antropurgik o'choq O. papillipes kanalari tarqalgan aholi yashash joylaridir»"
+  },
+  {
+   "q": "O. papillipes turini boshqa argas kanalaridan nima ajratishga imkon beradi?",
+   "c": "anus ostida egatchalar kesishib xoch hosil qilishi",
+   "w": [
+    "tanasining bosh, ko'krak va qoringa bo'linishi",
+    "kulrang yoki jigarrang tana rangi",
+    "yangi qon so'rganlarining to'q ko'k rangi",
+    "cho'ziq oval yoki tuxumsimon yassi tana shakli"
+   ],
+   "x": "«Anus ostida anamarginal va old-anal ko'ndalang egatchalar kesishib xoch hosil qiladi, bu belgi turni boshqa argas kanalaridan ajratishga imkon beradi»"
+  },
+  {
+   "q": "Urg'ochi kanalar tuxumni qaysi oylarda qo'yadi?",
+   "c": "iyul–sentyabr oylarida",
+   "w": [
+    "may–iyun oylarida",
+    "iyun–iyul oylarida",
+    "kechasi faol bo'lgan oylarda",
+    "qishlovdan chiqqan oylarda"
+   ],
+   "x": "«urg'ochi kanalar uni iyul–sentyabr oylarida qo'yadi»"
+  },
+  {
+   "q": "Kasallanishning eng yuqori ko'rsatkichi qaysi davrga to'g'ri keladi?",
+   "c": "may–iyun oylariga",
+   "w": [
+    "iyul–sentyabr oylariga",
+    "qishda isitiladigan xonalarda",
+    "kechasi faol bo'lgan davrga",
+    "kanalar ommaviy hujum qilmaydigan davrga"
+   ],
+   "x": "«Kasallanishning eng yuqori ko'rsatkichi may–iyun oylariga, qishlovdan chiqqan kanalar ommaviy hujum qiladigan davrga to'g'ri keladi»"
+  },
+  {
+   "q": "Respublika bo'yicha kasallanishning qancha qismi Namangan va Farg'ona viloyatlariga to'g'ri keladi?",
+   "c": "kasallanishning 80 foizi",
+   "w": [
+    "kasallanishning 20 foizi",
+    "kasallanishning 36,4 foizi",
+    "kasallanishning 50 foizi",
+    "kasallanishning 98 foizi"
+   ],
+   "x": "«Respublika bo'yicha kasallanishning 80 foizi Namangan va Farg'ona viloyatlariga to'g'ri keladi»"
+  },
+  {
+   "q": "O. papillipes dengiz sathidan qanday balandlikda ko'p uchraydi?",
+   "c": "400–1500 metr balandlikda",
+   "w": [
+    "7000 metr balandlikda",
+    "400 metrdan past balandlikda",
+    "32 metr balandlikda",
+    "1500–2000 metr balandlikda"
+   ],
+   "x": "«dengiz sathidan 400–1500 metr balandlikda, sersuv tog' daryolari oqib o'tadigan»"
+  }
+ ],
+ "067": [
+  {
+   "q": "Kanali qaytalama terlama tashxisi nimaning topilishi bilan tasdiqlanadi?",
+   "c": "bemor qonida spiroxetalarni aniqlash",
+   "w": [
+    "bemor qonida plazmodiylarni aniqlash",
+    "bemor qonida leykotsitozni aniqlash",
+    "bemor siydigida spiroxetalarni aniqlash",
+    "bemor tanasida taloq kattalashishini aniqlash"
+   ],
+   "x": "«bemor qonida qo'zg'atuvchi spiroxetalarni aniqlash bilan tasdiqlanadi»"
+  },
+  {
+   "q": "Bemor tanasida kana chaqqan joylardagi izlar necha hafta saqlanadi?",
+   "c": "3–5 hafta saqlanadi",
+   "w": [
+    "1–3 hafta saqlanadi",
+    "2–3 hafta saqlanadi",
+    "1–2 oy saqlanadi",
+    "4–15 hafta saqlanadi"
+   ],
+   "x": "«bemor tanasida 3–5 hafta saqlanadigan kana chaqqan joylardagi izlarga qarab»"
+  },
+  {
+   "q": "Epidemiologik anamnezda bemor kasallik boshlanishidan qancha oldin endemik hududda bo'lib qaytgan bo'ladi?",
+   "c": "1–3 hafta oldin",
+   "w": [
+    "3–5 hafta oldin",
+    "4–15 hafta oldin",
+    "2–6 hafta oldin",
+    "1–8 hafta oldin"
+   ],
+   "x": "«kasallik boshlanishidan 1–3 hafta oldin u yerda bo'lib qaytish»"
+  },
+  {
+   "q": "Isitma xurujida harorat qancha darajagacha ko'tariladi?",
+   "c": "39–40 darajagacha",
+   "w": [
+    "37–38 darajagacha",
+    "41–42 darajagacha",
+    "35–36 darajagacha",
+    "30–45 darajagacha"
+   ],
+   "x": "«harorat 39–40 darajagacha ko'tariladi»"
+  },
+  {
+   "q": "Birinchi xuruj qancha davom etadi?",
+   "c": "bir necha soatdan 2–6 kungacha",
+   "w": [
+    "1–8 kundan 20–40 kungacha",
+    "4–15 kundan 6–10 kungacha",
+    "3–5 haftadan 1–2 oy davomida",
+    "3–6 kundan 17–20 kungacha"
+   ],
+   "x": "«Birinchi xuruj bir necha soatdan 2–6 kungacha davom etib, harorat birdan tushadi»"
+  },
+  {
+   "q": "Apireksiya davri qancha davom etadi?",
+   "c": "1–8 kun, ba'zan 20–40 kungacha",
+   "w": [
+    "2–6 kun, ba'zan 4–15 kungacha",
+    "4–12 kun, ba'zan 18–20 kungacha",
+    "6–10 kun, ba'zan 3–5 kungacha",
+    "1–3 kun, ba'zan 5–10 kungacha"
+   ],
+   "x": "«apireksiya davri 1–8 kun, ba'zan 20–40 kungacha cho'ziladi»"
+  },
+  {
+   "q": "Kasallik uzoq davom etganda eritrotsitlar soni qanchagacha tushadi?",
+   "c": "3–3,5 million atrofiga",
+   "w": [
+    "10–12 million atrofiga",
+    "30–45 million atrofiga",
+    "5 million atrofiga",
+    "100–200 million atrofiga"
+   ],
+   "x": "«eritrotsitlar soni 3–3,5 million atrofiga tushadi»"
+  },
+  {
+   "q": "Davolash bayonnomasida xuruj paytida qalin tomchidan nechta preparat tayyorlash tavsiya etilgan?",
+   "c": "3–6 ta preparat tayyorlash",
+   "w": [
+    "1–2 ta preparat tayyorlash",
+    "10–15 ta preparat tayyorlash",
+    "18–20 ta preparat tayyorlash",
+    "100–200 ta preparat tayyorlash"
+   ],
+   "x": "«qalin tomchidan 3–6 ta preparat tayyorlash tavsiya etilgan»"
+  },
+  {
+   "q": "Burri usulida qaysi namuna tekshiriladi?",
+   "c": "qora tush bilan aralashtirilgan qon tomchisi",
+   "w": [
+    "qorong'i maydondagi osma tomchi",
+    "kumushlangan qon surtmasi",
+    "Romanovskiy–Gimza usulida bo'yalgan qalin tomchi",
+    "dengiz cho'chqachalari qoni"
+   ],
+   "x": "«qora tush bilan aralashtirilgan qon tomchisini tekshiruvchi Burri usuli»"
+  },
+  {
+   "q": "Serologik tekshiruvlar sifatida qaysi reaksiyalar qo'llanadi?",
+   "c": "BIFR va KBR",
+   "w": [
+    "Romanovskiy–Gimza va Burri usullari",
+    "qorong'i maydon va kumushlash usullari",
+    "qalin tomchi va yupqa surtma usullari",
+    "PZR va biologik usul"
+   ],
+   "x": "«Serologik tekshiruvlar sifatida BIFR va KBR (bilvosita immunoflyuorestsensiya va komplementni bog'lash reaksiyalari) qo'llanadi»"
+  }
+ ]
+}

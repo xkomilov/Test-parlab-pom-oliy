@@ -1,0 +1,338 @@
+{
+ "125": [
+  {
+   "q": "Respublikada eng ko'p aniqlanadigan patogen ichak protozoyi qaysi?",
+   "c": "Giardia lamblia",
+   "w": [
+    "Entamoeba histolytica",
+    "Cryptosporidium parvum",
+    "Balantidium coli",
+    "Blastocystis hominis"
+   ],
+   "x": "«Giardia lamblia (G. duodenalis) respublikada eng ko'p aniqlanadigan patogen ichak protozoyi hisoblanadi»"
+  },
+  {
+   "q": "G. lamblia OIV bilan yashovchilarning necha foizida aniqlangan?",
+   "c": "16 foizida aniqlangan",
+   "w": [
+    "21 foizida aniqlangan",
+    "45,2 foizida aniqlangan",
+    "1 foizida aniqlangan",
+    "18 foizida aniqlangan"
+   ],
+   "x": "«G. lamblia OIV bilan yashovchilarning 16 foizida, Toshkent aholisining 21 foizida aniqlangan»"
+  },
+  {
+   "q": "Mikroskopik natijani haqiqiy amyobiaz deb talqin qilish uchun qanday usullar talab etiladi?",
+   "c": "molekulyar yoki antigen usullar",
+   "w": [
+    "kontakt linzalarni tekshirish usullari",
+    "faqat mikroskopiyada ko'rish usullari",
+    "najasni qaynatib tekshirish usullari",
+    "cho'chqachilik sharoitini baholash usullari"
+   ],
+   "x": "«Mikroskopik natijani haqiqiy amyobiaz deb talqin qilish uchun molekulyar yoki antigen usullar talab etiladi»"
+  },
+  {
+   "q": "Blastocystis sog'lom toshkentliklarning necha foizida aniqlangan?",
+   "c": "18 foizida aniqlangan",
+   "w": [
+    "53,6 foizida aniqlangan",
+    "42,2 foizida aniqlangan",
+    "65 foizida aniqlangan",
+    "21 foizida aniqlangan"
+   ],
+   "x": "«U sog'lom toshkentliklarning 18 foizida, o'pka sili bilan og'riganlarning 53,6 foizida va OIV bilan yashovchilarning 42,2 foizida aniqlangan»"
+  },
+  {
+   "q": "Nopatogen amyobalar kasallik chaqirmasa ham qanday jihatdan ahamiyatli?",
+   "c": "fekal-oral ifloslanishning ko'rsatkichi sifatida",
+   "w": [
+    "ichak amyobiazi chaqiruvchi manba sifatida",
+    "balantidiazning qo'zg'atuvchisi sifatida",
+    "immunitet tanqisligining ko'rsatkichi sifatida",
+    "cho'chqachilik bilan bog'liq manba sifatida"
+   ],
+   "x": "«shuning uchun fekal-oral ifloslanishning ko'rsatkichi sifatida ahamiyatli»"
+  },
+  {
+   "q": "Kriptosporoidoz ko'proq kimlarda uchraydi?",
+   "c": "bolalarda va immuniteti pasaygan shaxslarda",
+   "w": [
+    "cho'chqa bilan aloqada bo'lganlarda",
+    "suzish vaqtida kontakt linza kiyganlarda",
+    "sog'lom nazorat guruhidagi kattalarda",
+    "qishloq xonadonlaridagi sog'lom ayollarda"
+   ],
+   "x": "«Kriptosporoidoz ko'proq bolalarda va immuniteti pasaygan shaxslarda uchrashi»"
+  },
+  {
+   "q": "Balantidium coli nima bilan bog'liq holda uchraydi?",
+   "c": "cho'chqachilik bilan bog'liq",
+   "w": [
+    "suzish havzalari bilan bog'liq",
+    "kontakt linzalar bilan bog'liq",
+    "bolalar muassasalari bilan bog'liq",
+    "go'ng va tuproq bilan bog'liq"
+   ],
+   "x": "«Balantidium coli respublikada kamdan-kam uchraydi va asosan cho'chqachilik bilan bog'liq»"
+  },
+  {
+   "q": "Erkin yashovchi amyobalarning sistalari qanday o'lchamda?",
+   "c": "7-20 mkm bo'lib",
+   "w": [
+    "10-30 mkm bo'lib",
+    "10-18 mkm bo'lib",
+    "8-12 mkm bo'lib",
+    "40-60 mkm bo'lib"
+   ],
+   "x": "«trofozoitlari 10-30 mkm, sistalari 7-20 mkm bo'lib, tashqi muhitda uzoq saqlanadi»"
+  },
+  {
+   "q": "Akkantamyobali kasalliklar qaysi a'zolarning zararlanishi bilan kechadi?",
+   "c": "markaziy nerv tizimi va ko'z",
+   "w": [
+    "oshqozon va allergik kasalliklar",
+    "o'pka va teri kasalliklari",
+    "yarali kolit va teri kasalliklari",
+    "yarali kolit va ichak"
+   ],
+   "x": "«Bu kasalliklar markaziy nerv tizimi va ko'zning zararlanishi bilan kechadi»"
+  },
+  {
+   "q": "Farg'ona viloyatining qishloq xonadonlarida bolalarning qancha qismida G. lamblia, E. coli va gelmintlar aniqlangan?",
+   "c": "80 foizdan ortig'ida",
+   "w": [
+    "16 foizdan ortig'ida",
+    "21 foizdan ortig'ida",
+    "10 foizdan ortig'ida",
+    "45 foizdan ortig'ida"
+   ],
+   "x": "«Farg'ona viloyatining qishloq xonadonlarida tekshirilgan bolalarning 80 foizdan ortig'ida G. lamblia, E. coli va gelmintlar aniqlangan»"
+  }
+ ],
+ "126": [
+  {
+   "q": "Odamni asosan qaysi assemblyajlar zararlaydi?",
+   "c": "A va B assemblyajlar",
+   "w": [
+    "C va D assemblyajlar",
+    "E va F assemblyajlar",
+    "G va H assemblyajlar",
+    "C dan H gacha assemblyajlar"
+   ],
+   "x": "«Odamni asosan A va B assemblyajlar zararlaydi»"
+  },
+  {
+   "q": "Trofozoit qanday shaklda va qanday simmetriyada tuzilgan?",
+   "c": "noksimon, ikki tomonlama simmetrik",
+   "w": [
+    "ovalsimon, to'rt yadroli, chidamli",
+    "noksimon, to'rt yadroli, harakatsiz",
+    "ovalsimon, ikki tomonlama harakatsiz",
+    "noksimon, to'rt xivchinli, harakatsiz"
+   ],
+   "x": "«Vegetativ shakl, ya'ni trofozoit noksimon bo'lib, ikki tomonlama simmetrik tuzilgan»"
+  },
+  {
+   "q": "Yetilgan sistada nechta yadro bo'ladi?",
+   "c": "to'rtta yadro",
+   "w": [
+    "bitta yadro",
+    "ikkita yadro",
+    "to'rt juft yadro",
+    "ikki juft yadro"
+   ],
+   "x": "«Yetilgan sistada to'rtta yadro bo'ladi»"
+  },
+  {
+   "q": "Ayrim hollarda zararlanish uchun nechta sista kifoya qiladi?",
+   "c": "10 tagacha sista kifoya qiladi",
+   "w": [
+    "100 tagacha sista kifoya qiladi",
+    "1 million sista kifoya qiladi",
+    "18 milliard sista kifoya qiladi",
+    "66 ta sista kifoya qiladi"
+   ],
+   "x": "«ayrim hollarda esa 10 tagacha sista kifoya qilishi»"
+  },
+  {
+   "q": "Zararlangan odam bir sutkada qanchagacha sista ajratishi mumkin?",
+   "c": "18 milliardgacha sista",
+   "w": [
+    "1 milliongacha sista",
+    "10 milliongacha sista",
+    "20 milliongacha sista",
+    "100 milliardgacha sista"
+   ],
+   "x": "«zararlangan odam bir sutkada 18 milliardgacha sista ajratishi»"
+  },
+  {
+   "q": "Sistalar 55 °C haroratda necha daqiqadan so'ng halok bo'ladi?",
+   "c": "5 daqiqadan so'ng",
+   "w": [
+    "10 daqiqadan so'ng",
+    "24 soatdan so'ng",
+    "72 soatdan so'ng",
+    "2 sutkadan so'ng"
+   ],
+   "x": "«Sistalar qaynatilganda bir zumda, 55 °C haroratda esa 5 daqiqadan so'ng halok bo'ladi»"
+  },
+  {
+   "q": "Lyamblyalar 1 mg/l xlor konsentratsiyasida qancha vaqtdan keyin halok bo'ladi?",
+   "c": "72 soatdan keyin",
+   "w": [
+    "24 soatdan keyin",
+    "5 daqiqadan keyin",
+    "3 haftadan keyin",
+    "2 sutkadan keyin"
+   ],
+   "x": "«1 mg/l konsentratsiyada ular 72 soatdan keyin halok bo'ladi»"
+  },
+  {
+   "q": "Lyambliozdan keyin hosil bo'ladigan immunitet qanday?",
+   "c": "kuchsiz va qisqa muddatli",
+   "w": [
+    "kuchsiz va yaqqol",
+    "kuchsiz va yashirin",
+    "yaqqol va qisqa muddatli",
+    "kuchsiz, ammo uzoq muddatli"
+   ],
+   "x": "«immunitet kuchsiz va qisqa muddatli»"
+  },
+  {
+   "q": "Surunkali shaklda najas 2-4 hafta davomida necha marta tekshirish tavsiya etiladi?",
+   "c": "5-6 marta tekshirish",
+   "w": [
+    "2-4 marta tekshirish",
+    "10-12 marta tekshirish",
+    "1 marta tekshirish",
+    "3 marta tekshirish"
+   ],
+   "x": "«Surunkali shaklda sistalar davriy ajralgani uchun 2-4 hafta davomida najasni 5-6 marta tekshirish tavsiya etiladi»"
+  },
+  {
+   "q": "Trofozoitning sistaga aylanish jarayoni ichakning qaysi qismida kechadi?",
+   "c": "ingichka ichakning distal qismida",
+   "w": [
+    "ingichka ichakning yuqori qismida",
+    "o'n ikki barmoqli ichak suyuqligida",
+    "o't yo'llarida",
+    "oshqozonda"
+   ],
+   "x": "«bu jarayon ingichka ichakning distal qismida kechadi»"
+  }
+ ],
+ "127": [
+  {
+   "q": "Lyamblioz infeksiyasining asosiy manbai kim hisoblanadi?",
+   "c": "zararlangan odam",
+   "w": [
+    "itlar va mushuklar",
+    "yirik shoxli qoramollar",
+    "ayiq va bo'rsiq",
+    "qushlar va sudralib yuruvchilar"
+   ],
+   "x": "«Kasallik manbai zararlangan odam yoki hayvon, ammo asosiy manba odam hisoblanadi»"
+  },
+  {
+   "q": "Zararlangandan keyin sista ajralishi o'rtacha qaysi sutkadan boshlanadi?",
+   "c": "o'rtacha 9-12-sutkadan",
+   "w": [
+    "o'rtacha 1-3-sutkadan",
+    "o'rtacha 17-20-sutkadan",
+    "o'rtacha 2-3-sutkadan",
+    "o'rtacha 28-37-sutkadan"
+   ],
+   "x": "«Sista ajralishi zararlangandan keyin o'rtacha 9-12-sutkadan boshlanib, oylab davom etadi»"
+  },
+  {
+   "q": "Diareya so'nayotgan davrda 1 g najasda qancha sista bo'lishi mumkin?",
+   "c": "20 milliongacha sista",
+   "w": [
+    "18 milliardgacha sista",
+    "10 milliongacha sista",
+    "1 milliongacha sista",
+    "100 milliongacha sista"
+   ],
+   "x": "«1 g najasda 20 milliongacha sista bo'lishi mumkin»"
+  },
+  {
+   "q": "Fekal-oral yuqishda zararlanish dozasi qancha?",
+   "c": "10-100 ta sistagacha",
+   "w": [
+    "18 ta sistagacha",
+    "2-3 ta sistagacha",
+    "9-12 ta sistagacha",
+    "1 milliongacha sista"
+   ],
+   "x": "«zararlanish dozasi esa juda kichik, ya'ni 10-100 ta sistagacha»"
+  },
+  {
+   "q": "Lyambliozning eng muhim yuqish yo'li qaysi?",
+   "c": "suv orqali yuqish",
+   "w": [
+    "oziq-ovqat orqali yuqish",
+    "kontakt-maishiy yo'l",
+    "jinsiy yo'l bilan yuqish",
+    "hasharotlar orqali yuqish"
+   ],
+   "x": "«Eng muhim yo'l suv orqali yuqishdir»"
+  },
+  {
+   "q": "Sistalar ichimlik va quduq suvida 4-20 °C haroratda qancha yashovchan qoladi?",
+   "c": "1-3 oy yashovchan qoladi",
+   "w": [
+    "3-4 oy yashovchan qoladi",
+    "24 soat yashovchan qoladi",
+    "2 sutka yashovchan qoladi",
+    "9-12 sutka yashovchan qoladi"
+   ],
+   "x": "«Ular ichimlik va quduq suvida 4-20 °C haroratda 1-3 oy, oqar suvda yozda 3-4 oygacha yashovchan qoladi»"
+  },
+  {
+   "q": "Kontakt-maishiy yo'l ko'proq qaysi joylarga xos?",
+   "c": "bolalar muassasalariga",
+   "w": [
+    "suzish havzalariga",
+    "hayvonot bog'lariga",
+    "qo'riqxonalarga",
+    "irrigatsiya xizmatiga"
+   ],
+   "x": "«Kontakt-maishiy yo'l ko'proq bolalar muassasalariga xos»"
+  },
+  {
+   "q": "Lyambliozda qaysi kasb guruhlarida yuqish xavfi yuqori?",
+   "c": "assenizatsiya va irrigatsiya xizmati, hayvonot bog'lari va qo'riqxona ishchilari",
+   "w": [
+    "oshpazlar, bolalar muassasalari tarbiyachilari va sayohatchilar",
+    "hasharotlarga qarshi kurash xodimlari va suzish havzalari ishchilari",
+    "ichimlik suvi manbalari xodimlari va oziq-ovqat sotuvchilari",
+    "chorvadorlar, o'g'il bolalar va 28-37 yoshli ayollar"
+   ],
+   "x": "«xavfli kasb guruhlarida, ya'ni assenizatsiya va irrigatsiya xizmati, hayvonot bog'lari va qo'riqxona ishchilarida yuqish xavfi yuqori»"
+  },
+  {
+   "q": "Sistalar havoda quritilganda qancha vaqt ichida nobud bo'ladi?",
+   "c": "24 soat ichida",
+   "w": [
+    "6 soat ichida",
+    "2 sutka ichida",
+    "1-3 oy ichida",
+    "3-4 oy ichida"
+   ],
+   "x": "«Sistalar havoda quritilganda 24 soat ichida nobud»"
+  },
+  {
+   "q": "Rivojlanayotgan mamlakatlarda lyamblya bilan zararlanish qanday darajada?",
+   "c": "10 foizdan yuqori",
+   "w": [
+    "kattalarda 3-5 foiz",
+    "bolalarda 15-20 foiz",
+    "qizlarda 2-3 foiz",
+    "ayollarda 28-37 foiz"
+   ],
+   "x": "«rivojlanayotgan mamlakatlarda 10 foizdan yuqori»"
+  }
+ ]
+}

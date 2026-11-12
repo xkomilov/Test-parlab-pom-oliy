@@ -1,0 +1,338 @@
+{
+ "140": [
+  {
+   "q": "Kriptosporidiozning oldini olish nimaga tayanadi?",
+   "c": "yuqish yo'llarini uzishga qaratilgan nospetsifik choralar majmuasiga",
+   "w": [
+    "maxsus vaksina qo'llashga",
+    "suvni xlorlashga",
+    "kimyoviy dezinfeksiyalovchi vositalarga",
+    "dezinfeksiyalovchi vositalarning yuqori konsentratsiyalariga"
+   ],
+   "x": "«uning oldini olish yuqish yo'llarini uzishga qaratilgan nospetsifik choralar majmuasiga tayanadi»"
+  },
+  {
+   "q": "Kommunal suv tarmoqlarida nima kasallikning oldini olishda yaxshi samara beradi?",
+   "c": "filtrlardan foydalanish",
+   "w": [
+    "suvni xlorlash",
+    "vodorod peroksidning yuqori konsentratsiyalari",
+    "ultrabinafsha nurlantirish",
+    "suvni qaynatish"
+   ],
+   "x": "«kommunal suv tarmoqlarida filtrlardan foydalanish kasallikning oldini olishda yaxshi samara berishi»"
+  },
+  {
+   "q": "Nima sababdan suzish havzalari kriptosporidioz epidemiyalarining tipik manbai bo'lib qolmoqda?",
+   "c": "xlor ootsistalarni zararsizlantira olmaydi",
+   "w": [
+    "suv filtrlanmaydi",
+    "ootsistalar suvda halok bo'ladi",
+    "ootsistalar qaynatish ta'sirida halok bo'ladi",
+    "diareyali cho'miluvchi ootsistalarni yo'qotadi"
+   ],
+   "x": "«Suzish havzalari kriptosporidioz epidemiyalarining tipik manbai bo'lib qolmoqda, chunki xlor ootsistalarni tez zararsizlantira olmaydi»"
+  },
+  {
+   "q": "Ootsistalarning bemor organizmidan ajralib chiqishi ich ketishi to'xtagandan keyin qancha davom etadi?",
+   "c": "bir haftagacha, ba'zan 2–3 haftagacha",
+   "w": [
+    "ikki haftagacha, ba'zan 4–5 haftagacha",
+    "bir haftagacha, ba'zan 4–5 kun",
+    "4–5 kun, ba'zan 2–3 haftagacha",
+    "ikki oy, ba'zan 2–3 haftagacha"
+   ],
+   "x": "«ootsistalarning bemor organizmidan ajralib chiqishi ich ketishi to'xtagandan keyin bir haftagacha, ba'zan 2–3 haftagacha davom etadi»"
+  },
+  {
+   "q": "Oziq-ovqat orqali yuqishda ootsistalarni nima zararsizlantiradi?",
+   "c": "sutni pasterizatsiya qilish va qaynatish",
+   "w": [
+    "sutni filtrlash va xlorlash",
+    "sutni quritish va filtrlash",
+    "sutni xlorlash va ultrabinafsha nurlantirish",
+    "sutni xlorlash va qaynatmaslik"
+   ],
+   "x": "«Sutni pasterizatsiya qilish va qaynatish ootsistalarni zararsizlantiradi»"
+  },
+  {
+   "q": "Dispanser kuzatuvida 2–3 haftadan keyin qayta koprologik tekshiruv qanday oraliqda o'tkaziladi?",
+   "c": "14–20 kun oralig'ida ikki marta",
+   "w": [
+    "14–20 kun oralig'ida uch marta",
+    "5–7 kun oralig'ida ikki marta",
+    "2–3 kun oralig'ida ikki marta",
+    "2–3 hafta oralig'ida bir marta"
+   ],
+   "x": "«2–3 haftadan keyin 14–20 kun oralig'ida ikki marta qayta koprologik tekshiruv o'tkaziladi»"
+  },
+  {
+   "q": "Bemor ishlatgan idish-tovoq, choyshab va ich kiyimlar uchun nima tavsiya etiladi?",
+   "c": "qaynatish yoki yuqori haroratda yuvish",
+   "w": [
+    "xlor saqlovchi vositalar bilan ishlov berish",
+    "faqat xlor saqlovchi vositalarga tayanish",
+    "suvni xlorlash bilan cheklanish",
+    "quritish va ultrabinafsha nurlantirish"
+   ],
+   "x": "«Bemor ishlatgan idish-tovoq, choyshab va ich kiyimlarni qaynatish yoki yuqori haroratda yuvish tavsiya etiladi»"
+  },
+  {
+   "q": "Qaysi guruhlar kriptosporidioz bilan zararlanish xavfi yuqori guruhga kiradi?",
+   "c": "chorvachilik fermalari, veterinariya klinikalari va hayvonot bog'lari xodimlari",
+   "w": [
+    "umumiy ovqatlanish korxonalari va bolalar muassasalari xodimlari",
+    "sanitariya uzellari va shifoxonalar xodimlari",
+    "suv tozalash inshootlari va ochiq suv havzalari xodimlari",
+    "oziq-ovqat bilan ishlovchi xodimlar va ota-onalar"
+   ],
+   "x": "«Chorvachilik fermalari, veterinariya klinikalari va hayvonot bog'lari xodimlari, shuningdek, yosh buzoqlar bilan muloqotda bo'ladigan bolalar zararlanish xavfi yuqori guruhga kiradi»"
+  },
+  {
+   "q": "Qo'zg'atuvchisi aniqlanmagan o'tkir ichak infeksiyalari epidemiyalariga qarshi choralar qatoriga nimani kiritish kerak?",
+   "c": "kriptosporidiyalarni aniqlash tekshiruvini",
+   "w": [
+    "najasni dezinfeksiya qilishni",
+    "sutni pasterizatsiya qilishni",
+    "suvni ultrabinafsha nurlantirishni",
+    "oziq-ovqat xodimlarini ishdan chetlatishni"
+   ],
+   "x": "«qo'zg'atuvchisi aniqlanmagan o'tkir ichak infeksiyalari epidemiyalariga qarshi choralar qatoriga kriptosporidiyalarni aniqlash tekshiruvini kiritish kerak»"
+  },
+  {
+   "q": "Immuniteti tanqis shaxslar uchun qaysi chora tavsiya etiladi?",
+   "c": "qaynatilgan yoki filtrlangan suv ichish",
+   "w": [
+    "xlorlangan suv ichish",
+    "suzish havzalaridan foydalanish",
+    "yosh buzoqlar bilan muloqotda bo'lish",
+    "qaynatilmagan suv ichish"
+   ],
+   "x": "«ular qaynatilgan yoki filtrlangan suv ichishi, buzoq va boshqa yosh hayvonlar bilan muloqotdan keyin qo'llarni yaxshilab yuvishi tavsiya etiladi»"
+  }
+ ],
+ "141": [
+  {
+   "q": "Ko'chirmaning davolash bo'limida nimalar yoziladi?",
+   "c": "preparat nomi, kunlik doza, kurs davomiyligi va nojo'ya ta'sirlar",
+   "w": [
+    "pasport ma'lumotlari, epidemiologik anamnez va klinik tashxis",
+    "taloq va jigar o'lchamlari, qon ko'rsatkichlari va harorat",
+    "kuzatuv muddati, tahlil jadvali va dispanser hisobi",
+    "itlar mavjudligi, manzil va yashash sharoiti"
+   ],
+   "x": "«Davolash bo'limida preparat nomi, kunlik doza, kurs davomiyligi va nojo'ya ta'sirlar yoziladi»"
+  },
+  {
+   "q": "Meglumin antimonat yoki natriy stiboglyukonat qanday dozada tayinlanadi?",
+   "c": "kuniga 1 kg vaznga 20 mg dozada 28–30 kun",
+   "w": [
+    "kuniga 1 kg vaznga 3–4 mg dozada 28–30 kun",
+    "kuniga 1 kg vaznga 20 mg dozada 14 kun",
+    "kuniga 1 kg vaznga 15–24 mg dozada 28–30 kun",
+    "kuniga 1 kg vaznga 20 mg dozada 90 kun"
+   ],
+   "x": "«meglumin antimonat yoki natriy stiboglyukonat kuniga 1 kg vaznga 20 mg dozada 28–30 kun»"
+  },
+  {
+   "q": "Liposomal amfoterisin B qanday dozada va butun kurs bo'yicha qancha miqdorda tayinlanadi?",
+   "c": "kuniga 3–4 mg/kg, butun kurs bo'yicha 15–24 mg/kg",
+   "w": [
+    "kuniga 20 mg/kg, butun kurs bo'yicha 15–24 mg/kg",
+    "kuniga 3–4 mg/kg, butun kurs bo'yicha 28–30 mg/kg",
+    "kuniga 1 mg/kg, butun kurs bo'yicha 3–4 mg/kg",
+    "kuniga 15–24 mg/kg, butun kurs bo'yicha 3–4 mg/kg"
+   ],
+   "x": "«liposomal amfoterisin B esa kuniga 3–4 mg/kg dozada, butun kurs bo'yicha 15–24 mg/kg miqdorida tayinlanadi»"
+  },
+  {
+   "q": "Rus tilidagi standartda sog'ayish nima bilan tasdiqlanadi?",
+   "c": "suyak ko'migi punktatidan leyshmaniyalarning yo'qolishi",
+   "w": [
+    "taloq o'lchamlarining me'yorlashishi",
+    "rK39 yoki ELISA natijasining manfiy bo'lishi",
+    "gepatosplenomegaliyaning yo'qolishi",
+    "gemoglobinning ko'payishi va harorat tushishi"
+   ],
+   "x": "«sog'ayish suyak ko'migi punktatidan leyshmaniyalarning yo'qolishi bilan tasdiqlanishi»"
+  },
+  {
+   "q": "Dispanser nazoratida bemor qaysi muddatlarda qon tahlillaridan o'tadi?",
+   "c": "har 1, 3, 6, 9, 12 oydan keyin",
+   "w": [
+    "har 1, 2, 3 oydan keyin",
+    "har 3, 6, 12 oydan keyin",
+    "har oy, bir yil mobaynida",
+    "har 6 oydan keyin"
+   ],
+   "x": "«har 1, 3, 6, 9, 12 oydan keyin qon tahlillari (leykotsit, eritrotsit va leykotsitar formula) olinib tekshiriladi»"
+  },
+  {
+   "q": "Parazitologik tahlillar manfiy bo'lsa va kasallik belgilari bo'lmasa, bemor necha oydan keyin dispanser hisobidan chiqariladi?",
+   "c": "12 oydan keyin",
+   "w": [
+    "6 oydan keyin",
+    "3 oydan keyin",
+    "9 oydan keyin",
+    "24 oydan keyin"
+   ],
+   "x": "«bemor 12 oydan keyin dispanser hisobidan chiqariladi»"
+  },
+  {
+   "q": "Quyidagilardan qaysi biri davolashni baholash testi o'tkaziladigan holat hisoblanadi?",
+   "c": "davodan keyin klinik sog'ayish kuzatilmasa",
+   "w": [
+    "antitelalar davolashdan keyin musbat bo'lib qolsa",
+    "taloq hajmi kichrayib, gemoglobin ko'paysa",
+    "vazn barqarorlashib, harorat ko'tarilmasa",
+    "tana harorati ko'tarilmasa va holat yaxshilansa"
+   ],
+   "x": "«davodan keyin klinik sog'ayish kuzatilmasa; klinik retsidiv bo'lsa»"
+  },
+  {
+   "q": "Visseral leyshmaniozda retsidiv qancha bemorlarda kuzatiladi?",
+   "c": "bemorlarning 5 foizida",
+   "w": [
+    "bemorlarning 12 foizida",
+    "bemorlarning 50 foizida",
+    "bemorlarning 6 foizida",
+    "bemorlarning 24 foizida"
+   ],
+   "x": "«retsidiv bemorlarning 5 foizida kuzatiladi»"
+  },
+  {
+   "q": "OIV bilan kasallanganlarda retsidiv 12 oy davomida qanchagacha yetishi mumkin?",
+   "c": "50 foizgacha yetishi mumkin",
+   "w": [
+    "5 foizgacha yetishi mumkin",
+    "12 foizgacha yetishi mumkin",
+    "25 foizgacha yetishi mumkin",
+    "100 foizgacha yetishi mumkin"
+   ],
+   "x": "«OIV bilan kasallanganlarda esa 12 oy davomida 50 foizgacha yetishi mumkin»"
+  },
+  {
+   "q": "Birlamchi retsidiv ko'pincha kasalxonadan chiqqandan keyin qaysi davrda qayd etiladi?",
+   "c": "6 oygacha bo'lgan davrda",
+   "w": [
+    "12 oydan keyingi davrda",
+    "3 oygacha bo'lgan davrda",
+    "1 oygacha bo'lgan davrda",
+    "9 oydan keyingi davrda"
+   ],
+   "x": "«Birlamchi retsidiv ko'pincha kasalxonadan chiqqandan keyin 6 oygacha bo'lgan davrda qayd etiladi»"
+  }
+ ],
+ "142": [
+  {
+   "q": "Lyamblioz bo'yicha epidemiologik nazorat nima?",
+   "c": "vaziyatni doimiy kuzatish va choralar samaradorligini baholash tizimi",
+   "w": [
+    "bolalarni tekshirish va dispanser hisobiga olish tizimi",
+    "tashqi muhitni zararsizlantirish va dezinfeksiya qilish tizimi",
+    "suv sifatini nazorat qilish va tozalash tizimi",
+    "kasallarni davolash va ularni hisobga olish tizimi"
+   ],
+   "x": "«Epidemiologik nazorat lyamblioz bo'yicha vaziyatni doimiy kuzatish, tahlil qilish va qabul qilingan choralar samaradorligini baholash tizimidir»"
+  },
+  {
+   "q": "JSSV usuliga ko'ra tanlab olingan umumiy kontingentning kamida qancha foizi laboratoriya usulida tekshiriladi?",
+   "c": "kamida 5 foizi",
+   "w": [
+    "kamida 15 foizi",
+    "kamida 30 foizi",
+    "kamida 12 foizi",
+    "kamida 50 foizi"
+   ],
+   "x": "«JSSV usuliga ko'ra tanlab olingan umumiy kontingentning kamida 5 foizi laboratoriya usulida tekshirilishi nazarda tutilgan»"
+  },
+  {
+   "q": "Maktabgacha ta'lim muassasalariga boruvchi bolalar va boshlang'ich sinf o'quvchilari qachon tekshiriladi?",
+   "c": "yilda bir marta yoki yozgi ta'tildan keyin",
+   "w": [
+    "har chorakda bir marta",
+    "yilda uch marta",
+    "ishga kirishdan oldin",
+    "har chorakda yozgi ta'tildan keyin"
+   ],
+   "x": "«maktabgacha ta'lim muassasalariga boruvchi bolalar va boshlang'ich sinf o'quvchilari yilda bir marta yoki yozgi ta'tildan keyin tekshiriladi»"
+  },
+  {
+   "q": "Dekretiv kontingentlarga kimlar kiradi?",
+   "c": "oziq-ovqat korxonalari, umumiy ovqatlanish va assenizatorlar",
+   "w": [
+    "bolalar uylari, maktab-internatlar va sanatoriylar",
+    "maktabgacha ta'lim muassasalari va boshlang'ich sinf o'quvchilari",
+    "shifoxonaning bolalar bo'limiga yotqizilgan bolalar",
+    "sog'lomlashtirish lagerlariga qabul qilinganlar"
+   ],
+   "x": "«Dekretiv kontingentlar, ya'ni oziq-ovqat korxonalari, umumiy ovqatlanish va assenizatorlar»"
+  },
+  {
+   "q": "Surunkali shaklda natija manfiy bo'lsa, tekshiruv qanday takrorlanadi?",
+   "c": "kamida 5-7 kun tanaffus bilan uch marta",
+   "w": [
+    "kamida 2-3 kun tanaffus bilan uch marta",
+    "kamida 5-7 kun tanaffus bilan ikki marta",
+    "kamida 2-4 hafta tanaffus bilan uch marta",
+    "kamida 5-7 kun tanaffus bilan 5-6 marta"
+   ],
+   "x": "«natija manfiy bo'lsa, tekshiruv kamida 5-7 kun tanaffus bilan uch marta takrorlanadi»"
+  },
+  {
+   "q": "Davolangan bemorlarda nazorat tekshiruvi qachon o'tkaziladi?",
+   "c": "1 haftadan keyin",
+   "w": [
+    "2-4 haftadan keyin",
+    "1 yildan keyin",
+    "yozgi ta'tildan keyin",
+    "uch marta takrorlanganidan keyin"
+   ],
+   "x": "«Davolangan bemorlarda nazorat tekshiruvi 1 haftadan keyin o'tkaziladi»"
+  },
+  {
+   "q": "Lyamblioz bilan kasallanganlar qancha muddat dispanser kuzatuvida turadi?",
+   "c": "kamida 12 oy dispanser kuzatuvida",
+   "w": [
+    "kamida 3 oy dispanser kuzatuvida",
+    "kamida 6 oy dispanser kuzatuvida",
+    "kamida 24 oy dispanser kuzatuvida",
+    "kamida bir hafta dispanser kuzatuvida"
+   ],
+   "x": "«Lyamblioz bilan kasallanganlar kamida 12 oy dispanser kuzatuvida turadi»"
+  },
+  {
+   "q": "Dispanser kuzatuvida tibbiy ko'rik va laboratoriya tekshiruvi qancha oraliqda o'tkaziladi?",
+   "c": "har chorakda bir marta",
+   "w": [
+    "har oyda bir marta",
+    "yilda bir marta",
+    "yilda uch marta",
+    "har haftada bir marta"
+   ],
+   "x": "«tibbiy ko'rik va laboratoriya tekshiruvi har chorakda bir marta»"
+  },
+  {
+   "q": "Ovqatlanish va suv ta'minoti ishchilari parazit tashuvchi bo'lib chiqsa, qancha vaqt dispanser nazoratida bo'ladi?",
+   "c": "to'liq davolanguncha dispanser nazoratida bo'ladi",
+   "w": [
+    "kamida 12 oy dispanser nazoratida bo'ladi",
+    "bir chorak dispanser nazoratida bo'ladi",
+    "yozgi ta'tilgacha dispanser nazoratida bo'ladi",
+    "yilda bir marta dispanser nazoratida bo'ladi"
+   ],
+   "x": "«Ovqatlanish va suv ta'minoti ishchilari parazit tashuvchi bo'lib chiqsa, to'liq davolanguncha dispanser nazoratida bo'ladi»"
+  },
+  {
+   "q": "Sistalarning xlorga chidamliligi sababli suv sifatini baholashda nima yetarli emas?",
+   "c": "faqat xlor qoldig'i bo'yicha baholash",
+   "w": [
+    "parazitologik ko'rsatkichlarni hisobga olish",
+    "suv tozalash inshootlaridagi avariyalarni hisobga olish",
+    "ochiq suv havzalarini tekshirish",
+    "oziq-ovqat sifatini baholash"
+   ],
+   "x": "«suv sifatini faqat xlor qoldig'i bo'yicha baholash yetarli emas»"
+  }
+ ]
+}

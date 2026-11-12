@@ -1,0 +1,338 @@
+{
+ "104": [
+  {
+   "q": "Teniidozlar profilaktikasi epidemik zanjirning qaysi uch bo'g'iniga qaratiladi?",
+   "c": "manbani zararsizlantirish, yuqish mexanizmini uzish va moyil organizmni himoyalash",
+   "w": [
+    "go'shtni ekspertiza qilish, hojatxonalar qurish va cho'chqalarni emlash",
+    "bemorlarni dispanser kuzatuviga olish, davolash va hisobga olish",
+    "sanitariya ta'limi, gigiyena va ovqat tayyorlash qoidalariga rioya",
+    "manbani yo'qotish, oraliq xo'jayinni emlash va go'shtni muzlatish"
+   ],
+   "x": "«Profilaktika epidemik zanjirning uch bo'g'iniga qaratiladi: manbani zararsizlantirish, yuqish mexanizmini uzish va moyil organizmni himoyalash»"
+  },
+  {
+   "q": "Cho'chqa go'shtini muzlatish orqali zararsizlantirishda qanday harorat rejimi qo'llanadi?",
+   "c": "mushaklarda minus 10 daraja va kamerada minus 12 darajada 10 sutka",
+   "w": [
+    "mushaklarda minus 12 daraja va kamerada minus 10 darajada 10 sutka",
+    "mushaklarda minus 10 daraja va kamerada minus 12 darajada 20 kun",
+    "mushaklarda minus 12 daraja va kamerada minus 12 darajada 10 kun",
+    "mushaklarda minus 10 daraja va kamerada minus 10 darajada bir soat"
+   ],
+   "x": "«cho'chqa go'shtida mushaklarda minus 10 daraja va kamerada minus 12 darajada 10 sutka saqlanadi»"
+  },
+  {
+   "q": "Tuzlash orqali zararsizlantirishda go'sht qanday eritmada qancha saqlanadi?",
+   "c": "24 foizli eritmada 20 kun",
+   "w": [
+    "20 foizli eritmada 24 kun",
+    "10 foizli eritmada 20 kun",
+    "24 foizli eritmada 10 kun",
+    "80 foizli eritmada 20 kun"
+   ],
+   "x": "«tuzlashda esa 20 kun 24 foizli eritmada saqlanadi»"
+  },
+  {
+   "q": "Odam uchun eng muhim himoya nima hisoblanadi?",
+   "c": "go'shtni ichki qismigacha to'liq pishirish",
+   "w": [
+    "go'shtni faqat tuzlab saqlash",
+    "xom qiymaning ta'mini tatib ko'rish",
+    "go'shtni bozordan ekspertizasiz sotib olish",
+    "go'shtni yarim xom holda iste'mol qilish"
+   ],
+   "x": "«Odam uchun eng muhim himoya go'shtni ichki qismigacha to'liq pishirishdir»"
+  },
+  {
+   "q": "Davolash bayonnomasiga ko'ra teniarinxozda qaysi dori vositalari qo'llanadi?",
+   "c": "prazikvantel, niklozamid yoki albendazol",
+   "w": [
+    "oksfendazol, fenasal yoki albendazol",
+    "niklozamid, oksfendazol yoki fenasal",
+    "prazikvantel, fenasal yoki oksfendazol",
+    "TSOL18, oksfendazol yoki niklozamid"
+   ],
+   "x": "«teniarinxozda prazikvantel, niklozamid yoki albendazol qo'llanadi»"
+  },
+  {
+   "q": "Tenioz bilan og'rigan bemor qayerda davolanadi?",
+   "c": "infeksion statsionarda xavfsizlik choralariga rioya qilib",
+   "w": [
+    "uyda sanitariya choralariga rioya qilib",
+    "dispanser kuzatuvida xavfsizlik choralarisiz",
+    "chorvachilik xo'jaligida maxsus kiyim kiyib",
+    "bozorda ekspertiza o'tkazib"
+   ],
+   "x": "«Tenioz bilan og'rigan bemor infeksion statsionarda xavfsizlik choralariga rioya qilib davolanadi»"
+  },
+  {
+   "q": "Bayonnomada chorvadorlar orasida niklozamid bilan kimyoviy profilaktika qancha vaqtda bir marta o'tkaziladi?",
+   "c": "2–2,5 oyda yoki 4 oyda",
+   "w": [
+    "har chorakda 2 g fenasal",
+    "har chorakda bir marta",
+    "ikki yilda bir marta",
+    "ikki oyda ikki marta"
+   ],
+   "x": "«bayonnomada 2–2,5 oyda yoki 4 oyda bir marta»"
+  },
+  {
+   "q": "JSST «Bir salomatlik» yondashuvida cho'chqalar uchun nima tavsiya etiladi?",
+   "c": "oksfendazol bilan davolash va TSOL18 vaksinasi bilan emlash",
+   "w": [
+    "albendazol bilan davolash va TSOL18 vaksinasi bilan emlash",
+    "prazikvantel bilan davolash va fenasal bilan emlash",
+    "oksfendazol bilan emlash va TSOL18 bilan davolash",
+    "niklozamid bilan davolash va yopiq holda saqlash"
+   ],
+   "x": "«cho'chqalarni oksfendazol bilan davolash va TSOL18 vaksinasi bilan emlash»"
+  },
+  {
+   "q": "Tenioz bilan og'rigan bemor sog'ayganidan keyin qancha muddat tibbiy kuzatuvda bo'ladi?",
+   "c": "ikki yil tibbiy kuzatuvda",
+   "w": [
+    "besh oy tibbiy kuzatuvda",
+    "bir yil tibbiy kuzatuvda",
+    "uch oy tibbiy kuzatuvda",
+    "o'n yil tibbiy kuzatuvda"
+   ],
+   "x": "«Bemor sog'ayganidan keyin ham ikki yil tibbiy kuzatuvda bo'ladi»"
+  },
+  {
+   "q": "Mahalliy hujjatlarda nima ko'rsatilmagan?",
+   "c": "cho'chqalarni emlash yoki oksfendazol bilan davolash dasturlari",
+   "w": [
+    "go'shtni majburiy ekspertizadan o'tkazish tartibi",
+    "qoramol go'shtini muzlatish rejimi va harorati",
+    "tenioz bemorlarini infeksion statsionarda davolash",
+    "hojatxonalar qurish va najasni zararsizlantirish"
+   ],
+   "x": "«Mahalliy hujjatlarda cho'chqalarni emlash yoki oksfendazol bilan davolash dasturlari ko'rsatilmagan»"
+  }
+ ],
+ "105": [
+  {
+   "q": "Klinik amaliyotda exinokokkozning qaysi ikki turi eng ko'p uchraydi?",
+   "c": "Echinococcus granulosus va E. multilocularis",
+   "w": [
+    "Echinococcus oligarthrus va E. vogeli",
+    "E. granulosus va E. oligarthrus",
+    "E. multilocularis va E. vogeli",
+    "Echinococcus vogeli va E. granulosus"
+   ],
+   "x": "«Echinococcus granulosus, E. multilocularis, E. oligarthrus va E. vogeli bilan bog'liq; klinik amaliyotda dastlabki ikki tur eng ko'p uchraydi»"
+  },
+  {
+   "q": "E. granulosus qo'zg'atadigan kasallik qanday ataladi?",
+   "c": "kistoz (bir kamerali) exinokokkoz",
+   "w": [
+    "alveokokkoz yoki ko'p kamerali exinokokkoz",
+    "teniarinxoz yoki bir kamerali alveokokkoz",
+    "ko'p kamerali kistoz teniarinxoz",
+    "tenioz yoki ko'p kamerali kista"
+   ],
+   "x": "«E. granulosus qo'zg'atadigan kasallik kistoz (bir kamerali) exinokokkoz»"
+  },
+  {
+   "q": "Voyaga yetgan E. granulosus uzunligi qancha bo'ladi?",
+   "c": "uzunligi taxminan 5 mm gacha",
+   "w": [
+    "uzunligi taxminan 50 sm gacha",
+    "uzunligi taxminan 30–50 mkm",
+    "uzunligi taxminan 400–800 mm gacha",
+    "uzunligi taxminan 10 metr gacha"
+   ],
+   "x": "«E. granulosus uzunligi taxminan 5 mm gacha bo'lgan mayda gelmint»"
+  },
+  {
+   "q": "Oxirgi yetilgan bo'g'imda nechta tuxum shakllanadi?",
+   "c": "400–800 ta tuxum",
+   "w": [
+    "30–50 ta tuxum",
+    "5–20 ta tuxum",
+    "70 ta tuxum",
+    "2–3 ta tuxum"
+   ],
+   "x": "«Oxirgi, yetilgan bo'g'imda 400–800 ta tuxum shakllanadi»"
+  },
+  {
+   "q": "Bir kamerali kistaning rivojlanishi qancha davom etishi mumkin?",
+   "c": "3 yildan 10 yilgacha",
+   "w": [
+    "3 haftadan 10 haftagacha",
+    "5 haftadan 20 haftagacha",
+    "4–12 haftagacha",
+    "6–7 haftagacha"
+   ],
+   "x": "«Bir kamerali kistaning rivojlanishi 3 yildan 10 yilgacha davom etishi»"
+  },
+  {
+   "q": "Exinokokkozning definitiv xo'jayinlari kimlar?",
+   "c": "itlar, bo'ri va tulki",
+   "w": [
+    "qo'y, qoramol va echki",
+    "tuya, qo'y va echki",
+    "odam, it va qo'y",
+    "qoramol, tuya va odam"
+   ],
+   "x": "«itlar, bo'ri va tulki kabi it oilasi vakillari»"
+  },
+  {
+   "q": "Odam exinokokkozda nima sababdan epidemiologik «berk ko'cha» hisoblanadi?",
+   "c": "u qo'zg'atuvchining tabiatda aylanishini davom ettirmaydi",
+   "w": [
+    "u tuxumni o't va suv bilan yutmaydi",
+    "u itlarning ingichka ichagida 5–20 oy yashaydi",
+    "u tashqi muhitga ko'p miqdorda tuxum ajratadi",
+    "u itlarga xom ichki a'zolarni beradi"
+   ],
+   "x": "«chunki u qo'zg'atuvchining tabiatda aylanishini davom ettirmaydi»"
+  },
+  {
+   "q": "Namli tuproqda tuxumlar 6 °C haroratda qancha vaqt hayotchan qoladi?",
+   "c": "yarim yilgacha hayotchan",
+   "w": [
+    "uch hafta hayotchan",
+    "bir oyga yaqin hayotchan",
+    "ikki hafta hayotchan",
+    "ikki yil hayotchan"
+   ],
+   "x": "«6 °C da esa yarim yilgacha hayotchan qoladi»"
+  },
+  {
+   "q": "Islandiyada exinokokkoz qaysi yilga kelib butunlay bartaraf etilgan?",
+   "c": "1953-yilga kelib",
+   "w": [
+    "1918-yilga kelib",
+    "1994-yilga kelib",
+    "2004-yilga kelib",
+    "2019-yilga kelib"
+   ],
+   "x": "«1953-yilga kelib kasallik u yerda butunlay bartaraf etilgan»"
+  },
+  {
+   "q": "O'zbekistonda 1994–2019-yillarda ro'yxatga olingan kasallanishning eng yuqori ko'rsatkichi qaysi yilda kuzatilgan?",
+   "c": "2004-yilda 6,01",
+   "w": [
+    "1994-yilda 3,17",
+    "2019-yilda 2,3",
+    "2007-yilda 6,01",
+    "2006-yilda 5,7"
+   ],
+   "x": "«eng yuqori ko'rsatkich 2004-yilda 6,01»"
+  }
+ ],
+ "106": [
+  {
+   "q": "Kistoz exinokokkoz uzoq vaqt qanday kechadi?",
+   "c": "ko'pincha yillar davomida belgisiz kechadi",
+   "w": [
+    "ko'pincha bir necha kun davomida o'tkir kechadi",
+    "ko'pincha oylar davomida yuqori isitma bilan kechadi",
+    "ko'pincha ikki hafta davomida mexanik sariqlik bilan kechadi",
+    "ko'pincha yillar davomida eozinofiliya bilan kechadi"
+   ],
+   "x": "«Kistoz exinokokkoz uzoq vaqt, ko'pincha yillar davomida belgisiz kechadi»"
+  },
+  {
+   "q": "Kista joylashuvi bo'yicha jigar taxminan necha foiz holatda zararlanadi?",
+   "c": "jigar taxminan 70 %",
+   "w": [
+    "o'pka taxminan 70 %",
+    "jigar taxminan 20 %",
+    "jigar taxminan 85 %",
+    "o'pka taxminan 85 %"
+   ],
+   "x": "«jigar taxminan 70 %, o'pka 20 % atrofida zararlanadi»"
+  },
+  {
+   "q": "Jigar zararlanganda bemorlar qayerda og'irlik va og'riqdan shikoyat qiladi?",
+   "c": "o'ng qovurg'a ostida va epigastriyda",
+   "w": [
+    "o'ng o'pka bo'lagida va qorin bo'shlig'ida",
+    "qorin bo'shlig'ida va taloq sohasida",
+    "taloq, buyrak va miya sohasida",
+    "qorin bo'shlig'ida va buyrak sohasida"
+   ],
+   "x": "«Jigar zararlanganda bemorlar o'ng qovurg'a ostida va epigastriyda og'irlik hamda og'riqdan»"
+  },
+  {
+   "q": "O'pka exinokokkozida qanday belgilar kuzatiladi?",
+   "c": "qaysar quruq yo'tal, balg'amda qon aralashmasi, ko'krak qafasida og'riq va hansirash",
+   "w": [
+    "o'ng qovurg'a ostida og'riq, mexanik sariqlik, asit va oyoqlarda shish",
+    "eshakemi, holsizlik, eozinofiliya va allergik reaksiyalar",
+    "holsizlik, eshakemi va qonda eozinofiliya, sariqlik",
+    "siydikda skolekslar, qorin og'rig'i va yuqori isitma"
+   ],
+   "x": "«O'pka zararlanganda qaysar quruq yo'tal, balg'amda qon aralashmasi, ko'krak qafasida og'riq va hansirash kuzatiladi»"
+  },
+  {
+   "q": "Pufak bronxga yorilganda nima kuzatiladi?",
+   "c": "kuchli yo'tal bilan balg'amda pufak suyuqligi ajraladi",
+   "w": [
+    "kollaps va o'lim xavfi tug'iladi",
+    "o't yo'llari bilan qo'shilib, sistobiliar oqma paydo bo'ladi",
+    "qorin bo'shlig'iga tushib, peritonit rivojlanadi",
+    "oyoqlarda shish va asit paydo bo'ladi"
+   ],
+   "x": "«Pufak bronxga yorilganda kuchli yo'tal bilan balg'amda pufak suyuqligi va qobiq bo'laklari ajraladi»"
+  },
+  {
+   "q": "Exinokokkozning eng ko'p uchraydigan asoratlari qaysilar?",
+   "c": "pufakning yiringlashi va abssess hosil bo'lishi, qo'shni a'zolarning siqilishi, kistaning yorilishi",
+   "w": [
+    "mexanik sariqlik, asit, oyoqlarda shish va eozinofiliya, jigarning kattalashishi",
+    "anafilaktik shok, kollaps va o'lim xavfi, nogironlik va operatsiyadan keyingi asoratlar",
+    "eshakemi, holsizlik, hansirash va qaysar quruq yo'tal, qonda eozinofiliya",
+    "sistobiliar oqma, xolangit, peritonit va o'tkir qorin og'rig'i"
+   ],
+   "x": "«Eng ko'p uchraydigan asoratlar — pufakning yiringlashi va abssess hosil bo'lishi, qo'shni a'zolarning siqilishi, kistaning yorilishi»"
+  },
+  {
+   "q": "WHO-IWGE tasnifida qaysi pufaklar nofaol bosqichga kiradi?",
+   "c": "CE4 va CE5 pufaklar",
+   "w": [
+    "CE1 va CE2 pufaklar",
+    "CE3a va CE3b pufaklar",
+    "CE1 va CE5 pufaklar",
+    "CE2 va CE4 pufaklar"
+   ],
+   "x": "«va nofaol (CE4, CE5) bosqichlarga ajratadi»"
+  },
+  {
+   "q": "Serologik tashxis qaysi reaksiyalar orqali o'tkaziladi?",
+   "c": "immunofermentli tahlil va bilvosita gemagglyutinatsiya reaksiyasi",
+   "w": [
+    "ultratovush tekshiruvi va kompyuter tomografiya",
+    "ultratovush tekshiruvi, kompyuter tomografiya va rentgenografiya",
+    "umumiy qon tahlili va EChT aniqlash",
+    "balg'am va siydikda skoleks aniqlash"
+   ],
+   "x": "«immunofermentli tahlil (IFT) va bilvosita gemagglyutinatsiya reaksiyasi (BGAR) orqali»"
+  },
+  {
+   "q": "Albendazol kattalarga qanday dozada va kursda beriladi?",
+   "c": "kattalarga 400 mg dan kuniga ikki mahal, 28 kunlik 3–4 kurs",
+   "w": [
+    "kattalarga 400 mg dan kuniga bir mahal, 28 kunlik 3–4 kurs",
+    "kattalarga 15 mg/kg kuniga ikki mahal, 14 kunlik 3–4 kurs",
+    "kattalarga 400 mg dan kuniga ikki mahal, 14 kunlik 2–4 kurs",
+    "kattalarga 60 mg dan kuniga uch mahal, 28 kunlik 2–4 kurs"
+   ],
+   "x": "«Albendazol kattalarga 400 mg dan kuniga ikki mahal, tana vazni 60 kg dan kam bo'lganda 15 mg/kg miqdorda ikki qabulga bo'lib, 28 kunlik 3–4 kurs (kurslar orasida 14 kunlik tanaffus) bilan beriladi»"
+  },
+  {
+   "q": "166-son standartida kurs samaradorligi qanday baholanadi?",
+   "c": "antitanachalar titri to'rt baravar kamayishi",
+   "w": [
+    "antitanachalar titri ikki baravar kamayishi",
+    "kista o'lchami to'rt baravar kamayishi",
+    "eozinofiliya to'rt baravar kamayishi",
+    "EChT to'rt baravar tezlashishi"
+   ],
+   "x": "«kurs samaradorligi 2–4 kursdan keyin antitanachalar titri to'rt baravar kamayishi bilan baholanadi»"
+  }
+ ]
+}

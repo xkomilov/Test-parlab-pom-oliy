@@ -1,0 +1,338 @@
+{
+ "074": [
+  {
+   "q": "Nechta teniarinxoz bemori 1993-yilda respublikada bo'lgan?",
+   "c": "2608 nafar",
+   "w": [
+    "215 nafar",
+    "1755 nafar",
+    "2057 nafar",
+    "264 807 nafar"
+   ],
+   "x": "«1993-yilda respublikada 2608 nafar (0,05 foiz) teniarinxoz bilan og'rigan bemor»"
+  },
+  {
+   "q": "1993-yilda teniarinxoz bemorlaridan Buxoro viloyatiga qanchasi to'g'ri kelgan?",
+   "c": "215 nafari",
+   "w": [
+    "2608 nafari",
+    "23 nafari",
+    "12 nafari",
+    "2057 nafari"
+   ],
+   "x": "«shundan 215 nafari (0,06 foiz) Buxoro viloyatiga to'g'ri kelgan»"
+  },
+  {
+   "q": "Teniarinxoz kasallanishi bo'yicha birinchi o'rinda qaysi hududlar bo'lgan?",
+   "c": "Xorazm viloyati va Qoraqalpog'iston Respublikasi",
+   "w": [
+    "Buxoro viloyati va Samarqand viloyati",
+    "Qashqadaryo va Jizzax viloyatlari",
+    "Andijon, Toshkent viloyati va Toshkent shahri",
+    "Payariq va Nurobod tumanlari"
+   ],
+   "x": "«Kasallanish bo'yicha Xorazm viloyati va Qoraqalpog'iston Respublikasi birinchi o'rinda, Buxoro viloyati uchinchi o'rinda bo'lgan»"
+  },
+  {
+   "q": "Sanitariya choralari natijasida Buxoro viloyatida teniarinxoz kasallanishi necha marta kamaygan?",
+   "c": "4,8 marta kamaygan",
+   "w": [
+    "2,5 marta kamaygan",
+    "50 martadan ortiq kamaygan",
+    "6,01 marta kamaygan",
+    "2 marta kamaygan"
+   ],
+   "x": "«Buxoro viloyatida kasallanish 4,8 marta, Romitan tumanida esa 50 martadan ortiq kamaygan»"
+  },
+  {
+   "q": "2006-yilda zararlanganlarning necha foizini exinokokkoz tashkil qilgan?",
+   "c": "5,7 foizini",
+   "w": [
+    "3,5 foizini",
+    "15,38 foizini",
+    "53,85 foizini",
+    "0,58 foizini"
+   ],
+   "x": "«ularning 5,7 foizini exinokokkoz tashkil qilgani»"
+  },
+  {
+   "q": "Exinokokkoz kasallanishining eng yuqori ko'rsatkichi (100 ming aholiga 6,01) qaysi yilda bo'lgan?",
+   "c": "2004-yilda",
+   "w": [
+    "1994-yilda",
+    "2007-yilda",
+    "2019-yilda",
+    "2003-yilda"
+   ],
+   "x": "«eng yuqori ko'rsatkich 2004-yilda 6,01»"
+  },
+  {
+   "q": "Exinokokkoz bo'yicha viloyatlar kesimida eng yuqori ko'rsatkichlar qaysi viloyatlarda kuzatilgan?",
+   "c": "Xorazm va Buxoro viloyatlarida",
+   "w": [
+    "Andijon va Toshkent viloyatlarida",
+    "Qashqadaryo va Jizzax viloyatlarida",
+    "Navoiy va Farg'ona viloyatlarida",
+    "Toshkent shahri va Samarqand viloyatida"
+   ],
+   "x": "«eng yuqori ko'rsatkichlar Xorazm va Buxoro viloyatlarida kuzatilgan bo'lib, ular respublika ko'rsatkichidan ikki baravar yuqori»"
+  },
+  {
+   "q": "Payariq tumanida ultratovush skriningida tekshirilgan 2057 kishining qanchasida exinokokk kistalari aniqlangan?",
+   "c": "12 nafarida (0,58 foiz)",
+   "w": [
+    "23 nafarida (1,6 foiz)",
+    "28 nafarida (1,6 foiz)",
+    "215 nafarida (0,06 foiz)",
+    "2 nafarida (0,58 foiz)"
+   ],
+   "x": "«tekshirilgan 2057 kishidan 12 nafarida (0,58 foiz) qorin bo'shlig'ida exinokokk kistalari aniqlangan»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartalariga ko'ra exinokokkoz yuqish manbalari orasida eng ko'p qaysi manba chiqqan?",
+   "c": "itlar (53,85 foiz)",
+   "w": [
+    "ko'katlar (15,38 foiz)",
+    "qoramol (7,69 foiz)",
+    "mushuklar (1,92 foiz)",
+    "shaxsiy gigiyena qoidalariga amal qilmaslik (11,55 foiz)"
+   ],
+   "x": "«eng ko'p itlar (53,85 foiz), keyin ko'katlar (15,38 foiz)»"
+  },
+  {
+   "q": "Fassiolyoz uchun oraliq xo'jayin sifatida kimlar talab qilinadi?",
+   "c": "chuchuk suv mollyuskalari",
+   "w": [
+    "qo'ylar va qoramol",
+    "itlar va mushuklar",
+    "yovvoyi to'ng'iz",
+    "xom yoki yetarli pishirilmagan baliq"
+   ],
+   "x": "«Fassiolyoz chuchuk suv mollyuskalarini oraliq xo'jayin sifatida talab qiladigan, o'simlik orqali yuqadigan trematodoz zoonoz»"
+  }
+ ],
+ "075": [
+  {
+   "q": "Devastatsiya nima?",
+   "c": "qo'zg'atuvchini muayyan hududdan butunlay yo'qotishga qaratilgan kompleks kurash",
+   "w": [
+    "qo'zg'atuvchini davolash orqali bemorlardan yo'qotishga qaratilgan kurash",
+    "hasharotlarni yo'qotishga yo'naltirilgan tadbirlar majmuasi",
+    "odam va hayvonlarni gelmintlardan xalos qilishga qaratilgan choralar majmuasi",
+    "kasallikni nazorat qilish va oldini olishga qaratilgan jamoat profilaktikasi"
+   ],
+   "x": "«qo'zg'atuvchini muayyan hududdan butunlay yo'qotishga qaratilgan kompleks kurash konsepsiyasi»"
+  },
+  {
+   "q": "Devastatsiya atamasi qaysi yilda taklif etilgan?",
+   "c": "1944-yilda",
+   "w": [
+    "1947-yilda",
+    "1948-yilda",
+    "1931-yilda",
+    "1974-yilda"
+   ],
+   "x": "«Atama K.I. Skryabin tomonidan 1944-yilda taklif etilgani»"
+  },
+  {
+   "q": "Devastatsiya samaradorligi nimaga bog'liq?",
+   "c": "qo'zg'atuvchining biologiyasi va tabiiy rezervuar mavjudligiga",
+   "w": [
+    "bemorlar soni va davolash muddatiga",
+    "hasharotlar soni va dezinseksiya muddatiga",
+    "aholi soni va sanitariya holatiga",
+    "bemorlarni davolash va hasharotlarni yo'qotish vositalariga"
+   ],
+   "x": "«devastatsiya samaradorligi qo'zg'atuvchining biologiyasi va tabiiy rezervuar mavjudligiga bog'liq»"
+  },
+  {
+   "q": "Dezinseksiya nimani yo'qotishga yo'naltirilgan tadbirlar?",
+   "c": "hasharotlarni yo'qotish",
+   "w": [
+    "gelmintlarni yo'qotish",
+    "qo'zg'atuvchilarni yo'qotish",
+    "tuxum va lichinkalarni yo'qotish",
+    "oraliq xo'jayinlarni yo'qotish"
+   ],
+   "x": "«dezinseksiya esa hasharotlarni yo'qotishga yo'naltirilgan tadbirlardir»"
+  },
+  {
+   "q": "Degelmintizatsiya va devastatsiya o'rtasidagi munosabat qanday?",
+   "c": "degelmintizatsiya vosita, devastatsiya esa natija",
+   "w": [
+    "devastatsiya vosita, degelmintizatsiya esa natija",
+    "degelmintizatsiya strategiya, devastatsiya esa vosita",
+    "dezinseksiya vosita, devastatsiya esa dezinseksiya",
+    "devastatsiya va degelmintizatsiya bir xil vosita"
+   ],
+   "x": "«degelmintizatsiya vosita, devastatsiya esa shu vositalar yordamida erishiladigan natijadir»"
+  },
+  {
+   "q": "Rishta O'zbekistonda qaysi yilda tugatilgan?",
+   "c": "1931-yilda",
+   "w": [
+    "1974-yilda",
+    "1950-yilda",
+    "1960-yilda",
+    "1968-yilda"
+   ],
+   "x": "«respublikada rishta 1931-yilda tugatilgan»"
+  },
+  {
+   "q": "Rishta qo'zg'atuvchisi odamga qanday yuqadi?",
+   "c": "ochiq suv havzalaridagi siklopslar orqali",
+   "w": [
+    "O. papillipes kanalarining chaqishi orqali",
+    "finnali go'sht orqali",
+    "tomorqa tuprog'i orqali",
+    "iflos qo'l va tuproq orqali"
+   ],
+   "x": "«Qo'zg'atuvchi ochiq suv havzalarida yashaydigan siklopslar, ya'ni mayda qisqichbaqasimonlar orqali yuqadi»"
+  },
+  {
+   "q": "Rishtaga qarshi kurashning ikkinchi yo'nalishi nima bo'lgan?",
+   "c": "suv havzalaridagi zararlangan siklopslarni yo'qotish",
+   "w": [
+    "itlarni degelmintizatsiya qilish",
+    "tomorqa tuprog'ini tekshirish",
+    "finnali go'shtni zararsizlantirish va itlarni nazorat qilish",
+    "kanalarni insektitsid bilan ishlash"
+   ],
+   "x": "«suv havzalaridagi rishta lichinkalari bilan zararlangan siklopslarni yo'qotish»"
+  },
+  {
+   "q": "Rishta kasallanishi ayrim joylarda necha foizgacha yetgan va jami nechta bemor aniqlangan?",
+   "c": "20 foizgacha, jami 1116 nafar",
+   "w": [
+    "10 foizgacha, jami 1116 nafar",
+    "20 foizgacha, jami 1931 nafar",
+    "20 foizgacha, jami 1944 nafar",
+    "30 foizgacha, jami 1968 nafar"
+   ],
+   "x": "«Kasallanish ayrim joylarda 20 foizgacha yetgan va jami 1116 nafar bemor aniqlangan»"
+  },
+  {
+   "q": "Devastatsiya qaysi kasalliklarda samarali?",
+   "c": "manba asosan odam bo'lgan kasalliklarda",
+   "w": [
+    "yovvoyi hayvonlar rezervuar bo'lgan kasalliklarda",
+    "tabiiy o'choqli zoonozlarda",
+    "tabiiy rezervuari mavjud kasalliklarda",
+    "manba asosan hayvon bo'lgan kasalliklarda"
+   ],
+   "x": "«U qo'zg'atuvchi biologiyasi ma'lum, sikl bo'g'inlarini uzish mumkin va manba asosan odam bo'lgan kasalliklarda samaralidir»"
+  }
+ ],
+ "076": [
+  {
+   "q": "Farg'ona ma'ruzasiga ko'ra gimenolepidozning qancha qismi hech qanday shikoyatsiz o'tishi mumkin?",
+   "c": "30 foizgacha holati",
+   "w": [
+    "5 foizgacha holati",
+    "12 foizgacha holati",
+    "85 foizgacha holati",
+    "50 foizgacha holati"
+   ],
+   "x": "«gimenolepidozning 30 foizgacha holati hech qanday shikoyatsiz o'tishi mumkinligi»"
+  },
+  {
+   "q": "Gelmintlarning organizmga umumiy ta'siri qaysi usullar orqali bo'linadi?",
+   "c": "allergik, mexanik, travmatik, toksik va oziqlanish",
+   "w": [
+    "migratsion, surunkali va o'tkir bosqichlar",
+    "ichak, jigar, o'pka va miya joylashuvi",
+    "subklinik, yaqqol va asoratli shakl",
+    "enterobioz, gimenolepidoz va neyrotsistitserkoz"
+   ],
+   "x": "«allergik, mexanik, travmatik, toksik va oziqlanish usullari orqali ta'sirga bo'lingan»"
+  },
+  {
+   "q": "Anafilaktik shok qaysi holatlarda uchrashi mumkin?",
+   "c": "exinokokk pufagi yorilganda va askaridozda",
+   "w": [
+    "enterobioz va gimenolepidozda",
+    "trixosefalyoz va ankilostomidozda",
+    "difillobotrioz va fassiolyozda",
+    "neyrotsistitserkoz va opistorxozda"
+   ],
+   "x": "«anafilaktik shok exinokokk pufagi yorilganda va askaridozda uchrashi mumkin»"
+  },
+  {
+   "q": "Mexanik ta'sirda askarida nimalarni keltirib chiqaradi?",
+   "c": "jigar va o'pka xo'ppozini, o't yo'llari tiqilishini va ichak tutilishini",
+   "w": [
+    "ichak devorini jarohatlab qon ketishini, teshilishini va peritonitni",
+    "tutqanoq xurujlari va miya sistitserkozini",
+    "bolalarda o'sishdan qolishni va ozib ketishni",
+    "vitamin yetishmovchiligi va avitaminozni"
+   ],
+   "x": "«askarida jigar va o'pka xo'ppozini, o't yo'llari tiqilishini va ichak tutilishini keltirib chiqaradi»"
+  },
+  {
+   "q": "Lichinkalar o'pkadan o'tganda qanday sindrom rivojlanishi mumkin?",
+   "c": "Lyoffler sindromi",
+   "w": [
+    "Kvinke shishi",
+    "pernitsioz anemiya",
+    "asfiksiya sindromi",
+    "anafilaktik shok"
+   ],
+   "x": "«ya'ni Lyoffler sindromi rivojlanishi mumkin»"
+  },
+  {
+   "q": "Trixinellyozda o'tkir bosqich qanday belgilar bilan namoyon bo'ladi?",
+   "c": "mushak og'riqlari, yuz va ko'z atrofi shishi, isitma va eozinofiliya",
+   "w": [
+    "qorin og'rig'i, ko'ngil aynishi, diareya va qabziyat",
+    "kindik atrofi og'rig'i, tish g'ichirlatish va so'lak oqishi",
+    "tunda anus atrofida qichishish va enurez",
+    "rangpar teri, charchash va ish qobiliyatining pasayishi"
+   ],
+   "x": "«o'tkir bosqich mushak og'riqlari, yuz va ko'z atrofi shishi, isitma va eozinofiliya bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Enterobiozning asosiy belgisi nima?",
+   "c": "tunda orqa chiqaruv teshigi atrofida qichishish",
+   "w": [
+    "kunduzi qorinning o'ng tomonida kuchli og'riq",
+    "terida oq dog'lar, soch va qosh tushishi",
+    "ko'z atrofi shishi va mushak og'riqlari",
+    "o'ng biqin, bel va kurak og'rig'i"
+   ],
+   "x": "«Enterobiozda tunda orqa chiqaruv teshigi atrofida qichishish asosiy belgi»"
+  },
+  {
+   "q": "Ankilostomidozda gelmintlar ichakda necha yilgacha yashashi aytilgan?",
+   "c": "ichakda 10–15 yilgacha yashashi",
+   "w": [
+    "ichakda 2–5 yilgacha yashashi",
+    "ichakda 25–40 yilgacha yashashi",
+    "ichakda 20–30 yilgacha yashashi",
+    "ichakda 85 yilgacha yashashi"
+   ],
+   "x": "«ular ichakda 10–15 yilgacha yashashi va og'ir anemiya chaqirishi»"
+  },
+  {
+   "q": "Difillobotriozda xavfli anemiya nima sababli rivojlanadi?",
+   "c": "gelmint B12 vitaminini o'zlashtiradi",
+   "w": [
+    "gelmint ichak devoriga yopishib qon so'radi",
+    "gelmint oqsillarni va vitaminlarni parchalaydi",
+    "jigar to'qimasi shikastlanadi",
+    "ichak shilliq qavati tushadi"
+   ],
+   "x": "«difillobotriozda esa gelmint B12 vitaminini o'zlashtirgani uchun pernitsioz, ya'ni xavfli anemiya rivojlanishi mumkin»"
+  },
+  {
+   "q": "Exinokokkozda qo'zg'atuvchi 85 foiz hollarda qaysi a'zolarni zararlaydi?",
+   "c": "jigar va o'pkani",
+   "w": [
+    "miya va mushaklarni",
+    "o't yo'llari va ichakni",
+    "oshqozon osti bezi va ichakni",
+    "ichak va o'pka arteriyasini"
+   ],
+   "x": "«Qo'zg'atuvchi 85 foiz hollarda jigar va o'pkani zararlaydi»"
+  }
+ ]
+}

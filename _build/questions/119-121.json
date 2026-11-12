@@ -1,0 +1,338 @@
+{
+ "119": [
+  {
+   "q": "Gelmint yoki uning lichinkasi to'qimalarda joylashganda najasda nima kuzatiladi?",
+   "c": "tuxum yoki lichinka ajralmaydi",
+   "w": [
+    "tuxum ko'p miqdorda ajraladi",
+    "faqat voyaga yetgan gelmintlar ajraladi",
+    "antitanalar najas bilan ajraladi",
+    "lichinkalar najas bilan ajraladi"
+   ],
+   "x": "«Gelmint yoki uning lichinkasi to'qimalarda joylashganda najasda tuxum yoki lichinka ajralmaydi»"
+  },
+  {
+   "q": "Antitanalar zararlanishdan qancha vaqt o'tib paydo bo'ladi?",
+   "c": "bir necha hafta o'tib",
+   "w": [
+    "bir necha soat o'tib",
+    "bir necha yil o'tib",
+    "bir necha kun o'tib",
+    "bir necha oy o'tib"
+   ],
+   "x": "«antitanalar zararlanishdan bir necha hafta o'tib paydo bo'ladi»"
+  },
+  {
+   "q": "Exinokokkozda tashxis avvalo qaysi usullarga tayanadi?",
+   "c": "tasvirlash usullariga (ultratovush, kompyuter tomografiyasi)",
+   "w": [
+    "serologik testlarga (BGAR, IgG, IFT) va koproantigen testlariga",
+    "koproovoskopiya, o't suyuqligini tekshirish va koproantigen testlariga",
+    "serologik testlarga (BGAR, IgG) va bilvosita gemagglyutinatsiyaga",
+    "mushak biopsiyasi va sun'iy me'da shirasida hazm qilish usullariga"
+   ],
+   "x": "«Exinokokkozda tashxis avvalo tasvirlash usullariga (ultratovush, kompyuter tomografiyasi) tayanadi»"
+  },
+  {
+   "q": "Exinokokkozda davolash natijasi qachon qoniqarli hisoblanadi?",
+   "c": "antimodda titri 4 marta pasayganda",
+   "w": [
+    "antimodda titri 4 marta oshganda",
+    "antimodda titri o'zgarmaganda",
+    "antimodda titri 24 marta pasayganda",
+    "antimodda titri manfiy bo'lganda"
+   ],
+   "x": "«2–4 kurs davolashdan keyin antimodda titri 4 marta pasayganda natija qoniqarli hisoblanadi»"
+  },
+  {
+   "q": "Nima sababli toksokarozda tashxis asosan immunologik usullarga tayanadi?",
+   "c": "lichinkalar voyaga yetmaydi, najasda tuxum topilmaydi",
+   "w": [
+    "lichinkalar voyaga yetmaydi, najasda tuxum ko'p topiladi",
+    "najasda tuxum ko'p topiladi, tashxis koproovoskopiyaga tayanadi",
+    "lichinkalar najas bilan ajraladi",
+    "gelmint ichakda voyaga yetadi va tuxum ajratadi"
+   ],
+   "x": "«lichinkalar odam organizmida voyaga yetmaydi, shu sababli najasda tuxum topilmaydi va tashxis asosan immunologik usullarga tayanadi»"
+  },
+  {
+   "q": "Toksokarozda xalqaro adabiyotda eng ko'p qo'llanadigan yondashuv qaysi?",
+   "c": "ekskretor-sekretor antigenlarga antitanalarni IFA va immunoblot bilan aniqlash",
+   "w": [
+    "najasda tuxumlarni koproovoskopiya va Kato usuli bilan aniqlash",
+    "mushak biopsiyasini sun'iy me'da shirasida hazm qilish usuli",
+    "o't suyuqligida tuxumlarni Ritchi usulida aniqlash",
+    "koproantigen testini itlarda o'tkazish"
+   ],
+   "x": "«toksokaraning ekskretor-sekretor antigenlariga antitanalarni IFA va immunoblot bilan aniqlash eng ko'p qo'llanadigan yondashuv»"
+  },
+  {
+   "q": "Toksokarozda serologik testlarda yolg'on ijobiy natijaga nima sabab bo'ladi?",
+   "c": "qarindosh askarid va boshqa nematodalar bilan kesishgan reaksiyalar",
+   "w": [
+    "titr dinamikasining takroriy tekshiruvda o'zgarishi",
+    "ko'z va markaziy asab tizimining zararlanishi",
+    "davolashdan keyin kompyuter tashxisot natijalari",
+    "umumiy qon tahlili va ko'z, nevrologik hamda onkologik mutaxassislar maslahati"
+   ],
+   "x": "«Qarindosh askarid va boshqa nematodalar bilan kesishgan reaksiyalar yolg'on ijobiy natija berishi mumkin»"
+  },
+  {
+   "q": "Trixinellyozda qaysi serologik testlar qo'llanadi?",
+   "c": "IFT va BGAR",
+   "w": [
+    "IFA va immunoblot",
+    "koproantigen testlari",
+    "Kato va Berman usullari",
+    "Ritchi cho'ktirish usuli"
+   ],
+   "x": "«bilan bir qatorda IFT va BGAR serologik testlari qo'llanadi»"
+  },
+  {
+   "q": "Opistorxozda manfiy natijada tahlil qanday oraliq bilan takrorlanadi?",
+   "c": "7–10 kunlik oraliq bilan uch marta",
+   "w": [
+    "bir kunlik oraliq bilan ikki marta",
+    "bir oylik oraliq bilan uch marta",
+    "24 soatlik oraliq bilan bir marta",
+    "6 oylik oraliq bilan ikki marta"
+   ],
+   "x": "«Manfiy natijada tahlil 7–10 kunlik oraliq bilan uch marta takrorlanadi»"
+  },
+  {
+   "q": "Strongiloidozda serologik testlar ayniqsa qaysi bemorlarda tavsiya qilinadi?",
+   "c": "immunosupressiv davo, transplantatsiya yoki kimyoterapiya rejalashtirilgan bemorlarda",
+   "w": [
+    "o'pka exinokokkozi yoki nofaol pufaklari bo'lgan bemorlarda",
+    "askaridozning migratsiya bosqichida najasda tuxum bo'lmagan bemorlarda",
+    "opistorxozning o'tkir bosqichida tuxumlar hali ajralmaydigan bemorlarda",
+    "toksokaroz bilan kasallangan va ko'z zararlangan bemorlarda"
+   ],
+   "x": "«ayniqsa immunosupressiv davo, transplantatsiya yoki kimyoterapiya rejalashtirilgan bemorlarda strongiloidozni istisno etish uchun tavsiya qilinadi»"
+  }
+ ],
+ "120": [
+  {
+   "q": "Geogelmintozlarni nazorat qilish talablariga eng ko'p mos keladigan usul qaysi?",
+   "c": "Kato–Kats qalin surtmasi",
+   "w": [
+    "formalin-efir cho'ktirish usuli",
+    "flotatsiya usuli",
+    "sedimentatsiya usuli",
+    "sirka-efir usuli"
+   ],
+   "x": "«Bu talablarga eng ko'p mos keladigan usul Kato–Kats qalin surtmasi hisoblanadi»"
+  },
+  {
+   "q": "Invaziya intensivligi nima bilan o'lchanadi?",
+   "c": "bir gramm najasdagi tuxumlar soni",
+   "w": [
+    "zararlanganlik foizi",
+    "tekshirilgan bolalar soni",
+    "tekshirilgan maktablar soni",
+    "profilaktik kimyoterapiya chastotasi"
+   ],
+   "x": "«invaziya intensivligi, ya'ni bir gramm najasdagi tuxumlar soni»"
+  },
+  {
+   "q": "Kato–Kats usulida teshikli shablon yordamida najasning qancha standart miqdori olinadi?",
+   "c": "standart miqdor 41,7 mg",
+   "w": [
+    "standart miqdor 24 mg",
+    "standart miqdor 6 mg",
+    "standart miqdor 40 mg",
+    "standart miqdor 30 mg"
+   ],
+   "x": "«teshikli shablon yordamida standart miqdor (41,7 mg) olinadi»"
+  },
+  {
+   "q": "Kato–Kats usulida sanalgan tuxumlar soni qaysi koeffitsiyentga ko'paytiriladi?",
+   "c": "24 koeffitsiyentiga",
+   "w": [
+    "6 koeffitsiyentiga",
+    "41,7 koeffitsiyentiga",
+    "40 koeffitsiyentiga",
+    "30 koeffitsiyentiga"
+   ],
+   "x": "«ularning soni 24 koeffitsiyentiga ko'paytirilib, bir gramm najasdagi tuxumlar soni aniqlanadi»"
+  },
+  {
+   "q": "JSST preparatni tayyorlangandan keyin qancha vaqt ichida ko'rishni tavsiya etadi?",
+   "c": "30–60 daqiqa ichida",
+   "w": [
+    "bir soatdan keyin",
+    "5–10 daqiqa ichida",
+    "2–3 daqiqa ichida",
+    "3 daqiqadan keyin"
+   ],
+   "x": "«JSST preparatni tayyorlangandan keyin 30–60 daqiqa ichida ko'rishni tavsiya etadi»"
+  },
+  {
+   "q": "Askaridozda kuchli intensivlik qaysi EPG ga to'g'ri keladi?",
+   "c": "50 000 va undan yuqori",
+   "w": [
+    "5000–49 999",
+    "1–4999",
+    "10 000 dan yuqori",
+    "4000 dan yuqori"
+   ],
+   "x": "«kuchli 50 000 va undan yuqori EPG ga to'g'ri keladi»"
+  },
+  {
+   "q": "JSST qaysi guruhni geogelmintozlar bo'yicha indikator guruh sifatida ko'rsatadi?",
+   "c": "maktab yoshidagi bolalarni",
+   "w": [
+    "ekologik hududdagi bolalarni",
+    "hududdagi maktablarni",
+    "hududdagi aholini",
+    "xavf guruhidagi maktablarni"
+   ],
+   "x": "«JSST maktab yoshidagi bolalarni indikator guruh sifatida ko'rsatadi»"
+  },
+  {
+   "q": "Tanlamada har bir maktabdan taxminan nechta bola tekshirilishi tavsiya etiladi?",
+   "c": "taxminan 50 nafar bola",
+   "w": [
+    "taxminan 5 nafar bola",
+    "taxminan 500 nafar bola",
+    "taxminan 24 nafar bola",
+    "taxminan 100 nafar bola"
+   ],
+   "x": "«har bir maktabdan esa taxminan 50 nafar bola tekshirilishi tavsiya etiladi»"
+  },
+  {
+   "q": "Tarqalish darajasi 50 foizdan yuqori hududlarda profilaktik degelmintizatsiya qanday o'tkazilishi tavsiya etiladi?",
+   "c": "yilda ikki marta",
+   "w": [
+    "yilda bir marta",
+    "2–3 yilda bir marta",
+    "besh yilda bir marta",
+    "yilda 24 marta"
+   ],
+   "x": "«50 foizdan yuqori hududlarda yilda ikki marta o'tkazilishi tavsiya etiladi»"
+  },
+  {
+   "q": "JSST tavsiyalariga ko'ra preparatlarning taxminan necha foizi boshqa mutaxassis tomonidan qayta ko'riladi?",
+   "c": "taxminan 10 foizi",
+   "w": [
+    "taxminan 5 foizi",
+    "taxminan 50 foizi",
+    "taxminan 20 foizi",
+    "taxminan 30 foizi"
+   ],
+   "x": "«preparatlarning taxminan 10 foizi boshqa mutaxassis tomonidan qayta ko'riladi»"
+  }
+ ],
+ "121": [
+  {
+   "q": "Protozoy sistalari tashqi muhitda qancha vaqtgacha saqlanishi mumkin?",
+   "c": "6–12 oygacha",
+   "w": [
+    "5–7 yilgacha",
+    "bir necha oydan 5–7 yilgacha",
+    "1–2 oygacha",
+    "10 yilgacha"
+   ],
+   "x": "«protozoy sistalari esa 6–12 oygacha saqlanishi mumkin»"
+  },
+  {
+   "q": "Qilboshda 1 kg tuproqda nechta va undan ko'p tuxum bo'lganda ifloslanish kuchli hisoblanadi?",
+   "c": "27 va undan ko'p",
+   "w": [
+    "36 va undan ko'p",
+    "15 va undan ko'p",
+    "124 va undan ko'p",
+    "151 va undan ko'p"
+   ],
+   "x": "«qilboshda 27 va undan ko'p bo'lganda ifloslanish kuchli hisoblanadi»"
+  },
+  {
+   "q": "Aholi punktlari tuprog'ida tuxumlar qaysi mavsumda eng kam bo'ladi?",
+   "c": "yozda, 1 kg da 69",
+   "w": [
+    "bahorda, 1 kg da 151,9",
+    "kuzda, 1 kg da 124",
+    "bahorda, 1 kg da 69",
+    "kuzda, 1 kg da 36"
+   ],
+   "x": "«tuxumlar bahorda (1 kg da 151,9) va kuzda (124) eng ko'p, yozda (69) eng kam bo'lishini»"
+  },
+  {
+   "q": "Yuvindi namunalari qanday eritmalarga bo'ktirilgan tamponlar bilan olinadi?",
+   "c": "1 foizli natriy ishqori yoki 20 foizli glitserin eritmasiga",
+   "w": [
+    "1 foizli ichimlik soda yoki 20 foizli glitserin eritmasiga",
+    "10 foizli natriy ishqori yoki 1 foizli glitserin eritmasiga",
+    "1 foizli natriy ishqori yoki 1 foizli ichimlik soda eritmasiga",
+    "20 foizli glitserin yoki 1 foizli ichimlik soda eritmasiga"
+   ],
+   "x": "«1 foizli natriy ishqori yoki 20 foizli glitserin eritmasiga bo'ktirilgan holda»"
+  },
+  {
+   "q": "Romanenko tekshiruvlarida yuvindilarning necha foizi gelmint tuxumlari yoki sistalarni saqlagan?",
+   "c": "30–60 foizi",
+   "w": [
+    "6,0–11,2 foizi",
+    "92–95 foizi",
+    "50–60 foizi",
+    "25,0–50,0 foizi"
+   ],
+   "x": "«yuvindilarning 30–60 foizi gelmint tuxumlari yoki sistalarni saqlagan»"
+  },
+  {
+   "q": "Arxangelsk viloyatida sabzavotlarning necha foizida gelmint tuxumlari topilgan?",
+   "c": "sabzavotlarning 26,7 foizida",
+   "w": [
+    "sabzavotlarning 20 foizida",
+    "sabzavotlarning 9,8 foizida",
+    "sabzavotlarning 38,5 foizida",
+    "sabzavotlarning 12,7 foizida"
+   ],
+   "x": "«Arxangelsk viloyatida sabzavotlarning 26,7 foizida gelmint tuxumlari topilgan»"
+  },
+  {
+   "q": "Mahsulotni tuxumlardan tozalash uchun uni oqar suv ostida qancha vaqt yuvish tavsiya etiladi?",
+   "c": "5–10 daqiqa yuvish",
+   "w": [
+    "15–20 daqiqa yuvish",
+    "30–60 daqiqa yuvish",
+    "120 daqiqa yuvish",
+    "180 daqiqa yuvish"
+   ],
+   "x": "«uni oqar suv ostida 5–10 daqiqa yuvish tavsiya etiladi»"
+  },
+  {
+   "q": "Go'shtni trixinellyozga kompression usul bilan tekshirish qancha vaqt oladi?",
+   "c": "15 daqiqa vaqt oladi",
+   "w": [
+    "20 daqiqa vaqt oladi",
+    "7 daqiqa vaqt oladi",
+    "40 daqiqa vaqt oladi",
+    "180 daqiqa vaqt oladi"
+   ],
+   "x": "«kompression usul bilan 15 daqiqa, sun'iy me'da shirasida hazm qilish bilan 20 daqiqa vaqt oladi»"
+  },
+  {
+   "q": "Cho'chqa askaridasi qancha tuxum ajratadi?",
+   "c": "2 milliongacha tuxum",
+   "w": [
+    "24 mingga yaqin tuxum",
+    "300–600 tuxum",
+    "20 milliongacha tuxum",
+    "24 milliongacha tuxum"
+   ],
+   "x": "«bitta fassiola 24 mingga yaqin, cho'chqa askaridasi 2 milliongacha tuxum ajratadi»"
+  },
+  {
+   "q": "Invaziya aniqlanmagan muassasada qancha tuproq (qum) namunasi olinadi?",
+   "c": "5–6 tuproq (qum) namunasi",
+   "w": [
+    "10–15 tuproq namunasi",
+    "2–3 tuproq namunasi",
+    "25–30 tuproq namunasi",
+    "50 tuproq namunasi"
+   ],
+   "x": "«5–6 tuproq (qum) namunasi olinadi»"
+  }
+ ]
+}

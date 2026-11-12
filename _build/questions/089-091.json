@@ -1,0 +1,338 @@
+{
+ "089": [
+  {
+   "q": "Qilbosh erkagining uzunligi qancha?",
+   "c": "uzunligi 3–4,5 sm",
+   "w": [
+    "uzunligi 3,5–5,5 sm",
+    "uzunligi 50–55 mkm",
+    "uzunligi 22–24 mkm",
+    "uzunligi 3–4 mm"
+   ],
+   "x": "«Erkagining uzunligi 3–4,5 sm, urg'ochisiniki 3,5–5,5 sm»"
+  },
+  {
+   "q": "Qilbosh tanasining oldingi qismi qanday tuzilgan?",
+   "c": "ipsimon cho'zilgan",
+   "w": [
+    "kalta va yo'g'on",
+    "spiralsimon buralgan",
+    "bochkasimon shaklda",
+    "limonsimon shaklda"
+   ],
+   "x": "«Tananing oldingi qismi, taxminan uchdan ikki yoki beshdan uch qismi, ipsimon cho'zilgan»"
+  },
+  {
+   "q": "Voyaga yetgan qilboshlar asosan qayerda parazitlik qiladi?",
+   "c": "ko'richak va chuvalchangsimon o'simtada",
+   "w": [
+    "ingichka ichakning pastki qismida",
+    "shilliq osti qavatning chuqur qatlamida",
+    "ichak bo'shlig'ining pastki qismida",
+    "mushak qavatining pastki qismida"
+   ],
+   "x": "«Voyaga yetgan qilboshlar ko'richak, chuvalchangsimon o'simta va ko'tariluvchi-tushuvchi yo'g'on ichakda parazitlik qiladi»"
+  },
+  {
+   "q": "Qilbosh tuxumlari qanday shaklda bo'ladi?",
+   "c": "bochkasimon yoki limonsimon",
+   "w": [
+    "cho'zinchoq va kalta",
+    "ipsimon yoki yo'g'on",
+    "kalta va spiralsimon",
+    "ipsimon yoki spiralsimon"
+   ],
+   "x": "«Qilbosh tuxumlari bochkasimon yoki limonsimon shaklda, o'lchami taxminan 50–55 × 22–24 mkm»"
+  },
+  {
+   "q": "Urg'ochi qilbosh bir kunda qancha tuxum qo'yadi?",
+   "c": "bir kunda 1000 dan 3500 tagacha yetilmagan tuxum",
+   "w": [
+    "bir kunda 1000 dan 3500 tagacha yetilgan tuxum",
+    "bir kunda 50 dan 100 tagacha yetilmagan tuxum",
+    "bir kunda 10 dan 35 tagacha yetilmagan tuxum",
+    "bir kunda 800 dan 3500 tagacha yetilmagan tuxum"
+   ],
+   "x": "«Urg'ochi qilbosh bir kunda 1000 dan 3500 tagacha yetilmagan tuxum qo'yadi»"
+  },
+  {
+   "q": "Tuxumlarning rivojlanishi uchun eng qulay harorat qancha?",
+   "c": "eng qulay harorat +26...+30 °C",
+   "w": [
+    "eng qulay harorat +15...+35 °C",
+    "eng qulay harorat +17...+29 °C",
+    "eng qulay harorat 12 °C",
+    "eng qulay harorat +26...+28 °C"
+   ],
+   "x": "«eng qulay harorat +26...+30 °C»"
+  },
+  {
+   "q": "Qilbosh lichinkasi askaridadan farqli ravishda nima qilmaydi?",
+   "c": "qon orqali migratsiya qilmaydi",
+   "w": [
+    "ichak shilliq qavatiga kirmaydi",
+    "tuxum ajratmaydi",
+    "shilliq qavatga yopishmaydi",
+    "sabzavotlarda rivojlanmaydi"
+   ],
+   "x": "«Askaridadan farqli ravishda bu lichinka qon orqali migratsiya qilmaydi»"
+  },
+  {
+   "q": "Lichinka shilliq qavatning chuqur qatlamida qancha rivojlanadi?",
+   "c": "3–10 sutka rivojlanadi",
+   "w": [
+    "17–25 sutka rivojlanadi",
+    "1–2 sutka rivojlanadi",
+    "2–3 oy rivojlanadi",
+    "5–7 yil rivojlanadi"
+   ],
+   "x": "«u yerda 3–10 sutka rivojlanadi»"
+  },
+  {
+   "q": "Trixotsefalyozning yagona manbai nima?",
+   "c": "zararlangan odam",
+   "w": [
+    "ifloslangan qo'llar",
+    "sabzavot va ko'katlar",
+    "ifloslangan tuproq",
+    "rezavor mevalar"
+   ],
+   "x": "«yagona manba zararlangan odam bo'lib, u najas bilan tashqi muhitga tuxum ajratadi»"
+  },
+  {
+   "q": "Rus manbalariga ko'ra dunyoda qancha kishi qilbosh bilan zararlangan?",
+   "c": "taxminan 800 million kishi",
+   "w": [
+    "taxminan 80 million kishi",
+    "taxminan 8 million kishi",
+    "taxminan 36 million kishi",
+    "taxminan 8000 million kishi"
+   ],
+   "x": "«dunyoda taxminan 800 million kishi zararlangan»"
+  }
+ ],
+ "090": [
+  {
+   "q": "I.I. Mechnikov 1901-yilda qilboshning qaysi kasalliklar rivojlanishidagi rolini ko'rsatgan?",
+   "c": "appenditsit va tiflit",
+   "w": [
+    "kolit va dizenteriya",
+    "gastrit va yara kasalligi",
+    "kamqonlik va kaxeksiya",
+    "gastrit va kolit"
+   ],
+   "x": "«qilboshning appenditsit va tiflit rivojlanishidagi rolini ko'rsatgan»"
+  },
+  {
+   "q": "Har bir qilbosh sutkada qancha qon so'radi?",
+   "c": "sutkasiga 0,005 ml gacha",
+   "w": [
+    "sutkasiga 5 ml gacha",
+    "sutkasiga 0,5 ml gacha",
+    "sutkasiga 50 ml gacha",
+    "sutkasiga 0,05 ml gacha"
+   ],
+   "x": "«har biri sutkasiga 0,005 ml gacha qon so'radi»"
+  },
+  {
+   "q": "Trixurisli dizenteriya sindromi qanday ko'rinishda namoyon bo'ladi?",
+   "c": "shilliq va qon aralash surunkali diareya",
+   "w": [
+    "kamqonlik va rangparlik",
+    "tutqanoq xurujlari va hushdan ketish",
+    "o'ng pastki qismdagi og'riq va qusish",
+    "barmoqlarning nog'ora tayoqchasimon o'zgarishi"
+   ],
+   "x": "«trixurisli dizenteriya sindromi rivojlanadi: shilliq va qon aralash surunkali diareya»"
+  },
+  {
+   "q": "To'g'ri ichak prolapsi odatda qanday bolalarda uchraydi?",
+   "c": "kichik yoshdagi, to'yib ovqatlanmaydigan bolalarda",
+   "w": [
+    "katta yoshdagi, yaxshi ovqatlanadigan bolalarda",
+    "yengil invaziyali bolalarda",
+    "tropik hududdagi kattalarda",
+    "tropik hududdagi bolalarda"
+   ],
+   "x": "«odatda kichik yoshdagi, to'yib ovqatlanmaydigan va surunkali diareyali bolalarda ko'p sonli gelmintlar bo'lganda uchraydi»"
+  },
+  {
+   "q": "Og'ir shaklning eng yaxshi klinik ko'rsatkichi qaysi?",
+   "c": "nog'ora tayoqchasimon barmoqlar",
+   "w": [
+    "tirnoq yonidagi qalinlashish",
+    "rangparlik va yurak urishi",
+    "uyqu buzilishi va asabiylashish",
+    "temir tanqisligi kamqonligi"
+   ],
+   "x": "«Og'ir shaklning eng yaxshi klinik ko'rsatkichi barmoqlarning nog'ora tayoqchasimon o'zgarishi»"
+  },
+  {
+   "q": "Trixotsefalyoz tashxisining asosi nima?",
+   "c": "najasda tuxumlarni topish",
+   "w": [
+    "Sharko-Leyden kristallarini topish",
+    "EChT ning oshishini aniqlash",
+    "gipoxrom anemiyani aniqlash",
+    "o'ng pastki qismdagi og'riqni aniqlash"
+   ],
+   "x": "«Tashxisning asosi najasda bochkasimon, ikki qutbida tiqinchalari bor tuxumlarni topishdir»"
+  },
+  {
+   "q": "Yengil invaziyada birinchi manfiy natijadan keyin najas tekshiruvi qachon takrorlanadi?",
+   "c": "taxminan to'rt haftadan so'ng",
+   "w": [
+    "taxminan to'rt kundan so'ng",
+    "taxminan ikki soatdan so'ng",
+    "taxminan to'rt oydan so'ng",
+    "taxminan bir yildan so'ng"
+   ],
+   "x": "«najas tekshiruvini taxminan to'rt haftadan so'ng takrorlash tavsiya etilgan»"
+  },
+  {
+   "q": "JSST mezonlariga ko'ra trixotsefalyozda kuchli intensivlik qanday?",
+   "c": "10 000 EPG va undan yuqori",
+   "w": [
+    "1–999 EPG",
+    "1000–9999 EPG",
+    "5000 EPG va undan yuqori",
+    "50 EPG va undan yuqori"
+   ],
+   "x": "«kuchli esa 10 000 EPG va undan yuqori hisoblanadi»"
+  },
+  {
+   "q": "Trixotsefalyozda dispanser kuzatuvi qancha davom etadi?",
+   "c": "uch oygacha",
+   "w": [
+    "bir oygacha",
+    "bir yilgacha",
+    "ikki yilgacha",
+    "to'rt haftagacha"
+   ],
+   "x": "«Dispanser kuzatuvi uch oygacha»"
+  },
+  {
+   "q": "Bayonnomaga ko'ra 5 yoshgacha bolalarga mebendazol qanday dozada beriladi?",
+   "c": "100 mg dan uch kun",
+   "w": [
+    "200 mg dan ikki qabulda uch-to'rt kun",
+    "400 mg bir marta",
+    "10 mg/kg bir marta",
+    "100 mg dan bir kun"
+   ],
+   "x": "«5 yoshgacha bolalarga 100 mg dan uch kun»"
+  }
+ ],
+ "091": [
+  {
+   "q": "Askaridoz va trixotsefalyozda epidemik zanjir qaysi bo'g'inlardan iborat?",
+   "c": "manba, tuxum yetilishi va moyil organizm",
+   "w": [
+    "manba, oraliq xo'jayin va moyil organizm",
+    "manba, mollyuska va moyil organizm",
+    "manba, tuproqdagi lichinka va suv",
+    "manba, sabzavot va qo'llar"
+   ],
+   "x": "«Epidemik zanjir uch bo'g'indan iborat: manba (zararlangan odam), tashqi muhitda tuxum yetilishi va moyil organizm»"
+  },
+  {
+   "q": "Bemor bilan oddiy muloqot nima sababli zararlanishga olib kelmaydi?",
+   "c": "tuxum darhol yuqumli emas",
+   "w": [
+    "bemor najasi yuqumli emas",
+    "tuxum najasda yetiladi",
+    "suvni iste'mol qilganda yuqmaydi",
+    "qo'llar yuvilmaydi"
+   ],
+   "x": "«chunki najas bilan chiqqan tuxum darhol yuqumli emas va tuproqda yetilishi kerak»"
+  },
+  {
+   "q": "Alimentar yo'l orqali qachon yuqadi?",
+   "c": "yuvilmagan sabzavotni iste'mol qilganda",
+   "w": [
+    "bemor bilan muloqotda bo'lganda",
+    "hovlida o'ynaganda",
+    "tuproqda o'ynaganda",
+    "suvni iste'mol qilganda"
+   ],
+   "x": "«yaxshi yuvilmagan sabzavot, rezavor mevalar, ko'katlar va mevalarni termik ishlov bermay iste'mol qilganda yuqadi»"
+  },
+  {
+   "q": "Quduq va ochiq suv omborlaridan olingan suv kamida qancha qaynatilishi tavsiya etiladi?",
+   "c": "kamida 10 daqiqa",
+   "w": [
+    "kamida 1 daqiqa",
+    "kamida 2 daqiqa",
+    "kamida 60 daqiqa",
+    "kamida 20 daqiqa"
+   ],
+   "x": "«suvni kamida 10 daqiqa qaynatish tavsiya etilgan»"
+  },
+  {
+   "q": "Hojatxonadan chiqqan 20 o'quvchining qanchasi qo'lini yuvmagan?",
+   "c": "14 tasi, ya'ni 70 foizi",
+   "w": [
+    "6 tasi, ya'ni 30 foizi",
+    "10 tasi, ya'ni 50 foizi",
+    "2 tasi, ya'ni 10 foizi",
+    "20 tasi, ya'ni 100 foizi"
+   ],
+   "x": "«hojatxonadan chiqqan 20 o'quvchining 14 tasi, ya'ni 70 foizi qo'lini yuvmagan»"
+  },
+  {
+   "q": "Tuxumlarning tashqi muhitda saqlanishi qancha davom etadi?",
+   "c": "bir necha oydan 5–7 yilgacha",
+   "w": [
+    "bir necha oydan 2 yilgacha",
+    "10 sutkadan 30 sutkagacha",
+    "bir necha oy",
+    "bir necha oydan 2 oygacha"
+   ],
+   "x": "«Tuxumlarning tashqi muhitda saqlanishi bir necha oydan 5–7 yilgacha»"
+  },
+  {
+   "q": "Moldova mikroo'choqlarida tuproq ifloslanishi 1 kg tuproqda qancha tuxumni tashkil etgan?",
+   "c": "10 dan 392 tagacha tuxum",
+   "w": [
+    "41 dan 48 tagacha tuxum",
+    "14 dan 34 tagacha tuxum",
+    "25 dan 35 tagacha tuxum",
+    "71 dan 392 tagacha tuxum"
+   ],
+   "x": "«ifloslanish 1 kg tuproqda 10 dan 392 tagacha tuxumni tashkil etgan»"
+  },
+  {
+   "q": "JSST qishloq xo'jaligida ishlatiladigan tozalangan oqova suvda gelmint tuxumi miqdorini qancha deb tavsiya etadi?",
+   "c": "1 litrda 1 tadan oshmasligi",
+   "w": [
+    "1 litrda 10 tadan oshmasligi",
+    "1 litrda 30 tadan oshmasligi",
+    "1 kg da 1 tadan oshmasligi",
+    "1 litrda 392 tadan oshmasligi"
+   ],
+   "x": "«gelmint tuxumi 1 litrda 1 tadan oshmasligini tavsiya etadi»"
+  },
+  {
+   "q": "Toshkent sharoitida yoz kompostlarida degelmintizatsiya qancha vaqtda yakunlangan?",
+   "c": "10 sutkada yakunlangan",
+   "w": [
+    "30 sutkada yakunlangan",
+    "5 oyda yakunlangan",
+    "3 sutkada yakunlangan",
+    "50 sutkada yakunlangan"
+   ],
+   "x": "«yoz kompostlarida degelmintizatsiya 10 sutkada, kuz kompostlarida (10 sm li yuza qatlamdan tashqari) 30 sutkada yakunlangan»"
+  },
+  {
+   "q": "Geofagiya nima?",
+   "c": "tuproq yeyish odati",
+   "w": [
+    "najasdan o'g'it sifatida foydalanish",
+    "sabzavotni yuvmasdan iste'mol qilish",
+    "ochiq suvda cho'milish odati",
+    "iflos qo'llarni og'izga olish odati"
+   ],
+   "x": "«Geofagiya, ya'ni tuproq yeyish odati bolalarda geogelmint bilan zararlanish xavfini oshiradi»"
+  }
+ ]
+}

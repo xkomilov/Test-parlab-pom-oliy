@@ -1,0 +1,338 @@
+{
+ "080": [
+  {
+   "q": "Gimenolepidozni asosan qaysi tasmasimon chuvalchang qo'zg'atadi?",
+   "c": "pakana tasmasimon chuvalchang Hymenolepis nana",
+   "w": [
+    "kalamush tasmasimon chuvalchangi H. diminuta",
+    "sichqon tasmasimon chuvalchangi H. fraterna",
+    "un qo'ng'izi tasmasimon chuvalchangi",
+    "burga tasmasimon chuvalchangi"
+   ],
+   "x": "«Gimenolepidoz pakana tasmasimon chuvalchang Hymenolepis nana qo'zg'atadigan»"
+  },
+  {
+   "q": "H. nana tuxumlarining diametri qancha?",
+   "c": "diametri 30–50 mkm",
+   "w": [
+    "diametri 60–80 mkm",
+    "diametri 20–40 mkm",
+    "diametri 4–7 mkm",
+    "diametri 35–50 sm"
+   ],
+   "x": "«Tuxumlar dumaloq yoki ovalsimon, diametri 30–50 mkm, ikki qavatli qobiqli»"
+  },
+  {
+   "q": "H. nana skoleksida nimalar bor?",
+   "c": "to'rtta so'rg'ich va 20–40 ilmoqli toj",
+   "w": [
+    "ikkita so'rg'ich va 20–40 ilmoqli toj",
+    "to'rtta so'rg'ich, ilmoqsiz toj",
+    "olti ilmoqli onkosfera va ikki qavatli qobiq",
+    "xaltasimon bachadon va germafrodit bo'g'imlar"
+   ],
+   "x": "«Skoleksida to'rtta so'rg'ich va 20–40 ilmoqdan iborat toj bor»"
+  },
+  {
+   "q": "Onkosfera ingichka ichak vorsinkasiga kirgach, qancha vaqtda sistitserkoidga aylanadi?",
+   "c": "4–7 kun ichida",
+   "w": [
+    "2–3 kun ichida",
+    "14–15 kun ichida",
+    "35 kun ichida",
+    "5–30 kun ichida"
+   ],
+   "x": "«ichak vorsinkasiga kirib, 4–7 kun ichida sistitserkoid shaklga aylanadi»"
+  },
+  {
+   "q": "Ichki autoinvaziyada nima sodir bo'ladi?",
+   "c": "tuxumdan ichak bo'shlig'ida onkosfera chiqadi",
+   "w": [
+    "tuxum tashqi muhitda onkosfera chiqaradi",
+    "onkosfera hasharot tanasida sistitserkoidga aylanadi",
+    "tuxum ichakdan najas bilan chiqib ketadi",
+    "voyaga yetgan gelmint nobud bo'lib, qayta tiklanadi"
+   ],
+   "x": "«Tuxumlar ichakdan tashqi muhitga chiqmay turib, ichak bo'shlig'ida onkosfera chiqarishi mumkin»"
+  },
+  {
+   "q": "Qaysi hasharotlar ixtiyoriy oraliq xo'jayin bo'lishi mumkin?",
+   "c": "un qo'ng'izlari va burgalar",
+   "w": [
+    "sichqon va kalamushlar",
+    "bolalar va xodimlar",
+    "bolalar va kalamushlar",
+    "oshqozon-ichak fermentlari"
+   ],
+   "x": "«Un qo'ng'izlari va burgalar ixtiyoriy oraliq xo'jayin bo'lishi mumkin»"
+  },
+  {
+   "q": "H. nana tuxumlari xona haroratida qancha vaqt jonli qoladi?",
+   "c": "xona haroratida 3–4 kun",
+   "w": [
+    "xona haroratida 35 kun",
+    "xona haroratida 5–30 kun",
+    "xona haroratida 4–7 kun",
+    "xona haroratida 14–15 kun"
+   ],
+   "x": "«xona haroratida 3–4 kun jonli qoladi»"
+  },
+  {
+   "q": "Xlor saqlovchi preparatlar ta'sirida H. nana tuxumlari qancha vaqt ichida nobud bo'ladi?",
+   "c": "5–30 daqiqa ichida",
+   "w": [
+    "3–4 daqiqa ichida",
+    "35 daqiqa ichida",
+    "4–7 daqiqa ichida",
+    "1–3 daqiqa ichida"
+   ],
+   "x": "«Xlor saqlovchi preparatlar ta'sirida tuxumlar 5–30 daqiqa ichida nobud bo'ladi»"
+  },
+  {
+   "q": "Immunosupressiya sharoitida gimenolepidoz qanday kechadi?",
+   "c": "invaziya og'irroq va uzoqroq kechadi",
+   "w": [
+    "gelmintlar soni o'zgarmaydi",
+    "gelmintlar soni kamayadi",
+    "invaziya belgisiz kechadi",
+    "tuxum ajratmaydigan holat kuzatiladi"
+   ],
+   "x": "«invaziya og'irroq va uzoqroq kechadi, gelmintlar soni ham ko'proq bo'ladi»"
+  },
+  {
+   "q": "1960-yillarda Samarqand aholisi orasida gimenolepidozga qarshi qanday ish o'tkazilgan?",
+   "c": "ikki yillik yalpi sanatsiya",
+   "w": [
+    "bir yillik yalpi sanatsiya",
+    "ikki yillik gigiyena ta'limi",
+    "yillik ommaviy tekshiruv",
+    "bir yillik gigiyena ta'limi"
+   ],
+   "x": "«gimenolepidozga qarshi ikki yillik yalpi sanatsiya ishlari o'tkazilgan»"
+  }
+ ],
+ "081": [
+  {
+   "q": "Yengil gimenolepidoz invaziyasi ko'pincha qanday kechadi?",
+   "c": "belgisiz yoki subklinik kechadi",
+   "w": [
+    "kuchli intoksikatsiya bilan kechadi",
+    "tutqanoqsimon xurujlar bilan kechadi",
+    "og'ir ichak belgilari bilan kechadi",
+    "eshakem va kamqonlik bilan kechadi"
+   ],
+   "x": "«ko'pincha belgisiz yoki subklinik kechadi»"
+  },
+  {
+   "q": "Gimenolepidozda allergik belgilarga nimalar kiradi?",
+   "c": "teri qichishishi va eshakemi",
+   "w": [
+    "tutqanoqsimon xurujlar va bosh aylanishi",
+    "ich ketishi va qabziyat",
+    "kekirish va ko'ngil aynishi",
+    "bosh og'rig'i va uyqu buzilishi"
+   ],
+   "x": "«Allergik belgilarga teri qichishishi va eshakemi kiradi»"
+  },
+  {
+   "q": "Gimenolepidozdagi nevrologik belgilar qaysilar?",
+   "c": "bosh og'rig'i, bosh aylanishi, asabiylik",
+   "w": [
+    "teri qichishishi, eshakem, eozinofiliya",
+    "ich ketishi, qabziyat, kekirish",
+    "kamqonlik, ozish, EChT oshishi",
+    "qorin og'rig'i, kekirish, ko'ngil aynishi"
+   ],
+   "x": "«Nevrologik belgilar bosh og'rig'i, bosh aylanishi, tez charchash, asabiylik va uyqu buzilishi bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Aniq tashxis qanday usulda qo'yiladi?",
+   "c": "najasda tuxumlarni topish orqali",
+   "w": [
+    "qonda eozinofiliyani aniqlash orqali",
+    "klinik belgilar asosida",
+    "EChT ning oshishi orqali",
+    "jigar aminotransferazalarini tekshirish orqali"
+   ],
+   "x": "«Aniq tashxis najasda tuxumlarni topish orqali qo'yilishi qoidasi»"
+  },
+  {
+   "q": "Boyitish usullari qachon sezgirlikni oshiradi?",
+   "c": "tuxumlar kam bo'lganda",
+   "w": [
+    "gelmintlar soni ko'payganda",
+    "bemor stasionarda bo'lganda",
+    "najas ajratilgandan keyin",
+    "eozinofiliya bo'lganda"
+   ],
+   "x": "«Boyitish usullari tuxumlar kam bo'lganda sezgirlikni oshiradi»"
+  },
+  {
+   "q": "Parazit tuxumlari tez nobud bo'lgani sababli najas ajratilgandan keyin qancha vaqt ichida tekshirilishi lozim?",
+   "c": "dastlabki ikki soat ichida",
+   "w": [
+    "dastlabki ikki kun ichida",
+    "dastlabki ikki hafta ichida",
+    "dastlabki 24 soat ichida",
+    "dastlabki 5–7 soat ichida"
+   ],
+   "x": "«najasni ajratilgandan keyingi dastlabki ikki soat ichida tekshirish»"
+  },
+  {
+   "q": "Najas tekshiruvi qanday tanaffus bilan necha marta o'tkazilishi lozim?",
+   "c": "5–7 kunlik tanaffus bilan uch marta",
+   "w": [
+    "2–3 kunlik tanaffus bilan uch marta",
+    "5–7 kunlik tanaffus bilan besh marta",
+    "10 kunlik tanaffus bilan ikki marta",
+    "3–5 kunlik tanaffus bilan bir marta"
+   ],
+   "x": "«tekshiruvni esa 5–7 kunlik tanaffus bilan uch marta o'tkazish lozimligi»"
+  },
+  {
+   "q": "Etiotrop davoda prazikvantel qanday dozada qo'llanadi?",
+   "c": "25 mg/kg bir martalik dozada",
+   "w": [
+    "10 mg/kg bir martalik dozada",
+    "50 mg/kg bir martalik dozada",
+    "20 mg/kg bir martalik dozada",
+    "25 mg/kg 10 kun davomida"
+   ],
+   "x": "«prazikvantel 25 mg/kg bir martalik dozada qo'llanadi»"
+  },
+  {
+   "q": "Prazikvantel zarur bo'lsa qachon takrorlanadi?",
+   "c": "zarur bo'lsa 10 kundan keyin",
+   "w": [
+    "zarur bo'lsa 24 kundan keyin",
+    "zarur bo'lsa ikki oydan keyin",
+    "zarur bo'lsa uch haftadan keyin",
+    "zarur bo'lsa 5–7 kundan keyin"
+   ],
+   "x": "«zarur bo'lsa 10 kundan keyin takrorlanadi»"
+  },
+  {
+   "q": "H. nana tuxumini H. diminuta tuxumidan ajratishda nimaga e'tibor beriladi?",
+   "c": "qutb iplariga ega bo'lishi",
+   "w": [
+    "qutb iplarisiz bo'lishi",
+    "kattaroq o'lchami",
+    "60–80 mkm o'lchami",
+    "olti ilmoqli onkosferasi"
+   ],
+   "x": "«H. nana tuxumi qutb iplariga ega bo'lishi, H. diminuta tuxumi esa kattaroq (60–80 mkm) va qutb iplarisiz»"
+  }
+ ],
+ "082": [
+  {
+   "q": "Muloqot orqali yuqadigan gelmintozlar tuxumlari qachon invaziv bo'ladi?",
+   "c": "ajralgan zahoti yoki bir necha soat ichida",
+   "w": [
+    "ajralgandan bir necha oy o'tgach",
+    "ajralgandan keyin ikki oy davomida",
+    "bir necha oy ichida",
+    "bir yil davomida"
+   ],
+   "x": "«tuxumlari ajralgan zahoti yoki bir necha soat ichida invaziv bo'ladigan gelmintozlardir»"
+  },
+  {
+   "q": "Enterobioz va gimenolepidozni oldini olishga qaratilgan kompleks choralardan biri qaysi?",
+   "c": "yuqtirish mexanizmini uzish",
+   "w": [
+    "dekretiv guruhlarni tekshirmaslik",
+    "manbani aniqlamasdan davolash",
+    "faqat dori bilan davolash",
+    "tuxumlarni xlorli eritma bilan o'ldirish"
+   ],
+   "x": "«kompleks choralardan biri yuqtirish mexanizmini uzish deb»"
+  },
+  {
+   "q": "Maktabgacha muassasalar va boshlang'ich sinflarda rejali tekshiruvlar qanchalik o'tkaziladi?",
+   "c": "yilda bir marta",
+   "w": [
+    "yilda ikki marta",
+    "yilda 2–3 marta",
+    "oyda bir marta",
+    "yilda uch marta"
+   ],
+   "x": "«Rejali tekshiruvlar maktabgacha muassasalar va boshlang'ich sinflarda yilda bir marta»"
+  },
+  {
+   "q": "Tanlab tekshiruvga qamrab olinadigan bolalar jamoalari soni qancha bo'lishi belgilangan?",
+   "c": "5 foizdan kam bo'lmasligi",
+   "w": [
+    "10 foizdan kam bo'lmasligi",
+    "20 foizdan kam bo'lmasligi",
+    "50 foizdan kam bo'lmasligi",
+    "15 foizdan ko'p bo'lmasligi"
+   ],
+   "x": "«tanlab tekshiruvga qamrab olinadigan bolalar jamoalari soni 5 foizdan kam bo'lmasligi belgilangan»"
+  },
+  {
+   "q": "Gimenolepidoz bilan kasallanganlar qancha muddat dispanser kuzatuvida bo'ladi?",
+   "c": "olti oy davomida",
+   "w": [
+    "uch oy davomida",
+    "bir yil davomida",
+    "ikki yil davomida",
+    "ikki oy davomida"
+   ],
+   "x": "«Gimenolepidoz bilan kasallanganlar olti oy davomida dispanser kuzatuvida bo'ladi»"
+  },
+  {
+   "q": "Gimenolepidozda davolangandan keyin qayta tahlillar qachon o'tkaziladi?",
+   "c": "1, 3 va 6 oyda",
+   "w": [
+    "1, 2 va 3 oyda",
+    "3, 6 va 12 oyda",
+    "1, 6 va 12 oyda",
+    "2, 4 va 6 oyda"
+   ],
+   "x": "«davolangandan keyin 1, 3 va 6 oyda qayta tahlillar o'tkaziladi»"
+  },
+  {
+   "q": "Davolashdan keyin tekshiruvlar oralig'i kasalliklarda qanday?",
+   "c": "gimenolepidoz 5–7 kun, enterobioz 2–3 kun oralatib",
+   "w": [
+    "gimenolepidoz 2–3 kun, enterobioz 5–7 kun oralatib",
+    "ikkalasida ham 5–7 kun oralatib",
+    "ikkalasida ham 2–3 kun oralatib",
+    "gimenolepidoz 10 kun, enterobioz 5–7 kun oralatib"
+   ],
+   "x": "«gimenolepidoz bilan zararlanganlar 5–7 kun oralatib uch marta, enterobiozga esa 2–3 kun oralatib uch marta tekshiriladi»"
+  },
+  {
+   "q": "Xlorli eritmalar o'rniga nima sababli sovun-soda eritmasi tanlanadi?",
+   "c": "xlorli eritmalar gelmint tuxumlariga ta'sir qilmaydi",
+   "w": [
+    "sovun-soda eritmasi xlorli eritmadan arzon",
+    "xlorli eritmalar qo'llarga zarar yetkazadi",
+    "xlorli eritmalar o'yinchoqlarni buzadi",
+    "sovun-soda eritmasi dazmoldan kuchli"
+   ],
+   "x": "«Xlorli eritmalar gelmint tuxumlariga ta'sir qilmasligi sababli sovun-soda eritmasi tanlanadi»"
+  },
+  {
+   "q": "Tashqi muhitdan surtma namunalari qanchalik olinadi?",
+   "c": "yilda kamida bir marta, o'choqlarda yilda 2–3 marta",
+   "w": [
+    "yilda kamida ikki marta, o'choqlarda yilda bir marta",
+    "oyda kamida bir marta, o'choqlarda yilda 2–3 marta",
+    "yilda kamida bir marta, o'choqlarda ikki baravar kam",
+    "yilda kamida 10–15 marta, o'choqlarda 5 foiz"
+   ],
+   "x": "«Namunalar yilda kamida bir marta, o'choqlarda kompleks sog'lomlashtirish paytida esa yilda 2–3 marta olinadi»"
+  },
+  {
+   "q": "Farg'ona viloyatida gigiyena targ'iboti qayta zararlanish xavfini qanchaga kamaytirgan?",
+   "c": "30 foizga kamaytirgan",
+   "w": [
+    "50 foizga kamaytirgan",
+    "80 foizga kamaytirgan",
+    "10 foizga kamaytirgan",
+    "5 foizga kamaytirgan"
+   ],
+   "x": "«dori bilan davolashga nisbatan qayta zararlanish xavfini 30 foizga kamaytirgan»"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "143": [
+  {
+   "q": "Aholi o'rtasida ichburug' amyobiazi bilan zararlanish o'rtacha necha foizni tashkil etadi?",
+   "c": "o'rtacha 10 foizni tashkil etadi",
+   "w": [
+    "o'rtacha 9–18 foizni tashkil etadi",
+    "o'rtacha 20 foizni tashkil etadi",
+    "o'rtacha 1 foizni tashkil etadi",
+    "o'rtacha 90 foizni tashkil etadi"
+   ],
+   "x": "«aholi o'rtasida ichburug' amyobiazi bilan zararlanish o'rtacha 10 foizni tashkil etadi»"
+  },
+  {
+   "q": "Tropik va subtropik mamlakatlarda amyobiaz barcha ich ketar kasalliklarning qancha qismini tashkil etadi?",
+   "c": "ich ketar kasalliklarining 20 foizini",
+   "w": [
+    "ich ketar kasalliklarining 10 foizini",
+    "ich ketar kasalliklarining 9 foizini",
+    "ich ketar kasalliklarining 90 foizini",
+    "ich ketar kasalliklarining 1 foizini"
+   ],
+   "x": "«barcha ich ketar kasalliklarining 20 foizini amyobiaz tashkil etishi»"
+  },
+  {
+   "q": "Amyobiazda zararlanishning taxminan qancha qismi simptomsiz tashuvchanlik bilan kechadi?",
+   "c": "taxminan 90 foizi",
+   "w": [
+    "taxminan 10 foizi",
+    "taxminan 50 foizi",
+    "taxminan 20 foizi",
+    "taxminan 1 foizi"
+   ],
+   "x": "«zararlanishning taxminan 90 foizi simptomsiz tashuvchanlik bilan kechadi»"
+  },
+  {
+   "q": "Amyobiazda epidemik jarayonning manbasi kim hisoblanadi?",
+   "c": "sista ajratuvchilar, ya'ni simptomsiz tashuvchilar",
+   "w": [
+    "mexanik tashuvchi pashshalar va ochiq suv havzalari",
+    "ifloslangan suv va xom sabzavot-meva iste'mol qilish",
+    "o'tkir ichburug' bilan og'riganlar, trofozoit ajratuvchilar",
+    "kichik bolalar va homiladorlar, glyukokortikoid qabul qiluvchilar"
+   ],
+   "x": "«Epidemik jarayonning manbasi sista ajratuvchilar, ya'ni simptomsiz tashuvchilar hamda surunkali va tuzalish davridagi bemorlar hisoblanadi»"
+  },
+  {
+   "q": "Jigar abssessi kimlarda tez-tez rivojlanadi?",
+   "c": "kattalar erkaklarda",
+   "w": [
+    "kichik bolalarda",
+    "homiladorlarda",
+    "to'yib ovqatlanmaydiganlarda",
+    "glyukokortikoid qabul qiluvchilarda"
+   ],
+   "x": "«Jigar abssessi kattalar erkaklarda tez-tez rivojlanadi»"
+  },
+  {
+   "q": "Amyobiazning yashirin davri qancha davom etadi?",
+   "c": "1 haftadan 3 oygacha, ko'pincha 3-6 hafta",
+   "w": [
+    "2 haftadan 3 oygacha, ko'pincha 1-2 hafta",
+    "1 haftadan 1 oygacha, ko'pincha 3-6 hafta",
+    "2 haftadan 1 oygacha, ko'pincha 3-6 hafta",
+    "1 haftadan 2 oygacha, ko'pincha 3-6 hafta"
+   ],
+   "x": "«Kasallikning yashirin davri 1 haftadan 3 oygacha, ko'pincha 3-6 hafta»"
+  },
+  {
+   "q": "Bitta tashuvchi najasining 1 g da qancha sista bo'lishi mumkin?",
+   "c": "6 milliongacha sista",
+   "w": [
+    "1 milliongacha sista",
+    "16 milliongacha sista",
+    "60 milliongacha sista",
+    "10 milliongacha sista"
+   ],
+   "x": "«Bitta tashuvchi najasida 1 g da 6 milliongacha sista bo'lishi mumkin»"
+  },
+  {
+   "q": "Amyobiaz bilan og'riganlarning yarmi endemik mamlakatlarga borganidan keyin qancha vaqt ichida kasallanadi?",
+   "c": "bir yarim yil ichida",
+   "w": [
+    "ikki hafta ichida",
+    "3-6 hafta ichida",
+    "1 haftadan 3 oygacha ichida",
+    "bir yarim oy ichida"
+   ],
+   "x": "«Amyobiaz bilan og'riganlarning yarmi endemik mamlakatlarga borgan vaqtidan keyingi bir yarim yil ichida kasallanadi»"
+  },
+  {
+   "q": "Harakatchan trofozoitlarni aniqlash uchun najas defekatsiyadan keyin necha daqiqa ichida ko'rilishi kerak?",
+   "c": "15-20 daqiqa ichida",
+   "w": [
+    "5-10 daqiqa ichida",
+    "30-60 daqiqa ichida",
+    "3-6 daqiqa ichida",
+    "45-90 daqiqa ichida"
+   ],
+   "x": "«najas defekatsiyadan keyin 15-20 daqiqa ichida ko'rilishi talab etiladi»"
+  },
+  {
+   "q": "Toshkentda o'tkazilgan tadqiqotda OIV bilan yashovchilarda E. histolytica/E. dispar necha baravar ko'p aniqlangan?",
+   "c": "taxminan 10 baravar ko'p",
+   "w": [
+    "taxminan 2 baravar ko'p",
+    "taxminan 20 baravar ko'p",
+    "taxminan 5 baravar ko'p",
+    "taxminan 100 baravar ko'p"
+   ],
+   "x": "«OIV bilan yashovchilarda esa taxminan 10 baravar ko'p aniqlangan»"
+  }
+ ],
+ "144": [
+  {
+   "q": "Bezgak qo'zg'atuvchilarining rivojlanish jarayoni nechta bosqichdan iborat?",
+   "c": "besh bosqichdan iborat",
+   "w": [
+    "ikki bosqichdan iborat",
+    "uch bosqichdan iborat",
+    "to'rt bosqichdan iborat",
+    "ikki yoki uch bosqichdan iborat"
+   ],
+   "x": "«rivojlanish jarayoni besh bosqichdan iborat»"
+  },
+  {
+   "q": "Biologik nuqtai nazardan bezgak parazitida asosiy xo'jayin kim?",
+   "c": "chivin asosiy, odam esa oraliq xo'jayin",
+   "w": [
+    "odam asosiy, chivin esa oraliq xo'jayin",
+    "maymun asosiy, odam esa oraliq xo'jayin",
+    "chivin ham, odam ham asosiy xo'jayin",
+    "odam asosiy, maymun esa oraliq xo'jayin"
+   ],
+   "x": "«bezgak parazitida chivin asosiy, odam esa oraliq xo'jayin hisoblanadi»"
+  },
+  {
+   "q": "Sporozoitlar odam qoniga tushgandan keyin qancha vaqtda jigarga o'tadi?",
+   "c": "15–45 daqiqada jigarga o'tadi",
+   "w": [
+    "15–45 soat ichida jigarga o'tadi",
+    "4–8 daqiqada jigarga o'tadi",
+    "9–12 daqiqada jigarga o'tadi",
+    "18–24 soat ichida jigarga o'tadi"
+   ],
+   "x": "«15–45 daqiqada (ayrim ma'lumotlarga ko'ra 30–60 daqiqada) qon oqimi bilan jigarga o'tib»"
+  },
+  {
+   "q": "To'qima shizogoniyasi qaysi bezgak turida 6 haftagacha davom etadi?",
+   "c": "to'rt kunlik bezgakda",
+   "w": [
+    "tropik bezgakda",
+    "uch kunlik bezgakda",
+    "ovale bezgakda",
+    "maymun plazmodiylari chaqirgan bezgakda"
+   ],
+   "x": "«To'qima shizogoniyasining davomiyligi to'rt kunlik bezgakda 6 haftagacha»"
+  },
+  {
+   "q": "Tropik bezgakda jigarda nechtagacha to'qima merozoiti hosil bo'ladi?",
+   "c": "40 000 tagacha to'qima merozoiti",
+   "w": [
+    "4 000 tagacha to'qima merozoiti",
+    "400 tagacha to'qima merozoiti",
+    "40 tagacha to'qima merozoiti",
+    "400 000 tagacha to'qima merozoiti"
+   ],
+   "x": "«Tropik bezgakda 40 000 tagacha to'qima merozoiti hosil bo'ladi»"
+  },
+  {
+   "q": "Qaysi turlarning sporozoitlari jigarda gipnozoit holida mudroq qolishi mumkin?",
+   "c": "P. vivax va P. ovale",
+   "w": [
+    "P. malariae va P. falciparum",
+    "P. vivax va P. malariae",
+    "P. falciparum va P. ovale",
+    "P. falciparum va P. vivax"
+   ],
+   "x": "«P. vivax va P. ovale sporozoitlari jigar hujayralariga kirgach, darhol shizogoniyani boshlashi»"
+  },
+  {
+   "q": "Eritrotsitlarda P. malariae ning rivojlanish davomiyligi qancha?",
+   "c": "72 soat, boshqa turlarniki 48 soat",
+   "w": [
+    "48 soat, boshqa turlarniki 72 soat",
+    "48 soat, boshqa turlarniki 24 soat",
+    "96 soat, boshqa turlarniki 48 soat",
+    "72 soat, boshqa turlarniki 24 soat"
+   ],
+   "x": "«P. malariae ning rivojlanish davomiyligi 72 soat, boshqa turlarniki 48 soat»"
+  },
+  {
+   "q": "Isitma, kamqonlik, jigar va taloq kattalashuvi qaysi bosqich bilan bog'liq?",
+   "c": "eritrotsitar shizogoniya",
+   "w": [
+    "to'qima shizogoniyasi",
+    "gametotsitogoniya",
+    "sporogoniya",
+    "mudroqlik bosqichi"
+   ],
+   "x": "«Barcha klinik belgilar, ya'ni isitma, kamqonlik, jigar va taloq kattalashuvi, faqat eritrotsitar shizogoniya bilan bog'liq»"
+  },
+  {
+   "q": "Erkak gametotsit necha daqiqadan keyin 8 ta xivchin ajratadi?",
+   "c": "9–12 daqiqadan keyin",
+   "w": [
+    "18–24 daqiqadan keyin",
+    "4–7 daqiqadan keyin",
+    "15–45 daqiqadan keyin",
+    "30–60 daqiqadan keyin"
+   ],
+   "x": "«9–12 daqiqadan keyin erkak gametotsit 8 ta ingichka harakatchan xivchin ajratadi (eksflagellyatsiya)»"
+  },
+  {
+   "q": "Sporogoniya havo harorati qanchadan yuqori bo'lganda amalga oshadi?",
+   "c": "16–18 °C dan yuqori bo'lganda",
+   "w": [
+    "25–28 °C dan yuqori bo'lganda",
+    "30 °C dan yuqori bo'lganda",
+    "37 °C dan yuqori bo'lganda",
+    "14,5 °C dan yuqori bo'lganda"
+   ],
+   "x": "«U havo harorati 16–18 °C dan yuqori bo'lganda amalga oshadi»"
+  }
+ ],
+ "145": [
+  {
+   "q": "Bezgakdan xoli hududda epidemiologik nazoratning asosiy vazifasi nima?",
+   "c": "olib kelinishini cheklash va mahalliy aholiga yuqishning oldini olish",
+   "w": [
+    "bemorlarni davolash va dispanser hisobiga olish",
+    "chivinlar sonini kamaytirish va gambuziya ko'paytirish",
+    "kimyoprofilaktikani ommaviy o'tkazish va aholini tekshirish",
+    "o'choqlarni sog'lomlashtirish va qon preparatlarini yuborish"
+   ],
+   "x": "«infeksiyaning tashqaridan olib kelinishini cheklash va olib kelingan holatdan mahalliy aholiga yuqishning oldini olishdir»"
+  },
+  {
+   "q": "Hududning yuqumlilik darajasi nima bilan belgilanadi?",
+   "c": "bezgak chivinlarining mavjudligi va kasallikni o'tkazish qobiliyati",
+   "w": [
+    "infeksiyaning tashqaridan olib kelinishi ehtimoli va uning o'lchovi",
+    "aholi migratsiyasi va sayohatchilar soni, kasallanish darajasi",
+    "kasallanish ko'rsatkichi va o'choqlar soni dinamikasi",
+    "kimyoprofilaktika qamrovi va dispanser nazorati ko'rsatkichi"
+   ],
+   "x": "«Hududning yuqumlilik darajasi epidemik mavsum davomida bezgak chivinlarining mavjudligi va kasallikni o'tkazish qobiliyati bilan belgilanadi»"
+  },
+  {
+   "q": "Xorijiy mamlakatlarga borib kelgan shaxslar qancha muddat dispanser nazoratida turadi?",
+   "c": "uch yil davomida",
+   "w": [
+    "bir yil davomida",
+    "ikki yil davomida",
+    "to'liq davolanguncha",
+    "bir oy davomida"
+   ],
+   "x": "«laboratoriya yo'li bilan tekshiriladi va uch yil davomida dispanser nazoratida turadi»"
+  },
+  {
+   "q": "Respublika markaziga qaytganlar haqida tezkor xabarnoma har oyning nechanchi sanasigacha yuboriladi?",
+   "c": "har oyning 5-sanasigacha",
+   "w": [
+    "har oyning 10-sanasigacha",
+    "har oyning 15-sanasigacha",
+    "har oyning 25-sanasigacha",
+    "har oyning 1-sanasigacha"
+   ],
+   "x": "«Har oyning 5-sanasigacha respublika markaziga qaytganlar va uch yil ichidagi bemorlar haqida tezkor xabarnoma yuboriladi»"
+  },
+  {
+   "q": "Chegaradosh hududlarda chivinlarga qarshi kurash qancha masofada o'tkaziladi?",
+   "c": "3 km masofada",
+   "w": [
+    "1 km masofada",
+    "10 km masofada",
+    "30 km masofada",
+    "5 km masofada"
+   ],
+   "x": "«chegaradosh hududlarda 3 km masofada chivinlarga qarshi kurash tadbirlari»"
+  },
+  {
+   "q": "Aloqada bo'lganlar tana harorati, teri rangi, taloq va jigar holati bo'yicha necha kun kuzatiladi?",
+   "c": "21 kun davomida",
+   "w": [
+    "7 kun davomida",
+    "14 kun davomida",
+    "30 kun davomida",
+    "3 yil davomida"
+   ],
+   "x": "«Aloqada bo'lganlar to'liq ro'yxatga olinib tekshiriladi va 21 kun davomida tana harorati, teri rangi, taloq va jigar holati kuzatiladi»"
+  },
+  {
+   "q": "Xonadonma-xonadon yurish uchun brigada qanday tarkibda tuziladi?",
+   "c": "3 nafar o'rta tibbiyot xodimi va 1 nafar shifokor",
+   "w": [
+    "1 nafar o'rta tibbiyot xodimi va 3 nafar shifokor",
+    "2 nafar o'rta tibbiyot xodimi va 2 nafar shifokor",
+    "3 nafar shifokor va 1 nafar laborant",
+    "3 nafar parazitolog va 1 nafar entomolog"
+   ],
+   "x": "«Xonadonma-xonadon yurish uchun 3 nafar o'rta tibbiyot xodimi va 1 nafar shifokordan brigada tuziladi»"
+  },
+  {
+   "q": "Barcha musbat qon preparatlari qancha vaqt ichida respublika markaziga nazorat uchun yuboriladi?",
+   "c": "24 soat ichida",
+   "w": [
+    "12 soat ichida",
+    "48 soat ichida",
+    "7 kun ichida",
+    "21 kun ichida"
+   ],
+   "x": "«Barcha musbat qon preparatlari 24 soat ichida respublika markaziga nazorat uchun yuboriladi»"
+  },
+  {
+   "q": "Xonadonlarga ishlovning qamrovi kamida qancha bo'lishi kerak?",
+   "c": "kamida 90–95 foiz",
+   "w": [
+    "kamida 50 foiz",
+    "kamida 70–75 foiz",
+    "kamida 100 foiz",
+    "kamida 30–40 foiz"
+   ],
+   "x": "«Xonadonlarga ishlovning qamrovi kamida 90–95 foiz»"
+  },
+  {
+   "q": "Birinchi avlod chivinlarning uchib chiqishi nimani aniqlaydi?",
+   "c": "samarali zararlanish mavsumining boshlanishini",
+   "w": [
+    "yuqish mavsumi tugaganini",
+    "diapauzaga ommaviy ketishni",
+    "chivinlarning insektitsidga sezgirligini",
+    "chivinlarning insektitsidga bezovtalanishini"
+   ],
+   "x": "«Birinchi avlod chivinlarning uchib chiqishi samarali zararlanish mavsumining boshlanishini aniqlaydi»"
+  }
+ ]
+}

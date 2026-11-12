@@ -1,0 +1,338 @@
+{
+ "146": [
+  {
+   "q": "Ketuvchilarga kimyoprofilaktika dorisi qachon boshlanib, qachongacha qabul qilinishi tushuntiriladi?",
+   "c": "ketishdan 1 hafta oldin boshlanib, qaytgandan keyin 1 oygacha",
+   "w": [
+    "ketishdan 1 oy oldin boshlanib, qaytgandan keyin 1 haftagacha",
+    "ketishdan 1 oy oldin boshlanib, qaytgandan keyin 1 oygacha",
+    "ketishdan 1 hafta oldin boshlanib, qaytgandan keyin 1 haftagacha",
+    "ketishdan 7 kun oldin boshlanib, qaytgandan keyin 3 oygacha"
+   ],
+   "x": "«Ketuvchilarga dori ketishdan 1 hafta oldin boshlanib, qaytgandan keyin 1 oygacha qabul qilinishi tushuntiriladi»"
+  },
+  {
+   "q": "Kimyoprofilaktika uchun preparat tanlash nimaga bog'liq?",
+   "c": "yuqish jadalligiga va plazmodiylarning dorilarga sezgirligiga",
+   "w": [
+    "ekspeditsiya ishtirokchilari va ekipaj a'zolari soniga",
+    "chegaradosh hududlarda chivinlarga qarshi kurashga",
+    "qaytgandan keyin dispanser nazoratiga va hisobga olishga",
+    "aholini ommaviy qon tekshiruvidan o'tkazish va davolash"
+   ],
+   "x": "«Preparat tanlash ketuvchi borayotgan mamlakatdagi yuqish jadalligiga va plazmodiylarning dorilarga sezgirligiga bog'liq»"
+  },
+  {
+   "q": "Kimyoprofilaktika preparatlarining qaysi xususiyati uyga qaytgandan keyin kech bezgak chiqishiga sabab bo'ladi?",
+   "c": "gipnozoitlarga ta'sir qilmaydi",
+   "w": [
+    "gametotsitlarga ta'sir qilmaydi",
+    "sporozoitlarga ta'sir qilmaydi",
+    "homilador ayollarga ta'sir qilmaydi",
+    "ekipaj a'zolariga ta'sir qilmaydi"
+   ],
+   "x": "«Hech biri gipnozoitlarga ta'sir qilmaydi, shuning uchun uyga qaytgandan bir necha oy o'tib uch kunlik yoki ovale bezgak kech namoyon bo'lishi mumkin»"
+  },
+  {
+   "q": "Qaytganlarning yashash joylarida entomologik ko'rsatmalarga asosan nima o'tkaziladi?",
+   "c": "bezgak chivinlariga qarshi insektitsidlar bilan kimyoviy ishlov",
+   "w": [
+    "gambuziya ko'paytirish va tadbirlar o'tkazish",
+    "aholini ommaviy qon tekshiruvidan o'tkazish va davolash",
+    "pashshaxonalar o'rnatish va derazalarni to'r bilan to'sish",
+    "kimyoprofilaktika va dispanser kuzatuvi o'tkazish"
+   ],
+   "x": "«Qaytganlarning yashash joylarida entomologik ko'rsatmalarga asosan bezgak chivinlariga qarshi yuqori samarali insektitsidlar bilan kimyoviy ishlov o'tkaziladi»"
+  },
+  {
+   "q": "Faol aniqlash odatda qanday olib boriladi?",
+   "c": "xonadonma-xonadon yurish yo'li",
+   "w": [
+    "maktabda o'quvchilarni tekshirish yo'li",
+    "ommaviy qon preparatini tamg'alash yo'li",
+    "aeroportda yo'lovchilarni tekshirish yo'li",
+    "tibbiy xodimlarni so'roq qilish yo'li"
+   ],
+   "x": "«Faol aniqlash odatda xonadonma-xonadon yurish yo'li bilan olib boriladi»"
+  },
+  {
+   "q": "Yangi faol o'choqlarda xonadonma-xonadon yurish qachon tayinlanadi?",
+   "c": "oktabr oxirigacha mahalliy zararlanish paydo bo'lsa",
+   "w": [
+    "aprel–oktabrda ommaviy namoyon bo'lsa",
+    "avvalgi mavsumda uch va undan ortiq holat bo'lsa",
+    "mavsum davomida bir holat olib kelinsa",
+    "mahalliy yuqish bir yil oldin to'xtagan bo'lsa"
+   ],
+   "x": "«yangi faol o'choqlarda oktabr oxirigacha mahalliy zararlanish paydo bo'lsa»"
+  },
+  {
+   "q": "P. vivax sporogoniyasi uchun 14,5 °C bo'sag'adan ortiq qancha harorat yig'indisi kerak?",
+   "c": "105 daraja-kun harorat yig'indisi",
+   "w": [
+    "111 daraja-kun harorat yig'indisi",
+    "150 daraja-kun harorat yig'indisi",
+    "16 daraja-kun harorat yig'indisi",
+    "50 daraja-kun harorat yig'indisi"
+   ],
+   "x": "«14,5 °C bo'sag'adan ortiq 105 daraja-kun yig'ish kerak»"
+  },
+  {
+   "q": "Tropik bezgakda gematoshizotrop davodan keyin ham gametotsitlar qonda qancha aylanishi mumkin?",
+   "c": "6 haftagacha aylanishi mumkin",
+   "w": [
+    "3 oygacha aylanishi mumkin",
+    "2 haftagacha aylanishi mumkin",
+    "1 haftagacha aylanishi mumkin",
+    "6 oygacha aylanishi mumkin"
+   ],
+   "x": "«gametotsitlar qonda 6 haftagacha aylanishi mumkin»"
+  },
+  {
+   "q": "Uch kunlik bezgakda relapsning oldini olish uchun primaxin necha kun beriladi?",
+   "c": "14 kun beriladi",
+   "w": [
+    "1–3 kun beriladi",
+    "21 kun beriladi",
+    "7 kun beriladi",
+    "30 kun beriladi"
+   ],
+   "x": "«Uch kunlik bezgakda relapsning oldini olish uchun primaxin 14 kun beriladi»"
+  },
+  {
+   "q": "Faqat olib kelingan kasallik bo'lib, mahalliy yuqish sharoiti bo'lmasa, o'choq qanday toifaga kiradi?",
+   "c": "soxta o'choq",
+   "w": [
+    "faol o'choq",
+    "qoldiq faol o'choq",
+    "faol bo'lmagan o'choq",
+    "sog'lomlashtirilgan o'choq"
+   ],
+   "x": "«faqat olib kelingan kasallik bo'lib, mahalliy yuqish sharoiti bo'lmasa soxta o'choq, mahalliy yuqish aniqlansa faol o'choq hisoblanadi»"
+  }
+ ],
+ "147": [
+  {
+   "q": "Holatlar epidemiologik sinflar bo'yicha qanday ajratiladi?",
+   "c": "autoxton, olib kelingan va shizont",
+   "w": [
+    "mahalliy, emlangan va qaytalangan",
+    "soxta, potensial va faol",
+    "gipoendemiya, mezoendemiya va giperendemiya",
+    "oddiy, murakkab va mustaqil"
+   ],
+   "x": "«kasallik epidemiologik sinflar bo'yicha tahlil qilinadi: autoxton, olib kelingan va shizont holatlar alohida ajratiladi»"
+  },
+  {
+   "q": "Yangi va sog'lomlashtirilgan o'choqlar sonining dinamikasi nimaning eng yaxshi ko'rsatkichi hisoblanadi?",
+   "c": "dastur muvaffaqiyati yoki muvaffaqiyatsizligining",
+   "w": [
+    "kasallanish mavsumiyligi va chivinlar sonining",
+    "aholi migratsiyasi va zararlanganlik darajasining",
+    "taloq indeksi va endemiklik darajasining",
+    "kimyoprofilaktika qamrovi va chivinlar sonining"
+   ],
+   "x": "«Yangi va sog'lomlashtirilgan o'choqlar sonining dinamikasi dastur muvaffaqiyati yoki muvaffaqiyatsizligining eng yaxshi ko'rsatkichi hisoblanadi»"
+  },
+  {
+   "q": "Shizont holat qanday yuqadi?",
+   "c": "qon quyish yoki sterillanmagan tibbiy jihozlar orqali",
+   "w": [
+    "olib kelingan holatdan mahalliy aholiga yuqish orqali",
+    "mahalliy chivinlar orqali yuqishdan",
+    "gipnozoitlar faollashuvi orqali",
+    "tashqaridan kelgan chivinlardan"
+   ],
+   "x": "«shizont-sun'iy yuqtirilgan holat qon quyish yoki sterillanmagan tibbiy jihozlar orqali yuqadi»"
+  },
+  {
+   "q": "Relaps nimadan kelib chiqadi?",
+   "c": "jigar gipnozoitlari faollashuvidan",
+   "w": [
+    "qon quyishdan",
+    "mahalliy chivinlar orqali yuqishdan",
+    "olib kelingan holatdan",
+    "sterillanmagan jihozlardan"
+   ],
+   "x": "«Relaps jigar gipnozoitlari faollashuvidan kelib chiqadi»"
+  },
+  {
+   "q": "Qaysi endemiya darajasi 2–9 yoshli bolalarda taloq indeksi 10 foizgacha bo'lganda aniqlanadi?",
+   "c": "gipoendemiya darajasi",
+   "w": [
+    "mezoendemiya darajasi",
+    "giperendemiya darajasi",
+    "goloendemiya darajasi",
+    "soxta o'choq darajasi"
+   ],
+   "x": "«gipoendemiya (10 foizgacha), mezoendemiya (11–50), giperendemiya (51–75) va goloendemiya (76 foizdan yuqori)»"
+  },
+  {
+   "q": "Soxta o'choqda qanday holat bo'ladi?",
+   "c": "mahalliy yuqish yo'q, faqat olib kelingan kasallik",
+   "w": [
+    "mahalliy yuqish joriy yilda qayd etiladi",
+    "mahalliy yuqish 1–3 yil oldin to'xtagan",
+    "mahalliy yuqish 3 yildan ortiq qayd etilmagan",
+    "mahalliy yuqish sharoiti va olib kelingan holat bor"
+   ],
+   "x": "«bunda mahalliy yuqish sharoiti yo'q, faqat tashqaridan olib kelingan kasallik mavjud»"
+  },
+  {
+   "q": "Mahalliy yuqish mumkinligi va mavjudligiga qarab o'choqlar operativ tasnifda nechta toifaga ajratiladi?",
+   "c": "6 toifaga ajratiladi",
+   "w": [
+    "3 toifaga ajratiladi",
+    "4 toifaga ajratiladi",
+    "5 toifaga ajratiladi",
+    "2 toifaga ajratiladi"
+   ],
+   "x": "«yuqish ehtimoli bartaraf etilgandan keyin o'tgan muddatga ko'ra 6 toifaga ajratiladi»"
+  },
+  {
+   "q": "JSSTning 2017-yilgi tasnifiga ko'ra mahalliy yuqish 1–3 yil oldin to'xtagan o'choq qanday nomlanadi?",
+   "c": "qoldiq faol bo'lmagan o'choq",
+   "w": [
+    "tozalangan o'choq (3 yildan ortiq)",
+    "faol o'choq",
+    "soxta o'choq",
+    "potensial o'choq"
+   ],
+   "x": "«qoldiq faol bo'lmagan o'choq (mahalliy yuqish 1–3 yil oldin to'xtagan)»"
+  },
+  {
+   "q": "Faol va qoldiq faol o'choqlarda mavsumlararo davrda qanday kimyoprofilaktika o'tkazish maqsadga muvofiq?",
+   "c": "primaxin bilan 14 kunlik kimyoprofilaktika",
+   "w": [
+    "primaxin bilan 1–3 kunlik kimyoprofilaktika",
+    "primaxin bilan 21 kunlik kimyoprofilaktika",
+    "primaxin bilan 7 kunlik kimyoprofilaktika",
+    "primaxin bilan 30 kunlik kimyoprofilaktika"
+   ],
+   "x": "«mavsumlararo davrda esa primaxin bilan 14 kunlik kimyoprofilaktika o'tkazish maqsadga muvofiq hisoblanadi»"
+  },
+  {
+   "q": "Soxta o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari qancha davom etadi?",
+   "c": "3 yil davomida",
+   "w": [
+    "1 yil davomida",
+    "2 yil davomida",
+    "5 yil davomida",
+    "6 oy davomida"
+   ],
+   "x": "«Soxta o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari 3 yil davomida o'tkaziladi»"
+  }
+ ],
+ "148": [
+  {
+   "q": "Bezgakning passiv olib kirilishi nima bilan bog'liq?",
+   "c": "tashuvchi chivinning transport vositasi orqali bezgaksiz hududga tushib qolishi",
+   "w": [
+    "qo'zg'atuvchi bilan zararlangan odamning endemik hududdan kelishi",
+    "zararlangan migrantlar va vaqtincha ishga yollanganlarning kelishi",
+    "zararlangan odamning endemik hududdan chivinsiz qaytishi",
+    "chegaradosh hududlarda zararlangan odamlarning tarqalishi"
+   ],
+   "x": "«Bezgakning passiv olib kirilishi qo'zg'atuvchi bilan zararlangan odam emas, balki tashuvchi chivinning transport vositasi orqali bezgaksiz hududga tushib qolishi bilan bog'liq»"
+  },
+  {
+   "q": "Chivinda sporogoniya endemik hududda tugagan bo'lsa, passiv olib kirilgan chivin qanday bo'ladi?",
+   "c": "darhol yuqumli bo'ladi",
+   "w": [
+    "yuqumsiz bo'ladi",
+    "harorat yig'indisi to'planguncha yuqumsiz qoladi",
+    "bir hafta o'tgach yuqumli bo'ladi",
+    "lichinka bosqichida yuqumsiz qoladi"
+   ],
+   "x": "«Agar chivinda sporogoniya endemik hududda tugagan bo'lsa, u kelgan joyidagi harorat sharoitiga qaramay darhol yuqumli bo'ladi»"
+  },
+  {
+   "q": "Sporogoniyadan keyin zararlangan chivin qancha muddat yuqumli bo'lib qoladi?",
+   "c": "bir necha kundan 1,5 oygacha",
+   "w": [
+    "bir kundan 6 oygacha",
+    "6,5 kundan 1,5 oygacha",
+    "bir necha kundan 6 oygacha",
+    "10–15 kundan 1 oygacha"
+   ],
+   "x": "«sporogoniyadan keyin zararlangan chivin bir necha kundan 1,5 oygacha yuqumli bo'lib qoladi»"
+  },
+  {
+   "q": "«O'zbekiston havo yo'llari» qoshidagi sanitariya nazorat punkti nima qiladi?",
+   "c": "samolyotlarni bezgak chivinlariga tekshiradi",
+   "w": [
+    "vagonlarni dezinseksiya qiladi",
+    "aeroport hududidagi suv havzalarini pasportlashtiradi",
+    "ekipaj xodimlariga o'quv mashg'ulotlari o'tkazadi",
+    "bemorlarni shifoxonaga yotqizadi"
+   ],
+   "x": "«sanitariya nazorat punkti samolyotlarni bezgak chivinlariga tekshiradi»"
+  },
+  {
+   "q": "Hududiy markazlar bo'g'imoyoqlilarga qarshi tadbirlar haqida respublika markaziga har oyning nechanchi sanasigacha xabarnoma beradi?",
+   "c": "har oyning 5-sanasigacha",
+   "w": [
+    "har oyning 10-sanasigacha",
+    "har oyning 15-sanasigacha",
+    "har oyning 25-sanasigacha",
+    "har oyning 1-sanasigacha"
+   ],
+   "x": "«Hududiy markazlar har oyning 5-sanasigacha bo'g'imoyoqlilarga qarshi o'tkazilgan tadbirlar»"
+  },
+  {
+   "q": "Temir yo'l dezinseksiyasining sifati va samaradorligini kim va qachon baholaydi?",
+   "c": "entomolog kimyoviy ishlovdan bir sutka o'tgach",
+   "w": [
+    "parazitolog kimyoviy ishlovdan bir sutka o'tgach",
+    "entomolog kimyoviy ishlovdan darhol keyin",
+    "entomolog kimyoviy ishlovdan 10 kun o'tgach",
+    "gidrotexnik muhandis kimyoviy ishlovdan bir sutka o'tgach"
+   ],
+   "x": "«Har bir dezinseksiyaning sifati va samaradorligini entomolog kimyoviy ishlovdan bir sutka o'tgach baholaydi»"
+  },
+  {
+   "q": "DDT arzonligi va ta'sir muddatining uzoqligi tufayli keng qo'llangan. Uning ta'sir muddati qancha?",
+   "c": "6 oygacha",
+   "w": [
+    "6 haftagacha",
+    "1 haftagacha",
+    "1,5 oygacha",
+    "3 oygacha"
+   ],
+   "x": "«DDT arzonligi va ta'sir muddatining uzoqligi (6 oygacha) tufayli keng qo'llangan»"
+  },
+  {
+   "q": "MDHda tibbiy dezinseksiyada DDTni qo'llash qaysi yildan taqiqlangan?",
+   "c": "1989-yildan taqiqlangan",
+   "w": [
+    "2005-yildan taqiqlangan",
+    "2017-yildan taqiqlangan",
+    "2005-yildan keyin taqiqlangan",
+    "1989-yildan oldin taqiqlangan"
+   ],
+   "x": "«MDHda tibbiy dezinseksiyada uni qo'llash 1989-yildan taqiqlangan»"
+  },
+  {
+   "q": "Dezinseksiya ishiga qaysi yoshdan kichik bo'lmagan shaxslar qo'yiladi?",
+   "c": "18 yoshdan kichik bo'lmagan shaxslar",
+   "w": [
+    "16 yoshdan kichik bo'lmagan shaxslar",
+    "21 yoshdan kichik bo'lmagan shaxslar",
+    "25 yoshdan kichik bo'lmagan shaxslar",
+    "30 yoshdan kichik bo'lmagan shaxslar"
+   ],
+   "x": "«ishga 18 yoshdan kichik bo'lmagan, maxsus o'qigan va instruktaj olgan, tibbiy qarshi ko'rsatmasi yo'q shaxslar qo'yilishi kerak»"
+  },
+  {
+   "q": "Suv havzalarida diametri 20 sm bo'lgan to'r bilan olingan besh namuna nimani beradi?",
+   "c": "1 m² dagi lichinkalar sonini",
+   "w": [
+    "kunlash joyidagi chivinlar sonini",
+    "1 m² dagi chivinlar soni",
+    "havza turi va tur tarkibini",
+    "diametri 20 sm bo'lgan to'r sonini"
+   ],
+   "x": "«besh namuna 1 m² dagi lichinkalar sonini beradi»"
+  }
+ ]
+}

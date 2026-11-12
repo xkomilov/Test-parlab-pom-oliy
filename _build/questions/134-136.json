@@ -1,0 +1,338 @@
+{
+ "134": [
+  {
+   "q": "Vaksina mavjud bo'lmagani sababli toksoplazmoz profilaktikasi nimalarga asoslanadi?",
+   "c": "zararlanish manbalari va omillaridan saqlanishga",
+   "w": [
+    "mushuk tuvagini tozalamaslikka",
+    "zararlangan odamlarni izolyatsiya qilishga",
+    "faqat serologik tekshiruvga",
+    "oraliq xo'jayinlarni ommaviy davolashga"
+   ],
+   "x": "«profilaktika zararlanish manbalari va omillaridan saqlanishga, homilador ayollar hamda immuniteti pasaygan shaxslarni himoya qilishga asoslanadi»"
+  },
+  {
+   "q": "Go'shtni to'liq termik ishlaganda qanday bo'lishi kerak?",
+   "c": "ichida pushti joy qolmasligi va sharbati tiniq",
+   "w": [
+    "ichida pushti joy qolishi va sharbati muzlatilishi",
+    "ichida pushti joy bo'lishi va sharbati ko'p ajralishi",
+    "go'sht muzlatilib, sharbati to'kilishi",
+    "qiymasi tatib ko'rilishi va sharbati tiniq bo'lmasligi"
+   ],
+   "x": "«ichida pushti joy qolmasligi va sharbati tiniq bo'lishi kerak»"
+  },
+  {
+   "q": "Muzlatish to'qima sistalariga qanday ta'sir qiladi?",
+   "c": "ko'pchiligini nobud qiladi, biroq to'liq pishirish ishonchliroq",
+   "w": [
+    "hammasini nobud qiladi va pishirishdan ishonchliroq",
+    "faollashtiradi, biroq to'liq pishirish ishonchliroq",
+    "sistalarni nobud qilmaydi, to'liq pishirish ishonchliroq",
+    "ko'paytiradi, shuning uchun to'liq pishirish zarur"
+   ],
+   "x": "«Muzlatish to'qima sistalarining ko'pchiligini nobud qiladi, biroq to'liq pishirish ishonchliroq usul hisoblanadi»"
+  },
+  {
+   "q": "Ootsistalar najas bilan chiqqandan keyin necha kun o'tgach invaziv bo'ladi?",
+   "c": "1-5 kun o'tgach",
+   "w": [
+    "12-32 kun o'tgach",
+    "6-90 kun o'tgach",
+    "7-10 kun o'tgach",
+    "14-20 kun o'tgach"
+   ],
+   "x": "«ootsistalar najas bilan chiqqandan keyin 1-5 kun o'tgach invaziv bo'ladi»"
+  },
+  {
+   "q": "A sxemada spiramitsin qanday dozada beriladi?",
+   "c": "kuniga 3 g (12 mln BIRL) ikki qabulda",
+   "w": [
+    "kuniga 1 g (3 mln BIRL) bir qabulda",
+    "kuniga 6 g (24 mln BIRL) ikki qabulda",
+    "kuniga 3 g (12 mln BIRL) bir qabulda",
+    "kuniga 12 g (3 mln BIRL) uch qabulda"
+   ],
+   "x": "«A sxemada spiramitsin kuniga 3 g (12 mln BIRL) ikki qabulda»"
+  },
+  {
+   "q": "A sxemada spiramitsin kursi necha kun davom etadi va qanday tanaffus bilan takrorlanadi?",
+   "c": "7 kun, so'ngra 10 kun tanaffus",
+   "w": [
+    "10 kun, so'ngra 7 kun tanaffus",
+    "14 kun, so'ngra 10 kun tanaffus",
+    "7 kun, so'ngra 4 hafta tanaffus",
+    "12 kun, so'ngra 7 kun tanaffus"
+   ],
+   "x": "«kurs 7 kun, so'ngra 10 kun tanaffus bilan tug'ruqqacha davom ettiriladi»"
+  },
+  {
+   "q": "B sxemada pirimetamin qaysi preparatlar bilan birga beriladi?",
+   "c": "sulfanilamid va kalsiy folinati",
+   "w": [
+    "trimetoprim va kalsiy folinati",
+    "trimetoprim va sulfametoksazol",
+    "spiramitsin va sulfanilamid",
+    "spiramitsin va folin kislotasi"
+   ],
+   "x": "«B sxemada pirimetamin sulfanilamid bilan birga, kalsiy folinati qo'shib beriladi»"
+  },
+  {
+   "q": "Sxemalar necha haftada almashtiriladi va qaysi haftagacha faqat spiramitsin qo'llanadi?",
+   "c": "har 4 haftada, 18-haftasigacha",
+   "w": [
+    "har 7 haftada, 4-haftasigacha",
+    "har 10 haftada, 12-haftasigacha",
+    "har 3 haftada, 28-haftasigacha",
+    "har 12 haftada, 18-haftasigacha"
+   ],
+   "x": "«Sxemalar har 4 haftada almashtiriladi, homiladorlikning 18-haftasigacha esa faqat spiramitsin qo'llanadi»"
+  },
+  {
+   "q": "Seropozitiv OIV bemorlarda toksoplazmali ensefalitning oldini olish uchun qaysi preparat qo'llaniladi?",
+   "c": "trimetoprim-sulfametoksazol",
+   "w": [
+    "spiramitsin va kalsiy folinati",
+    "pirimetamin va sulfanilamid",
+    "kalsiy folinati va spiramitsin",
+    "sulfanilamid va pirimetamin"
+   ],
+   "x": "«toksoplazmali ensefalitning oldini olish uchun trimetoprim-sulfametoksazol bilan profilaktika qo'llaniladi»"
+  },
+  {
+   "q": "Yevropada homilador ayollar orasidagi tadqiqotda zararlanishning asosiy omillari nimalar bo'lgan?",
+   "c": "chala pishgan go'sht iste'moli va tuproq bilan muloqot",
+   "w": [
+    "pasterizatsiya qilinmagan sut va mushuk tuvagi",
+    "qon quyish va organ transplantatsiyasi",
+    "xom qiymani tatib ko'rish va ifloslangan suv",
+    "ifloslangan qo'llar va mushuk najasi"
+   ],
+   "x": "«zararlanishning asosiy omillari chala pishgan go'sht iste'moli va tuproq bilan muloqot ekanini»"
+  }
+ ],
+ "135": [
+  {
+   "q": "Sodda jonivorlar chaqiradigan kasalliklarning klinik belgilari qanday bo'ladi?",
+   "c": "ko'pincha o'ziga xos bo'lmaydi",
+   "w": [
+    "o'ziga xos bo'ladi va diareya bilan kechadi",
+    "faqat bolalarda subklinik kechadi",
+    "virusli infeksiyalarda uchramaydi",
+    "bakterial infeksiyalarda uchramaydi"
+   ],
+   "x": "«Sodda jonivorlar chaqiradigan kasalliklarning klinik belgilari ko'pincha o'ziga xos bo'lmaydi»"
+  },
+  {
+   "q": "Suyuq najasda vegetativ shakllarni aniqlash uchun tekshiruv najas ajralgandan keyin qancha vaqtdan kechiktirilmasdan o'tkaziladi?",
+   "c": "1–1,5 soatdan",
+   "w": [
+    "20 daqiqadan",
+    "bir sutkadan",
+    "2–3 haftadan",
+    "3–4 haftadan"
+   ],
+   "x": "«tekshiruv najas ajralgandan keyin 1–1,5 soatdan kechiktirilmasdan o'tkazilishi kerak»"
+  },
+  {
+   "q": "Balantidiazda najas hojatdan keyin qancha vaqt ichida tekshiriladi?",
+   "c": "20 daqiqa ichida",
+   "w": [
+    "40 daqiqa ichida",
+    "bir sutka ichida",
+    "2–3 hafta ichida",
+    "14–20 kun ichida"
+   ],
+   "x": "«najas hojatdan keyin 20 daqiqa ichida tekshiriladi»"
+  },
+  {
+   "q": "Turdiyev konservantida bir qism najasga necha qism konservant qo'shiladi?",
+   "c": "uch qism konservant",
+   "w": [
+    "bir qism konservant",
+    "ikki qism konservant",
+    "to'rt qism konservant",
+    "10 qism konservant"
+   ],
+   "x": "«bir qism najasga uch qism konservant qo'shiladi»"
+  },
+  {
+   "q": "Konservantsiz najas 0–4 °C da qancha vaqtdan ko'p saqlanmaydi?",
+   "c": "bir sutkadan",
+   "w": [
+    "1–1,5 soatdan",
+    "20 daqiqadan",
+    "bir haftadan",
+    "2–3 haftadan"
+   ],
+   "x": "«Konservantsiz najas 0–4 °C da bir sutkadan ko'p saqlanmaydi»"
+  },
+  {
+   "q": "Kriptosporidiozda Sil-Nilsen bo'yicha qaysi bo'yoq qo'llanadi?",
+   "c": "karbol-fuksin",
+   "w": [
+    "safranin",
+    "azur-eozin",
+    "Lyugol eritmasi",
+    "fiziologik eritma"
+   ],
+   "x": "«Sil-Nilsen bo'yicha karbol-fuksin, Kester bo'yicha safranin va Romanovskiy–Gimza bo'yicha azur-eozin»"
+  },
+  {
+   "q": "Kriptosporidiya ootsistalari qanday shakl va kattalikda bo'ladi?",
+   "c": "dumaloq, 4–7 mkm",
+   "w": [
+    "oval, 8–19 mkm",
+    "sferik, 8–15 mkm",
+    "noksimon, 10–20 mkm",
+    "sferik, 50–70 mkm"
+   ],
+   "x": "«Dumaloq, 4–7 mkm kattalikdagi ootsistalar»"
+  },
+  {
+   "q": "Lyamblia trofozoiti qanday uzunlikda bo'ladi?",
+   "c": "10–20 mkm uzunlikda",
+   "w": [
+    "8–19 mkm uzunlikda",
+    "4–7 mkm uzunlikda",
+    "20–25 mkm uzunlikda",
+    "50–70 mkm uzunlikda"
+   ],
+   "x": "«lyamblia trofozoiti 10–20 mkm uzunlikda, noksimon, ikki yadroli bo'lib»"
+  },
+  {
+   "q": "Entamoeba histolytica ning to'qima shakli qanday kattalikda bo'ladi?",
+   "c": "20–25 mkm kattalikda",
+   "w": [
+    "10–20 mkm kattalikda",
+    "8–15 mkm kattalikda",
+    "5–10 mkm kattalikda",
+    "50–70 mkm kattalikda"
+   ],
+   "x": "«Entamoeba histolytica ning to'qima shakli 20–25 mkm kattalikda»"
+  },
+  {
+   "q": "E. histolytica va E. dispar ni qaysi usullar ajratadi?",
+   "c": "antigen yoki molekulyar usullar",
+   "w": [
+    "Lyugol bilan nativ surtma",
+    "okular-mikrometr yordamida o'lchash",
+    "Sil-Nilsen bo'yicha bo'yash",
+    "flotatsiya usuli"
+   ],
+   "x": "«E. histolytica va E. dispar ni faqat antigen yoki molekulyar usullar ajratadi»"
+  }
+ ],
+ "136": [
+  {
+   "q": "Balantidium coli qaysi tipga mansub?",
+   "c": "Ciliophora tipiga",
+   "w": [
+    "Rimostomatea tipiga",
+    "Balantidiida tipiga",
+    "Jankowski tipiga",
+    "Neobalantidium tipiga"
+   ],
+   "x": "«Ciliophora Doflein, 1901 tipiga»"
+  },
+  {
+   "q": "Balantidiyaning odamda kasallik chaqirishini kim va qachon isbotlagan?",
+   "c": "1901-yilda N.S. Solovyov",
+   "w": [
+    "1857-yilda Malmsten",
+    "1978-yilda Jankowski",
+    "1901-yilda Doflein",
+    "1857-yilda N.S. Solovyov"
+   ],
+   "x": "«Balantidiyaning odamda kasallik chaqirishini 1901-yilda N.S. Solovyov isbotlagan»"
+  },
+  {
+   "q": "Balantidium coli vegetativ shaklining uzunligi qancha?",
+   "c": "uzunligi 80–125 mkm",
+   "w": [
+    "uzunligi 45–90 mkm",
+    "uzunligi 50–70 mkm",
+    "uzunligi 4–7 mkm",
+    "uzunligi 10–20 mkm"
+   ],
+   "x": "«vegetativ shaklining uzunligi 80–125 mkm, eni 45–90 mkm»"
+  },
+  {
+   "q": "Balantidiy sistasi qanday kattalikda va qanday shaklda bo'ladi?",
+   "c": "50–70 mkm kattalikda, sferik yoki oval",
+   "w": [
+    "80–125 mkm kattalikda, noksimon yoki oval",
+    "45–90 mkm kattalikda, sferik yoki noksimon",
+    "4–7 mkm kattalikda, sferik yoki tuxumsimon",
+    "10–15 mkm kattalikda, kipriklar bilan qoplangan"
+   ],
+   "x": "«Sista 50–70 mkm kattalikda, sferik yoki oval bo'lib»"
+  },
+  {
+   "q": "B. coli ning hayot sikli qanday organizmda o'tadi?",
+   "c": "bitta xo'jayin organizmida",
+   "w": [
+    "cho'chqa va odam organizmida",
+    "odam va maymun organizmida",
+    "kemiruvchilar va cho'chqalar organizmida",
+    "sutemizuvchilar organizmida"
+   ],
+   "x": "«B. coli ning hayot sikli bitta xo'jayin organizmida o'tadi»"
+  },
+  {
+   "q": "Balantidiazning yashirin davri ko'p hollarda qancha davom etadi?",
+   "c": "10–15 kun davom etadi",
+   "w": [
+    "3–4 hafta davom etadi",
+    "20 daqiqa davom etadi",
+    "50–70 kun davom etadi",
+    "80–125 kun davom etadi"
+   ],
+   "x": "«Yashirin davr ko'p hollarda 10–15 kun, umuman 5 kundan 30 kungacha davom etadi»"
+  },
+  {
+   "q": "Sistalar tashqi muhitda qancha vaqtgacha hayotchanligini saqlashi mumkin?",
+   "c": "3–4 haftagacha",
+   "w": [
+    "3–4 kungacha",
+    "5 kungacha",
+    "20 daqiqagacha",
+    "1–2 kungacha"
+   ],
+   "x": "«ular tashqi muhitda 3–4 haftagacha hayotchanligini saqlashi mumkin»"
+  },
+  {
+   "q": "Balantidiaz kasalligining asosiy manbai kim hisoblanadi?",
+   "c": "cho'chqa",
+   "w": [
+    "maymunlar",
+    "kemiruvchilar",
+    "cho'chqa boquvchilar",
+    "ruhiy shifoxona bemorlari"
+   ],
+   "x": "«kasallik manbai cho'chqa, ba'zan odamdir»"
+  },
+  {
+   "q": "Qishloq joylarida balantidiy bilan zararlanish necha foizga yetadi?",
+   "c": "4–5 foizga",
+   "w": [
+    "10–15 foizga",
+    "50–70 foizga",
+    "20–25 foizga",
+    "80–125 foizga"
+   ],
+   "x": "«qishloq joylarida balantidiy bilan zararlanish 4–5 foizga yetadi»"
+  },
+  {
+   "q": "Rektoromanoskopiyada balantidiylar qanday materialdan tayyorlangan surtmada topiladi?",
+   "c": "ichakning zararlangan qismidan olingan qirmalardan",
+   "w": [
+    "operatsion material va biopsiyadan olingan bo'laklardan",
+    "cho'chqa go'ngi va iflos suvdan olingan namunalardan",
+    "ichak devorining teshilgan qismidan olingan qirmalardan",
+    "sistalar ajralgan shakllangan najasdan"
+   ],
+   "x": "«rektoromanoskopiyada ichakning zararlangan qismidan olingan qirmalardan tayyorlangan surtmada ham balantidiylar topiladi»"
+  }
+ ]
+}

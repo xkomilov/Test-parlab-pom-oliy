@@ -1,0 +1,338 @@
+{
+ "068": [
+  {
+   "q": "Bezgakda bir ko'rish maydonida 100 tadan ortiq parazit bo'lsa, zichlik qanday baholanadi?",
+   "c": "+5 deb belgilanadi",
+   "w": [
+    "+4 deb belgilanadi",
+    "+3 deb belgilanadi",
+    "+2 deb belgilanadi",
+    "+1 deb belgilanadi"
+   ],
+   "x": "«bir ko'rish maydonida 100 tadan ortiq parazit +5, 10–100 ta +4, 1–10 ta +3 deb belgilanadi»"
+  },
+  {
+   "q": "Standartlarga ko'ra birlamchi bo'g'inda qaysi tekshiruvlar o'tkaziladi?",
+   "c": "epidemiologik anamnez, umumiy qon va umumiy siydik tahlili",
+   "w": [
+    "qorong'i maydonda osma tomchi va biosinov",
+    "serologik tashxis (BIFR, KBR) va biosinov",
+    "qonning bakterioskopik tekshiruvi va kumushlash",
+    "bilirubin, AsAT, AlAT va timol sinamalari"
+   ],
+   "x": "«Birlamchi bo'g'inda epidemiologik anamnez, umumiy qon va umumiy siydik tahlili o'tkaziladi»"
+  },
+  {
+   "q": "Bakterioskopik tekshiruv uchun qon qachon olinadi?",
+   "c": "xuruj paytida bir necha kun davomida olish",
+   "w": [
+    "xurujlar oralig'ida bir marta olish",
+    "faqat isitmasiz davrda olish",
+    "sog'ayish mezoni normallashganda olish",
+    "dispanser kuzatuvida olish"
+   ],
+   "x": "«qonni xuruj paytida bir necha kun davomida olish va qalin tomchidan 3–6 ta preparat tayyorlash»"
+  },
+  {
+   "q": "Birinchi tekshiruv salbiy bo'lsa, nima qilinadi?",
+   "c": "qon namunasi keyingi xurujda yoki boshqa kunda qayta olinadi",
+   "w": [
+    "kasallik istisno qilinadi va bemor chiqariladi",
+    "bemor kasalxonadan chiqarilib kuzatuvga olinadi",
+    "faqat biokimyoviy tahlil o'tkaziladi",
+    "bemor sog'ayganlar qatorida dispanser kuzatuviga olinadi"
+   ],
+   "x": "«Birinchi tekshiruv salbiy bo'lsa, tashxisni tasdiqlash uchun qon namunasi keyingi xurujda yoki boshqa kunda qayta olinadi»"
+  },
+  {
+   "q": "Qalin tomchi tekshirilganda spiroxeta bemorlarning qanchasida aniqlanadi?",
+   "c": "atigi 18–20 foizida",
+   "w": [
+    "atigi 30–45 foizida",
+    "atigi 10–12 foizida",
+    "atigi 5 foizida",
+    "atigi 20–30 foizida"
+   ],
+   "x": "«qalin tomchi tekshirilganda bemorlarning atigi 18–20 foizida spiroxeta aniqlanadi»"
+  },
+  {
+   "q": "Viloyat markazi laborantlari tumanlarga chiqqanda qon namunalarining qancha qismini qayta tekshiradi?",
+   "c": "20–30 foizini",
+   "w": [
+    "18–20 foizini",
+    "3–6 foizini",
+    "10–12 foizini",
+    "30–45 foizini"
+   ],
+   "x": "«viloyat markazi laborantlari tumanlarga chiqqanda qon namunalarining 20–30 foizini qayta tekshirishi»"
+  },
+  {
+   "q": "Davolanib sog'ayganlar va og'ir kechganlar necha oy dispanser kuzatuvida turadi?",
+   "c": "sog'ayganlar 6 oy, og'ir kechganlar 12 oy",
+   "w": [
+    "sog'ayganlar 12 oy, og'ir kechganlar 6 oy",
+    "sog'ayganlar 2 oy, og'ir kechganlar 5–6 oy",
+    "sog'ayganlar 1–2 oy, og'ir kechganlar 6 oy",
+    "sog'ayganlar 3 oy, og'ir kechganlar 20 oy"
+   ],
+   "x": "«davolanib sog'ayganlar 6 oy, og'ir kechganlar 12 oy davomida dispanser kuzatuvida turishi»"
+  },
+  {
+   "q": "Dispanser kuzatuvida qayta tekshiruvlar qachon o'tkaziladi?",
+   "c": "2 haftadan, 1–2 oy va 5–6 oydan keyin",
+   "w": [
+    "1 haftadan, 3 oy va 12 oydan keyin",
+    "2 haftadan, 6 oy va 12 oydan keyin",
+    "3–6 haftadan, 1–2 oy va 20 oydan keyin",
+    "10 kundan, 2–3 oy va 6 oydan keyin"
+   ],
+   "x": "«qayta tekshiruvlar 2 haftadan, 1–2 oy va 5–6 oydan keyin o'tkazilishi»"
+  },
+  {
+   "q": "Kanalar fiksatsiya uchun qaysi eritmalar bilan markazga olib kelinadi?",
+   "c": "2–3 foizli formalin yoxud 70 foizli spirt",
+   "w": [
+    "70 foizli formalin yoxud 2–3 foizli spirt",
+    "20–30 foizli formalin yoxud 5 foizli spirt",
+    "2–3 foizli formalin yoxud 100 foizli spirt",
+    "4 foizli formalin yoxud 10 foizli spirt"
+   ],
+   "x": "«tirik yoki 2–3 foizli formalin yoxud 70 foizli spirt bilan fiksatsiyalangan holda»"
+  },
+  {
+   "q": "Namunani yig'ilgan kuni yuborish imkoni bo'lmasa, kanalar necha kun tirik holda saqlanishi mumkin?",
+   "c": "10 kun davomida",
+   "w": [
+    "2 kun davomida",
+    "3 kun davomida",
+    "30 kun davomida",
+    "6 oy davomida"
+   ],
+   "x": "«kanalar 10 kun davomida tirik holda salqin joyda yoki maishiy muzlatkichda (+4 daraja) saqlanishi mumkin»"
+  }
+ ],
+ "069": [
+  {
+   "q": "Kasallik holati aniqlanganda shoshilinch xabarnoma qayerga yuboriladi?",
+   "c": "shahar yoki tuman sanitariya-epidemiologiya osoyishtalik markaziga",
+   "w": [
+    "L.M. Isayev nomidagi tibbiy parazitologiya ilmiy-tadqiqot institutiga",
+    "shahar va tuman hokimliklariga va respublika markaziga",
+    "viloyat va respublika markazlariga va hokimliklarga",
+    "vrach-parazitolog va entomolog yordamchilariga"
+   ],
+   "x": "«kasallik holati aniqlanganda shahar yoki tuman sanitariya-epidemiologiya osoyishtalik markaziga shoshilinch xabarnoma yuborish majburiy»"
+  },
+  {
+   "q": "Doksitsiklin, tsiprofloksatsin yoki tsefuroksim asetildan nechtasi tanlanadi?",
+   "c": "faqat bittasi tanlanadi",
+   "w": [
+    "barchasi birga tanlanadi",
+    "tetratsiklin bilan birga tanlanadi",
+    "levomitsetin bilan birga tanlanadi",
+    "penitsillin bilan birga tanlanadi"
+   ],
+   "x": "«ularning faqat bittasi tanlanadi»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartasining asosiy maqsadi nima?",
+   "c": "bemor zararlangan joyni aniqlash",
+   "w": [
+    "kanalar sonini kamaytirish",
+    "xonalar tartib raqamini belgilash",
+    "dorilash sifatini baholash",
+    "hovli rejasini chizish"
+   ],
+   "x": "«uning asosiy maqsadi bemor zararlangan joyni aniqlashdir»"
+  },
+  {
+   "q": "Kanalarni qidirishda tuproq qanday elakdan o'tkaziladi?",
+   "c": "1 mm tuyniqli elakdan o'tkaziladi",
+   "w": [
+    "5 mm tuyniqli elakdan o'tkaziladi",
+    "10 mm tuyniqli elakdan o'tkaziladi",
+    "1 sm tuyniqli elakdan o'tkaziladi",
+    "0,5 mm tuyniqli elakdan o'tkaziladi"
+   ],
+   "x": "«yoki 1 mm tuyniqli elakdan o'tkaziladi»"
+  },
+  {
+   "q": "Qurilish inshootlarida 1 kg tuproqda 1–2 ta kana topilsa, tarqalganlik qanday baholanadi?",
+   "c": "kam tarqalgan hisoblanadi",
+   "w": [
+    "o'rtacha tarqalgan hisoblanadi",
+    "ko'p tarqalgan hisoblanadi",
+    "giperendemik hisoblanadi",
+    "gipoendemik hisoblanadi"
+   ],
+   "x": "«1 kg tuproqda 1–2 ta kana topilsa kam, o'nlab topilsa o'rtacha, yuzlab topilsa ko'p tarqalgan hisoblanadi»"
+  },
+  {
+   "q": "Hozirgi piretroid va fosfororganik preparatlarning aksariyati qancha qoldiq ta'sirga ega?",
+   "c": "1–3 oy qoldiq ta'sirga",
+   "w": [
+    "1 yilgacha qoldiq ta'sirga",
+    "3–4 oygacha qoldiq ta'sirga",
+    "6 oygacha qoldiq ta'sirga",
+    "2–3 yil qoldiq ta'sirga"
+   ],
+   "x": "«hozirgi piretroid va fosfororganik preparatlarning aksariyati esa 1–3 oy qoldiq ta'sirga ega»"
+  },
+  {
+   "q": "Bir kvadrat metrga qancha ishchi eritma yetarli?",
+   "c": "200 ml ishchi eritma",
+   "w": [
+    "50 ml ishchi eritma",
+    "10 ml ishchi eritma",
+    "20 ml ishchi eritma",
+    "0,5 metr ishchi eritma"
+   ],
+   "x": "«Bir kvadrat metrga 200 ml ishchi eritma yetarli»"
+  },
+  {
+   "q": "Kana xonadonlarning 20 foizidan ortig'ida bo'lsa, qanday dorilash olib boriladi?",
+   "c": "aholi punktida ommaviy, ya'ni yalpi dorilash",
+   "w": [
+    "faqat kana aniqlangan va qo'shni xonadonlarda tanlab dorilash",
+    "turar va yotoq xonalarni shoshilinch dorilash",
+    "bir marta dorilash yetarli deb hisoblash",
+    "dorilash to'xtatiladi va kuzatuv boshlanadi"
+   ],
+   "x": "«Xonadonlarning 20 foizidan ortig'ida kana bo'lsa, aholi punktida ommaviy, ya'ni yalpi dorilash olib boriladi»"
+  },
+  {
+   "q": "Qoldiq ta'siri 3–4 oygacha bo'lgan vositalar yilda necha marta qo'llanadi?",
+   "c": "yilda 2 marta qo'llanadi",
+   "w": [
+    "yilda 1 marta qo'llanadi",
+    "yilda 3 marta qo'llanadi",
+    "yilda 4 marta qo'llanadi",
+    "haftada bir marta qo'llanadi"
+   ],
+   "x": "«Qoldiq ta'siri 3–4 oygacha bo'lgan vositalar yilda 2 marta, 6 oygacha bo'lganlari yilda 1 marta qo'llanadi»"
+  },
+  {
+   "q": "Dorilash sifati ishlovdan qancha vaqt o'tib tekshiriladi?",
+   "c": "2–3 kun o'tib",
+   "w": [
+    "2–4 oydan so'ng",
+    "bir yil o'tib",
+    "10 kun o'tib",
+    "3–5 hafta o'tib"
+   ],
+   "x": "«Dorilash sifati ishlovdan 2–3 kun o'tib xona polining turli joylari»"
+  }
+ ],
+ "070": [
+  {
+   "q": "Emlash vositasi mavjud bo'lmagani sababli profilaktika nimaga tayanadi?",
+   "c": "kanalar bilan odam o'rtasidagi aloqani uzishga",
+   "w": [
+    "tirik vaksina bilan emlashga",
+    "kanalarning yashash joylarini ko'paytirishga",
+    "hovlilardagi kemiruvchilarni emlashga",
+    "odamlarni endemik hududga yuborishga"
+   ],
+   "x": "«profilaktika kasallikni tashuvchi Ornithodoros kanalari bilan odam o'rtasidagi aloqani uzishga»"
+  },
+  {
+   "q": "Bu kasallikda yagona kurash va oldini olish chorasi nima?",
+   "c": "O. papillipes kanalariga qarshi kurash",
+   "w": [
+    "kemiruvchilar va uy hayvonlariga qarshi kurash",
+    "qo'zg'atuvchini tashuvchi hayvonlarni emlash",
+    "tabiiy biotoplarni qayta qurish va dorilash",
+    "aholi o'rtasida sanitariya-tarbiya ishlari"
+   ],
+   "x": "«bu kasallikda yagona kurash va oldini olish chorasi shahar va qishloqlarda yashovchi, qo'zg'atuvchini tashuvchi va saqlovchi O. papillipes kanalariga qarshi kurashdir»"
+  },
+  {
+   "q": "Endemik tumanlarda maxsus brigadalar tarkibi qanday bo'lishi tavsiya etiladi?",
+   "c": "entomolog yordamchisi va 3–5 dezinfektor",
+   "w": [
+    "parazitolog va 20–30 dezinfektor",
+    "laborant va 10–15 dezinfektor",
+    "vrach-epidemiolog va 1–2 dezinfektor",
+    "entomolog va 100–200 dezinfektor"
+   ],
+   "x": "«Endemik tumanlarda 3–5 dezinfektor va entomolog yordamchisidan iborat brigadalar tuzish tavsiya etiladi»"
+  },
+  {
+   "q": "Qoldiq ta'siri uzoq vositalar yilda necha marta qo'llanadi?",
+   "c": "yilda bir marta qo'llanadi",
+   "w": [
+    "yilda ikki marta qo'llanadi",
+    "haftada bir marta qo'llanadi",
+    "ikki yilda bir marta qo'llanadi",
+    "yilning issiq davrida qo'llanadi"
+   ],
+   "x": "«Qoldiq ta'siri uzoq vositalar yilda bir marta, qisqa muddatlilari yilda ikki marta qo'llanadi»"
+  },
+  {
+   "q": "Ekologik toza mexanik usul necha yil qo'llanganda kanalar sonini kamaytiradi?",
+   "c": "2–3 yil davomida",
+   "w": [
+    "10–15 yil davomida",
+    "3–5 yil davomida",
+    "1 yil davomida",
+    "6–8 yil davomida"
+   ],
+   "x": "«Bu usul 2–3 yil davomida qo'llanganda kanalar sonini kamaytiradi»"
+  },
+  {
+   "q": "Eski inshoot o'rnida yangi bino qurilganda tuproq insektitsid kukuni bilan qanday nisbatda aralashtiriladi?",
+   "c": "1:100 nisbatda",
+   "w": [
+    "1:10 nisbatda",
+    "1:50 nisbatda",
+    "1:2 nisbatda",
+    "10–15 nisbatda"
+   ],
+   "x": "«insektitsid kukuni bilan 1:100 nisbatda aralashtirilib o'raga ko'miladi»"
+  },
+  {
+   "q": "Tunashga majbur bo'linganda karavot oyoqlari nimaga tushiriladi?",
+   "c": "suv to'ldirilgan idishlarga",
+   "w": [
+    "chiqindi tashlangan o'ralarga",
+    "betonli poydevorlarga",
+    "tuproq ko'milgan o'ralarga",
+    "kemiruvchi uyalariga"
+   ],
+   "x": "«oyoqlari suv to'ldirilgan idishlarga tushiriladi»"
+  },
+  {
+   "q": "Isroildagi tadqiqotda qon surtmasi bilan tasdiqlangan 10 ta holat qaysi guruhda kuzatilgan?",
+   "c": "platsebo olgan guruhda",
+   "w": [
+    "doksitsiklin olgan guruhda",
+    "kanalar chaqqan kishilar guruhda",
+    "qon surtmasi bilan tasdiqlangan guruhda",
+    "kanalar bo'lmagan guruhda"
+   ],
+   "x": "«qon surtmasi bilan tasdiqlangan 10 ta holatning hammasi platsebo olgan guruhda kuzatilgan»"
+  },
+  {
+   "q": "Dorilangandan bir yil o'tib kana topilmasa va aholi chaqishdan shikoyat qilmasa, hovli qanday hisoblanadi?",
+   "c": "kanadan tozalangan hisoblanadi",
+   "w": [
+    "kanalar ko'p tarqalgan hisoblanadi",
+    "qayta dorilanadigan hisoblanadi",
+    "kanalar yo'qotilganiga kafolat hisoblanadi",
+    "xavfli o'choq hisoblanadi"
+   ],
+   "x": "«kana topilmasa va aholi chaqishdan shikoyat qilmasa, hovli kanadan tozalangan hisoblanadi»"
+  },
+  {
+   "q": "Ishlov to'xtatilgach hovli qanday tekshiriladi?",
+   "c": "bir yillik oraliq bilan ikki marta",
+   "w": [
+    "bir yillik oraliq bilan bir marta",
+    "haftada bir marta",
+    "yilda ikki marta",
+    "2–3 yillik oraliq bilan ikki marta"
+   ],
+   "x": "«ishlov to'xtatilgach ham bir yillik oraliq bilan ikki marta tekshiriladi»"
+  }
+ ]
+}

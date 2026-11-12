@@ -1,0 +1,338 @@
+{
+ "086": [
+  {
+   "q": "JSST tavsiyasiga ko'ra terapevtik samaradorlikni baholash uchun najas davolashdan oldin va qancha vaqt o'tgach tekshiriladi?",
+   "c": "14–21 kun o'tgach",
+   "w": [
+    "2–3 kun o'tgach",
+    "3 oy o'tgach",
+    "24 kun o'tgach",
+    "6 oy o'tgach"
+   ],
+   "x": "«davolashdan oldin va davolashdan 14–21 kun o'tgach bir xil usulda»"
+  },
+  {
+   "q": "Tuzalish ko'rsatkichi qanday hisoblanadi?",
+   "c": "tuxumi topilmaganlar sonining davolashgacha zararlanganlar soniga nisbati",
+   "w": [
+    "davolashgacha zararlanganlar sonining tuxumi topilmaganlar soniga nisbati",
+    "o'rtacha EPG ning davolashgacha zararlanganlar soniga nisbati",
+    "davolangan bolalar sonining jami zararlanganlar soniga nisbati",
+    "tuxumi topilmaganlar sonining o'rtacha EPG ga nisbati"
+   ],
+   "x": "«Tuzalish ko'rsatkichi davolashdan keyin tuxumi topilmaganlar sonining davolashgacha zararlanganlar soniga nisbati sifatida hisoblanadi»"
+  },
+  {
+   "q": "EPG nimani bildiradi?",
+   "c": "bir gramm najasdagi tuxumlar soni",
+   "w": [
+    "bir gramm najasdagi gelmintlar soni",
+    "bitta namunadagi preparatlar soni",
+    "bitta bemordagi tuxumlar soni",
+    "bir namunadagi mutaxassislar soni"
+   ],
+   "x": "«EPG (bir gramm najasdagi tuxumlar soni)»"
+  },
+  {
+   "q": "JSST albendazol uchun askarida bo'yicha tuxumlar sonining kamayishi qiymatini qancha deb belgilagan?",
+   "c": "askarida uchun 95 foiz",
+   "w": [
+    "askarida uchun 90 foiz",
+    "askarida uchun 50 foiz",
+    "askarida uchun 75 foiz",
+    "askarida uchun 2 foiz"
+   ],
+   "x": "«askarida uchun 95 foiz, ankilostomidlar uchun 90 foiz, qilbosh uchun 50 foiz»"
+  },
+  {
+   "q": "Davolashdan oldin va keyin natijani talqin qilishda qaysi shart saqlanishi tavsiya etiladi?",
+   "c": "bir xil usuldan foydalanish",
+   "w": [
+    "turli usullardan foydalanish",
+    "faqat qon tahlilidan foydalanish",
+    "namunani boshqa usulda ko'rish",
+    "har safar boshqa preparat berish"
+   ],
+   "x": "«davolashdan oldin va keyin bir xil usuldan foydalanish tavsiya etiladi»"
+  },
+  {
+   "q": "Biogelmintozlarda najas davolashdan qancha vaqt keyin tekshiriladi?",
+   "c": "davolashdan 3–4–5 oy keyin",
+   "w": [
+    "davolashdan bir oy keyin",
+    "davolashdan 14–21 kun keyin",
+    "davolashdan 2 yil keyin",
+    "davolashdan 10 oy keyin"
+   ],
+   "x": "«Biogelmintozlarda najas davolashdan 3–4–5 oy keyin, dispanser kuzatuvi davomida kamida uch marta tekshiriladi»"
+  },
+  {
+   "q": "Agar 2 yil davomida o'choqda gelmintoz aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq nima qilinadi?",
+   "c": "hisobdan chiqariladi",
+   "w": [
+    "intensiv o'choqqa o'tkaziladi",
+    "qayta degelmintizatsiya qilinadi",
+    "yangi o'choq deb belgilanadi",
+    "yana 2 yil kuzatuvda qoldiriladi"
+   ],
+   "x": "«o'choq hisobdan chiqariladi»"
+  },
+  {
+   "q": "JSSTning 2030-yilgacha bo'lgan yo'l xaritasida geogelmintozlarni bartaraf etish mezoni qanday?",
+   "c": "ulushining 2 foizdan past bo'lishi",
+   "w": [
+    "ulushining 20 foizdan past bo'lishi",
+    "ulushining 75 foizdan past bo'lishi",
+    "ulushining 50 foizdan past bo'lishi",
+    "ulushining 10 foizdan past bo'lishi"
+   ],
+   "x": "«o'rta va og'ir intensivlikdagi invaziyalar ulushining 2 foizdan past bo'lishi deb belgilangan»"
+  },
+  {
+   "q": "Kato–Kats preparatlarining qancha qismi boshqa mutaxassis tomonidan qayta ko'rib chiqiladi?",
+   "c": "taxminan 10 foizi",
+   "w": [
+    "taxminan 5 foizi",
+    "taxminan 50 foizi",
+    "taxminan 95 foizi",
+    "taxminan 2 foizi"
+   ],
+   "x": "«Kato–Kats preparatlarining taxminan 10 foizi boshqa mutaxassis tomonidan qayta ko'rib chiqiladi»"
+  },
+  {
+   "q": "Muassasadagi namunalarni sanitariya-parazitologik tekshirish nimani ko'rsatadi?",
+   "c": "surtmalar tuxumlardan tozalanganini",
+   "w": [
+    "preparatga chidamlilik ehtimolini",
+    "xavf guruhi qamrovi foizini",
+    "bolalar jamoasi sonini",
+    "dispanser kuzatuvi muddatini"
+   ],
+   "x": "«o'yinchoq, choyshab, gilam va boshqa buyumlardan olingan surtmalar tuxumlardan tozalanganini ko'rsatadi»"
+  }
+ ],
+ "087": [
+  {
+   "q": "Askaridoz qanday gelmintoz hisoblanadi?",
+   "c": "antroponoz ichak geogelmintozi",
+   "w": [
+    "antroponoz o'pka geogelmintozi",
+    "antroponoz ichak parazitozi",
+    "oraliq xo'jayinli ichak gelmintozi",
+    "tuproq orqali o'pka geogelmintozi"
+   ],
+   "x": "«Askaridoz odam askaridasi, ya'ni Ascaris lumbricoides keltirib chiqaradigan antroponoz ichak geogelmintozidir»"
+  },
+  {
+   "q": "Urug'langan askarida tuxumi qanday ko'rinishda bo'ladi?",
+   "c": "ovalsimon, qobig'i yirik bo'rtmali",
+   "w": [
+    "cho'zinchoq, qobig'i yupqaroq",
+    "ichi tartibsiz donachalarga to'la",
+    "qobig'i yirik, ichi donachalarga to'la",
+    "yupqaroq qobiqli va cho'zinchoq"
+   ],
+   "x": "«Urug'langan tuxum ovalsimon, 45–75 × 35–50 mkm, tashqi oqsil qobig'i yirik bo'rtmali»"
+  },
+  {
+   "q": "Urug'langan urg'ochi askarida bir kunda qancha tuxum qo'yadi?",
+   "c": "bir kunda 200–240 ming atrofida tuxum",
+   "w": [
+    "bir kunda 20–24 ming atrofida tuxum",
+    "bir kunda 2–3 ming atrofida tuxum",
+    "bir kunda 250–300 ming atrofida tuxum",
+    "bir kunda 85–95 ming atrofida tuxum"
+   ],
+   "x": "«bir kunda 200–240 ming atrofida tuxum qo'yadi»"
+  },
+  {
+   "q": "Optimal sharoitda tuxumda invaziv lichinka rivojlanishi qancha vaqtda tugaydi?",
+   "c": "taxminan 12–16 kunda",
+   "w": [
+    "taxminan 2–3 kunda",
+    "taxminan 10 kunda",
+    "taxminan bir yilda",
+    "taxminan 40 kunda"
+   ],
+   "x": "«rivojlanish taxminan 12–16 kunda tugaydi»"
+  },
+  {
+   "q": "Migratsiya davomida lichinka necha marta po'st tashlaydi?",
+   "c": "ikki marta",
+   "w": [
+    "bir marta",
+    "12 marta",
+    "24 marta",
+    "37 marta"
+   ],
+   "x": "«Migratsiya davomida lichinka ikki marta po'st tashlaydi»"
+  },
+  {
+   "q": "Lichinkaning organizm ichidagi migratsion bosqichi o'rtacha qancha davom etadi?",
+   "c": "o'rtacha 10–15 kun",
+   "w": [
+    "o'rtacha 12–16 kun",
+    "o'rtacha 2–3 oy",
+    "o'rtacha bir yil",
+    "o'rtacha 18–48 kun"
+   ],
+   "x": "«Bu bosqich o'rtacha 10–15 kun davom etadi»"
+  },
+  {
+   "q": "Zararlanishdan tuxum ajrala boshlagunga qadar qancha vaqt o'tadi?",
+   "c": "taxminan 2–3 oy o'tadi",
+   "w": [
+    "taxminan 10–15 kun o'tadi",
+    "taxminan 12–16 kun o'tadi",
+    "taxminan 10 yil o'tadi",
+    "taxminan 18–48 kun o'tadi"
+   ],
+   "x": "«Zararlanishdan tuxum ajrala boshlagunga qadar taxminan 2–3 oy o'tadi»"
+  },
+  {
+   "q": "Qulay sharoitda askarida tuxumlari qancha vaqt yashovchanligini saqlaydi?",
+   "c": "o'n yildan ortiq",
+   "w": [
+    "bir yildan ikki yilgacha",
+    "taxminan 2–3 oy",
+    "taxminan 12–16 kun",
+    "bir necha kun"
+   ],
+   "x": "«Qulay sharoitda tuxumlar o'n yildan ortiq yashovchanligini saqlaydi»"
+  },
+  {
+   "q": "Askaridoz qanday mexanizm orqali yuqadi?",
+   "c": "fekal-oral mexanizm orqali",
+   "w": [
+    "bemor bilan bevosita muloqot orqali",
+    "oraliq xo'jayin orqali",
+    "teri orqali lichinka kirishi orqali",
+    "tuproqdagi lichinkalar orqali"
+   ],
+   "x": "«Yuqish fekal-oral mexanizm orqali amalga oshadi»"
+  },
+  {
+   "q": "Askaridoz intensiv o'choqlarida zararlanish darajasi qanday?",
+   "c": "30 foiz va undan yuqori",
+   "w": [
+    "15–29 foiz",
+    "15 foizgacha",
+    "50 foiz va undan yuqori",
+    "5 foizgacha"
+   ],
+   "x": "«intensiv o'choqlarda zararlanish 30 foiz va undan yuqori»"
+  }
+ ],
+ "088": [
+  {
+   "q": "Lyoffler sindromi nima?",
+   "c": "eozinofiliya va ko'chib yuruvchi o'pka infiltratlarining birgalikda uchrashi",
+   "w": [
+    "ichak tutilishi va xolangitning birgalikda uchrashi",
+    "o't sanchig'i va pankreatitning birgalikda uchrashi",
+    "ozish va rivojlanishdan orqada qolishning birgalikda uchrashi",
+    "dispepsiya va ishtaha pasayishining birgalikda uchrashi"
+   ],
+   "x": "«Qonda eozinofiliya va o'pkadagi ko'chib yuruvchi infiltratlarning birgalikda uchrashi Lyoffler sindromi deb ataladi»"
+  },
+  {
+   "q": "Migratsion bosqichda quruq yo'tal odatda zararlanishdan qancha vaqt o'tgach paydo bo'ladi?",
+   "c": "1–2 hafta o'tgach",
+   "w": [
+    "3–4 oy o'tgach",
+    "6 oy o'tgach",
+    "bir yil o'tgach",
+    "bir kun o'tgach"
+   ],
+   "x": "«odatda zararlanishdan 1–2 hafta o'tgach, quruq yo'tal»"
+  },
+  {
+   "q": "Ichak bosqichida eng ko'p uchraydigan shikoyatlar qaysilar?",
+   "c": "dispepsiya, ko'ngil aynishi va ishtahaning o'zgarishi",
+   "w": [
+    "quruq yo'tal, nafas qisishi va eshakem",
+    "ko'z qovoqlari shishishi, toshma va zotiljam",
+    "o't sanchig'i, xolangit va jigar xo'ppozi",
+    "ichak teshilishi, peritonit va appenditsit"
+   ],
+   "x": "«Dispepsiya, ko'ngil aynishi va ishtahaning o'zgarishi eng ko'p uchraydigan shikoyatlar hisoblanadi»"
+  },
+  {
+   "q": "Askarida organizmning qaysi vitamin zaxirasini kamaytiradi?",
+   "c": "A vitamini zaxirasini",
+   "w": [
+    "B vitamini zaxirasini",
+    "C vitamini zaxirasini",
+    "D vitamini zaxirasini",
+    "K vitamini zaxirasini"
+   ],
+   "x": "«Askarida organizmning A vitamini zaxirasini kamaytiradi»"
+  },
+  {
+   "q": "Askaridoz asoratlarining eng xavflisi qaysi?",
+   "c": "ichak tutilishi",
+   "w": [
+    "appenditsit",
+    "peritonit",
+    "xolangit",
+    "jigar xo'ppozi"
+   ],
+   "x": "«Asoratlarning eng xavflisi ichak tutilishidir»"
+  },
+  {
+   "q": "Flotatsiya eritmalari solishtirma og'irligi qancha bo'lganda samarali?",
+   "c": "solishtirma og'irligi 1,38–1,40",
+   "w": [
+    "solishtirma og'irligi 1,10–1,20",
+    "solishtirma og'irligi 1,50–1,60",
+    "solishtirma og'irligi 1,80–1,90",
+    "solishtirma og'irligi 1,05–1,10"
+   ],
+   "x": "«Flotatsiya eritmalari solishtirma og'irligi 1,38–1,40 bo'lganda samarali»"
+  },
+  {
+   "q": "Kato-Kats usulida tuxumlar soni qanday koeffitsientga ko'paytiriladi?",
+   "c": "24 koeffitsientiga ko'paytiriladi",
+   "w": [
+    "6 koeffitsientiga ko'paytiriladi",
+    "30 koeffitsientiga ko'paytiriladi",
+    "50 koeffitsientiga ko'paytiriladi",
+    "100 koeffitsientiga ko'paytiriladi"
+   ],
+   "x": "«natija 24 koeffitsientiga ko'paytirilib, 1 g najasdagi tuxumlar soni topiladi»"
+  },
+  {
+   "q": "JSST mezonlariga ko'ra kuchli intensivlik 1 g najasda qancha tuxumga to'g'ri keladi?",
+   "c": "50 000 va undan ortiq tuxumga",
+   "w": [
+    "1–4999 tuxumga",
+    "5000–49 999 tuxumga",
+    "5000 va undan ortiq tuxumga",
+    "50 va undan ortiq tuxumga"
+   ],
+   "x": "«kuchli 50 000 va undan ortiq tuxumga to'g'ri keladi»"
+  },
+  {
+   "q": "Migratsion davrda yagona tashxis vositasi qaysi usul hisoblanadi?",
+   "c": "serologik usul",
+   "w": [
+    "najas mikroskopiyasi",
+    "Kato-Kats usuli",
+    "balg'am tekshiruvi",
+    "flotatsiya usuli"
+   ],
+   "x": "«serologik usul migratsion davrda yagona tashxis vositasi»"
+  },
+  {
+   "q": "Pirantel askaridozda qanday dozada beriladi?",
+   "c": "10 mg/kg bir marta",
+   "w": [
+    "100 mg/kg bir marta",
+    "400 mg bir marta",
+    "10 mg/kg uch kun",
+    "100 mg dan kuniga ikki mahal"
+   ],
+   "x": "«pirantel (10 mg/kg bir marta)»"
+  }
+ ]
+}

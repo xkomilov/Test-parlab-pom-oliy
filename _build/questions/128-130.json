@@ -1,0 +1,338 @@
+{
+ "128": [
+  {
+   "q": "Lyamblya sistalari 1 mg/l xlor konsentratsiyasida qancha vaqtdan keyingina halok bo'ladi?",
+   "c": "72 soatdan keyin",
+   "w": [
+    "20 daqiqadan keyin",
+    "5 daqiqadan keyin",
+    "10 daqiqadan keyin",
+    "40 daqiqadan keyin"
+   ],
+   "x": "«1 mg/l konsentratsiyada ular 72 soatdan keyingina halok bo'ladi»"
+  },
+  {
+   "q": "Ultrabinafsha nurlanish sistalarni zararsizlantirishi uchun qancha miqdorda bo'lishi kerak?",
+   "c": "kamida 40 mJ/sm² miqdorda",
+   "w": [
+    "kamida 5 mJ/sm² miqdorda",
+    "kamida 72 mJ/sm² miqdorda",
+    "kamida 24 mJ/sm² miqdorda",
+    "kamida 55 mJ/sm² miqdorda"
+   ],
+   "x": "«Ultrabinafsha nurlanish ham, kamida 40 mJ/sm² miqdorda, ularni zararsizlantiradi»"
+  },
+  {
+   "q": "Sistalar havoda quritilganda qancha vaqt ichida nobud bo'ladi?",
+   "c": "24 soat ichida",
+   "w": [
+    "5 daqiqa ichida",
+    "72 soat ichida",
+    "1 hafta ichida",
+    "48 soat ichida"
+   ],
+   "x": "«Sistalar havoda quritilganda 24 soat ichida nobud»"
+  },
+  {
+   "q": "Lyambliozda davolash tugagach nazorat uchun najas qachon tekshiriladi?",
+   "c": "1 haftadan keyin",
+   "w": [
+    "davolash kursi tugagan kuni",
+    "24 soatdan keyin",
+    "5 daqiqadan keyin",
+    "bir oygacha"
+   ],
+   "x": "«lyambliozda najas 1 haftadan keyin tekshiriladi»"
+  },
+  {
+   "q": "Amyobiaz va balantidiazda nazorat tekshiruvi qachon o'tkaziladi?",
+   "c": "davolash kursi tugagan kuni",
+   "w": [
+    "1 haftadan keyin tekshiriladi",
+    "24 soatdan keyin tekshiriladi",
+    "40 daqiqadan keyin tekshiriladi",
+    "bir oygacha tekshiriladi"
+   ],
+   "x": "«amyobiaz va balantidiazda esa davolash kursi tugagan kuni»"
+  },
+  {
+   "q": "Lyambliozni davolashning samaradorligi nima bilan tasdiqlanadi?",
+   "c": "najas tahlilining manfiy natijasi va bemorning umumiy holati yaxshilanishi",
+   "w": [
+    "najasdagi sistalar sonining ortishi va suv sifatining yaxshilanishi",
+    "bemorning ishga qo'yilishi va davolash muddatining bir oygacha uzayishi",
+    "qayta zararlanish ehtimoli va bolalar jamoasidagi vaziyat o'zgarishi",
+    "dezinfeksiya rejimining bajarilishi va hasharotlarga qarshi kurash"
+   ],
+   "x": "«Davolashning samaradorligi najas tahlilining manfiy natijasi va bemorning umumiy holati yaxshilanishi bilan tasdiqlanadi»"
+  },
+  {
+   "q": "Bemor va parazit tashuvchilarga qachon ishlashga ruxsat etiladi?",
+   "c": "to'liq davolash kursini o'tib, qayta nazorat tekshiruvidan o'tgachgina",
+   "w": [
+    "davolash kursini o'tmasdan, qayta tekshiruvdan o'tgachgina",
+    "to'liq davolash kursini o'tib, bir haftadan keyin",
+    "qayta nazorat tekshiruvidan o'tmasdan, rahbar bilan kelishilgach",
+    "davolash kursi tugagan kuni, hududiy markaz bilan kelishilgach"
+   ],
+   "x": "«Bemor va parazit tashuvchilar to'liq davolash kursini o'tib, qayta nazorat laboratoriya tekshiruvidan o'tgachgina ishlashga ruxsat etiladi»"
+  },
+  {
+   "q": "Davolashning o'zi nima sababdan qayta zararlanishning oldini olmaydi?",
+   "c": "sistalar tashqi muhitda uzoq saqlanadi",
+   "w": [
+    "sistalar qaynatilganda bir zumda nobud bo'ladi",
+    "sistalar havoda quritilganda nobud bo'ladi",
+    "sistalar ultrabinafsha nurlanishda halok bo'ladi",
+    "sistalar xlorga chidamsiz bo'lgani sababli halok bo'ladi"
+   ],
+   "x": "«chunki sistalar tashqi muhitda uzoq saqlanadi»"
+  },
+  {
+   "q": "Maxsus vaksina yo'qligi sababli lyamblioz profilaktikasi qanday choralarga tayanadi?",
+   "c": "noaniq (nospetsifik) choralarga",
+   "w": [
+    "maxsus emlash choralariga",
+    "faqat davolash choralariga",
+    "vaksina bilan emlash choralariga",
+    "sanitariya-gigiyena choralarisiz"
+   ],
+   "x": "«profilaktika faqat noaniq (nospetsifik) choralarga tayanadi»"
+  },
+  {
+   "q": "Bolalarda lyamblioz kattalarga nisbatan necha marta ko'p uchraydi?",
+   "c": "2-3 marta ko'p uchraydi",
+   "w": [
+    "5-6 marta ko'p uchraydi",
+    "10 marta ko'p uchraydi",
+    "15-20 marta ko'p uchraydi",
+    "4-5 marta ko'p uchraydi"
+   ],
+   "x": "«Bolalarda lyamblioz kattalarga nisbatan 2-3 marta ko'p uchraydi»"
+  }
+ ],
+ "129": [
+  {
+   "q": "Amyobiaz qo'zg'atuvchisi qaysi tur hisoblanadi?",
+   "c": "Entamoeba histolytica",
+   "w": [
+    "Entamoeba coli",
+    "Entamoeba hartmanni",
+    "Endolimax nana",
+    "Yodamoeba butschlii"
+   ],
+   "x": "«Amyobiaz qo'zg'atuvchisi Entamoeba histolytica (Schaudinn, 1903) bo'lib»"
+  },
+  {
+   "q": "Katta vegetativ shaklning diametri qancha?",
+   "c": "diametri 20-30 mkm",
+   "w": [
+    "diametri 15-20 mkm",
+    "diametri 7-18 mkm",
+    "diametri 60-80 mkm",
+    "diametri 15-40 mkm"
+   ],
+   "x": "«Katta vegetativ shakl (to'qima turi, eritrofag, gematofag) diametri 20-30 mkm»"
+  },
+  {
+   "q": "Eritrotsit yutgan trofozoitni topish nimadan dalolat beradi?",
+   "c": "invaziv amyobiaz uchun xos belgi",
+   "w": [
+    "amyoba tashuvchilik uchun xos belgi",
+    "nopatogen E. dispar uchun xos belgi",
+    "sista oldi bosqichi uchun xos belgi",
+    "kichik vegetativ shakl uchun xos belgi"
+   ],
+   "x": "«Aynan eritrotsit yutgan trofozoitni topish invaziv amyobiaz uchun xos belgi hisoblanadi»"
+  },
+  {
+   "q": "Oraliq tur (kichik vegetativ shakl) diametri qancha?",
+   "c": "diametri 15-20 mkm",
+   "w": [
+    "diametri 20-30 mkm",
+    "diametri 60-80 mkm",
+    "diametri 7-18 mkm",
+    "diametri 10-15 mkm"
+   ],
+   "x": "«Oraliq tur (kichik vegetativ shakl, erkin, to'qimasiz, sista oldi) diametri 15-20 mkm»"
+  },
+  {
+   "q": "Yetilgan sista nechta yadroli bo'ladi?",
+   "c": "4 ta yadroli",
+   "w": [
+    "1 ta yadroli",
+    "2 ta yadroli",
+    "8 ta yadroli",
+    "3 ta yadroli"
+   ],
+   "x": "«yetilgan sista 4 ta yadroli va zararlash xususiyatiga ega»"
+  },
+  {
+   "q": "E. dispar E. histolytica dan qanday usullar bilan farqlanadi?",
+   "c": "molekulyar-biologik usullar",
+   "w": [
+    "kariosoma va xromatin tuzilishi bo'yicha",
+    "sista oldi shakli bo'yicha",
+    "eritrotsit fagotsitozi va yadro bo'yicha",
+    "Lyugol bilan bo'yash bo'yicha"
+   ],
+   "x": "«farq faqat molekulyar-biologik usullar bilan aniqlanadi»"
+  },
+  {
+   "q": "Har bir yetilgan to'rt yadroli sistadan nechta bir yadroli amyoba hosil bo'ladi?",
+   "c": "sakkizta bir yadroli amyoba",
+   "w": [
+    "to'rtta bir yadroli amyoba",
+    "ikkita bir yadroli amyoba",
+    "bitta to'rt yadroli amyoba",
+    "to'rtta ikki yadroli amyoba"
+   ],
+   "x": "«har bir yetilgan to'rt yadroli sistadan sakkizta bir yadroli amyoba hosil bo'lishi»"
+  },
+  {
+   "q": "Amyobiazning yashirin davri qancha davom etadi?",
+   "c": "1 haftadan 3 oygacha",
+   "w": [
+    "1 haftadan 3 haftagacha",
+    "15-20 daqiqagacha",
+    "1 haftadan 40 daqiqagacha",
+    "3 haftadan 3 oygacha"
+   ],
+   "x": "«Yashirin davr 1 haftadan 3 oygacha, ko'pincha 3-6 haftagacha»"
+  },
+  {
+   "q": "Katta vegetativ shakl topilishi uchun najas defekatsiyadan keyin qancha vaqt ichida ko'rilishi kerak?",
+   "c": "15-20 daqiqa ichida",
+   "w": [
+    "5 daqiqa ichida",
+    "2 hafta ichida",
+    "1 hafta ichida",
+    "3 hafta ichida"
+   ],
+   "x": "«najas defekatsiyadan keyin 15-20 daqiqa ichida, sovutilgan bo'lsa 40 daqiqagacha ko'rilishi kerak»"
+  },
+  {
+   "q": "Ichak bo'shlig'idagi amyobalarni yo'qotish uchun qaysi preparat qo'llanadi?",
+   "c": "paromomitsin",
+   "w": [
+    "metronidazol",
+    "tinidazol",
+    "ornidazol",
+    "seknidazol"
+   ],
+   "x": "«ichak bo'shlig'idagi amyobalarni yo'qotish uchun paromomitsinni ko'rsatadi»"
+  }
+ ],
+ "130": [
+  {
+   "q": "Epidemiologik jihatdan amyobiazning asosiy manbai kimlar?",
+   "c": "sista ajratuvchilar, ya'ni sog'lom tashuvchilar",
+   "w": [
+    "o'tkir amyobali ichburug' bilan og'rigan bemorlar",
+    "trofozoit ajratuvchi o'tkir kasal bemorlar",
+    "faqat ichak abssessi bor bemorlar",
+    "sayyohlar va migrantlar guruhi"
+   ],
+   "x": "«epidemiologik jihatdan asosiy manba sista ajratuvchilar, ya'ni sog'lom tashuvchilar»"
+  },
+  {
+   "q": "O'tkir amyobali ichburug' bilan og'rigan bemorlar asosan qaysi shaklni ajratadi?",
+   "c": "katta vegetativ shaklni, ya'ni trofozoitlarni",
+   "w": [
+    "yetilgan sistalarni, ya'ni to'rt yadroli shaklni",
+    "to'rt yadroli trofozoitlarni va sistalarni",
+    "kichik vegetativ shaklni, ya'ni sistalarni",
+    "to'rt yadroli sistalarni"
+   ],
+   "x": "«O'tkir amyobali ichburug' bilan og'rigan bemorlar asosan katta vegetativ shaklni, ya'ni trofozoitlarni ajratadi»"
+  },
+  {
+   "q": "Amyobiazning yuqish mexanizmi qanday?",
+   "c": "fekal-oral, ya'ni og'iz-najas yo'li",
+   "w": [
+    "kontakt-maishiy, ya'ni ifloslangan qo'llar yo'li",
+    "alimentar, ya'ni termik ishlov berilmagan oziq-ovqat yo'li",
+    "suv yo'li, ya'ni ochiq havzalar yo'li",
+    "jinsiy, ya'ni oral-anal yo'li"
+   ],
+   "x": "«Amyobiazning yuqish mexanizmi fekal-oral, ya'ni og'iz-najas yo'li»"
+  },
+  {
+   "q": "Sistalar najasda 15-20 °C haroratda qancha saqlanadi?",
+   "c": "ikki hafta saqlanadi",
+   "w": [
+    "100 kungacha saqlanadi",
+    "bir yarim yil saqlanadi",
+    "ikki oy saqlanadi",
+    "bir hafta saqlanadi"
+   ],
+   "x": "«sistalar najasda 15-20 °C haroratda ikki hafta, qishda -21 °C da 100 kungacha saqlanadi»"
+  },
+  {
+   "q": "Bemor najasi qancha foizli lizol eritmasi bilan zararsizlantiriladi?",
+   "c": "5 foizli lizol eritmasi",
+   "w": [
+    "3 foizli lizol eritmasi",
+    "10 foizli lizol eritmasi",
+    "1 foizli lizol eritmasi",
+    "55 foizli lizol eritmasi"
+   ],
+   "x": "«bemor najasi 5 foizli lizol eritmasi bilan zararsizlantiriladi»"
+  },
+  {
+   "q": "Amyobiaz bilan kasallanganlarning yarmi endemik mamlakatlarga borgan vaqtidan keyin qancha muddat ichida kasallanadi?",
+   "c": "bir yarim yil ichida",
+   "w": [
+    "ikki hafta ichida",
+    "3 oy ichida",
+    "bir hafta ichida",
+    "100 kungacha ichida"
+   ],
+   "x": "«yarmi endemik mamlakatlarga borgan vaqtidan keyingi bir yarim yil ichida kasallanishi»"
+  },
+  {
+   "q": "Toshkentda OIV bilan yashovchilarda zararlanganlik umumiy aholiga nisbatan necha baravar yuqori?",
+   "c": "10 baravar yuqori",
+   "w": [
+    "2 baravar yuqori",
+    "5 baravar yuqori",
+    "100 baravar yuqori",
+    "3 baravar yuqori"
+   ],
+   "x": "«umumiy aholiga nisbatan 10 baravar yuqori bo'lgani aniqlangan»"
+  },
+  {
+   "q": "Kavkazda amyobiaz qaysi mamlakatlarda ko'proq uchraydi?",
+   "c": "Armaniston va Gruziyada",
+   "w": [
+    "Turkmaniston va Qirg'izistonda",
+    "O'zbekiston va Qirg'izistonda",
+    "Armaniston va Turkmanistonda",
+    "Gruziya va Qirg'izistonda"
+   ],
+   "x": "«Kavkazda (Armaniston, Gruziya)»"
+  },
+  {
+   "q": "O'rta Osiyo va Zakavkaz respublikalarida tashuvchilar aholining necha foizini tashkil qiladi?",
+   "c": "9-18 foizini",
+   "w": [
+    "3-5 foizini",
+    "10-30 foizini",
+    "40-60 foizini",
+    "1-2 foizini"
+   ],
+   "x": "«tashuvchilar aholining 9-18 foizini tashkil qilishi»"
+  },
+  {
+   "q": "Pashsha va suvaraklar sistalarni qanday sifatda tarqatadi?",
+   "c": "mexanik tashuvchi sifatida",
+   "w": [
+    "sog'lom tashuvchi odam sifatida",
+    "sista ajratuvchi sifatida",
+    "suv tozalash inshooti sifatida",
+    "kontakt-maishiy buyum sifatida"
+   ],
+   "x": "«Pashsha va suvaraklar sistalarni mexanik tashuvchi sifatida oziq-ovqatga ifloslik olib keladi»"
+  }
+ ]
+}
