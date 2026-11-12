@@ -1,0 +1,450 @@
+{
+ "019": [
+  {
+   "q": "Qonni tekshirishning yillik ko'rsatkichi (ABER) nima?",
+   "c": "bir yil davomida bezgakka tekshirilgan qon preparatlari sonining nazoratdagi aholi soniga nisbati",
+   "w": [
+    "musbat natijali qon preparatlari sonining tekshirilgan preparatlar soniga nisbati",
+    "yil davomida parazitologik tasdiqlangan holatlar sonining aholi soniga nisbati",
+    "musbat preparatlar ulushining yillik parazitar insidentlikka nisbati",
+    "tekshirilgan preparatlarning 10 foizi hududiy laboratoriyalarga yuborilishi"
+   ],
+   "x": "«u bir yil davomida bezgakka tekshirilgan qon preparatlari sonining nazoratdagi aholi soniga nisbati bo'lib, foizda ifodalanadi»"
+  },
+  {
+   "q": "50 ming aholisi bo'lgan tumanda bir yilda 2500 ta qon preparati tekshirilgan bo'lsa, qonni tekshirishning yillik ko'rsatkichi qancha bo'ladi?",
+   "c": "5 foizni tashkil etadi",
+   "w": [
+    "10 foizni tashkil etadi",
+    "50 foizni tashkil etadi",
+    "25 foizni tashkil etadi",
+    "2 foizni tashkil etadi"
+   ],
+   "x": "«Masalan, 50 ming aholisi bo'lgan tumanda bir yilda 2500 ta qon preparati tekshirilgan bo'lsa, ko'rsatkich 2500 / 50 000 × 100 = 5 foizni tashkil etadi»"
+  },
+  {
+   "q": "Musbat preparatlar ulushi qanday hisoblanadi?",
+   "c": "musbat preparatlarni tekshirilganlarga bo'lib, 100 ga ko'paytirish",
+   "w": [
+    "tasdiqlangan holatlar sonini aholi soniga bo'lib, 1000 ga ko'paytirish",
+    "tekshirilgan preparatlar sonini aholi soniga bo'lib, 100 ga ko'paytirish",
+    "parazitlar sonini leykotsitlar soniga bo'lib, 8000 ga ko'paytirish",
+    "zararlangan eritrotsitlar sonini eritrotsitlarning standart soniga bo'lish"
+   ],
+   "x": "«Musbat preparatlar ulushi (slide positivity rate) = musbat natijali qon preparatlari soni / tekshirilgan preparatlar soni × 100»"
+  },
+  {
+   "q": "JSST tasnifiga ko'ra 2–9 yoshli bolalarda taloq indeksi bo'yicha endemiklikning to'rt darajasi qaysilar?",
+   "c": "gipoendemiya, mezoendemiya, giperendemiya va goloendemiya",
+   "w": [
+    "gipoendemiya, mezoendemiya, giperendemiya va epidemiya",
+    "goloendemiya, giperendemiya, mezoendemiya va patent",
+    "patent, subpatent, gipoendemiya va mezoendemiya",
+    "gipoendemiya, giperendemiya, goloendemiya va subpatent"
+   ],
+   "x": "«gipoendemiya (10 foizgacha), mezoendemiya (11–50 foiz), giperendemiya (51–75 foiz) va goloendemiya (76 foizdan yuqori)»"
+  },
+  {
+   "q": "«Bezgak parazitlari topilmadi» degan xulosa berishdan oldin qanday ko'rish maydoni tekshirilishi shart?",
+   "c": "qalin tomchining kamida 100 ko'rish maydoni immersion obyektivda",
+   "w": [
+    "qalin tomchining kamida 20 ko'rish maydoni immersion obyektivda",
+    "yupqa surtmaning kamida 40 ko'rish maydoni immersion obyektivda",
+    "qalin tomchining 500 ta leykotsiti immersion obyektivda",
+    "yupqa surtmaning taxminan 250 eritrotsit maydonlari"
+   ],
+   "x": "«qalin tomchining kamida 100 ko'rish maydoni immersion obyektiv ostida tekshirilishi shart, ishonchliroq natija uchun esa 200 ko'rish maydoni tekshiriladi»"
+  },
+  {
+   "q": "Qalin tomchining 100 ko'rish maydoni tekshirilganda aniqlash bo'sag'asi nechaga to'g'ri keladi?",
+   "c": "1 mkl qonda 5 ta parazitga",
+   "w": [
+    "1 mkl qonda 80 000 ta parazitga",
+    "1 mkl qonda 8000 ta leykotsitga",
+    "1 mkl qonda 5 000 000 ta eritrotsitga",
+    "1 mkl qonda 100 ta parazitga"
+   ],
+   "x": "«qalin tomchining 100 ko'rish maydoni tekshirilganda aniqlash bo'sag'asi 1 mkl qonda 5 ta parazitga to'g'ri keladi»"
+  },
+  {
+   "q": "Qalin tomchida parazitlar soni qanday hisoblanadi?",
+   "c": "leykotsitlar soniga nisbatan, 1 mkl da standart 8000 leykotsit",
+   "w": [
+    "eritrotsitlar soniga nisbatan, 1 mkl da standart 5 000 000 eritrotsit",
+    "tekshirilgan aholi soniga nisbatan, 1000 aholiga",
+    "ko'rish maydonlari soniga nisbatan, har maydonda 100 parazit",
+    "musbat preparatlar soniga nisbatan, 100 preparatga"
+   ],
+   "x": "«Standart operatsion protseduraga ko'ra qalin tomchida parazitlar soni leykotsitlar soniga nisbatan hisoblanadi, bunda 1 mkl qondagi leykotsitlarning standart soni 8000 deb olinadi»"
+  },
+  {
+   "q": "200 ta leykotsitga 115 ta parazit sanalgan bo'lsa, parazitemiya qancha bo'ladi?",
+   "c": "4600 parazit/mkl",
+   "w": [
+    "8000 parazit/mkl",
+    "2500 parazit/mkl",
+    "80 000 parazit/mkl",
+    "10 000 parazit/mkl"
+   ],
+   "x": "«Masalan, 200 ta leykotsitga 115 ta parazit sanalgan bo'lsa, parazitemiya 115 × 8000 / 200 = 4600 parazit/mkl ni tashkil etadi»"
+  },
+  {
+   "q": "Parazitlarni sanash qachon yupqa surtmada bajariladi?",
+   "c": "1 mkl da taxminan 80 000 dan ko'p parazit bo'lsa",
+   "w": [
+    "1 mkl da taxminan 4600 dan ko'p parazit bo'lsa",
+    "qalin tomchining har bir maydonida 5 dan kam parazit bo'lsa",
+    "100 dan kam parazit topilganda 200 ta leykotsit sanalgach",
+    "1 mkl da 5 ta parazit aniqlanganda"
+   ],
+   "x": "«Parazitlar soni 1 mkl da taxminan 80 000 dan ko'p bo'lsa, ya'ni qalin tomchining har bir ko'rish maydonida 100 dan ortiq parazit bo'lsa, sanash yupqa surtmada bajariladi»"
+  },
+  {
+   "q": "Tropik bezgakda dorining samarasini baholash uchun parazitlar soni davolash boshlangandan qachon qayta sanaladi?",
+   "c": "24, 48 va 72 soat o'tgach",
+   "w": [
+    "6, 12 va 24 soat o'tgach",
+    "ikki hafta, bir oy va olti oy o'tgach",
+    "6, 12 va 36 soat o'tgach",
+    "bir hafta, bir oy va olti oy o'tgach"
+   ],
+   "x": "«Tropik bezgakda parazitlar soni davolash boshlangandan 24, 48 va 72 soat o'tgach qayta sanalib, dorining samarasi baholanadi»"
+  }
+ ],
+ "020": [
+  {
+   "q": "Uch kunlik bezgakni qaysi plazmodiy chaqiradi va u O'zbekiston uchun qanday tur bo'lgan?",
+   "c": "Plasmodium vivax, tarixan asosiy mahalliy bezgak turi",
+   "w": [
+    "Plasmodium falciparum, tarixan asosiy mahalliy bezgak turi",
+    "Plasmodium vivax, faqat olib kelingan bezgak turi",
+    "Plasmodium falciparum, tarixan yengilroq kechuvchi bezgak turi",
+    "Plasmodium vivax, tropik Afrikadagi mahalliy bezgak turi"
+   ],
+   "x": "«Uch kunlik bezgakni Plasmodium vivax chaqiradi va u O'zbekiston uchun tarixan asosiy mahalliy bezgak turi bo'lgan»"
+  },
+  {
+   "q": "Bezgakning klinik belgilari qaysi jarayonga bog'liq?",
+   "c": "eritrotsitar shizogoniyaga",
+   "w": [
+    "jigardagi shizogoniyaga",
+    "gipnozoitlarning uyqu holatiga",
+    "gametotsitogoniyaga",
+    "ekzoeritrotsitar retsidivga"
+   ],
+   "x": "«bezgakning klinik belgilari, avvalo isitma, shuningdek anemiya, gepatomegaliya va splenomegaliya faqat eritrotsitar shizogoniya bilan bog'liq»"
+  },
+  {
+   "q": "Pirogenlik bo'sag'asi nima?",
+   "c": "parazitemiyaning isitma chaqiradigan darajasi",
+   "w": [
+    "parazitemiyaning qonda aniqlanadigan eng past darajasi",
+    "parazitemiyaning o'lim xavfi ortadigan darajasi",
+    "parazitemiyaning anemiya chaqiradigan darajasi",
+    "merozoitlarning eritrotsitlardan chiqish darajasi"
+   ],
+   "x": "«parazitemiyaning isitma chaqiradigan darajasi pirogenlik bo'sag'asi deb ataladi»"
+  },
+  {
+   "q": "Bradisporozoitlar tufayli uch kunlik bezgakning yashirin davri ko'pincha qancha bo'ladi?",
+   "c": "6–12 oyni tashkil etadi",
+   "w": [
+    "14–16 kun, kam hollarda 10 kun",
+    "2–3 haftani tashkil etadi",
+    "4–8 soat davom etadi",
+    "bir necha kunni tashkil etadi"
+   ],
+   "x": "«yashirin davr ko'pincha 6–12 oyni tashkil etadi»"
+  },
+  {
+   "q": "Uch kunlik bezgak xurujida fazalar qanday ketma-ketlikda namoyon bo'ladi?",
+   "c": "titroq, isitma va terlash",
+   "w": [
+    "isitma, titroq va terlash",
+    "terlash, titroq va isitma",
+    "titroq, terlash va isitma",
+    "isitma, terlash va titroq"
+   ],
+   "x": "«Xuruj nisbatan qisqa (4–8 soat) bo'lib, titroq, isitma va terlash fazalarining aniq ketma-ketligi bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Uch kunlik bezgakda kamqonlik belgilari va taloq kattalashishi qachondan boshlanadi?",
+   "c": "kasallikning 2–3-haftalaridan boshlab",
+   "w": [
+    "kasallikning birinchi xurujidan boshlab",
+    "kasallik boshlanganidan bir necha oy o'tgach",
+    "kasallikning ikkinchi yilidan boshlab",
+    "xurujlar to'xtagandan keyin"
+   ],
+   "x": "«kamqonlik belgilari kasallikning 2–3-haftalaridan boshlab namoyon bo'ladi va bu davrda taloq ham kattalashadi»"
+  },
+  {
+   "q": "Kechki retsidivlar nima hisobiga yuzaga keladi?",
+   "c": "jigardagi gipnozoitlar hisobiga",
+   "w": [
+    "qondagi parazitlar pirogenlik bo'sag'asidan pastligi hisobiga",
+    "immunitetning to'liq rivojlanmaganligi hisobiga",
+    "davolash sifatining pastligi hisobiga",
+    "eritrotsitlarda parazitemiya to'xtamasligi hisobiga"
+   ],
+   "x": "«ular jigardagi gipnozoitlar hisobiga yuzaga keladi»"
+  },
+  {
+   "q": "Retsidivlar namoyon bo'lishiga ko'ra qanday turlarga ajratiladi?",
+   "c": "klinik va faqat parazitemiya qaytadigan parazitar retsidivlarga",
+   "w": [
+    "erta, isitma tugagach 3 oygacha va kechki retsidivlarga",
+    "jigardagi gipnozoitlar hisobiga ekzoeritrotsitar retsidivlarga",
+    "taxisporozoitlar va bradisporozoitlar hisobiga yuzaga keluvchi retsidivlarga",
+    "qisqa va uzoq yashirin davrli P. vivax fenotiplariga"
+   ],
+   "x": "«namoyon bo'lishiga ko'ra esa klinik va faqat parazitemiya qaytadigan parazitar retsidivlarga ajratiladi»"
+  },
+  {
+   "q": "Og'ir vivax-bezgakning asosiy ko'rinishlari qaysilar?",
+   "c": "og'ir anemiya, nafas yetishmovchiligi, taloqning yorilishi",
+   "w": [
+    "titroq, isitma va terlash fazalarining aniq ketma-ketligi",
+    "hushning chalkashishi, alahsirash va eyforiya holati",
+    "gipnozoitlarning uyqu holati va kechki ekzoeritrotsitar retsidiv",
+    "xurujlarning qat'iy navbatlanishi va splenomegaliya hamda anemiya"
+   ],
+   "x": "«og'ir vivax-bezgakning asosiy ko'rinishlari og'ir anemiya, nafas yetishmovchiligi, shuningdek kattalashgan taloqning yorilishi bo'lib»"
+  },
+  {
+   "q": "Uch kunlik bezgak bilan og'riganlar qancha vaqt dispanser nazoratida turadi?",
+   "c": "uch yil davomida infeksionist va hudud terapevti nazoratida",
+   "w": [
+    "bir yil davomida infeksionist va hudud terapevti nazoratida",
+    "ikki yil davomida infeksionist va hudud terapevti nazoratida",
+    "uch oy davomida infeksionist va hudud terapevti nazoratida",
+    "ikki hafta davomida infeksionist va hudud terapevti nazoratida"
+   ],
+   "x": "«uch kunlik bezgak bilan og'riganlar uch yil davomida infeksionist va hudud terapevti nazoratida turadi»"
+  }
+ ],
+ "021": [
+  {
+   "q": "Tropik bezgakda qaytalanish nima hisobiga yuzaga keladi?",
+   "c": "qondagi parazitlar hisobiga",
+   "w": [
+    "jigardagi to'qima shizogoniyasi hisobiga",
+    "uzoq uyqu holati hisobiga",
+    "40 000 tagacha to'qima merozoiti hisobiga",
+    "chivin tanasidagi sporozoitlar hisobiga"
+   ],
+   "x": "«shuning uchun qaytalanish faqat qondagi parazitlar hisobiga yuzaga keladi»"
+  },
+  {
+   "q": "Tropik bezgakda isitma xurujlari nima sababdan tez-tez va tartibsiz takrorlanadi?",
+   "c": "bir necha subpopulyatsiya sinxron bo'lmagan holda rivojlanadi",
+   "w": [
+    "sporozoitlar jigarda uzoq uyqu holatida saqlanadi",
+    "gametotsitlar isitma boshlanganidan ikki hafta o'tgach paydo bo'ladi",
+    "eritrotsitar shizogoniya uch kun davom etadi",
+    "to'qima merozoitlari 40 000 tagacha hosil bo'ladi"
+   ],
+   "x": "«bemor organizmida bir necha subpopulyatsiya sinxron bo'lmagan holda rivojlanadi va merozoitlar turli kun hamda soatlarda ajraladi»"
+  },
+  {
+   "q": "Tropik bezgak nima uchun mim-kasallik deb ataladi?",
+   "c": "ichak va nafas a'zolari zararlanishi belgilari birinchi o'ringa chiqadi",
+   "w": [
+    "xurujlar uch kunlik bezgakdagi kabi qat'iy navbatlanadi",
+    "taloq kattalashishi kamqonlikdan oldin yuzaga keladi",
+    "titroq, isitma va terlash fazalari ketma-ket almashadi",
+    "kasallik jigarda uzoq uyqu holatiga o'tadi"
+   ],
+   "x": "«ko'pincha ichak (yengil diareya) va nafas a'zolari (o'pkaning kichik o'choqli yallig'lanishi) zararlanishi belgilari birinchi o'ringa chiqadi»"
+  },
+  {
+   "q": "Tropik bezgakda kamqonlik va taloq kattalashishi uch kunlik bezgakka nisbatan qanday rivojlanadi?",
+   "c": "kamqonlik erta rivojlanadi, taloq kechroq kattalashadi",
+   "w": [
+    "kamqonlik kechroq rivojlanadi, taloq erta kattalashadi",
+    "kamqonlik va taloq kattalashishi bir vaqtda yuzaga keladi",
+    "kamqonlik va taloq kattalashishi uch kunlik bezgakdagi kabi rivojlanadi",
+    "kamqonlik rivojlanmaydi, taloq erta kattalashadi"
+   ],
+   "x": "«Tropik bezgakda kamqonlik uch kunlik bezgakka qaraganda erta rivojlanadi, taloq kattalashishi esa aksincha, kechroq yuzaga keladi»"
+  },
+  {
+   "q": "Parazitlar soni qancha bo'lganda bezgakdan o'lim xavfi ortadi?",
+   "c": "100 000/mkl atrofida",
+   "w": [
+    "50 000/mkl atrofida",
+    "12 000/mkl atrofida",
+    "15 000/mkl atrofida",
+    "100 mkl atrofida"
+   ],
+   "x": "«Parazitlar soni 100 000/mkl atrofida bo'lganda bezgakdan o'lim xavfi ortadi»"
+  },
+  {
+   "q": "Tropik bezgakning og'ir kechish belgilariga qaysilar kiradi?",
+   "c": "psixika o'zgarishi, takroriy qusish, tura olmaslik",
+   "w": [
+    "yengil diareya, o'pka o'choqli yallig'lanishi va holsizlik",
+    "bir necha kun davom etadigan isitma va holsizlik",
+    "titroq, terlash va isitma fazalarining almashishi",
+    "chivinni zararlash qobiliyati va gametotsitlar paydo bo'lishi"
+   ],
+   "x": "«psixika o'zgarishi, takroriy qusish, ovqat yeya olmaslik va suv ichmaslik, tura olmaslik»"
+  },
+  {
+   "q": "Asoratli tropik bezgakning asosiy sababi nima?",
+   "c": "kech tashxis va noto'g'ri davolash taktikasi",
+   "w": [
+    "qon preparatlarini har kuni ko'rish va artesunat berish",
+    "geografik anamnezni yig'ish va qonni darhol tekshirish",
+    "kasallik oldidan sayohat anamnezining ijobiy bo'lishi",
+    "parazitlarning jigardagi uzoq uyqu holati"
+   ],
+   "x": "«asosiy sabab esa kech tashxis va noto'g'ri davolash taktikasi»"
+  },
+  {
+   "q": "Protokolda og'ir kamqonlik qanday ko'rsatkichlar bilan aniqlanadi?",
+   "c": "gematokrit 20 % dan yoki gemoglobin 7 g/dl dan past",
+   "w": [
+    "gematokrit 15 % dan yoki gemoglobin 50 g/l dan past",
+    "gematokrit 40 % dan yoki gemoglobin 12 g/dl dan past",
+    "leykotsit 12 000/mkl dan yoki mochevina 60 mg % dan yuqori",
+    "gemoglobin 7 g/dl dan yoki gematokrit 20 % dan yuqori"
+   ],
+   "x": "«og'ir kamqonlik (gematokrit 20 % dan yoki gemoglobin 7 g/dl dan past bo'lganda)»"
+  },
+  {
+   "q": "Noxush bashoratni ko'rsatuvchi giperparazitemiya qanday ifodalanadi?",
+   "c": "100 000/mkl dan yuqori giperparazitemiya",
+   "w": [
+    "leykotsitoz 12 000/mkl dan kam bo'lishi",
+    "qonda mochevina 60 mg % dan past bo'lishi",
+    "pigmentli yetuk parazitlarning 20 % dan kamligi",
+    "transaminazalar faolligining uch baravar pasayishi"
+   ],
+   "x": "«Laborator ko'rsatkichlardan 100 000/mkl dan yuqori giperparazitemiya yoki eritrotsitlarning 5 % i zararlanishi»"
+  },
+  {
+   "q": "Og'ir bezgakda artesunat nima uchun eng muhim preparat hisoblanadi?",
+   "c": "suvda yaxshi erishi va ham tomir ichiga, ham mushak orasiga yuborilishi",
+   "w": [
+    "faqat og'iz orqali tabletka ko'rinishida qo'llanishi mumkinligi",
+    "kuniga bir mahaldan olti kun davomida yuborilishi",
+    "jigardagi uzoq uyqu holatini to'xtatishi",
+    "buyrak yetishmovchiligida peritoneal dializ o'tkazilishi"
+   ],
+   "x": "«Artesunat suvda yaxshi erishi va ham tomir ichiga, ham mushak orasiga yuborilishi mumkinligi uchun og'ir bezgakda eng muhim preparat hisoblanadi»"
+  }
+ ],
+ "022": [
+  {
+   "q": "Isitma bo'lmasa ham qaysi bemorlar bezgakka tekshiriladi?",
+   "c": "taloq va jigari kattalashgan, sariqlik yoki sababi noma'lum kamqonlik aniqlanganlar",
+   "w": [
+    "isitmasiz, taloq va jigari kattalashmagan, kamqonligi yo'q sog'lom shaxslar",
+    "qon quyilmagan va shprits orqali zararlanmagan sog'lom bemorlar",
+    "sariqliksiz, kamqonliksiz va taloq-jigari kattalashmagan sog'lom shaxslar",
+    "qon quyilmagan, shprits orqali zararlanmagan va isitmasiz shaxslar"
+   ],
+   "x": "«Isitma bo'lmasa ham taloq va jigari kattalashgan, sariqlik yoki sababi noma'lum kamqonlik aniqlangan bemorlar bezgakka tekshiriladi»"
+  },
+  {
+   "q": "Yupqa surtma qanday fiksatsiya qilinadi?",
+   "c": "96 % li etil spirtida 10 daqiqa yoki Nikiforov aralashmasida 20 daqiqa",
+   "w": [
+    "70 % li spirtda 20 daqiqa yoki Nikiforov aralashmasida 10 daqiqa",
+    "96 % li etil spirtida 20 daqiqa yoki Nikiforov aralashmasida 10 daqiqa",
+    "fiksatsiya qilinmaydi, quritilgach bevosita bo'yaladi",
+    "bufer eritmada 10 daqiqa, so'ngra spirtda 20 daqiqa"
+   ],
+   "x": "«96 % li etil spirtida 10 daqiqa yoki Nikiforov aralashmasida 20 daqiqa fiksatsiya qilinadi»"
+  },
+  {
+   "q": "Romanovskiy–Gimza bo'yashning tezkor usulida qaysi eritma ishlatiladi va nechta preparat bo'yaladi?",
+   "c": "10 % li eritma, 1–15 ta preparat",
+   "w": [
+    "3 % li eritma, 20 ta va undan ko'p preparat",
+    "5 % li eritma, 1–15 ta preparat",
+    "3 % li eritma, 1–15 ta preparat",
+    "10 % li eritma, 20 ta va undan ko'p preparat"
+   ],
+   "x": "«tezkor usul (10 % li eritma) bir vaqtda 1–15 ta preparatni bo'yashda, poliklinika va laboratoriyalarda tez tashxis kerak bo'lganda ishlatiladi»"
+  },
+  {
+   "q": "Natijaning musbat yoki manfiyligini aniqlash uchun kamida nechta ko'rish maydoni ko'riladi?",
+   "c": "kamida 100 ta ko'rish maydoni",
+   "w": [
+    "kamida 15 ta ko'rish maydoni",
+    "kamida 40 ta ko'rish maydoni",
+    "kamida 200 ta ko'rish maydoni",
+    "kamida 500 ta ko'rish maydoni"
+   ],
+   "x": "«Natijaning musbat yoki manfiyligini aniqlash uchun kamida 100 ta ko'rish maydoni ko'riladi»"
+  },
+  {
+   "q": "Tajribali mutaxassis qalin tomchida 1 mkl qonda nechta parazitni aniqlay oladi?",
+   "c": "5–10 parazitni",
+   "w": [
+    "50–100 parazitni",
+    "80 000 parazitni",
+    "5 000 000 parazitni",
+    "8000 parazitni"
+   ],
+   "x": "«tajribali mutaxassis 1 mkl da 5–10 parazitni ham aniqlay oladi»"
+  },
+  {
+   "q": "Salbiy natija olinganda qon tekshiruvi qanday takrorlanadi?",
+   "c": "ikki kun davomida 6–12 soatdan keyin",
+   "w": [
+    "uch kun davomida 24 soatdan keyin",
+    "bir hafta davomida har kuni",
+    "bir oy o'tgach bir marta",
+    "to'rt kun davomida 30 daqiqadan keyin"
+   ],
+   "x": "«salbiy natija olinganda qon tekshiruvi ikki kun davomida 6–12 soatdan keyin qaytarilishi»"
+  },
+  {
+   "q": "Samarali davolashda parazitemiya ikkinchi va uchinchi kuni qanday kamayadi?",
+   "c": "ikkinchi kuni 25 % ga, uchinchi kuni 75 % ga kamayadi",
+   "w": [
+    "ikkinchi kuni 75 % ga, uchinchi kuni 25 % ga kamayadi",
+    "ikkinchi kuni 50 % ga, uchinchi kuni 100 % ga kamayadi",
+    "ikkinchi kuni 25 % ga oshadi, uchinchi kuni 75 % ga kamayadi",
+    "ikkinchi kuni 10 % ga, uchinchi kuni 20 % ga kamayadi"
+   ],
+   "x": "«samarali davolashning ikkinchi kuni (24 soatdan keyin) parazitemiya 25 % ga, uchinchi kuni 75 % ga kamayadi»"
+  },
+  {
+   "q": "Davolashning to'rtinchi kuni qonda parazitlar topilsa, bu nimadan dalolat beradi?",
+   "c": "qo'zg'atuvchining preparatga chidamliligidan dalolat beradi",
+   "w": [
+    "qo'zg'atuvchining preparatga sezgirligidan dalolat beradi",
+    "parazitemiya 25 % ga kamayganidan dalolat beradi",
+    "qalin tomchi sifatsiz tayyorlanganidan dalolat beradi",
+    "parazitemiya 75 % ga kamayganidan dalolat beradi"
+   ],
+   "x": "«Agar davolashning to'rtinchi kuni qonda parazitlar topilsa, bu qo'zg'atuvchining preparatga chidamliligidan dalolat beradi»"
+  },
+  {
+   "q": "Laboratoriyaga nazorat uchun qancha preparat yuboriladi?",
+   "c": "birlamchi preparatlarning 10 %, musbat va xorijdan kelganlarning 100 %",
+   "w": [
+    "birlamchi preparatlarning 100 %, musbat va xorijdan kelganlarning 10 %",
+    "birlamchi preparatlarning 50 %, musbat natijalarning 10 %",
+    "faqat musbat preparatlarning 10 %, xorijdan kelganlarning 50 %",
+    "birlamchi preparatlarning 10 %, manfiy natijalarning 100 %"
+   ],
+   "x": "«Birlamchi tekshirilgan preparatlarning 10 % i (laboratoriyada malakali mutaxassislar bo'lganda), barcha musbat natijali va xorijdan kelganlarning preparatlari esa 100 % hududiy laboratoriyalarga nazorat uchun yuboriladi»"
+  },
+  {
+   "q": "Tropik bezgakka gumon qilingan shaxslarda qon tekshiruvi qanday o'tkaziladi?",
+   "c": "shoshilinch o'tkazilib, yangi tayyorlangan 5 yoki 10 % li bo'yoq eritmalaridan foydalaniladi",
+   "w": [
+    "sekin usulda, 3 % li eritmada bo'yaladi",
+    "fiksatsiya qilingan qalin tomchi yangi tayyorlanmagan eritmada bo'yaladi",
+    "ertasi kuni, yupqa surtmaning faqat bir qismi tekshiriladi",
+    "qon olinganidan kamida 30 daqiqadan keyin, eskirgan eritmada bo'yaladi"
+   ],
+   "x": "«tropik bezgakka gumon qilingan shaxslarda qon tekshiruvi shoshilinch (CITO) o'tkazilishi va faqat yangi tayyorlangan 5 yoki 10 % li bo'yoq eritmalaridan foydalanilishi belgilangan»"
+  }
+ ]
+}
