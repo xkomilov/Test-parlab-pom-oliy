@@ -1,0 +1,338 @@
+{
+ "050": [
+  {
+   "q": "Antroponoz teri leyshmaniozining qo'zg'atuvchisi qaysi?",
+   "c": "Leishmania tropica",
+   "w": [
+    "Leishmania major",
+    "Phlebotomus sergenti",
+    "Trypanosomatidae oilasi",
+    "Leishmania amastigota"
+   ],
+   "x": "«qo'zg'atuvchisi Leishmania tropica hisoblanadi»"
+  },
+  {
+   "q": "L. tropica bilan zararlangan bemorda parazitlar soni va oq sichqonlarda virulentlik qanday?",
+   "c": "parazitlar soni ko'p, oq sichqonlarda virulentligi kam",
+   "w": [
+    "parazitlar soni kam, oq sichqonlarda virulentligi yuqori",
+    "parazitlar soni ham, virulentlik ham kam",
+    "parazitlar soni ham, virulentlik ham ko'p",
+    "parazitlar soni ko'p, oq sichqonlarda virulentligi ham yuqori"
+   ],
+   "x": "«L. tropica bilan zararlangan bemorda parazitlar soni ko'p, laboratoriya oq sichqonlarida esa virulentligi kam bo'ladi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozida asosiy manba kim?",
+   "c": "bemor odam",
+   "w": [
+    "itlar",
+    "iskaptopar urg'ochilari",
+    "bolalar",
+    "Phlebotomus sergenti"
+   ],
+   "x": "«Antroponoz teri leyshmaniozida asosiy manba bemor odamdir, ba'zan itlar ham manba bo'lishi mumkin»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozida tashuvchi iskaptopar bemordan qon so'rgandan keyin necha kun o'tgach yuqumli bo'ladi?",
+   "c": "6–8 kun o'tgach",
+   "w": [
+    "1–2 hafta o'tgach",
+    "2–8 kun o'tgach",
+    "10–12 kun o'tgach",
+    "2–6 oy o'tgach"
+   ],
+   "x": "«ular bemor odamdan qon so'rgandan 6–8 kun o'tgach yuqumli bo'ladi va sog'lom odamni chaqqanda kasallik yuqadi»"
+  },
+  {
+   "q": "Antroponoz shaklda yara qancha vaqtdan keyin hosil bo'ladi?",
+   "c": "3–6 oy va undan keyin",
+   "w": [
+    "1–3 haftadan keyin",
+    "6–8 kun o'tgach",
+    "2–6 oy, ba'zan 1–2 yil",
+    "2–5 oy o'tgach"
+   ],
+   "x": "«yara 3–6 oy va undan keyin hosil bo'ladi»"
+  },
+  {
+   "q": "Antroponoz va zoonoz shakllarda yaralar tanada qanday joylashadi?",
+   "c": "antroponozda yuzda ko'proq, zoonozda oyoqlarda ko'proq",
+   "w": [
+    "antroponozda oyoqlarda ko'proq, zoonozda yuzda ko'proq",
+    "antroponozda yuz va oyoqlarda teng, zoonozda yuzda ko'proq",
+    "antroponozda yuzda ko'proq, zoonozda yuz va oyoqlarda teng",
+    "antroponozda oyoqlarda ko'proq, zoonozda yuz va oyoqlarda teng"
+   ],
+   "x": "«Antroponoz shaklda yaralar oyoqlarga qaraganda yuzda ko'proq, zoonozda esa yuzdan ko'ra oyoqlarda ko'proq joylashadi»"
+  },
+  {
+   "q": "Antroponoz shaklda kasallikning dastlabki belgilari qachon kuzatiladi?",
+   "c": "yil davomida kuzatiladi",
+   "w": [
+    "iyun–oktyabrga to'g'ri keladi",
+    "yil davomida kuzatilmaydi",
+    "iyun–oktyabrga to'g'ri kelmaydi",
+    "iyun–oktyabrdan boshqa oylarda kuzatiladi"
+   ],
+   "x": "«kasallikning dastlabki belgilari yil davomida kuzatiladi, zoonoz shaklda esa iyun–oktyabrga to'g'ri keladi»"
+  },
+  {
+   "q": "Surxondaryo viloyati teri leyshmaniozi o'choqlarida 50 yil davomida Ph. sergenti ulushi qanday o'zgargan?",
+   "c": "o'rtacha 5,4 foizdan 41,4 foizgacha oshgan",
+   "w": [
+    "o'rtacha 41,4 foizdan 5,4 foizgacha kamaygan",
+    "o'rtacha 5,4 foizdan 50 foizgacha kamaygan",
+    "o'rtacha 5,4 foizdan 41,4 foizgacha kamaygan",
+    "o'rtacha 5,4 foizda saqlanib qolgan"
+   ],
+   "x": "«Surxondaryo viloyatining teri leyshmaniozi o'choqlarida 50 yil davomida o'tkazilgan taqqoslashda Ph. sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha oshgani aniqlangan»"
+  },
+  {
+   "q": "Davolash bayonnomasida antroponoz teri leyshmaniozi qaysi to'rt shaklga ajratilgan?",
+   "c": "birlamchi leyshmanioma, izchil leyshmanioma, diffuz-infiltrativ leyshmanioma va tuberkuloid teri leyshmaniozi",
+   "w": [
+    "birlamchi leyshmanioma, izchil leyshmanioma va diffuz-infiltrativ leyshmanioma",
+    "izchil leyshmanioma, diffuz-infiltrativ leyshmanioma va tuberkuloid teri leyshmaniozi",
+    "birlamchi leyshmanioma, diffuz-infiltrativ leyshmanioma va tuberkuloid teri leyshmaniozi",
+    "birlamchi leyshmanioma, izchil leyshmanioma va tuberkuloid teri leyshmaniozi"
+   ],
+   "x": "«Davolash bayonnomasida antroponoz teri leyshmaniozi to'rt shaklga ajratilgan: birlamchi leyshmanioma, izchil leyshmanioma, diffuz-infiltrativ leyshmanioma va tuberkuloid teri leyshmaniozi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozida inkubatsion davr qancha davom etadi?",
+   "c": "2–8 oy, ba'zan 1,5 yilgacha",
+   "w": [
+    "1–2 hafta",
+    "2–6 oy, ba'zan 1–2 yil va undan ko'p",
+    "1–3 haftadan keyin",
+    "2–5 oy davom etadi"
+   ],
+   "x": "«Inkubatsion davr 2–8 oy, ba'zan 1,5 yilgacha cho'ziladi»"
+  }
+ ],
+ "051": [
+  {
+   "q": "Antroponoz teri leyshmaniozida infeksiya manbai kim?",
+   "c": "odamning o'zi",
+   "w": [
+    "yovvoyi kemiruvchilar",
+    "iskaptopar urg'ochilari",
+    "itlar va kemiruvchilar",
+    "bemor bolalar"
+   ],
+   "x": "«qo'zg'atuvchisi Leishmania tropica bo'lgan, infeksiya manbai odamning o'zi hisoblanadigan transmissiv protozoz kasallikdir»"
+  },
+  {
+   "q": "Surunkali shakllar bemorning manba bo'lib qolish muddatiga qanday ta'sir qiladi?",
+   "c": "bemor yillar davomida past darajadagi parazit tashuvchisi bo'lib qoladi",
+   "w": [
+    "bemor yillar davomida yuqumli bo'lib qoladi",
+    "bemor yillar davomida yuqori darajadagi parazit tashuvchisi bo'lib qoladi",
+    "bemor yillar davomida itlar uchun parazit tashuvchisi bo'lib qoladi",
+    "bemor ikki hafta davomida past darajadagi parazit tashuvchisi bo'lib qoladi"
+   ],
+   "x": "«bemor yillar davomida past darajadagi parazit tashuvchisi bo'lib qolishi mumkinligi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozida yara odatda qancha vaqtdan keyin hosil bo'ladi?",
+   "c": "3–6 oydan keyin",
+   "w": [
+    "1–3 haftadan keyin",
+    "6–8 kundan keyin",
+    "bir yildan keyin",
+    "2 oydan keyin"
+   ],
+   "x": "«yara esa odatda 3–6 oydan keyin hosil bo'ladi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozining tarqatuvchisi qaysi?",
+   "c": "Phlebotomus sergenti",
+   "w": [
+    "Phlebotomus keshishiani",
+    "Paraphlebotomus tur",
+    "Phlebotomus tropica",
+    "Leishmania sergenti"
+   ],
+   "x": "«Tarqatuvchi — Phlebotomus sergenti iskaptopari»"
+  },
+  {
+   "q": "Iskaptopar turlari mikroskopda qanday belgilar bo'yicha ajratiladi?",
+   "c": "erkaklarida terminaliya, urg'ochilarida halqum va spermatekalar",
+   "w": [
+    "erkaklarida halqum, urg'ochilarida terminaliya va spermatekalar",
+    "erkaklarida spermatekalar, urg'ochilarida terminaliya va halqum",
+    "erkaklarida terminaliya va halqum, urg'ochilarida spermatekalar yo'q",
+    "erkaklarida halqum va spermatekalar, urg'ochilarida terminaliya"
+   ],
+   "x": "«erkaklarida tashqi jinsiy apparat (terminaliya), urg'ochilarida esa halqum va spermatekalar tuzilishi baholanadi»"
+  },
+  {
+   "q": "Urg'ochi iskaptopar bir safar nechta tuxumni qayerga qo'yadi?",
+   "c": "100 tagacha tuxumni qorong'i, organik moddalarga boy, nam joylarga",
+   "w": [
+    "100 tagacha tuxumni molxonalar va paxsa devor kovaklariga",
+    "100 tagacha tuxumni chiqindi qutilari va go'ng uyumlariga",
+    "100 tagacha tuxumni sichqon inlari va axlat uyumlariga",
+    "100 tagacha tuxumni yorug' va quruq joylarga"
+   ],
+   "x": "«U bir safar 100 tagacha tuxumni qorong'i, organik moddalarga boy, nam joylarga qo'yadi»"
+  },
+  {
+   "q": "Iskaptoparlar aholi punktlarida qayerlarda ko'payadi?",
+   "c": "chiqindi qutilari, molxonalar, paxsa devorlar va sichqon inlarida",
+   "w": [
+    "qorong'i, organik moddalarga boy, nam joylarda",
+    "bemor odamning yarasida va kovaklarda",
+    "to'rtinchi yoshdagi lichinkalar qishlaydigan joylarda",
+    "kunduzi qorong'i joylarda yashirinadigan mahallalarda"
+   ],
+   "x": "«Aholi punktlarida iskaptoparlar chiqindi qutilari, molxonalar, kovaklar, paxsa devorlar, axlat va go'ng uyumlari hamda sichqon inlarida ko'payadi»"
+  },
+  {
+   "q": "Antroponoz shaklda epitelizatsiya qancha davom etadi?",
+   "c": "bir yil va undan ko'p",
+   "w": [
+    "2–5 oyda bitadi",
+    "1–3 haftadan keyin paydo bo'ladi",
+    "3–6 oydan keyin hosil bo'ladi",
+    "6–8 kundan keyin yuqumli bo'ladi"
+   ],
+   "x": "«epitelizatsiya bir yil va undan ko'p davom etishi»"
+  },
+  {
+   "q": "Antroponoz shaklda yara qayerda ko'proq uchraydi va kasallik asosan qayerda qayd etiladi?",
+   "c": "oyoqdan ko'ra yuzda ko'proq, asosan shaharlarda",
+   "w": [
+    "yuzdan ko'ra oyoqlarda ko'proq, qishloq aholi punktlarida",
+    "yuzdan ko'ra oyoqlarda ko'proq, cho'l zonalarida",
+    "oyoqlarda ko'proq, shahar chekkasida va cho'l zonalarida",
+    "yuzda ham oyoqda ham teng, shahar chekkasida"
+   ],
+   "x": "«antroponoz shaklda yara oyoqdan ko'ra yuzda ko'proq uchraydi va kasallik asosan shaharlarda qayd etiladi»"
+  },
+  {
+   "q": "Itlarning antroponoz teri leyshmaniozidagi roli qanday?",
+   "c": "ehtimoliy qo'shimcha manba sifatida eslatiladi",
+   "w": [
+    "asosiy manba sifatida tasdiqlangan",
+    "tarqatuvchi sifatida eslatiladi",
+    "umumiy tashuvchi sifatida eslatiladi",
+    "aniq manba sifatida ko'rsatiladi"
+   ],
+   "x": "«Yo'riqnomada esa itlar ehtimoliy qo'shimcha manba sifatida eslatiladi»"
+  }
+ ],
+ "052": [
+  {
+   "q": "Antroponoz teri leyshmaniozining tashxisi nimaga asoslanadi?",
+   "c": "klinik-epidemiologik ma'lumotlarga va qo'zg'atuvchini laboratoriyada aniqlashga",
+   "w": [
+    "klinik-epidemiologik ma'lumotlarga va teri sinamasi natijasiga",
+    "klinik-epidemiologik ma'lumotlarga va serologik testlar natijasiga",
+    "yaraning tashqi ko'rinishiga va serologik testlar natijasiga",
+    "teri sinamasi va umumiy qon tahlili natijasiga"
+   ],
+   "x": "«Antroponoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlarga va qo'zg'atuvchini laboratoriyada aniqlashga asoslanadi»"
+  },
+  {
+   "q": "Tashxis qachon tasdiqlanadi?",
+   "c": "yara tubidan olingan namunada leyshmaniyalar topilganda",
+   "w": [
+    "teri sinamasi kasallik boshlanganidan 6 oy o'tgach musbat bo'lganda",
+    "serologik testlar musbat bo'lib, antitelalar aniqlanganda",
+    "umumiy qon tahlili va PZR natijalari mos kelganda",
+    "yara chandiqlari va endemik hududda bo'lganlik aniqlanganda"
+   ],
+   "x": "«tashxis leyshmaniyalar yara tubidagi do'mboqchadan va infiltrat chetidan olingan namunada topilgandagina tasdiqlanadi»"
+  },
+  {
+   "q": "Surtmada tashxisni qaysi topilma tasdiqlaydi?",
+   "c": "hujayra ichida joylashgan amastigotalar topilishi",
+   "w": [
+    "hujayradan tashqarida joylashgan amastigotalar topilishi",
+    "hujayra ichida joylashgan bakteriyalar topilishi",
+    "hujayra ichida joylashgan leyshmaniya antitelalari topilishi",
+    "hujayra ichida joylashgan chandiq to'qimasi topilishi"
+   ],
+   "x": "«surtmada hujayra ichida joylashgan amastigotalar qidiriladi, ularning topilishi tashxisni tasdiqlaydi»"
+  },
+  {
+   "q": "Antroponoz shaklda teri sinamasi qachon musbat bo'ladi?",
+   "c": "kasallik boshlanganidan 6 oy o'tgach",
+   "w": [
+    "kasallik boshlanganidan 2 oy o'tgach",
+    "kasallik boshlanganidan 6–8 kun o'tgach",
+    "kasallik boshlanganidan 1–3 hafta o'tgach",
+    "kasallik boshlanishidan oldin"
+   ],
+   "x": "«antroponoz shaklda teri sinamasi kasallik boshlanganidan 6 oy o'tgach, zoonoz shaklda esa 2 oydan keyin musbat bo'lishi»"
+  },
+  {
+   "q": "Serologik testlar teri leyshmaniozida qanday ahamiyatga ega?",
+   "c": "teri shaklida yordam bermaydi, visseral shakl uchun foydali",
+   "w": [
+    "teri leyshmaniozini tashxislashda asosiy usul hisoblanadi",
+    "visseral shaklda yordam bermaydi, teri shakli uchun foydali",
+    "ikkala shaklda ham tashxisni to'liq tasdiqlaydi",
+    "faqat zoonoz shaklni antroponozdan ajratadi"
+   ],
+   "x": "«leyshmaniyaga qarshi antitelalarni aniqlovchi serologik testlar teri leyshmaniozini tashxislashda yordam bermasligi, ular asosan visseral shakl uchun foydali ekani»"
+  },
+  {
+   "q": "Teri leyshmaniozida yara chandiqlari qanday ahamiyatga ega?",
+   "c": "tashxisning qo'shimcha belgisi, laboratoriya tasdig'ini almashtirmaydi",
+   "w": [
+    "tashxisning asosiy belgisi, laboratoriya tasdig'ini almashtiradi",
+    "tashxisni tasdiqlovchi yagona belgi, surtmani almashtiradi",
+    "qiyosiy tashxis belgisi, ahamiyatsiz hisoblanadi",
+    "serologik tasdiq o'rnini bosadi, surtma talab qilinmaydi"
+   ],
+   "x": "«Shu sababli chandiqning joylashuvi va ko'rinishi tashxisning qo'shimcha belgisi bo'lib xizmat qiladi, ammo laboratoriya tasdig'ini almashtirmaydi»"
+  },
+  {
+   "q": "Teri leyshmaniozi gumon qilingan bemorlardan olingan surtmalarning qancha qismi parazitologiya laboratoriyasiga yuboriladi?",
+   "c": "manfiy natijali namunalarning 10 foizi, musbat va shubhali namunalarning 100 foizi",
+   "w": [
+    "manfiy natijali namunalarning 100 foizi, musbat namunalarning 10 foizi",
+    "barcha namunalarning 10 foizi, shubhali namunalarning 100 foizi",
+    "musbat namunalarning 10 foizi, shubhali namunalarning 100 foizi",
+    "manfiy namunalarning 10 foizi, musbat namunalarning 50 foizi"
+   ],
+   "x": "«Yo'riqnomada barcha manfiy natijali surtma namunalarining 10 foizi hamda musbat va shubhali namunalarning 100 foizi yuborilishi belgilangan»"
+  },
+  {
+   "q": "JSST ta'rifiga ko'ra teri leyshmaniozi holati qanday shaxs hisoblanadi?",
+   "c": "klinik belgilari bor, musbat surtma yoki kultura bilan tasdiqlangan",
+   "w": [
+    "klinik belgilari bor, teri sinamasi musbat",
+    "klinik belgilari yo'q, musbat surtma yoki kultura bor",
+    "klinik belgilari bor, serologik test musbat",
+    "klinik belgilari bor, chandiq va endemik hudud bor"
+   ],
+   "x": "«teri leyshmaniozi holati klinik belgilar bo'lib, parazitologik tasdiq (musbat surtma yoki kultura) mavjud bo'lgan shaxs sifatida baholanishi»"
+  },
+  {
+   "q": "Rus tilidagi standartda teri leyshmaniozida davolash muddati va dispanser kuzatuvi haqida nima deyiladi?",
+   "c": "davolash 21 kun, dispanser kuzatuvi talab qilinmaydi",
+   "w": [
+    "davolash 28–30 kun, dispanser kuzatuvi uch yil talab qilinadi",
+    "davolash 14 kun, dispanser kuzatuvi bir yil talab qilinadi",
+    "davolash 21 kun, dispanser kuzatuvi uch yil talab qilinadi",
+    "davolash 28–30 kun, dispanser kuzatuvi talab qilinmaydi"
+   ],
+   "x": "«Rus tilidagi standartda davolash muddati 21 kun, turg'un immunitet shakllangani uchun dispanser kuzatuvi talab qilinmasligi»"
+  },
+  {
+   "q": "Laboratoriya tasdig'i bo'lgan holatlarda aniq davolash qancha vaqt ichida boshlanishi kerak?",
+   "c": "24 soat ichida",
+   "w": [
+    "3–6 soat ichida",
+    "6–12 soat ichida",
+    "21 kun ichida",
+    "28–30 kun ichida"
+   ],
+   "x": "«laboratoriya tasdig'i bo'lgan holatlarda aniq davolash 24 soat ichida boshlanishi»"
+  }
+ ]
+}
