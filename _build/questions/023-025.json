@@ -1,0 +1,338 @@
+{
+ "023": [
+  {
+   "q": "Bezgak tashxisi qaysi uch bosqichli mantiqqa tayanadi?",
+   "c": "klinik shubha, anamnez ma'lumotlari va mikroskopik topish",
+   "w": [
+    "klinik shubha, xabarnoma berish va dispanser kuzatuvi",
+    "geografik anamnez, davolash va qaytalanishning oldini olish",
+    "isitma, titroq va terlash fazalarini aniqlash",
+    "mikroskopiya, shoshilinch xabarnoma va epidemiologik tekshiruv"
+   ],
+   "x": "«kasallikka klinik shubha, epidemiologik va geografik anamnez ma'lumotlari hamda qon preparatlarida qo'zg'atuvchini mikroskopik topish»"
+  },
+  {
+   "q": "38 °C dan yuqori isitma bezgakda qanday belgi hisoblanadi?",
+   "c": "bezgakning eng doimiy belgisi",
+   "w": [
+    "tropik bezgakka xos, uch kunlik bezgakda uchramaydigan belgi",
+    "titroq va terlash fazalariga bog'liq bo'lmagan belgi",
+    "faqat uch kunlik bezgakning kechki ko'rinishidagi belgi",
+    "tashxisni tasdiqlovchi yagona laborator belgi"
+   ],
+   "x": "«38 °C dan yuqori isitma bezgakning eng doimiy belgisidir»"
+  },
+  {
+   "q": "Tropik bezgak nima uchun mim-kasallik deb ataladi?",
+   "c": "birinchi o'ringa ichki a'zolar va markaziy nerv tizimi zararlanishi belgilari chiqadi",
+   "w": [
+    "titroq, isitma va terlash fazalarining aniq ketma-ketligi namoyon bo'ladi",
+    "uch kunlik bezgakdagi kabi isitma paroksizmlari boshidanoq shakllanadi",
+    "xuruj 4–8 soat davom etib, bemor kasallik boshlangan paytni aytib beradi",
+    "bezgakka xos isitma doimo kuzatilib, titroq va terlash yaqqol bo'ladi"
+   ],
+   "x": "«birinchi o'ringa ichki a'zolar (avval ichak va o'pka, keyin jigar) hamda markaziy nerv tizimi zararlanishi belgilari chiqadi»"
+  },
+  {
+   "q": "Qon bezgakka qaysi hollarda darhol tekshiriladi?",
+   "c": "titroq bilan davriy isitma yoki to'rt kun va undan ortiq to'xtamaydigan isitma",
+   "w": [
+    "rinit, otit yoki tonzillit kabi umumiy belgilar uch kun ichida boshlangan bo'lsa",
+    "isitma bilan kechadigan umumiy belgilar har bir shikoyatda bo'lsa",
+    "bemorning har bir shikoyati uchun, aniq ko'rsatmalarsiz buyurilsa",
+    "isitma uch kun ichida boshlangan va tashxis qo'yilgan bo'lsa"
+   ],
+   "x": "«qon darhol tekshiriladi, agar titroq bilan davriy isitma bo'lsa yoki to'rt kun va undan ortiq davom etgan isitma qo'yilgan tashxisga muvofiq davolashga qaramay to'xtamasa»"
+  },
+  {
+   "q": "Mikroskopiyaning salbiy tomonlari qaysilar?",
+   "c": "ko'p mehnat va vaqt talab qilishi, natija kamida 30 daqiqadan keyin tayyor bo'lishi",
+   "w": [
+    "sezgirligi past bo'lishi va qo'zg'atuvchi turi haqida ma'lumot bermasligi",
+    "arzon bo'lmasligi va faqat tropik bezgakni aniqlashi",
+    "arzon bo'lishi va tur hamda rivojlanish bosqichi haqida ma'lumot berishi",
+    "qon olinganidan 3–6 soatdan keyin natija berishi"
+   ],
+   "x": "«uning salbiy tomoni ko'p mehnat va vaqt talab qilishi, natija esa qon olinganidan kamida 30 daqiqadan keyin tayyor bo'lishidir»"
+  },
+  {
+   "q": "Davolash protokoliga ko'ra laboratoriya natijasi 3–6 soatdan ortiq kechiksa, nima qilinadi?",
+   "c": "gumon qilingan bemorga dastlabki to'liq kurs boshlanadi",
+   "w": [
+    "davolash natija chiqquncha kechiktiriladi",
+    "qon preparatlari olinmasdan davolash buyuriladi",
+    "tashxis faqat klinik asosda qo'yilib, qon tekshirilmaydi",
+    "bemor shifoxonadan chiqarilib, dispanser nazoratiga olinadi"
+   ],
+   "x": "«laboratoriya natijasi 3–6 soatdan ortiq kechiksa, gumon qilingan bemorga dastlabki to'liq kursni boshlash mumkinligi»"
+  },
+  {
+   "q": "Tashxis aniqlanguncha gumon holatida tropik bezgakda qaysi davo qo'llanadi?",
+   "c": "artemizinli kombinatsiyalangan davoning birlamchi o'lchami qo'llanadi",
+   "w": [
+    "xlorokin bir kunlik o'lchamda qo'llanadi",
+    "primaxin bilan qaytalanishga qarshi davo o'tkaziladi",
+    "xlorokinning qolgan miqdori davom ettiriladi",
+    "uy sharoitida tibbiy xodim nazoratidagi davo o'tkaziladi"
+   ],
+   "x": "«tropik bezgakda artemizinli kombinatsiyalangan davoning birlamchi o'lchami qo'llanadi»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartasida namoyon bo'lish shakli qanday ko'rsatiladi?",
+   "c": "erta, kech, qaytalangan, parazit tashuvchi",
+   "w": [
+    "uch kunlik, tropik, to'rt kunlik, ovale",
+    "mahalliy, olib kirilgan, ikkilamchi, emlangan",
+    "telefon, faks, elektron pochta, ISEMIZ",
+    "qon olingan, keltirilgan, tekshirilgan, tasdiqlangan"
+   ],
+   "x": "«namoyon bo'lish shakli (erta, kech, qaytalangan, parazit tashuvchi)»"
+  },
+  {
+   "q": "Tropik bezgak qayerda davolanadi?",
+   "c": "faqat shifoxonada",
+   "w": [
+    "uy sharoitida, tibbiy xodim nazorati ostida",
+    "dispanser nazoratisiz, hududiy markazga xabar bermay",
+    "o'choqda epidemiologik tekshiruv o'tkazilmay",
+    "o'choqda epidemiologik tekshiruvsiz"
+   ],
+   "x": "«tropik bezgak esa faqat shifoxonada davolanadi»"
+  },
+  {
+   "q": "Tropik bezgakka shubha bo'lsa, davolash qanday boshlanadi?",
+   "c": "tasdiqni kutmasdan boshlanadi",
+   "w": [
+    "mikroskopiya natijasi chiqqandan keyin boshlanadi",
+    "serologik tasdiqdan keyin boshlanadi",
+    "uch kunlik bezgakka o'xshatilib boshlanadi",
+    "ikkinchi marta tekshirilgandan keyin boshlanadi"
+   ],
+   "x": "«Tropik bezgakka shubha bo'lsa, davolash tasdiqni kutmasdan boshlanadi»"
+  }
+ ],
+ "024": [
+  {
+   "q": "Immunoxromatografik tezkor testlar plazmodiylarning qaysi antigenlarini aniqlaydi?",
+   "c": "gistidinga boy oqsil-2, laktatdegidrogenaza yoki aldolaza antigenlarini",
+   "w": [
+    "plazmodiylarga qarshi antitanachalarni",
+    "nuklein kislotalarni doimiy haroratda ko'paytirish orqali DNKni",
+    "kelch13 mutatsiyalarini va dori chidamliligi markerlarini",
+    "qalin tomchi va yupqa surtmadagi parazitlar sonini"
+   ],
+   "x": "«Tezkor diagnostik testlar plazmodiylarning gistidinga boy oqsil-2 (HRP2), laktatdegidrogenaza (pLDH) yoki aldolaza antigenlarini kapillyar qon tomchisida aniqlaydi»"
+  },
+  {
+   "q": "Tezkor testlar natijani qancha vaqtda beradi?",
+   "c": "15–20 daqiqada natija beradi",
+   "w": [
+    "kamida yarim soatdan keyin natija beradi",
+    "3–6 soatdan keyin natija beradi",
+    "24 soat ichida natija beradi",
+    "bir necha kundan keyin natija beradi"
+   ],
+   "x": "«ular 15–20 daqiqada natija beradi»"
+  },
+  {
+   "q": "HRP2 antigeniga asoslangan testlar qaysi tur uchun xos?",
+   "c": "P. falciparum uchun xos",
+   "w": [
+    "P. malariae uchun xos",
+    "P. knowlesi uchun xos",
+    "barcha turlar uchun bir xil",
+    "pLDH va aldolaza uchun xos"
+   ],
+   "x": "«HRP2 antigeniga asoslangan testlar P. falciparum uchun xos bo'lsa, pLDH va aldolaza antigenlari boshqa turlarni ham qamrab olishi mumkin»"
+  },
+  {
+   "q": "Tezkor test parazitemiya darajasini qanday ko'rsatadi?",
+   "c": "miqdoriy ko'rsatmaydi",
+   "w": [
+    "miqdoriy aniq ko'rsatadi",
+    "davolash samaradorligini baholab beradi",
+    "leykotsitlarga nisbatan hisoblab beradi",
+    "yupqa surtmadagi kabi ko'rsatadi"
+   ],
+   "x": "«Tezkor test parazitemiya darajasini miqdoriy ko'rsatmaydi»"
+  },
+  {
+   "q": "Polimeraza zanjir reaksiyasi (PZR) qaysi xususiyati bilan ahamiyatli?",
+   "c": "mikroskopiyada ko'rinmaydigan juda past parazitemiyada ham natija beradi",
+   "w": [
+    "murakkab termotsikler talab qilmaydi",
+    "antitanachalarni aniqlab, o'tgan zararlanishni ko'rsatadi",
+    "kapillyar qon tomchisida 15–20 daqiqada natija beradi",
+    "elektr energiyasi va mikroskop talab qilmaydi"
+   ],
+   "x": "«Bu usul mikroskopiyada ko'rinmaydigan juda past parazitemiyada ham natija berishi bilan ahamiyatli»"
+  },
+  {
+   "q": "Izotermik amplifikatsiya (LAMP) PZRdan farqli ravishda nimani talab qilmaydi?",
+   "c": "murakkab termotsikler",
+   "w": [
+    "doimiy haroratda ko'paytirishni",
+    "nuklein kislotalarni",
+    "sodda uskunalarni",
+    "dala sharoitiga moslashtirishni"
+   ],
+   "x": "«PZRdan farqli ravishda murakkab termotsikler talab qilmaydi»"
+  },
+  {
+   "q": "Serologik usullar nima uchun o'tkir bezgak tashxisida yaroqsiz?",
+   "c": "antitanachalar infeksiyadan keyin ham uzoq saqlanadi",
+   "w": [
+    "parazitemiya darajasini miqdoriy aniqlay olmaydi",
+    "elektr energiyasi va mikroskop talab qiladi",
+    "maxsus qimmat jihozlar talab qiladi",
+    "gametotsitlarni mikroskopda ko'rsata olmaydi"
+   ],
+   "x": "«Antitanachalar infeksiyadan keyin ham uzoq saqlanib qolgani uchun bu usullar o'tkir bezgak tashxisida yaroqsiz»"
+  },
+  {
+   "q": "Molekulyar usullar qanday tashuvchilarni aniqlashda ahamiyatli?",
+   "c": "belgisiz kechadigan va parazitemiyasi past tashuvchilarni",
+   "w": [
+    "mikroskopiyada aniq ko'rinadigan parazitemiyali tashuvchilarni",
+    "isitma bilan kechadigan, tibbiy yordamga murojaat qiladigan tashuvchilarni",
+    "davolangan va gametotsitlari yo'q tashuvchilarni",
+    "qon topshirishdan oldin tekshirilgan donor tashuvchilarni"
+   ],
+   "x": "«Molekulyar usullar belgisiz kechadigan va parazitemiyasi past bo'lgan tashuvchilarni aniqlashda ahamiyatlidir»"
+  },
+  {
+   "q": "JSST tavsiyalariga ko'ra klinik amaliyotda qaysi usullar birlamchi usullar bo'lib qoladi?",
+   "c": "mikroskopiya va tezkor testlar",
+   "w": [
+    "PZR va LAMP",
+    "serologik usullar va PZR",
+    "LAMP va serologik tahlil",
+    "PZR va tezkor testlar"
+   ],
+   "x": "«klinik amaliyotda mikroskopiya va tezkor testlar birlamchi usullar bo'lib qoladi, PZR esa ma'lumot laboratoriyalarida tasdiqlash va sifat nazorati uchun ishlatiladi»"
+  },
+  {
+   "q": "Zamonaviy usullar orasida mikroskopiya qaysi imkoniyatni saqlab qoladi?",
+   "c": "parazitemiyani miqdoriy baholash va davolash samaradorligini kuzatish",
+   "w": [
+    "faqat tezlik va murakkab uskunasiz natija olishni",
+    "antitanachalarni aniqlab o'tgan zararlanishni ko'rsatishni",
+    "nuklein kislotalarni doimiy haroratda ko'paytirishni",
+    "qo'zg'atuvchi turlarini molekulyar usulda ajratishni"
+   ],
+   "x": "«qalin tomchi va yupqa surtma mikroskopiyasi parazitemiyani miqdoriy baholash va davolash samaradorligini kuzatish imkonini berib»"
+  }
+ ],
+ "025": [
+  {
+   "q": "Bezgak tashxisining ekspress-usuli deganda nima tushuniladi?",
+   "c": "kapillyar qon tomchisida plazmodiy antigenlarini aniqlaydigan tezkor testlar",
+   "w": [
+    "qalin tomchi va yupqa surtma mikroskopiyasi yordamida parazitni topish",
+    "qon preparatini bo'yash va mikroskopda ko'rish orqali tashxis qo'yish",
+    "preparat tayyorlab, plazmodiy turini aniqlash va parazitlarni sanash",
+    "mikroskopiya imkoni cheklangan sharoitda qalin tomchini tayyorlash usuli"
+   ],
+   "x": "«Bezgak tashxisining ekspress-usuli deganda kapillyar qon tomchisida plazmodiy antigenlarini aniqlaydigan immunoxromatografik tezkor diagnostik testlar tushuniladi»"
+  },
+  {
+   "q": "Ekspress-usulning asosiy g'oyasi qaysi bosqichlarni chetlab o'tishdir?",
+   "c": "qon preparatini tayyorlash, bo'yash va ko'rish bosqichlarini",
+   "w": [
+    "kapillyar qon olish va reaktiv bilan aralashtirish bosqichlarini",
+    "natijani talqin qilish va chiziqlar sonini baholash bosqichini",
+    "antigenlarni aniqlash va natijani rasmiylashtirish bosqichlarini",
+    "tashxisni tasdiqlash va davolashni boshlash bosqichlarini"
+   ],
+   "x": "«Usulning asosiy g'oyasi qon preparatini tayyorlash, bo'yash va ko'p vaqt talab qiladigan ko'rish bosqichlarini chetlab o'tishdir»"
+  },
+  {
+   "q": "Ekspress-usulning birinchi afzalligi nima?",
+   "c": "natijaning 15–20 daqiqada olinishi",
+   "w": [
+    "natijaning parazitemiyani miqdoriy ko'rsatishi",
+    "turlarning to'liq ajratilishi",
+    "HRP2 antigenining davolashdan keyin yo'qolishi",
+    "uzoq tayyorgarlikni talab qilishi"
+   ],
+   "x": "«Ekspress-usulning birinchi afzalligi natijaning 15–20 daqiqada olinishidir»"
+  },
+  {
+   "q": "Ekspress-usulning ikkinchi afzalligi nima?",
+   "c": "natijani talqin qilishning nisbatan soddaligi",
+   "w": [
+    "parazitemiyani miqdoriy aniqlashi",
+    "turlarni to'liq ajratishi",
+    "parazitlar sonini aniq sanashi",
+    "hrp2 va hrp3 genlari bilan bog'liq sezgirligi"
+   ],
+   "x": "«Ikkinchi afzallik natijani talqin qilishning nisbatan soddaligi»"
+  },
+  {
+   "q": "Ekspress-usulning eng muhim kamchiligi nima?",
+   "c": "parazitemiyani miqdoriy aniqlamasligi",
+   "w": [
+    "natijani 15–20 daqiqada berishi",
+    "elektr energiyasi talab qilishi",
+    "mikroskop talab qilishi",
+    "natijani talqin qilish murakkabligi"
+   ],
+   "x": "«Eng muhim kamchilik shuki, tezkor test parazitemiyani miqdoriy aniqlamaydi»"
+  },
+  {
+   "q": "HRP2 antigeni davolashdan keyin qanday xususiyat ko'rsatadi?",
+   "c": "bir necha hafta saqlanib qolib, yolg'on ijobiy natija berishi mumkin",
+   "w": [
+    "darhol yo'qolib, yolg'on salbiy natija beradi",
+    "bir necha daqiqada yo'qolib, natijani o'zgartirmaydi",
+    "parazitlar bilan birga yo'qolib, davolash nazoratiga yaraydi",
+    "saqlanib qolib, yolg'on salbiy natija beradi"
+   ],
+   "x": "«HRP2 antigeni parazitlar qondan yo'qolganidan keyin ham bir necha hafta saqlanib qoladi, natijada davolashdan keyin yolg'on ijobiy natija olinishi mumkin»"
+  },
+  {
+   "q": "hrp2 va hrp3 genlarining delesiyasi bilan bog'liq cheklov nimadan iborat?",
+   "c": "bu genlari yo'q shtammlarda yolg'on salbiy natija beradi",
+   "w": [
+    "bu genlari yo'q shtammlarda yolg'on ijobiy natija beradi",
+    "bu genlari yo'q shtammlarda parazitemiyani miqdoriy aniqlaydi",
+    "bu genlari yo'q shtammlarda turlarni to'liq ajratadi",
+    "bu genlari yo'q shtammlarda prozona effekti kuchayadi"
+   ],
+   "x": "«ayrim hududlarda bu genlari yo'q P. falciparum shtammlari tarqalgan, ular HRP2 testida yolg'on salbiy natija beradi»"
+  },
+  {
+   "q": "Tezkor testlarda qaysi turlar ko'pincha bitta umumiy chiziq bilan ko'rsatiladi?",
+   "c": "P. vivax, P. ovale, P. malariae va P. knowlesi",
+   "w": [
+    "P. falciparum, P. vivax va P. ovale",
+    "P. falciparum, P. malariae va P. knowlesi",
+    "P. falciparum va P. vivax",
+    "P. ovale, P. knowlesi va P. falciparum"
+   ],
+   "x": "«P. vivax, P. ovale, P. malariae va P. knowlesi ko'pincha bitta umumiy chiziq bilan ko'rsatiladi»"
+  },
+  {
+   "q": "Prozona effekti nimadan iborat?",
+   "c": "juda yuqori parazitemiyada antigen ortiqchaligi natijani buzadi",
+   "w": [
+    "past parazitemiyada antigen yetishmasligi natijani buzadi",
+    "yuqori haroratda saqlashda reaktiv natijani buzadi",
+    "genlar delesiyasi natijani buzadi",
+    "HRP2 antigeni davolashdan keyin natijani buzadi"
+   ],
+   "x": "«Juda yuqori parazitemiyada prozona effekti kuzatilishi mumkin, ya'ni antigen ortiqchaligi natijani buzadi»"
+  },
+  {
+   "q": "Klinik shubha saqlanib qolsa, salbiy tezkor test natijasi nima yordamida qayta tekshiriladi?",
+   "c": "qalin tomchi va yupqa surtma mikroskopiyasi yordamida",
+   "w": [
+    "tezkor testni bir necha marta qayta takrorlash yordamida",
+    "HRP2 antigenini kapillyar qonda qayta aniqlash yordamida",
+    "kapillyar qon tomchisida aldolaza aniqlash yordamida",
+    "boshqa ishlab chiqaruvchining tezkor testi yordamida"
+   ],
+   "x": "«Klinik shubha saqlanib qolsa, salbiy test natijasi ham qalin tomchi va yupqa surtma mikroskopiyasi bilan qayta tekshiriladi»"
+  }
+ ]
+}

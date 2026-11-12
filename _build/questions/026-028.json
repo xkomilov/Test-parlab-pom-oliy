@@ -1,0 +1,338 @@
+{
+ "026": [
+  {
+   "q": "Qonda saqlanib qolgan parazitlar ko'payishidan kelib chiqqan qaytalanish JSST terminologiyasida qanday ataladi?",
+   "c": "rekrudessensiya deb ataladi",
+   "w": [
+    "relaps deb ataladi",
+    "qayta zararlanish deb ataladi",
+    "gipnozoit deb ataladi",
+    "taxisporozoit deb ataladi"
+   ],
+   "x": "«birinchisi relaps, ikkinchisi rekrudessensiya, yangi chivin chaqishi tufayli kasallanish esa qayta zararlanish deb ataladi»"
+  },
+  {
+   "q": "Bradisporozoitlar jigarda qancha vaqt mudroq holatda saqlanadi?",
+   "c": "bir necha oydan ikki yil va undan ko'proq vaqt",
+   "w": [
+    "darhol, to'qima shizogoniyasini boshlab",
+    "isitma tugagandan keyin uch oy ichida",
+    "6 haftagacha, to'rt kunlik bezgakda",
+    "faqat taxisporozoitlar uchun 7–14 oy"
+   ],
+   "x": "«jigarda uzoq muddat, bir necha oydan ikki yil va undan ko'proq vaqt davomida mudroq holatda saqlanadi (bradisporozoitlar)»"
+  },
+  {
+   "q": "Gipnozoitlar mikroskopiya bilan nima uchun aniqlanmaydi?",
+   "c": "jigarda joylashadi, qonda parazit bo'lmaydi",
+   "w": [
+    "eritrotsitlarda parazitemiya to'xtamagani sababli",
+    "eritrotsitlarda pigmentsiz bo'lishi sababli",
+    "pirogenlik bo'sag'asidan past bo'lgani sababli",
+    "parazitemiya aniqlash bo'sag'asidan pastligi sababli"
+   ],
+   "x": "«chunki qonda parazit bo'lmaydi»"
+  },
+  {
+   "q": "Eritrotsitar qaytalanish nimalar natijasida yuzaga keladi?",
+   "c": "immunitetning to'liq rivojlanmaganligi va davolash sifatining pastligi",
+   "w": [
+    "parazitning ichki dasturi va gipnozoitning faollashishi",
+    "qisqa yashirin davrdan keyingi taxisporozoitlar rivojlanishi",
+    "yangi chivin chaqishi tufayli qayta zararlanish",
+    "bradisporozoitlarning jigarda 7–14 oy mudroq bo'lishi"
+   ],
+   "x": "«bunday qaytalanish immunitetning to'liq rivojlanmaganligi va davolash sifatining pastligi natijasida yuzaga keladi»"
+  },
+  {
+   "q": "Tropik va to'rt kunlik bezgakda qaytalanish qaysi mexanizm orqali yuz beradi?",
+   "c": "faqat eritrotsitar mexanizm orqali",
+   "w": [
+    "ekzoeritrotsitar mexanizm orqali",
+    "gipnozoitlar faollashishi orqali",
+    "taxisporozoitlar rivojlanishi orqali",
+    "yangi chivin chaqishi orqali"
+   ],
+   "x": "«Qaytalanish bunda faqat eritrotsitar mexanizm bilan yuz beradi»"
+  },
+  {
+   "q": "Rekrudessensiya nima?",
+   "c": "qonda qolgan aseksual shakllar ko'payib, xurujni qaytarishi",
+   "w": [
+    "jigardagi gipnozoitlar faollashib, qaytalanish berishi",
+    "yangi chivin chaqishi tufayli qayta kasallanish",
+    "ikkala turdagi sporozoitning birga yuqishi",
+    "taxisporozoitlarning darhol shizogoniya boshlashi"
+   ],
+   "x": "«preparatga chidamlilik yoki to'liq bo'lmagan davolash bois qonda qolgan aseksual shakllar ko'payib, xurujni qaytarsa, bu holat rekrudessensiya deb ataladi»"
+  },
+  {
+   "q": "Shimoliy Yevro-Osiyo zonasida qaysi bezgak asosan tarqalgan?",
+   "c": "asosan uzoq yashirin davrga ega uch kunlik bezgak",
+   "w": [
+    "taxi- va bradisporozoitlar turli nisbatda uchraydigan bezgak",
+    "qisqa yashirin davrli tropik bezgak",
+    "ekzoeritrotsitar qaytalanishlar bo'lmaydigan bezgak",
+    "bimodal taqsimot hosil qiladigan bezgak"
+   ],
+   "x": "«Shimoliy Yevro-Osiyo zonasida asosan uzoq yashirin davrga ega uch kunlik bezgak tarqalgan»"
+  },
+  {
+   "q": "O'zbekistonda shimoldan janubga tomon uzoq yashirin davr bilan kechadigan bezgak ulushi qanday o'zgaradi?",
+   "c": "uzoq yashirin davr bilan kechadigan bezgak ulushi kamayib boradi",
+   "w": [
+    "uzoq yashirin davr bilan kechadigan bezgak ulushi oshib boradi",
+    "qisqa yashirin davrli tropik bezgak ulushi oshib boradi",
+    "ekzoeritrotsitar qaytalanishlar ulushi o'zgarmaydi",
+    "bradisporozoitlar bilan bog'liq holatlar yo'qoladi"
+   ],
+   "x": "«shimoldan janubga tomon uzoq yashirin davr bilan kechadigan bezgak ulushi kamayib boradi»"
+  },
+  {
+   "q": "Uch kunlik bezgakda xlorokindan keyin gistoshizotrop preparat primaxin necha kun davomida beriladi?",
+   "c": "14 kun davomida",
+   "w": [
+    "8 hafta davomida",
+    "uch yil davomida",
+    "uch oy davomida",
+    "bir yil davomida"
+   ],
+   "x": "«uch kunlik bezgakda qondagi shakllarga qarshi xlorokindan keyin gistoshizotrop preparat primaxin 14 kun davomida beriladi»"
+  },
+  {
+   "q": "Primaxinni 14 kundan kam qabul qilish nimaga olib keladi?",
+   "c": "retsidivlarga olib keladi",
+   "w": [
+    "to'liq sog'ayishga olib keladi",
+    "parazit jigar hujayralaridan tozalanishiga olib keladi",
+    "uzoq inkubatsiyani to'xtatishga olib keladi",
+    "radikal davolash zaruriyatini yo'qotishga olib keladi"
+   ],
+   "x": "«Primaxinni 14 kundan kam qabul qilish retsidivlarga olib kelishi»"
+  }
+ ],
+ "027": [
+  {
+   "q": "Bezgakning qaysi nozologik shakllarida jigarda uyquga ketadigan shakl hosil bo'ladi?",
+   "c": "uch kunlik bezgak va ovale-bezgak",
+   "w": [
+    "tropik bezgak va to'rt kunlik bezgak",
+    "tropik bezgak va ovale-bezgak",
+    "uch kunlik va to'rt kunlik bezgak",
+    "to'rt kunlik bezgak va ovale-bezgak"
+   ],
+   "x": "«Jigarda uyquga ketadigan shakl uch kunlik bezgak qo'zg'atuvchisi Plasmodium vivax va ovale-bezgak qo'zg'atuvchisi Plasmodium ovale uchun xos»"
+  },
+  {
+   "q": "P. malariae va P. falciparum sporozoitlari jigarga tushgach nima qiladi?",
+   "c": "rivojlanishni darhol boshlaydi",
+   "w": [
+    "jigarda uzoq muddat mudroq holatda saqlanadi",
+    "7–14 oy gepatotsitlarda mudroq bo'ladi",
+    "jigarda bradisporozoitlar hosil qiladi",
+    "uzoq inkubatsiya va kech retsidivlarni belgilaydi"
+   ],
+   "x": "«P. malariae va P. falciparum sporozoitlari jigarga tushishi bilan rivojlanishni darhol boshlaydi»"
+  },
+  {
+   "q": "Tropik va to'rt kunlik bezgakda parazitlarning qondan yo'qolishi nimani bildiradi?",
+   "c": "sog'ayganlikni bildiradi",
+   "w": [
+    "gipnozoitlar jigarda qolganini bildiradi",
+    "kechki retsidiv xavfini bildiradi",
+    "radikal davolash zarurligini bildiradi",
+    "uzoq inkubatsiyani bildiradi"
+   ],
+   "x": "«ularning yo'qolishi sog'ayganlikni bildiradi»"
+  },
+  {
+   "q": "P. ovale qaysi ikki yaqin turdan iborat?",
+   "c": "P. ovale curtisi va P. ovale wallikeri",
+   "w": [
+    "P. vivax va P. cynomolgi",
+    "P. malariae va P. falciparum",
+    "P. ovale curtisi va P. cynomolgi",
+    "P. vivax curtisi va P. ovale wallikeri"
+   ],
+   "x": "«P. ovale ikki yaqin turdan, P. ovale curtisi va P. ovale wallikeri dan iboratligini»"
+  },
+  {
+   "q": "Qaysi maymunlar bezgagi qo'zg'atuvchisi gipnozoit hosil qilishi aniqlangan va biologiyani o'rganishda model sifatida ishlatiladi?",
+   "c": "P. cynomolgi",
+   "w": [
+    "P. malariae",
+    "P. falciparum",
+    "P. vivax va P. malariae",
+    "P. falciparum va P. malariae"
+   ],
+   "x": "«Maymunlar bezgagining qo'zg'atuvchisi P. cynomolgi esa, aksincha, gipnozoit hosil qilishi aniqlangan va bu shakl biologiyasini o'rganishda model sifatida ishlatiladi»"
+  },
+  {
+   "q": "Jigarda mudroq holat qancha davom etishi mumkin?",
+   "c": "7–14 oy va undan ko'proq davom etadi",
+   "w": [
+    "6 haftagacha davom etadi",
+    "15–45 daqiqa davom etadi",
+    "6–15 sutkadan 3 haftagacha davom etadi",
+    "bir necha soat davom etadi"
+   ],
+   "x": "«jigarda mudroq holat 7–14 oy va undan ko'proq davom etishi mumkinligi»"
+  },
+  {
+   "q": "Tropik shtammlarda relapslar qanday oraliqlarda yuz beradi?",
+   "c": "qisqa oraliqlarda yuz beradi",
+   "w": [
+    "uzoq oraliqlarda yuz beradi",
+    "faqat qishda yuz beradi",
+    "yuqish mavsumi tugagach yuz beradi",
+    "bir yildan keyin yuz beradi"
+   ],
+   "x": "«Tropik shtammlarda relapslar tez-tez va qisqa oraliqlarda, mo''tadil iqlim shtammlarida esa uzoq oraliqlarda yuz beradi»"
+  },
+  {
+   "q": "P. vivax tizimining juda keng tarqalishi qaysi uchta sababga bog'langan?",
+   "c": "past haroratda rivojlanishi, polimorfizm va persistent gipnozoitlar",
+   "w": [
+    "yuqori haroratda rivojlanishi, monomorfizm va qisqa yashirin davr",
+    "chivin organizmida past haroratda rivojlana olmasligi va gipnozoitlarning yo'qligi",
+    "bradisporozoitlarning yo'qligi va qisqa oraliqli relapslar",
+    "jigar bosqichining yo'qligi va tropik shtammlar"
+   ],
+   "x": "«qo'zg'atuvchi chivin organizmida nisbatan past haroratda rivojlanishi, vivaxga xos polimorfizm va odam organizmida uzoq saqlanishini ta'minlovchi persistent gipnozoitlar»"
+  },
+  {
+   "q": "Qon quyish yoki asbob orqali yuqqan (shizontli) uch kunlik bezgakda primaxin nima uchun buyurilmaydi?",
+   "c": "jigar bosqichi bo'lmaganligi sababli",
+   "w": [
+    "G6FD qisman tanqis bo'lgani sababli",
+    "homiladorlik va laktatsiya sababli",
+    "dozasi kuniga 0,25 mg/kg bo'lgani sababli",
+    "14 kundan kam qabul qilinishi sababli"
+   ],
+   "x": "«Qon quyish yoki asbob orqali yuqqan (shizontli) uch kunlik va ovale bezgakda jigar bosqichi bo'lmagani sababli primaxin buyurilmaydi»"
+  },
+  {
+   "q": "G6FD qisman tanqis bo'lganda primaxin qanday tavsiya etiladi?",
+   "c": "haftada bir marta 8 hafta davomida",
+   "w": [
+    "kuniga bir marta 14 kun davomida",
+    "haftada bir marta 14 hafta davomida",
+    "kuniga ikki marta 8 hafta davomida",
+    "homiladorlikda 8 hafta davomida"
+   ],
+   "x": "«G6FD qisman tanqis bo'lganda 0,45 mg/kg haftada bir marta 8 hafta tavsiya etiladi»"
+  }
+ ],
+ "028": [
+  {
+   "q": "Bezgak o'chog'i nimadan iborat?",
+   "c": "aholi punkti va unga tutash anofelogen suv havzalaridan",
+   "w": [
+    "bemor yashaydigan uy va shifoxonadan",
+    "aholi punkti va 3 km radiusdagi barcha uylardan",
+    "bemor yashaydigan uy va maktabgacha ta'lim muassasalaridan",
+    "aholi punktining maydoni va rasmiy maqomidan"
+   ],
+   "x": "«Bezgak o'chog'i aholi punkti va unga tutash anofelogen suv havzalaridan iborat bo'lib»"
+  },
+  {
+   "q": "Bemor haqida ma'lumot olingan kuni parazitolog va entomolog nima qilishga majbur?",
+   "c": "o'choqda epidemiologik va entomologik tekshiruv o'tkazishga",
+   "w": [
+    "uyma-uy yurib, isitmali bemorlardan qalin tomchi olishga",
+    "kontaktlar bilan 21 kun tibbiy kuzatuv olib borishga",
+    "xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berishga",
+    "yakuniy ma'lumotni 7 kun ichida topshirishga"
+   ],
+   "x": "«shahar yoki tuman sanitariya-epidemiologiya markazining parazitologi va entomologi o'choqda epidemiologik va entomologik tekshiruv o'tkazishga majbur»"
+  },
+  {
+   "q": "Bezgak holati aniqlanganda oldindan beriladigan ma'lumot qanday muddatlarda taqdim etiladi?",
+   "c": "12 soat ichida telefon orqali va 24 soat ichida yozma shaklda",
+   "w": [
+    "24 soat ichida telefon orqali va 12 soat ichida yozma shaklda",
+    "12 soat ichida yozma shaklda va 24 soat ichida telefon orqali",
+    "7 kun ichida telefon orqali va 21 kun ichida yozma shaklda",
+    "12 soat ichida telefon orqali va 7 kun ichida yozma shaklda"
+   ],
+   "x": "«bezgak holati aniqlanganda oldindan beriladigan ma'lumot 12 soat ichida telefon orqali va 24 soat ichida yozma shaklda taqdim etiladi»"
+  },
+  {
+   "q": "Tadbirlar nima uchun mikro-o'choq hududidan 3 km atrofida bajariladi?",
+   "c": "zararlangan chivin sporozoitlar yetilguncha uzoqqa uchib ketishi mumkin",
+   "w": [
+    "aholi punktining maydoni va rasmiy maqomi ahamiyatsiz hisoblanadi",
+    "3 km hududda uyma-uy yurish ikki haftada bir marta o'tkaziladi",
+    "chivinlar faqat tutash anofelogen suv havzalarida yashaydi",
+    "qoldiq ta'sirli insektitsidlar bir necha hafta saqlanadi"
+   ],
+   "x": "«chunki zararlangan chivin sporozoitlarning yetilish davrida o'zi zararlangan joydan uzoqqa uchib ketishi mumkin»"
+  },
+  {
+   "q": "Epidemiologik tekshiruv kartasida o'choq atrofidagi 3 km radiusda nimalar qayd etiladi?",
+   "c": "anofelogen suv havzalari, aholi zichligi va chivin turi, soni va zichligi",
+   "w": [
+    "bemorning davolanish muddati, dori dozasi va dispanser nazorati",
+    "mavsumiy kimyoprofilaktika olganlar soni va o'choq kategoriyasi",
+    "kontaktlar soni, tana harorati va taloq holati",
+    "termometr, buyum oynasi, skarifikator va spirt"
+   ],
+   "x": "«o'choq atrofidagi 3 km radiusda joylashgan anofelogen suv havzalari, aholi zichligi va chivin turi, soni va zichligi qayd etiladi»"
+  },
+  {
+   "q": "Bezgak o'choqlari qanday toifalarga ajratiladi?",
+   "c": "yolg'on, potensial, faol yoki faol bo'lmagan",
+   "w": [
+    "olib kirilgan, mahalliy, emlangan yoki qaytalangan",
+    "erta, kech, qaytalangan yoki parazit tashuvchi",
+    "uch kunlik, tropik, to'rt kunlik yoki ovale",
+    "mahalliy faol, yolg'on, olib kirilgan yoki emlangan"
+   ],
+   "x": "«o'choq esa yolg'on, potensial, faol yoki faol bo'lmagan toifalarga ajratiladi»"
+  },
+  {
+   "q": "O'choqda bemor bilan muloqotda bo'lganlar qancha vaqt tibbiy kuzatuvda bo'ladi?",
+   "c": "21 kun davomida",
+   "w": [
+    "7 kun davomida",
+    "14 kun davomida",
+    "3 yil davomida",
+    "12 soat davomida"
+   ],
+   "x": "«ular bilan 21 kun davomida tibbiy kuzatuv olib borilib»"
+  },
+  {
+   "q": "Uyma-uy yurish uchun hududiy tibbiyot muassasasi qanday brigada tuzadi?",
+   "c": "3 nafar o'rta tibbiy xodim va 1 nafar vrachdan iborat",
+   "w": [
+    "1 nafar o'rta tibbiy xodim va 3 nafar vrachdan iborat",
+    "parazitolog va entomologdan iborat",
+    "infeksionist va oila shifokoridan iborat",
+    "3 nafar entomolog va 1 nafar vrachdan iborat"
+   ],
+   "x": "«hududiy tibbiyot muassasasi 3 nafar o'rta tibbiy xodim va 1 nafar vrachdan iborat brigada tuzadi»"
+  },
+  {
+   "q": "Xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berishda xonadonlarni qamrab olish qancha bo'lishi shart?",
+   "c": "kamida 90–95 %",
+   "w": [
+    "kamida 50 %",
+    "kamida 25 %",
+    "kamida 70 %",
+    "kamida 3 km"
+   ],
+   "x": "«Xonadonlarni qamrab olish kamida 90–95 % bo'lishi shart»"
+  },
+  {
+   "q": "Yakuniy ma'lumot qachon olinishi kerak?",
+   "c": "o'choq tugagandan keyin 7 kundan kechiktirmay",
+   "w": [
+    "o'choq tugagandan keyin 21 kundan kechiktirmay",
+    "bemor aniqlangandan keyin 12 soatdan kechiktirmay",
+    "musbat preparat aniqlangandan keyin 24 soatdan kechiktirmay",
+    "o'choq tugagandan keyin 3 yildan kechiktirmay"
+   ],
+   "x": "«Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirmay olinishi kerak»"
+  }
+ ]
+}
